@@ -1,0 +1,77 @@
+{
+  "name": "Most Bigtech Trackers List",
+  "description": "DNS block list that can be used for AdGuardHome. All sources from HaGeZi's DNS blocklists.",
+  "homepage": "https://github.com/heidayu1/DNS",
+  "license": "GPLv3",
+  "version": "1.0.0.0",
+  "sources": [
+    {
+      "name": "HaGeZi's Huawei Tracker DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "HaGeZi's Apple Tracker DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.apple.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "HaGeZi's Windows/Office Tracker DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "HaGeZi's Samsung Tracker DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.samsung.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "HaGeZi's TikTok Extended Fingerprinting DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "HaGeZi's Xiaomi Tracker DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    }
+  ],
+  "transformations": [
+    "RemoveComments",
+    "Validate",
+    "Deduplicate",
+    "TrimLines",
+    "InsertFinalNewLine",
+    "RemoveEmptyLines"
+  ]
+}
