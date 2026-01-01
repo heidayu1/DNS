@@ -6,6 +6,16 @@
   "version": "1.0.0.0",
   "sources": [
     {
+      "name": "HaGeZi's Amazon Tracker DNS Blocklist",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.amazon.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
       "name": "HaGeZi's Huawei Tracker DNS Blocklist",
       "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt",
       "type": "adblock",
