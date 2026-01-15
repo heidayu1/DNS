@@ -27,7 +27,7 @@
     },
     {
       "name": "EasyPrivacy",
-      "source": "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt",
+      "source": "https://easylist.to/easylist/easyprivacy.txt",
       "type": "adblock",
       "transformations": [
         "RemoveComments",
