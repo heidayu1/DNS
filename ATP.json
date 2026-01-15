@@ -1,0 +1,27 @@
+{
+  "name": "AdGuard Tracking Protection filter",
+  "description": "DNS block list that can be used for AdGuardHome. Source from https://filters.adtidy.org.",
+  "homepage": "https://github.com/heidayu1/DNS",
+  "license": "GPLv3",
+  "version": "1.0.0.0",
+  "sources": [
+    {
+      "name": "AdGuard Tracking Protection filter",
+      "source": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    }
+  ],
+  "transformations": [
+    "RemoveComments",
+    "Validate",
+    "Deduplicate",
+    "TrimLines",
+    "InsertFinalNewLine",
+    "RemoveEmptyLines"
+  ]
+}
