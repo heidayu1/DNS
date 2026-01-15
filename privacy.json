@@ -1,0 +1,47 @@
+{
+  "name": "Privacy Combined",
+  "description": "DNS block list that can be used for AdGuardHome. Source from https://filters.adtidy.org, https://easylist.to/, https://github.com/AdguardTeam/cname-trackers.",
+  "homepage": "https://github.com/heidayu1/DNS",
+  "license": "GPLv3",
+  "version": "1.0.0.0",
+  "sources": [
+    {
+      "name": "AdGuard Tracking Protection filter",
+      "source": "https://raw.githubusercontent.com/heidayu1/DNS/refs/heads/main/ATP.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "AdGuard CNAME disguised trackers list",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "EasyPrivacy",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    }
+  ],
+  "transformations": [
+    "RemoveComments",
+    "Validate",
+    "Deduplicate",
+    "TrimLines",
+    "InsertFinalNewLine",
+    "RemoveEmptyLines"
+  ]
+}
