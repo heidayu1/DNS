@@ -7,7 +7,7 @@
   "sources": [
     {
       "name": "AdGuard Tracking Protection filter",
-      "source": "https://raw.githubusercontent.com/heidayu1/DNS/refs/heads/main/ATP.txt",
+      "source": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
       "type": "adblock",
       "transformations": [
         "RemoveComments",
@@ -38,6 +38,7 @@
   ],
   "transformations": [
     "RemoveComments",
+    "Compress",
     "Validate",
     "Deduplicate",
     "TrimLines",

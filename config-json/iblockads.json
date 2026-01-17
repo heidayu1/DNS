@@ -1,0 +1,30 @@
+{
+  "name": "iblockads",
+  "description": "DNS block list that can be used for AdGuardHome. Source from https://iblockads.net/.",
+  "homepage": "https://github.com/heidayu1/DNS",
+  "license": "GPLv3",
+  "version": "1.0.0.0",
+  "sources": [
+    {
+      "name": "Simple and small list with the most popular advertising, analytics and social advertising services",
+      "source": "https://iblockads.net/src/host.txt",
+      "type": "hosts",
+      "transformations": [
+
+        "Compress",
+        "Validate"
+      ],
+      "exclusions": ["localhost"],
+      "inclusions": ["amazonaws"]
+    }
+  ],
+  "transformations": [
+
+    "Compress",
+    "Validate",
+    "Deduplicate",
+    "TrimLines",
+    "InsertFinalNewLine",
+    "RemoveEmptyLines"
+  ]
+}

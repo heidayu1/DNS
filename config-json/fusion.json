@@ -1,6 +1,6 @@
 {
-  "name": "Fusion",
-  "description": "DNS block list that can be used for AdGuardHome. Source from https://github.com/badmojr/1Hosts, https://filters.adtidy.org, https://easylist.to/, https://github.com/AdguardTeam/cname-trackers.",
+  "name": "AdGuard Fusion",
+  "description": "DNS block list that can be used for AdGuardHome. Source from https://github.com/badmojr/1Hosts, https://github.com/hagezi/dns-blocklists .",
   "homepage": "https://github.com/heidayu1/DNS",
   "license": "GPLv3",
   "version": "1.0.0.0",
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "name": "Privacy",
-      "source": "C:/users/wdagutilityaccount/desktop/dns/privacy.txt",
+      "name": "HaGeZi's Pro Mini",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt",
       "type": "adblock",
       "transformations": [
         "RemoveComments",
@@ -28,6 +28,7 @@
   ],
   "transformations": [
     "RemoveComments",
+    "Compress",
     "Validate",
     "Deduplicate",
     "TrimLines",

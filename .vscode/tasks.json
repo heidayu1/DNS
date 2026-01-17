@@ -1,0 +1,30 @@
+//${file}	Đường dẫn đầy đủ tới file
+//${fileBasename}	Tên file + đuôi (vd: abc.json)
+//${fileBasenameNoExtension}	Tên file KHÔNG có đuôi (vd: abc)
+//${fileDirname}	Thư mục chứa file
+
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Adblock List",
+      "type": "shell",
+      "command": "hostlist-compiler",
+      "args": [
+        "-c",
+        "${file}",
+        "-o",
+        "./blocklist/${fileBasenameNoExtension}.txt"
+      ],
+      "presentation": {
+        "reveal": "always"
+      },
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
+
