@@ -1,6 +1,6 @@
 {
   "name": "Most Bigtech Trackers List",
-  "description": "DNS block list that can be used for AdGuardHome. All sources from HaGeZi's DNS blocklists.",
+  "description": "DNS block list that can be used for AdGuardHome. All sources from HaGeZi's DNS blocklists and one from https://iblockads.net/.",
   "homepage": "https://github.com/heidayu1/DNS",
   "license": "GPLv3",
   "version": "1.0.0.0",
@@ -74,10 +74,21 @@
         "Compress",
         "Validate"
       ]
+    },
+    {
+      "name": "iblockads.net",
+      "source": "./blocklist/iblockads.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
     }
   ],
   "transformations": [
     "RemoveComments",
+    "Compress",
     "Validate",
     "Deduplicate",
     "TrimLines",

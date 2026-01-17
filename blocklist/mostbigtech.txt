@@ -1,10 +1,10 @@
 !
 ! Title: Most Bigtech Trackers List
-! Description: DNS block list that can be used for AdGuardHome. All sources from HaGeZi's DNS blocklists.
+! Description: DNS block list that can be used for AdGuardHome. All sources from HaGeZi's DNS blocklists and one from https://iblockads.net/.
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-01-17T12:22:54.677Z
+! Last modified: 2026-01-17T16:47:12.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1961,3 +1961,24 @@
 ||emq.xmpush.xiaomi.com^
 ||sandbox.xmpush.xiaomi.com^
 ||vip-api.xmpush.xiaomi.com^
+||adx1js.s3.amazonaws.com^
+||dackpartner-web.s3.amazonaws.com^
+||demandmedia.s3.amazonaws.com^
+||entrecard.s3.amazonaws.com^
+||ltassrv.com.s3.amazonaws.com^
+||seedapp-creative.s3.amazonaws.com^
+||yc-ads.s3.amazonaws.com^
+||pagead2.googlesyndication.com^
+||safeframe.googlesyndication.com^
+||tpc.googlesyndication.com^
+||contextual.media.net^
+||warp.media.net^
+||stats.redditmedia.com^
+||tracker.redditmedia.com^
+||s2.youtube.com^
+||analyze.yahooapis.com^
+||beacon.search.yahoo.com^
+||c2shb.pubgw.yahoo.com^
+||stats.video.search.yahoo.com^
+||teslaamg.obs.cn-east-3.myhuaweicloud.com^
+||ads.samsung.com^

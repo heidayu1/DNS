@@ -14,8 +14,7 @@
         "Compress",
         "Validate"
       ],
-      "exclusions": ["localhost"],
-      "inclusions": ["amazonaws"]
+      "exclusions": ["localhost"]
     }
   ],
   "transformations": [
