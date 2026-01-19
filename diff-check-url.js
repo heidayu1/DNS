@@ -2,7 +2,7 @@ const fs = require("fs");
 const https = require("https");
 
 const extraSource = "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt";        // hoặc "extra.txt"
-const cleanSource = "privacy.txt"; // hoặc "extra_clean.txt"
+const cleanSource = "https://badmojr.github.io/1Hosts/Lite/adblock.txt"; // hoặc "extra_clean.txt"
 const removedFile = "extra_removed.txt";
 
 // ===== helpers =====
@@ -57,6 +57,7 @@ const parseRules = raw =>
     console.log(`✔ Extra rules: ${extraRules.length}`);
     console.log(`✔ Clean rules: ${cleanSet.size}`);
     console.log(`✔ Removed rules: ${removed.length}`);
+    console.log(`✔ Final rules: ${cleanSet.size - removed.length}`);
     console.log(`✔ Output: ${removedFile}`);
   } catch (err) {
     console.error("Error:", err.message);
