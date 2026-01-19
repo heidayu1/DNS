@@ -15,26 +15,6 @@
         "Validate"
       ]
     }
-#    {
-#      "name": "AdGuard CNAME disguised trackers list",
-#      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt",
-#      "type": "adblock",
-#      "transformations": [
-#        "RemoveComments",
-#        "Compress",
-#        "Validate"
-#      ]
-#    },
-#    {
-#      "name": "EasyPrivacy",
-#      "source": "https://easylist.to/easylist/easyprivacy.txt",
-#      "type": "adblock",
-#      "transformations": [
-#        "RemoveComments",
-#        "Compress",
-#        "Validate"
-#      ]
-#    }
   ],
   "transformations": [
     "RemoveComments",
