@@ -4,13 +4,14 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-01-21T09:17:30.723Z
+! Last modified: 2026-01-21T18:00:32.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 54805
+! Rules count: 54812
 !
 ||ib.snssdk.com^
+||d1dxoqu0t5mb7j.cloudfront.net^
 ||js.pulseinsights.com^
 ||cs.media.net^
 ||bidder.doceree.com^
@@ -53399,6 +53400,12 @@ dlsdk.appsflyer.com^
 ||int.vaicore.store^
 ||int.vaicore.xyz^
 ||tok.vaicore.xyz^
+||log.clearcleanerpro.live^
+||event-log-api-data-platform-data-lake-prod.gryphline.com^
+||event-log-api-ipv6.gryphline.com^
+||eventlog.gryphline.com^
+||native-log-collect.gryphline.com^
+||data-p.gryphline.com^
 ||usage.digitalconcerthall.com^
 ||report.starshort.online^
 ||clarity.ms^|
