@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-01-28T14:28:57.011Z
+! Last modified: 2026-01-29T14:30:27.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 56616
+! Rules count: 56599
 !
 ||ib.snssdk.com^
 ||log.grm.gsretail.com^
@@ -43,7 +43,6 @@
 ||aditude.prebid-server.com^
 ||cache.prebid-server.com^
 ||cdnm.techpump.com^
-||delog.nestads.com^
 ||event.marketap.io^
 ||crm.marketap.io^
 ||gre.groobee.io^
@@ -561,7 +560,6 @@
 ||jp-axia.m0mentum.net^
 ||accounts-meta-events.outsideonline.com^
 ||aiq-in.bestproducts.com^
-||aiq-in.bicycling.com^
 ||aiq-in.harborfreight.com^
 ||aiq-in.redbookmag.com^
 ||aiq-in.seventeen.com^
@@ -3475,6 +3473,7 @@
 ||marketing.iaclarington.com^
 ||marketing.idquantique.com^
 ||marketing.insureon.com^
+||marketing.javs.com^
 ||marketing.jaysoncompany.com^
 ||marketing.jtsa.edu^
 ||marketing.kensingsolutions.com^
@@ -3584,7 +3583,6 @@
 ||mktg.pershing.com^
 ||network.cogentco.com^
 ||network.wintechnology.com^
-||news.bestcompaniesgroup.com^
 ||news.coloradobiz.com^
 ||news.financeaccountingtech.com^
 ||news.strategiccfo360.com^
@@ -5032,7 +5030,6 @@
 ||marketing.visitgreenvillesc.com^
 ||marketing.visithamiltoncounty.com^
 ||marketing.visithendrickscounty.com^
-||marketing.visitindy.com^
 ||marketing.visitkingston.ca^
 ||marketing.visitlex.com^
 ||marketing.visitmanisteecounty.com^
@@ -5217,7 +5214,6 @@
 ||news.colormagazine.com^
 ||news.dailyreporter.com^
 ||news.idahobusinessreview.com^
-||news.journalrecord.com^
 ||news.mclaren.org^
 ||news.molawyersmedia.com^
 ||news.nada.org^
@@ -11990,7 +11986,6 @@
 ||smetrics.radissonhotels.com^
 ||smetrics.ralphlauren.ch^
 ||smetrics.ralphlauren.fr^
-||smetrics.ralphlauren.it^
 ||smetrics.rcsmetrics.it^
 ||smetrics.realcanadiansuperstore.ca^
 ||smetrics.reale.es^
@@ -12120,6 +12115,7 @@
 ||smetrics.stioltohcp.com^
 ||smetrics.strokeawareness.com^
 ||smetrics.stubhub.co.uk^
+||smetrics.stwater.co.uk^
 ||smetrics.sumitclub.jp^
 ||smetrics.sunlife.co.id^
 ||smetrics.sunlife.com.hk^
@@ -13199,7 +13195,6 @@
 ||target.sunlife.com.hk^
 ||target.sunlife.com.ph^
 ||target.sunlife.com.vn^
-||target.sunlife.com^
 ||target.swinburne.edu.au^
 ||target.synergy.net.au^
 ||target.tataaia.com^
@@ -20047,7 +20042,6 @@
 ||ggpig.melodymaison.co.uk^
 ||ghlft.mercimamanboutique.com^
 ||ghosv.goodgames.com.au^
-||ghupv.lascana.com^
 ||gjesm.honeybirdette.com^
 ||gjhjo.impactdogcrates.com^
 ||gjrjr.maxa-group.com^
@@ -20168,7 +20162,6 @@
 ||jjtfg.kyliejennercosmetics.eu^
 ||jktdq.thedoux.com^
 ||jlcbm.litjoycrate.com^
-||jmfjw.paige.com^
 ||jmfpb.barefaced.com^
 ||jmfpr.villalavalencia.com^
 ||jmgam.drschollsshoes.com^
@@ -21837,7 +21830,6 @@
 ||mi.miliboo.lu^
 ||mla3.societegenerale.fr^
 ||mmz3.beinsports.com^
-||mp5.multi-prets.com^
 ||mre6.destinia.ma^
 ||msz3.destinia.cn^
 ||mud4.destinia.com.eg^
@@ -22028,7 +22020,6 @@
 ||assets.telefonanlage-shop.de^
 ||atrdb.laeckerli-huus.ch^
 ||auszeichnungen.pokale-nrw.de^
-||betterdata.kruu.com^
 ||bmkt.bernhardtmoden.de^
 ||cet.ximpl.digital^
 ||click.easycosmetic.at^
@@ -22148,7 +22139,6 @@
 ||metrics.leimer.de^
 ||metrics.meineversicherungswelt.de^
 ||metrics.moderade.com^
-||metrics.muehle-glashuette.de^
 ||metrics.ostseeresort-damp.de^
 ||metrics.soelring-hof.de^
 ||metrics.stadtwerke-hamm.de^
@@ -31798,7 +31788,6 @@
 ||data.monri.ba^
 ||data.monri.hr^
 ||data.neatsvor.se^
-||data.netzwerkschrank24.de^
 ||data.novosom.pt^
 ||data.ohgreen.be^
 ||data.onefm.ch^
@@ -32478,7 +32467,6 @@
 ||gtm.wudpecker.io^
 ||gtm.yoomi.com^
 ||gtm.yourstride.com^
-||gtm.zav-vita.si^
 ||gtm.zwergensache.com^
 ||gtm1.cleanbags.dk^
 ||gtms.endscuoio.com^
@@ -35019,7 +35007,6 @@
 ||sgtm.hipdekbedovertrek.nl^
 ||sgtm.hjart-lungfonden.se^
 ||sgtm.homeandcook.cz^
-||sgtm.homeandcook.hu^
 ||sgtm.homeandcook.sk^
 ||sgtm.hr.nl^
 ||sgtm.hygienesystem.it^
@@ -37280,7 +37267,6 @@
 ||tracking.nimani.com^
 ||tracking.oranjezoet.nl^
 ||tracking.ploegendienst.nl^
-||tracking.pressalit.com^
 ||tracking.produse-moldovenesti.ro^
 ||tracking.pruefstelle-blatter.de^
 ||tracking.raamdecoratieshop.be^
@@ -39613,7 +39599,6 @@
 ||events.sbsmotos.com.br^
 ||events.skyridgeglamping.com^
 ||events.srfestival.com^
-||events.texaspridetrailers.com^
 ||events.thebookkeepingchallenge.com^
 ||events2.directos.eu^
 ||evi.evelintecidos.com.br^
@@ -49356,9 +49341,7 @@
 ||sst.myfirmtech.com^
 ||sst.myllea.com^
 ||sst.myrenoquotes.co.nz^
-||sst.mystery.agency^
 ||sst.naba.it^
-||sst.nakednutrition.com^
 ||sst.naroomask.com^
 ||sst.naturabloom.com^
 ||sst.naturgrow.com^
@@ -53529,7 +53512,6 @@
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
 |piwik.
-||cs.avito.ru^
 ||b.trueanthem.com^
 ||matomo.eduwill.net^
 ||log-v*-boot.capcutapi.com^
@@ -54025,7 +54007,6 @@ prd.api.bleacherreport.com^
 ||adservice.google.
 ||weblog.kma.go.kr^
 ||t.syosetu.org^
-||uac.khan.co.kr^
 ||rake.tmap.co.kr^
 ||campaign.remp.nv.ua^
 ||analytics.ripped.guide^
@@ -54152,7 +54133,6 @@ prd.api.bleacherreport.com^
 ||client-analytics.mts.ru^
 ||analytics.mall.tv^
 ||log.etoday.co.kr^
-||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||sgtm.simoahava.com^
 ||stats.zone-telechargement.
@@ -55206,6 +55186,9 @@ dlsdk.appsflyer.com^
 ||int.vaicore.store^
 ||int.vaicore.xyz^
 ||tok.vaicore.xyz^
+||ip.xindong.com^
+||logc-sg.tsd.xindong.com^
+||e.tapdb.ap-sg.tapapis.com^
 ||usage.digitalconcerthall.com^
 ||report.starshort.online^
 ||clarity.ms^|
