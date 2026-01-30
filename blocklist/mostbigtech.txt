@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-01-29T18:23:02.884Z
+! Last modified: 2026-01-30T18:23:26.858Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -564,6 +564,7 @@
 ||inference-app-gateway.eastus2.cloudapp.azure.com^
 ||inference-app-gateway.koreacentral.cloudapp.azure.com^
 ||inference-app-gateway.northeurope.cloudapp.azure.com^
+||azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com^
 ||collector.azure.cn^
 ||js.monitor.azure.com^
 ||adsdkpreprod.azureedge.net^
