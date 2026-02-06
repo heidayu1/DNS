@@ -1,14 +1,14 @@
 !
 ! Title: Privacy Combined
-! Description: DNS block list that can be used for AdGuardHome. Source from https://filters.adtidy.org, https://easylist.to/, https://github.com/AdguardTeam/cname-trackers.
+! Description: DNS block list that can be used for AdGuardHome. Source from https://filters.adtidy.org.
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-06T10:03:18.255Z
+! Last modified: 2026-02-06T17:11:57.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 59881
+! Rules count: 59876
 !
 ||ib.snssdk.com^
 ||log.ablyft.com^
@@ -145,6 +145,7 @@
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
+||identitypxl.com^
 ||geotags.refinery89.com^
 ||featureassets.org^
 ||event.dfinery.io^
@@ -11705,7 +11706,6 @@
 ||smetric.changiairport.com^
 ||smetric.dollywood.com^
 ||smetric.e-nichii.net^
-||smetric.eddiev.com^
 ||smetric.isotonix.com^
 ||smetric.lo.movement.com^
 ||smetric.m.nissan-global.com^
@@ -14871,7 +14871,6 @@
 ||esywhf.everbags.com.br^
 ||etbnpp.iwears.kr^
 ||etgaad.smartphoto.be^
-||etgkbu.unieuro.it^
 ||etgsdg.ogogo.ru^
 ||ethhbl.dom-rafinad.ru^
 ||etkaiz.paprika.fr^
@@ -22743,7 +22742,6 @@
 ||webcontr.thechefsstories.de^
 ||webcontr.verpoorten-shop.de^
 ||webcontr.verpoorten.de^
-||webcontr.vetter-pharma.com^
 ||webcontr.wnxe.de^
 ||webcontr.wolkenlosundheiter.de^
 ||webcontr.yourfashionplace.de^
@@ -33159,7 +33157,6 @@
 ||gss.skatepro.com.mx^
 ||gss.skatepro.com.pl^
 ||gss.skatepro.cz^
-||gss.skatepro.dk^
 ||gss.skatepro.ee^
 ||gss.skatepro.es^
 ||gss.skatepro.fi^
@@ -56030,7 +56027,6 @@
 ||utiq.hoy.es^
 ||utiq.huelva24.com^
 ||utiq.ideal.es^
-||utiq.informacion.es^
 ||utiq.infosalus.com^
 ||utiq.ingame.de^
 ||utiq.ingolstadt-today.de^
@@ -56783,8 +56779,8 @@
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
 |piwik.
+||event.tradedealer.ru^
 ||analytics.editorialedomani.it^
-||pixel.scoring.ru^
 ||um.merinfo.se^
 ||clientlog.pwsdk.com^
 ||dlog.pwsdk.com^
@@ -56838,7 +56834,6 @@
 ||z.cdn.protect-ad.com^
 ||sb1.mangataro.org^
 ||leo.tridge.com^
-||c.quackr.io^
 ||analytics.monetha.io^
 ||uac.kyeongin.com^
 ||clogger.nocutnews.co.kr^
