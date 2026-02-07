@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-06T17:11:59.890Z
+! Last modified: 2026-02-07T17:12:18.601Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -135,7 +135,6 @@
 ||axp.amazon-adsystem.com^
 ||bugs.firebat.prime-video.amazon.dev^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
-||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||bugsnag.appstore.a2z.com^
 ||bugsnag.shopbop.amazon.dev^
 ||c.amazon-adsystem.com^
@@ -210,6 +209,7 @@
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-fe-sin.amazon-adsystem.com^
+||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
 ||maws-aax-us-east-test4.amazon-adsystem.com^
@@ -303,6 +303,7 @@
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw.amazon-adsystem.com^
+||vfwm-us-west.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
@@ -1249,6 +1250,7 @@
 ||pangolin.snssdk.com^
 ||pc-mon.snssdk.com^
 ||sdfp.snssdk.com^
+||stream.snssdk.com^
 ||tbm.snssdk.com^
 ||temai.snssdk.com^
 ||tnc3-aliec2.snssdk.com^
@@ -1259,6 +1261,7 @@
 ||tsearch.snssdk.com^
 ||ug.snssdk.com^
 ||vas-hl-x.snssdk.com^
+||vcl-brain.snssdk.com^
 ||xlog.snssdk.com^
 ||ad.tiktok.tv^
 ||ads.tiktok.com^
@@ -1612,6 +1615,7 @@
 ||ads-ie.tiktokw.eu^
 ||ads-ttp2.tiktokw.eu^
 ||ads16-normal-useastred.tiktokw.eu^
+||analytics-exp-ttp2.tiktokw.eu^
 ||analytics-ie.tiktokw.eu^
 ||analytics-ipv6.tiktokw.us^
 ||analytics-ttp2.tiktokw.eu^
