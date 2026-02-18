@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-17T08:45:51.631Z
+! Last modified: 2026-02-18T08:46:08.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 59002
+! Rules count: 59006
 !
 ||ib.snssdk.com^
 ||log.ablyft.com^
@@ -38,6 +38,7 @@
 ||cdn.trakkr.ai^
 ||track.trakkr.ai^
 ||aim.loc.kr^
+||sp.pcid.ca^
 ||tracker.zmaticoo.com^
 ||tags.mlytics.com^
 ||data.thoughtmetric.io^
@@ -328,7 +329,6 @@
 ||brt.studylabs.cn^
 ||log.dzen.ru^
 ||cookie.sync.usonar.jp^
-||pt.appirits.com^
 ||script.fixel.ai^
 ||ssp.igaw.io^
 ||pixel.lilystyle.ai^
@@ -5362,7 +5362,6 @@
 ||news.molawyersmedia.com^
 ||news.nada.org^
 ||news.petage.com^
-||news.scbiznews.com^
 ||news.scmanufacturingconference.com^
 ||news.sp2.org^
 ||news.strategiccfo360.com^
@@ -10095,7 +10094,6 @@
 ||stbg.standardlesothobank.co.ls^
 ||ste.siemens-healthineers.com^
 ||stms.newline53.com^
-||strack.allianz.at^
 ||strack.allianz.ch^
 ||strack.apps.allianzworldwidecare.com^
 ||strack.cap.ch^
@@ -12007,7 +12005,6 @@
 ||smetrics.theoutnet.com^
 ||smetrics.thespecialeventshow.com^
 ||smetrics.thetruth.com^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -12458,7 +12455,6 @@
 ||stats.vacationclub.com^
 ||stats.williamoneil.com^
 ||stats.wired.com^
-||stats.yourfone.de^
 ||stats2.allure.com^
 ||stats2.bonappetit.com^
 ||stats2.golfdigest.com^
@@ -12980,6 +12976,7 @@
 ||target.zinia.com^
 ||target.zinia.de^
 ||target.owenscorning.com^
+||target.pccomponentes.com^
 ||target.publicissapient.com^
 ||target.questrade.com^
 ||target.sanitas.com^
@@ -13086,7 +13083,6 @@
 ||tm.urssaf.org^
 ||tse.telerama.fr^
 ||waati.quechoisir.org^
-||zelten.fritz-berger.de^
 ||configure.adlermode.com^
 ||data.decathlon.co.uk^
 ||data.decathlon.es^
@@ -13263,6 +13259,7 @@
 ||tags.moneytopay.com^
 ||tags.mutua.es^
 ||tags.nutrametrix.com^
+||tags.otezla.com^
 ||tags.otezlapro.com^
 ||tags.ozodi.org^
 ||tags.ozodlik.org^
@@ -18131,6 +18128,7 @@
 ||ddfhr.digitalempire.tech^
 ||dekbi.elevatedhealth.com^
 ||depls.aroma360.it^
+||deraz.habitnest.com^
 ||dfmka.shapeez.com^
 ||dfrjz.ebf-org.com^
 ||dfvsv.sokolovelaw.com^
@@ -18140,6 +18138,7 @@
 ||dhlou.fidella.org^
 ||dhole.samuelhubbard.com^
 ||dhqpj.everydayreliefhub.com^
+||dkdst.coopsleepgoods.com^
 ||dkeer.greenleafblends.us^
 ||dkgto.plantishfuture.com^
 ||dljtc.paradiseunderthestars.com^
@@ -18544,6 +18543,7 @@
 ||kketr.ilovehue.store^
 ||kkmjv.certapet.com^
 ||kknka.tndetoxcenter.com^
+||kkqbi.takeyausa.com^
 ||kktij.parkseed.com^
 ||klcmq.cbdmd.com^
 ||klesu.emotive.io^
@@ -18891,6 +18891,7 @@
 ||qcdch.saltlaboratory.com^
 ||qcnmt.swimoutlet.com^
 ||qcpzd.shopatlasgrey.com^
+||qczbv.henryrose.com^
 ||qczgr.keyless-city.com^
 ||qeecl.bewegungsmeister.de^
 ||qelln.tyentusa.com^
@@ -18978,7 +18979,6 @@
 ||rpuhf.greenleaf-blends.com^
 ||rqjrr.sungalife.com^
 ||rqpoi.ashergolf.com^
-||rqrcu.dekbed-discounter.nl^
 ||rragk.naturemedicine.blog^
 ||rrddo.onesol.com^
 ||rrebl.grip6.com^
@@ -19021,7 +19021,6 @@
 ||sjirv.thelistingslab.com^
 ||sjoon.gulfofamerica.com^
 ||sjrog.cyberbackpack.com^
-||sjrzq.oilperfumery.com^
 ||skcbm.shoptaxidermy.com^
 ||skdbg.hurraheroes.es^
 ||sklup.trysourse.com^
@@ -19642,6 +19641,7 @@
 ||hqdvc.onia.com^
 ||hqhnb.red-equipment.ca^
 ||hqpkg.sciatiease.com^
+||hrlmn.lorex.com^
 ||hrvev.swimsuitsforall.com^
 ||hrzfx.wellmedr.com^
 ||hsbpf.customgoldgrillz.com^
@@ -20400,6 +20400,7 @@
 ||czhjf.baublestockings.com^
 ||dolej.beyondriders.com^
 ||eebju.shopfreespirited.com^
+||efdij.clubrideapparel.com^
 ||ennlb.hatanosen.com^
 ||fnttu.addictivewellness.com^
 ||fzpjb.gardentowerproject.com^
@@ -27691,6 +27692,7 @@
 ||info.commercial.keurig.com^
 ||insights.prophet.com^
 ||leads.commercial.keurig.com^
+||pages.connect.columbiabank.com^
 ||pages.contact.umpquabank.com^
 ||response.iqpc.com^
 ||temails.productnotice.thomsonreuters.com^
@@ -30700,7 +30702,6 @@
 ||secure.gbb77.com^
 ||secure.mheboost.com^
 ||secure.scentlab.tech^
-||shop.moi-et-marie.com^
 ||shop.tracksmartco.com^
 ||shop.waterjake.de^
 ||stpuk.steptosportuk.com^
@@ -30994,6 +30995,7 @@
 ||amo.amo-stickers.ro^
 ||amt.audio-mobil.com^
 ||an.chirolistics.com^
+||an.into-led.com^
 ||an.xclimate.net^
 ||anal.biostile.cz^
 ||anal.biostile.gr^
@@ -31415,7 +31417,6 @@
 ||d.citationchecker.ai^
 ||d.compleetgroen.nl^
 ||d.crealy.co.uk^
-||d.dailydream.de^
 ||d.decipherroofing.com^
 ||d.devolkitchens.co.uk^
 ||d.doctorflix.de^
@@ -32529,6 +32530,7 @@
 ||kbj.katinkaberrettyjewelry.com^
 ||kbx.aeroflux.co.uk^
 ||kbx.beedspeed.com^
+||kbx.everestbeds.co.uk^
 ||kbx.haws.co.uk^
 ||kbx.indianajones.store^
 ||kbx.janan.com^
@@ -35531,6 +35533,7 @@
 ||skbx.peterpauper.com^
 ||skbx.phenomboxing.com^
 ||skbx.rondaleyscooters.co.uk^
+||skbx.scotch-soda.eu^
 ||skbx.theraceworks.com^
 ||skbx.uk.junaidjamshed.com^
 ||skbx.y-gi.com^
@@ -37088,7 +37091,6 @@
 ||sst.thefxtoro.com^
 ||sst.thegreatescapefx.com^
 ||sst.thegreatescapefx.dk^
-||sst.thehangar.be^
 ||sst.thehenryrange.co.uk^
 ||sst.thelawnpack.co.uk^
 ||sst.thelittlegym.eu^
@@ -37447,7 +37449,6 @@
 ||stp.armurerie-chasseur.com^
 ||stp.cazanecentrale.ro^
 ||stp.chasseur.com^
-||stp.dachfenster-rollo.de^
 ||stp.doederlein.com^
 ||stp.gelencium-shop.de^
 ||stp.geniosleep.com^
@@ -47256,6 +47257,7 @@
 ||server.genesispharma.com.br^
 ||server.geoengenhariarn.com.br^
 ||server.gersonquintao.com^
+||server.getoutpass.com^
 ||server.ghfarma.com.br^
 ||server.giantsdetailing.com^
 ||server.ginandger.com^
@@ -53961,6 +53963,7 @@
 ||str.bb.ua^
 ||str.bnbmastery.io^
 ||str.diontraining.com^
+||str.haverhill.com^
 ||str.saalt.com^
 ||str.scoutbags.com^
 ||strack.bondhonbazar.com^
@@ -55296,7 +55299,6 @@
 ||utiq.salamancahoy.es^
 ||utiq.sauerlandkurier.de^
 ||utiq.schlager.de^
-||utiq.science-et-vie.com^
 ||utiq.semana.es^
 ||utiq.sensacine.com^
 ||utiq.sevilla.abc.es^
@@ -55432,6 +55434,7 @@
 ||data.main-ding.de^
 ||data.mapp.com^
 ||data.mediaworld.it^
+||data.news.juventus.com^
 ||data.newsletter.iqstudentaccommodation.com^
 ||data.obermain.de^
 ||data.vdi-wissensforum.de^
@@ -55569,6 +55572,7 @@
 ||web.collisionservices.com^
 ||web.comunicaciones.toysrus.pt^
 ||web.diebayerische.de^
+||web.e.aldermore.co.uk^
 ||web.e.obayaty.com^
 ||web.e.pbslgroup.co.uk^
 ||web.email.amplifiedclothing.com^
