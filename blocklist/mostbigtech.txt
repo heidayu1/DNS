@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-20T08:46:43.103Z
+! Last modified: 2026-02-21T08:47:00.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -213,6 +213,7 @@
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
 ||maws-aax-us-east-test4.amazon-adsystem.com^
+||maws-aax-us-east.amazon-adsystem.com^
 ||maws-aax-us-pdx-rtb.amazon-adsystem.com^
 ||metrics.media-amazon.com^
 ||minerva.devices.a2z.com^
@@ -368,7 +369,6 @@
 ||events-dra-op-hicloud-com-dra.appacc.dbankedge.cn^
 ||events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||events-dre-op-hicloud-com-dre.appacc.dbankedge.cn^
-||events-op-hicloud-com-drcn.appacc.dbankedge.net^
 ||grs-dbankcloud-asia-dra.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dra.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
@@ -377,7 +377,6 @@
 ||events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn^
 ||events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn^
 ||events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn^
-||events-op-hicloud-com-drcn.appacc-region.dbankedge.net^
 ||grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn^
 ||grs-dbankcloud-com-dra.appacc-region.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
@@ -590,6 +589,14 @@
 ||westus-0.in.applicationinsights.azure.com.drandts.co.uk^
 ||measure.office.net.edgesuite.net^
 ||collector.azure.eaglex.ic.gov^
+||ecs.nel.measure.office.net.cn.intinfra.com^
+||exo.nel.measure.office.net.cn.intinfra.com^
+||identity.nel.measure.office.net.cn.intinfra.com^
+||m365cdn.nel.measure.office.net.cn.intinfra.com^
+||officehub.nel.measure.office.net.cn.intinfra.com^
+||spo.nel.measure.office.net.cn.intinfra.com^
+||teams.nel.measure.office.net.cn.intinfra.com^
+||wordonline.nel.measure.office.net.cn.intinfra.com^
 ||analytics.live.com^
 ||c.live.com^
 ||location.live.net^
@@ -1672,7 +1679,6 @@
 ||mistat.rus.xiaomi.com.ksyna.net^
 ||kuyun.com^
 ||ad.mi.com^
-||ads.mi.com^
 ||e.mi.com^
 ||d.g.mi.com^
 ||video.kts.g.mi.com^
