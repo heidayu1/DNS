@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-26T09:07:55.439Z
+! Last modified: 2026-02-27T09:08:14.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 64328
+! Rules count: 64357
 !
 ||ib.snssdk.com^
 ||cdn-*.gravityfield.ai^
@@ -389,7 +389,10 @@
 ||browser-intake-*-datadoghq.com^
 ||analytics.superstructure.ai^
 ||cdn.raekdata.com^
+||telemetrics.klaviyo.com^
 ||d.k3r.jp^
+||lps.qantas.com^
+||lpx.qantas.com^
 ||sensors.ibreader.com^
 ||trk2-wtb.swaven.com^
 ||sgtm.sefamerve.com^
@@ -457,6 +460,7 @@
 ||tracker.adbinead.com^
 ||ac.ecai-report.com^
 ||track.span-smt.jp^
+||a.o2u.jp^
 ||ot.ebis.ne.jp^
 ||taj1.ebis.ne.jp^
 ||taj2.ebis.ne.jp^
@@ -9215,7 +9219,6 @@
 ||data.marketing.notificacionesbi.com.gt^
 ||data.marketing.platformsdemo.com^
 ||data.marketing.racq.com.au^
-||data.marketing.smart.com^
 ||data.marketing.stark.dk^
 ||data.marketing.super99.com^
 ||data.marketing.superloop.com^
@@ -10605,7 +10608,6 @@
 ||smetrics.coke2home.com^
 ||smetrics.collinscomfort.com^
 ||smetrics.comfortwave.com^
-||smetrics.comms.westpac.co.nz^
 ||smetrics.concardis.com^
 ||smetrics.concierto.cl^
 ||smetrics.conel.de^
@@ -10728,7 +10730,6 @@
 ||smetrics.farmersunioninsurance.com^
 ||smetrics.faz-konferenzen.de^
 ||smetrics.ferris.ac.jp^
-||smetrics.fiatusa.com^
 ||smetrics.ficohsa.hn^
 ||smetrics.fideliscarenj.com^
 ||smetrics.filtron.eu^
@@ -15036,7 +15037,6 @@
 ||ssl.o.medsims.com^
 ||ssl.o.primeoncology.org^
 ||ssl.o.univadis.com^
-||ssl.o.univadis.de^
 ||ssl.o.univadis.es^
 ||ssl.o.univadis.it^
 ||ssl.sciencechannel.com^
@@ -34911,6 +34911,7 @@
 ||yolo.philipbjorge.com^
 ||zahlen.olereissmann.de^
 ||stats.citizenos.com^
+||treker.fun^
 ||1.ccm-trk.com^
 ||1.tracktrack.org^
 ||2.tracktrack.org^
@@ -37062,7 +37063,6 @@
 ||gtmss.maisondechaleur.fr^
 ||gtmss.mygeisha.com^
 ||gtmss.pianetachef.com^
-||gtmss.rothler.de^
 ||gtmss.sergent-major.com^
 ||gtmtracker.vendetodoslossantosdias.com^
 ||gtnetwork.toplifeproject.com^
@@ -39778,7 +39778,6 @@
 ||sgtm.domino.ua^
 ||sgtm.dpmanual.com^
 ||sgtm.drambroziak.com^
-||sgtm.dtv.de^
 ||sgtm.duka.dk^
 ||sgtm.dumaszinhaz.hu^
 ||sgtm.dystopia.dk^
@@ -41651,7 +41650,6 @@
 ||sst.neudorff.es^
 ||sst.neudorff.fi^
 ||sst.neurogan.com^
-||sst.neuroganhealth.com^
 ||sst.neutrumbear.co^
 ||sst.neutrumbear.com^
 ||sst.nexaro.com^
@@ -48677,7 +48675,6 @@
 ||load.dwga.drinkthenorth.com^
 ||load.dwga.eatgron.com^
 ||load.dwga.evandesigns.com^
-||load.dwga.frauengesundheitsjournal.com^
 ||load.dwga.getpotency.com^
 ||load.dwga.honeygrove-stash.shop^
 ||load.dwga.houswise.com^
@@ -51905,7 +51902,6 @@
 ||server.domodamontanha.com.br^
 ||server.donacastanha.com.br^
 ||server.donamartha.com.br^
-||server.donate.beryazid.org.sa^
 ||server.donegift.com^
 ||server.dorkarishamogri.com^
 ||server.douglasvenancio.com.br^
@@ -52941,7 +52937,6 @@
 ||server.sereiasdevix.com.br^
 ||server.serradreaminvest.com.br^
 ||server.serriquinho.com^
-||server.servantlifestylebd.com^
 ||server.sesmtdevalor.com.br^
 ||server.sethcenter.com^
 ||server.setupninja.com.br^
@@ -54971,7 +54966,6 @@
 ||ss.lashoko.com^
 ||ss.lasmajadas.cl^
 ||ss.launchvector.com^
-||ss.lazurde.com^
 ||ss.leica-geosystems.com^
 ||ss.levoit.sg^
 ||ss.lewisiawellness.com^
@@ -61230,6 +61224,7 @@
 ||countly.
 ||countly-
 |piwik.
+-events-collector.spot.im^
 ||smetrics.edb.gov.sg^
 ||animo.sto.wiki^
 ||lgecokr.api.useinsider.com^
@@ -61569,6 +61564,7 @@ prd.api.bleacherreport.com^
 ||akn.analytics.autodesk.com^
 ||ok88okg.infinityscans.net^
 ||trc.r25.jp^
+||anal.doubledouble.top^
 ||peach-analytics.vercel.app^
 ||pks-analytics.raenonx.cc^
 ||r.sib2.gardrops.com^
@@ -61617,7 +61613,6 @@ prd.api.bleacherreport.com^
 ||amplitude.chess.com^
 ||logging.h3z.jp^
 ||cv-tracker.stanby.com^
-||cdn-channels-pixel.ex.co^
 ||t.iwara.tv^
 ||collector.xhofficial.com^
 ||taplytics-umami.grubhub.com
@@ -61771,7 +61766,6 @@ prd.api.bleacherreport.com^
 ||player.stats.live-video.net^
 ||medialog.smartmediarep.com^
 ||sgtm.handyhuellen.de^
-||prd-collector-anon.ex.co^
 ||l.francetvinfo.fr^
 ||counter.any.run^
 ||cllctr.any.run^
@@ -61842,8 +61836,6 @@ prd.api.bleacherreport.com^
 ||utsssl.auction.co.kr^
 ||uts.auction.co.kr
 ||montelena-rcv.auction.co.kr^
-||prd-collector-platform.ex.co^
-||pixel.ex.co^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
 ||analytics.mall.tv^
@@ -61875,7 +61867,6 @@ prd.api.bleacherreport.com^
 ||metrics.biletino.com^
 ||analytics.kurocore.com^
 ||metricus.artlebedev.ru^
-||d3kyk5bao1crtw.cloudfront.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||log.ohou.se^
 ||ab-log.datahou.se^
@@ -61893,6 +61884,7 @@ prd.api.bleacherreport.com^
 ||ipcc.vnpt.com.vn^
 ||cdn.stat-track.com^
 ||dmp.sbermarketing.ru^
+||logs.unchecky.com^
 ||logging.e-himart.co.kr^
 ||weblog.e-himart.co.kr^
 ||u939.colgate.com^
@@ -62003,8 +61995,6 @@ prd.api.bleacherreport.com^
 ||app.redretarget.com^
 ||appsanalytics.appideas.it^
 ||apptracker.gamedock.io^
-||service.minute.ly^
-||apv-launcher.minute.ly^
 ||ariane.abtasty.com^
 ||astat.nikkei.co.jp^
 ||astral.nicovideo.jp^
@@ -62035,6 +62025,7 @@ prd.api.bleacherreport.com^
 ||broker.datazoom.io^
 ||bt.mediaimpact.de^
 ||button.blogs.yandex.
+||bwb101.goo.ne.jp^
 ||c.adroll.com^
 ||c.bigmir.net
 ||c.hit.ua^
@@ -62103,6 +62094,7 @@ prd.api.bleacherreport.com^
 ||counter.24log.es^
 ||counter.all.biz^
 ||counter.entertainmentwise.com^
+||counter.joins.com^
 ||counter.ok.ee^
 ||counter.scribblelive.com^
 ||counter.sibnet.ru^
@@ -62206,6 +62198,7 @@ prd.api.bleacherreport.com^
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
 ||geosvc.globalmailer.com^
+||gocp.stroeermediabrands.de^
 ||grow.powerstep.com^
 ||gscounters.*.gigya.com^
 ||gscounters.gigya.com^
@@ -62348,6 +62341,7 @@ prd.api.bleacherreport.com^
 ||p.vtracy.de^
 ||p.yotpo.com^
 ||p2trc.emv2.com^
+||pa.tns-ua.com^
 ||pappagallu.onefootball.com^
 ||partner.shareaholic.com^
 ||pasta.esfile.duapps.com^
@@ -62633,6 +62627,7 @@ prd.api.bleacherreport.com^
 ||top.hsdn.org^
 ||top.topua.net^
 ||top100.vkirove.ru^
+||tpa7.iahorro.com^
 ||tr.datanyze.com^
 ||tr.marsflag.com^
 ||tr.outbrain.com^
@@ -62809,6 +62804,7 @@ directtrack.*.js
 ||metrics.uol.com.br^
 ||rel.msn.com^
 ||rem-track.bild.de^
+||stat.sports.ru^
 ||statistic.gamona.de^
 ||webmetrics.nintendo-europe.com^
 ||webstat.freaks4u.com^
@@ -62821,6 +62817,7 @@ directtrack.*.js
 ||sdkconfig.ad.intl.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
 ||api.ad.xiaomi.com^
+||abtest.mistat.xiaomi.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
@@ -62879,6 +62876,7 @@ dlsdk.appsflyer.com^
 ||co.vaicore.site^
 ||co.vaicore.xyz^
 ||int.akisinn.info^
+||int.akisinn.me^
 ||int.akisinn.site^
 ||int.dewrain.life^
 ||int.dewrain.site^
@@ -62886,6 +62884,8 @@ dlsdk.appsflyer.com^
 ||int.vaicore.site^
 ||int.vaicore.store^
 ||int.vaicore.xyz^
+||int.vlancaa.site^
+||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 ||usage.digitalconcerthall.com^
 ||report.starshort.online^
@@ -62928,6 +62928,7 @@ dlsdk.appsflyer.com^
 ||dlog-config.uu.cc^
 ||ms-report.uu.cc^
 ||log.hiapkdownload.com^
+||capture.pixverse.ai^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||prebid-server-canary.ifunny.co^
 ||log.oceanzz.xyz^
@@ -63088,6 +63089,7 @@ dlsdk.appsflyer.com^
 ||g.analytics.versa-ai.com^
 ||analytics.rayjump.com^
 ||imp-*.jampp.com^
+||pathfinder.analytics.komoot.net^
 ||evt.mxplay.com^
 ||log.geetest.com^
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
@@ -63176,6 +63178,7 @@ dlsdk.appsflyer.com^
 ||dsp-adcreative.mobshark.net^
 ||dsptrack.mobshark.net^
 ||analytics.metrix.ir^
+||hwstats.unity3d.com^
 ||installtracker.unityads.unity3d.com^
 ||publisher-event.unityads.unity3d.com^
 ||cdn-adn.rayjump.com^
@@ -63374,6 +63377,7 @@ dlsdk.appsflyer.com^
 ||balloonbelieve.com^
 ||bamboohugs.com^
 ||bananabarrel.com^
+||barbadoshello.com^
 ||barbarousbase.com^
 ||baseboosters.com^
 ||basilfish.com^
@@ -63393,6 +63397,7 @@ dlsdk.appsflyer.com^
 ||blisscalendar.com^
 ||blissfulcrescendo.com^
 ||blissfullagoon.com^
+||blitzcampaigns.com^
 ||blockdial.com^
 ||blueeyedblow.com^
 ||boatcodeapp.com^
@@ -63414,6 +63419,7 @@ dlsdk.appsflyer.com^
 ||briskstorm.com^
 ||brotherslocket.com^
 ||brownboxgroup.com^
+||bucketlistbob.com^
 ||bumpermash.com^
 ||bumpydevelopment.com^
 ||burgersalt.com^
@@ -63422,6 +63428,7 @@ dlsdk.appsflyer.com^
 ||businessupdater.com^
 ||buttonladybug.com^
 ||cafefrench.com^
+||cafejunior.net^
 ||cafescampfires.com^
 ||calmstudent.com^
 ||cannonchange.com^
@@ -63470,6 +63477,7 @@ dlsdk.appsflyer.com^
 ||coffeesidehustle.com^
 ||coinsyouneed.com^
 ||coloringisland.com^
+||colorsonchain.com^
 ||colossalclouds.com^
 ||combativecar.com^
 ||combativedetail.com^
@@ -63520,6 +63528,7 @@ dlsdk.appsflyer.com^
 ||cumbersomecake.com^
 ||cupcakegem.com^
 ||curiouschalk.com^
+||curiousmetal.com^
 ||curioussuccess.com^
 ||curlycannon.com^
 ||curvycry.com^
@@ -63530,6 +63539,7 @@ dlsdk.appsflyer.com^
 ||datacirrus.com^
 ||daymodern.com^
 ||dazzlingbook.com^
+||dealchocolate.com^
 ||decklibrary.com^
 ||deeptack.com^
 ||deerbeginner.com^
@@ -63594,6 +63604,7 @@ dlsdk.appsflyer.com^
 ||etherealpinnacle.com^
 ||eventsmall.com^
 ||excitingtub.com^
+||exitblocked.com^
 ||exquisiteartisanship.com^
 ||extralocker.com^
 ||exuberantedge.com^
@@ -63605,6 +63616,7 @@ dlsdk.appsflyer.com^
 ||faithrowold.com^
 ||falsesight.com^
 ||familiarrod.com^
+||fancycolorlist.net^
 ||fancydune.com^
 ||fangfeeling.com^
 ||fannybacker.com^
@@ -63618,6 +63630,7 @@ dlsdk.appsflyer.com^
 ||feeblestamp.com^
 ||feedten.com^
 ||feignedfaucet.com^
+||fencesync.com^
 ||fewkittens.com^
 ||fieldconfig.com^
 ||filtercutter.com^
@@ -63662,6 +63675,7 @@ dlsdk.appsflyer.com^
 ||frostpocket.com^
 ||frozekitchen.com^
 ||funoverbored.com^
+||futuristicapparatus.com^
 ||fuzzyaudio.com^
 ||fuzzyerror.com^
 ||gatejunction.com^
@@ -63745,6 +63759,7 @@ dlsdk.appsflyer.com^
 ||idlecollect.com^
 ||idyllicjazz.com^
 ||illinvention.com^
+||imagecutie.com^
 ||immensehoney.com^
 ||imminentshake.com^
 ||importantmeat.com^
@@ -63855,6 +63870,7 @@ dlsdk.appsflyer.com^
 ||mistervillas.com^
 ||mistyhorizon.com^
 ||momentfilter.com^
+||monsterjokes.com^
 ||monstermemes.com^
 ||monthlyhat.com^
 ||motionlessbelief.com^
@@ -63870,9 +63886,13 @@ dlsdk.appsflyer.com^
 ||nebulajubilee.com^
 ||nebulousamusement.com^
 ||nebulousripple.com^
+||newartreview.com^
+||newsbotnet.com^
+||nexttopchef.com^
 ||niftygraphs.com^
 ||niftyhospital.com^
 ||nightwound.com^
+||noblecables.com^
 ||nodethisweek.com^
 ||notcardboard.com^
 ||notconscious.com^
@@ -63890,6 +63910,7 @@ dlsdk.appsflyer.com^
 ||offerniche.com^
 ||offgridcrops.com^
 ||offshorecyclone.com^
+||offshoregoods.com^
 ||oldandindie.com^
 ||omgthink.com^
 ||onedropocean.com^
@@ -63945,6 +63966,7 @@ dlsdk.appsflyer.com^
 ||poisedpig.com^
 ||polishedcrescent.com^
 ||politeplanes.com^
+||popliquids.com^
 ||potatoinvention.com^
 ||powerfulblends.com^
 ||preciousplanes.com^
@@ -63980,6 +64002,7 @@ dlsdk.appsflyer.com^
 ||quirkybodega.com^
 ||quixoticnebula.com^
 ||quizzicalpartner.com^
+||radiantlullaby.com^
 ||raidmedics.com^
 ||railwaygiraffe.com^
 ||railwayrainstorm.com^
@@ -64110,6 +64133,7 @@ dlsdk.appsflyer.com^
 ||sneakystew.com^
 ||sneezecovers.com^
 ||snoresmile.com^
+||sockpacks.com^
 ||soggyzoo.com^
 ||soilcontent.com^
 ||soilphotos.com^
@@ -64122,6 +64146,7 @@ dlsdk.appsflyer.com^
 ||soretrain.com^
 ||sortstructure.com^
 ||soulclicking.com^
+||soundmachine.net^
 ||sourceoak.com^
 ||sowlettuce.com^
 ||spaceaffinity.com^
@@ -64179,6 +64204,7 @@ dlsdk.appsflyer.com^
 ||strongercity.com^
 ||stupidsnake.com^
 ||sturdysnail.com^
+||styleaffinity.com^
 ||stylelockers.com^
 ||subjectivepoint.com^
 ||subsequentstew.com^
@@ -64210,6 +64236,7 @@ dlsdk.appsflyer.com^
 ||tastelesstrees.com^
 ||tastesnake.com^
 ||tealjewel.com^
+||teamstatus.net^
 ||tearfulglass.com^
 ||techconverter.com^
 ||tediousbear.com^
@@ -64244,6 +64271,7 @@ dlsdk.appsflyer.com^
 ||toomanyalts.com^
 ||topbookgifts.com^
 ||topcrazypress.com^
+||tortoisepage.com^
 ||touristfuel.com^
 ||toysbasics.com^
 ||toytakeover.com^
@@ -64318,6 +64346,7 @@ dlsdk.appsflyer.com^
 ||whispermeeting.com^
 ||whoogled.com^
 ||whymaze.com^
+||widgethouse.com^
 ||wildwoodavenue.com^
 ||wisedotcom.com^
 ||wispycity.com^
