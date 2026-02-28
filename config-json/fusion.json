@@ -30,7 +30,7 @@
     },
     {
       "name": "HaGeZi's Pro Mini",
-      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt",
       "type": "adblock",
       "inclusions": [
         "ad", "adtima", "azure", "server", "za", "zalo", "zadn", "google", "doubleclick", "analytics", "gtm", 
