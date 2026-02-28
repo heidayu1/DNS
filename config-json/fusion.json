@@ -9,6 +9,13 @@
       "name": "1Host Lite",
       "source": "https://badmojr.github.io/1Hosts/Lite/adblock.txt",
       "type": "adblock",
+      "inclusions": [
+        "ad", "ads", "adserver", "adtima", "zalo", "zadn", "google", "doubleclick", "analytics", "gtm", "googletagmanager", "google-analytics", "app-measurement", 
+        "firebase", "firebaselogging", "beacons", "gvt", "microsoft", "windows", "msn", "applicationinsights", "events", "activity", "apple", "icloud", 
+        "xp.apple", "facebook", "instagram", "fbcdn", "graph", "appsflyer", "appsflyersdk", "applovin", "inmobi", "pangle", "mintegral", "adjust", "sentry", "branch", 
+        "opera", "osp.opera", "samsung", "qq", "datadog", "cloudflare", "nel.cloudflare", ".vn", ".ru", "yandex", "mail.ru", "rambler", "vk.com", ".cn", "baidu", "alibaba", 
+        "tencent", "zhihu", "feishu", "zh-live", "zh-", "live"
+      ],
       "transformations": [
         "RemoveComments",
         "Compress",
@@ -19,6 +26,13 @@
       "name": "HaGeZi's Pro Mini",
       "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt",
       "type": "adblock",
+      "inclusions": [
+          "ad", "ads", "adserver", "adtima", "zalo", "zadn", "google", "doubleclick", "analytics", "gtm", "googletagmanager", "google-analytics", "app-measurement", 
+          "firebase", "firebaselogging", "beacons", "gvt", "microsoft", "windows", "msn", "applicationinsights", "events", "activity", "apple", "icloud", 
+          "xp.apple", "facebook", "instagram", "fbcdn", "graph", "appsflyer", "appsflyersdk", "applovin", "inmobi", "pangle", "mintegral", "adjust", "sentry", "branch", 
+          "opera", "osp.opera", "samsung", "qq", "datadog", "cloudflare", "nel.cloudflare", ".vn", ".ru", "yandex", "mail.ru", "rambler", "vk.com", ".cn", "baidu", "alibaba", 
+          "tencent", "zhihu", "feishu", "zh-live", "zh-", "live"
+      ],      
       "transformations": [
         "RemoveComments",
         "Compress",
