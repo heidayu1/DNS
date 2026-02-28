@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-27T09:08:17.634Z
+! Last modified: 2026-02-28T09:08:36.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -328,6 +328,10 @@
 ||z-na.amazon-adsystem.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
+||connect-dra.dbankcloud.cn^
+||connect-drcn.dbankcloud.cn^
+||connect-dre.dbankcloud.cn^
+||connect-drru.dbankcloud.cn^
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics1.data.dbankcloud.cn^
 ||dnkeeper.dbankcloud.com^
@@ -350,7 +354,11 @@
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.com^
 ||grs.dbankcloud.eu^
+||connect-drru.hispace.dbankcloud.cn^
+||connect-drru.hispace.dbankcloud.ru^
 ||logservice1.dbankcloud.com^
+||connect-dra.map.dbankcloud.com^
+||connect-dre.map.dbankcloud.com^
 ||adx-dra.op.dbankcloud.com^
 ||adx-drcn.op.dbankcloud.cn^
 ||adx-dre.op.dbankcloud.com^
@@ -586,17 +594,17 @@
 ||exo.nel.measure.office.net.sw.buhl-data.com^
 ||teams.nel.measure.office.net.sw.buhl-data.com^
 ||insights.cloud.microsoft^
-||westus-0.in.applicationinsights.azure.com.drandts.co.uk^
 ||measure.office.net.edgesuite.net^
 ||collector.azure.eaglex.ic.gov^
-||ecs.nel.measure.office.net.cn.intinfra.com^
-||exo.nel.measure.office.net.cn.intinfra.com^
-||identity.nel.measure.office.net.cn.intinfra.com^
-||m365cdn.nel.measure.office.net.cn.intinfra.com^
-||officehub.nel.measure.office.net.cn.intinfra.com^
-||spo.nel.measure.office.net.cn.intinfra.com^
-||teams.nel.measure.office.net.cn.intinfra.com^
-||wordonline.nel.measure.office.net.cn.intinfra.com^
+||measure.office.net.cn.intinfra.com^
+||ecs.nel.measure.office.net.cz.intinfra.com^
+||exo.nel.measure.office.net.cz.intinfra.com^
+||identity.nel.measure.office.net.cz.intinfra.com^
+||m365cdn.nel.measure.office.net.cz.intinfra.com^
+||officehub.nel.measure.office.net.cz.intinfra.com^
+||spo.nel.measure.office.net.cz.intinfra.com^
+||teams.nel.measure.office.net.cz.intinfra.com^
+||exo.nel.measure.office.net.in.intinfra.com^
 ||analytics.live.com^
 ||c.live.com^
 ||location.live.net^
@@ -1130,6 +1138,7 @@
 ||samsungusa.api.useinsider.com^
 ||samsungvn.api.useinsider.com^
 ||h4g3z1-native.samsung.web.app^
+||mon-ru.tiktokv.com.blinkt.de^
 ||frontier23-normal-alisg.tiktokv.com.bpgslb.com^
 ||frontier.byteoversea.com^
 ||gplog-sg.byteoversea.com^
@@ -1161,6 +1170,8 @@
 ||sgaws-mcs.byteoversea.com^
 ||sgee-log.byteoversea.com^
 ||sgee-mcs.byteoversea.com^
+||tnc16-alisg.byteoversea.com^
+||tnc16-useast1a.byteoversea.com^
 ||ug-sg.byteoversea.com^
 ||v16-ad.byteoversea.com^
 ||vaali-mcs.byteoversea.com^
@@ -1314,6 +1325,8 @@
 ||mcs-ttp2.us.tiktok.com^
 ||mssdk.us.tiktok.com^
 ||mcs.tiktok-row.net^
+||p16-ad-site-sign-sg.tiktokcdn.com^
+||p19-ad-site-sign-sg.tiktokcdn.com^
 ||sf16-ads-format-sign.tiktokcdn.com^
 ||sf19-ads-format-sign.tiktokcdn.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
