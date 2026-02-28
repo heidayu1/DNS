@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-28T13:20:05.469Z
+! Last modified: 2026-02-28T13:27:15.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 25398
+! Rules count: 25401
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -32,6 +32,7 @@
 ||event-api.hackle.io^
 ||trackingmyadsas.com^
 ||d2g2u2795e3fzw.cloudfront.net^
+||matomo-demo-*.amazonaws.com^
 ||*-default-cn.rum.aliyuncs.com^
 ||analytics.metriko.app^
 ||*-sdk.rum.aliyuncs.com^
@@ -14511,6 +14512,7 @@
 ||tagmanager.2dehandszakelijk.be^
 ||tagmanager.marktplaatszakelijk.nl^
 ||tags.statik.be^
+||thegreatesthits.amazona.de^
 ||thegreatesthits.headphonecheck.com^
 ||tinos.bio-logos.com^
 ||tmssgm.gruppomade.com^
@@ -24414,6 +24416,7 @@ prd.api.bleacherreport.com^
 ||d-log.asahi.co.jp^
 ||d-log.tv-asahi.co.jp^
 ||analytics.*.sky.com^
+||kinesis.eu-west-1.amazonaws.com^
 ||event.hket.com^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
