@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-02-28T16:44:38.541Z
+! Last modified: 2026-03-01T16:44:53.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 29871
+! Rules count: 29870
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -11693,6 +11693,7 @@
 ||tracking.glory-global.com^
 ||tracking.go.toyobo-global.com^
 ||tracking.go.toyobo-mc.jp^
+||tracking.gostanford.com^
 ||tracking.gtc.com.gt^
 ||tracking.hiscox.com^
 ||tracking.info.rochesterknighthawks.com^
@@ -14452,6 +14453,7 @@
 ||gtm.capinifirenze.com^
 ||gtm.carlosbeil.com.br^
 ||gtm.carrerajeans.com^
+||gtm.castlefineart.com^
 ||gtm.catcare24.de^
 ||gtm.cb-group.info^
 ||gtm.certyfikaty-energetyczne.pl^
@@ -15895,7 +15897,6 @@
 ||load.ss.alpenreizen.nl^
 ||load.ss.ank.dk^
 ||load.ss.archouse.dk^
-||load.ss.aronia-charlottenburg.ro^
 ||load.ss.artofdance.nl^
 ||load.ss.ballingventilation.dk^
 ||load.ss.bimago.pt^
@@ -16133,7 +16134,6 @@
 ||load.sst.dumarent.be^
 ||load.sst.durbuygreenfields.com^
 ||load.sst.e-visa.org^
-||load.sst.edenred.at^
 ||load.sst.einfachtierisch.de^
 ||load.sst.empiredeschaussettes.com^
 ||load.sst.eo.nl^
@@ -16580,6 +16580,7 @@
 ||mst.physiotherapie-mobili.de^
 ||mt.labasad.com^
 ||mtrcsapi.parcoibiza.com^
+||mvgt.madeleine.com^
 ||neoss.cursosdesoldadurabarcelona.com^
 ||nlpd.carrefouraddictions.ch^
 ||nlpd.habitat-jardin.events^
@@ -22816,7 +22817,6 @@
 ||load.lwf.lendwysefinancial.com^
 ||load.m.adhdonline.com^
 ||load.m.haibu.de^
-||load.m.haibu.nl^
 ||load.m.mentavi.com^
 ||load.ma.seapointe.com^
 ||load.madee.seoup.com.br^
@@ -28372,6 +28372,7 @@
 ||data.mapp.com^
 ||data.mediaworld.it^
 ||data.news.juventus.com^
+||data.newsletter.iqstudentaccommodation.com^
 ||data.obermain.de^
 ||data.vdi-wissensforum.de^
 ||data.volksfreund.de^
@@ -28746,7 +28747,6 @@ prd.api.bleacherreport.com^
 ||hit.api.useinsider.com^
 ||track.lookerpets.com^
 ||ss.azuremagazine.com^
-||webtracking.fe.union-investment.de^
 ||track.17goforward.com^
 ||d3-umami.up.railway.app^
 ||mywedding-beacon.team-rec.jp^
@@ -29010,7 +29010,6 @@ prd.api.bleacherreport.com^
 ||d3in1te4fdays6.cloudfront.net^
 ||d3r7h55ola878c.cloudfront.net^
 ||d3s7ggfq1s6jlj.cloudfront.net^
-||d5i9o0tpq9sa1.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||daq0d0aotgq0f.cloudfront.net^
 ||data.mob.com^
