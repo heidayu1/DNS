@@ -10,6 +10,7 @@
       "source": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
       "type": "adblock",
       "inclusions_sources": ["./blocklist/inclusion.txt"],
+      "inclusions": ["ad", "log", "analytic", "live"],
       "transformations": [
         "RemoveComments",
         "Compress",
