@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-02T15:36:42.922Z
+! Last modified: 2026-03-02T17:18:20.232Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31781
+! Rules count: 31864
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -22,6 +22,7 @@
 ||gw-usa-tracker.zmaticoo.com^
 ||data.deep-content.io^
 ||protected-api.branch.io^
+||client-sdk.hackle.io^
 ||collector-*.pxchk.net^
 ||cdn.trakkr.ai^
 ||track.trakkr.ai^
@@ -226,6 +227,7 @@
 ||cyberanalytics.nl^
 ||analytics-script.ad-shield.io^
 ||analytics.octaglobal.com^
+||client.botchk.net^
 ||analytics*.prezly.com^
 ||gapp1.com^
 ||stlog.d.dmkt-sp.jp^
@@ -633,6 +635,7 @@
 ||axisgroupbenefits.axiscapital.com^
 ||business.franchiseopportunities.com^
 ||charlotte-content.cresa.com^
+||clientservices.grassrootsunwired.com^
 ||college.business.oregonstate.edu^
 ||communications.engineering.oregonstate.edu^
 ||communications.meadowbrook.com^
@@ -728,6 +731,7 @@
 ||phoenix-content.cresa.com^
 ||postgraduate.smu.edu.sg^
 ||postgraduate2.smu.edu.sg^
+||privateclient.hubinternational.com^
 ||profile-update.healthgrades.com^
 ||pscunow.fmservice.com^
 ||solutions.advantageauburn.com^
@@ -761,6 +765,8 @@
 ||canadamarketing.travelsavers.com^
 ||chromatography.mac-mod.com^
 ||cincinnati-content.cresa.com^
+||clientengagement.ehpartners.com^
+||clientservice.alphasimplex.com^
 ||cloud.trapptechnology.com^
 ||comms.adss.com^
 ||communications.usfleettracking.com^
@@ -800,6 +806,7 @@
 ||engage.clinipace.com^
 ||engage.ipcginsurance.com^
 ||expo.nada.org^
+||files.urlinsgroup.com^
 ||forms.cooperaerobics.com^
 ||franchising.pizzapizza.ca^
 ||gblock.greenhousedata.com^
@@ -812,6 +819,7 @@
 ||go.madisoncollege.edu^
 ||go.uscad.com^
 ||houston-content.cresa.com^
+||info.accupurls.com^
 ||info.admtech.com.au^
 ||info.advanced-energy.com^
 ||info.advantageind.com^
@@ -928,6 +936,7 @@
 ||marketing.certipay.com^
 ||marketing.clarosanalytics.com^
 ||marketing.clearviewlive.com^
+||marketing.clientsfirst-us.com^
 ||marketing.cloudagentsuite.com^
 ||marketing.cloudmerge.com^
 ||marketing.cnalloys.co.uk^
@@ -3543,6 +3552,7 @@
 ||data1.virginplus.ca^
 ||datacollect-dev.cisco.com^
 ||datacollection.adelaideuni.edu.au^
+||dc.areacliente.repsolluzygas.com^
 ||dc.entradas.com^
 ||dc.madridistas.com^
 ||dc.realmadridnext.com^
@@ -3915,6 +3925,7 @@
 ||securemetrics.gpsuniforms.com^
 ||securetags.arcdata.cz^
 ||securetags.geotecnologias.com^
+||sites.cliente.nissan.com.mx^
 ||sm.mudanzas-guardamueble.es^
 ||smetric-krowd.darden.com^
 ||smetric.bajajgeneralinsurance.com^
@@ -5383,6 +5394,7 @@
 ||telemetry.webasto.com^
 ||tepshared.tep.test.ajo.adobe.com^
 ||test.e2eche2.test.ajo.adobe.com^
+||teste.clientemais.paodeacucar.com^
 ||testing.e2e-personalisationche2.e2e.cjmadobe.com^
 ||trackingaa.hitachi-powergrids.com^
 ||wa.sugarandjade.com^
@@ -7828,6 +7840,7 @@
 ||somni.dermatologyadvisor.com^
 ||somni.dxc.technology^
 ||somni.endocrinologyadvisor.com^
+||somni.neighbourly.co.nz^
 ||somni.neurologyadvisor.com^
 ||somni.psychiatryadvisor.com^
 ||somni.sundancecatalog.com^
@@ -8628,6 +8641,7 @@
 ||fahmta.lipsum.com^
 ||fahmta.newstatesman.com^
 ||fbycnk.chiaki.vn^
+||fcizcj.burlingtonfreepress.com^
 ||fdchhx.medipeel.co.kr^
 ||fdkeip.azafashions.com^
 ||fdyqre.pormadeonline.com.br^
@@ -8702,6 +8716,7 @@
 ||hzhepy.lojaiplace.com.br^
 ||iaalxo.vans.ru^
 ||iabgvi.usadosbr.com^
+||icvihl.cachecoeurlingerie.com^
 ||idgbgl.sloggi.com^
 ||ifmonx.commercialrealestate.com.au^
 ||ifqtfo.rugsusa.com^
@@ -8764,6 +8779,7 @@
 ||kwveum.cosmasi.ru^
 ||kxauzv.mrdoors.ru^
 ||kybsbf.ruleoneproteins.com^
+||kzqkiu.ab-in-den-urlaub.at^
 ||kzsicw.chip.de^
 ||ladghy.jcb.co.jp^
 ||ladxxr.sonovente.com^
@@ -8775,6 +8791,7 @@
 ||lgxtao.aheads.co.kr^
 ||lgylib.dg-home.ru^
 ||ljyipz.nugnes1920.com^
+||lknqfn.furla.com^
 ||lnjiwo.manzara.sk^
 ||lozjnq.stateandliberty.com^
 ||lpbhnv.telemundoareadelabahia.com^
@@ -9073,6 +9090,7 @@
 ||ymvikp.estadao.com.br^
 ||ypcdbw.drive2.ru^
 ||ypkado.clicrbs.com.br^
+||yqigli.tourlane.de^
 ||yqqhbd.yotsuyaotsuka.com^
 ||yrpllu.zavino.co.kr^
 ||ytbnvm.firadis.net^
@@ -9110,6 +9128,7 @@
 ||zlolhl.3dnews.ru^
 ||zlolhl.mediametrics.ru^
 ||zmyopn.babadotop.com.br^
+||zpnrnr.ab-in-den-urlaub.de^
 ||zqqsnu.storedj.com.au^
 ||zqwofo.liverpool.com.mx^
 ||zrknjk.countrystorecatalog.com^
@@ -9196,6 +9215,7 @@
 ||elade.mensuas.com^
 ||elnbz.qualitylogic.com^
 ||endjb.trendozashop.com^
+||erurl.barkpotty.com^
 ||eshsm.amazethreads.com^
 ||euefq.louisvilleaddictioncenter.com^
 ||euooo.theadventurechallenge.com^
@@ -9207,6 +9227,7 @@
 ||fnabd.hotelcollection.fr^
 ||fqled.prepapizza.com^
 ||fqvvn.getlemonhead.com^
+||fspdu.dollarcurlclub.com^
 ||gahlr.readyrocker.com^
 ||gckkl.hotelcollection.pl^
 ||giran.ziipstick.com^
@@ -9297,8 +9318,10 @@
 ||sadnm.savagerace.com^
 ||sadqa.innerbloomca.com^
 ||sagza.mistiva.com^
+||sbcmt.curlmix.com^
 ||snmzj.blade-city.com^
 ||srjkl.alloyapparel.com^
+||suurl.nuudcare.de^
 ||tfrln.prostatehealthreport.com^
 ||tghqq.trywellbe.pl^
 ||thbeq.honestpaws.com^
@@ -9441,6 +9464,7 @@
 ||tzqip.thevinessupply.co^
 ||ukadh.livelyroot.com^
 ||ulslc.happysocks.com^
+||urlir.sophiawebster.com^
 ||uuopi.rubbertree.com.au^
 ||vefgg.katespade.com^
 ||vipsj.zgallerie.com^
@@ -9868,6 +9892,7 @@
 ||rodent.livelinor.dk^
 ||sailfish.youracademycommunity.com^
 ||salamander.showandtelldata.com^
+||shark.rockyourlife.de^
 ||silkworm.preventingsuicideinsussex.org^
 ||snipe.mizzuu.co^
 ||sparrow.workingincontent.com^
@@ -10056,6 +10081,7 @@
 ||bolt-gcdn.sc-cdn.net.iberostar.com^
 ||cdn.net.dz.jumia.com^
 ||chikswhipsnkicks.net.anwalt.de^
+||clients.net.anwalt.de^
 ||dns-tunnel-check.googlezip.net.iberostar.com^
 ||edge-mobile-static.azureedge.net.iberostar.com^
 ||find.api.micloud.xiaomi.net.iberostar.com^
@@ -10081,6 +10107,7 @@
 ||us.pdc.micloud.xiaomi.net.iberostar.com^
 ||v16m-default.akamaized.net.iberostar.com^
 ||wotasia3.login.wargaming.net.iberostar.com^
+||wpe-client02-vm4.net.mydays.de^
 ||0186141170.apps.iocnt.de^
 ||39db8b138f.apps.iocnt.de^
 ||5bf0fdacd2.apps.iocnt.de^
@@ -11889,7 +11916,18 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
 ||tr.chapsdata.chapsvision.com^
+||tr.client.emailing.bnpparibas^
+||tr.clientes.younited-credit.com^
+||tr.clienti.younited-credit.com^
+||tr.clienti.younited-credit.it^
+||tr.clients-mediametrie.fr^
+||tr.clients.base-plus.fr^
+||tr.clients.boursorama.info^
+||tr.clients.compagnie-hyperactive.com^
+||tr.clients.europrogres.fr^
+||tr.clients.gemy.fr^
 ||tr.collectif.groupe-vyv.fr^
+||tr.com-clients.sfr.fr^
 ||tr.communaute.caradisiac.com^
 ||tr.communication.enkiapp.io^
 ||tr.contact.cadenas.fr^
@@ -11912,6 +11950,8 @@
 ||tr.info.comparadordeprestamos.es^
 ||tr.info.grapp-hennessy.com^
 ||tr.info.vip-mag.co.uk^
+||tr.information-clients.blackstore.fr^
+||tr.information-clients.intersport.fr^
 ||tr.information.labelleadresse.com^
 ||tr.information.lacollection-airfrance.be^
 ||tr.information.lacollection-airfrance.ch^
@@ -11980,12 +12020,30 @@
 ||tr.qualite.viparis.com^
 ||tr.read.glose.com^
 ||tr.route-solutiondata.fr^
+||tr.service-client.mhdfrance.fr^
+||tr.service-clients.monoprix.fr^
 ||tr.serviceclient.adagcaladoise.fr^
+||tr.serviceclient.bf-depannage.fr^
+||tr.serviceclient.confogaz.com^
+||tr.serviceclient.depanchauffageservice.fr^
+||tr.serviceclient.effica-service.fr^
+||tr.serviceclient.explore.fr^
 ||tr.serviceclient.gazservicerapide.fr^
+||tr.serviceclient.ochauffage.fr^
+||tr.serviceclient.smecso.fr^
+||tr.serviceclient.somgaz.fr^
+||tr.serviceclient.thermogaz.fr^
+||tr.serviceclient.younited-coach.com^
+||tr.serviceclient.younited-credit.com^
 ||tr.services.caradisiac.com^
+||tr.servicesclients.canalplus.ch^
+||tr.servicesclients.canalplus.fr^
+||tr.servicoaocliente.younited-credit.com^
 ||tr.souscription.floa.fr^
+||tr.suivi-client-edf.com^
 ||tr.vernede.huilesdolive.fr^
 ||tr.voeux-wishes.ipsilon-ip.com^
+||tr.voixduclient.harmonie-mutuelle.fr^
 ||tr.wa.wordappeal.com^
 ||tr.welcome.lacollection-airfrance.be^
 ||tr.welcome.lacollection-airfrance.ch^
@@ -12496,6 +12554,7 @@
 ||blog.myomnipod.com^
 ||branchout.pegs.com^
 ||check.frbservices.org^
+||clients.rainkingonline.com^
 ||collections.equifax.com^
 ||community.fusesource.com^
 ||consulting.mcgladrey.com^
@@ -12642,6 +12701,7 @@
 ||lead.blackrock.com^
 ||now.myfashionevents.com^
 ||regmdr.pref.ims.dialog-direct.com^
+||s.clientes.construrama.com^
 ||track.hg.healthgrades.com^
 ||tracking.care.salinasvalleyhealth.com^
 ||tracking.continuingstudies.wisc.edu^
@@ -12783,6 +12843,7 @@
 ||images.marketing.statistica.io^
 ||images.media-comms.realestate.com.au^
 ||images.mediateam.realestate.com.au^
+||images.purl.mercedes-benz.com^
 ||images.universidad.javeriana.edu.co^
 ||admin.smart.com.au^
 ||admin.smartgroup.com.au^
@@ -13042,6 +13103,7 @@
 ||tracking.hot.net.il^
 ||tracking.mail.ti.com.cn^
 ||trackinginternal.ti.com^
+||aonemeaclientcouncil.aon.com^
 ||app.info.fticonsulting.com^
 ||tracking.fticonsulting.com^
 ||tracking.risk.lexisnexis.co.uk^
@@ -13127,7 +13189,9 @@
 ||app.selectyourtickets.com^
 ||app.unlvrebels.com^
 ||asset-protection-pages.protective.com^
+||client.trustaff.com^
 ||stats.saverglass.com^
+||strikeclient.usnursing.com^
 ||track.info.mmm-online.com^
 ||app.bonnettsenergycentre.com^
 ||app.fairparkdallas.com^
@@ -13418,6 +13482,7 @@
 ||tracking.solartrade-us.baywa-re.com^
 ||tracking.verisk.com^
 ||gbtracking.cubiq.com^
+||clients.hermes-investment.com^
 ||communications.apilayer.com^
 ||communications.embarcadero.com^
 ||content.eaton.com^
@@ -14450,6 +14515,7 @@
 ||tracking.zumbamboo.com^
 ||trk.zamnesia.com^
 ||tsstracking.teachsundayschool.com^
+||tt.safeyourlove.shop^
 ||web.tipstodayz.site^
 ||wev.recipevideoz.online^
 ||wiw.recipeplayz.site^
@@ -18289,6 +18355,7 @@
 ||sporingsserver.s-e-a.dk^
 ||sporingsserver.superwood.dk^
 ||sporingsserver.superwood.se^
+||srv.furlanmarri.com^
 ||srv.stadtwerke-bonn.de^
 ||srvr.mpcentradas.es^
 ||ss.ad-ops.hu^
@@ -18319,6 +18386,7 @@
 ||ss.mortensensmad.dk^
 ||ss.nadeci.pl^
 ||ss.naturescollection.eu^
+||ss.natuurlijkpresteren.nl^
 ||ss.navilogic.dk^
 ||ss.officinadelriso.com^
 ||ss.one2track.de^
@@ -18691,6 +18759,7 @@
 ||webstats.cloudconnected.nl^
 ||wizard.clickdrive.nl^
 ||work.rubberco.co.uk^
+||www.icclient.rottne.com^
 ||wxpdlopz.livetsomsenior.dk^
 ||wxpdlopz.shoppo.se^
 ||x.irvingcollection.org^
@@ -20101,9 +20170,11 @@
 ||cdn.xpozer.com^
 ||cdns.redskapsbolaget.se^
 ||ce-is-gtm.byu.edu^
+||cl.changingyourlife.site^
 ||cl.clinicadematematica.com.br^
 ||clear.awsomus.com^
 ||clear.nagaribazar.com^
+||client.talefy.ai^
 ||cloud.clinicakaianakelin.com.br^
 ||cloud.colormerad.com^
 ||cloud.dentalpartner.com.br^
@@ -23273,6 +23344,7 @@
 ||internalt.dieselequipmentinc.com^
 ||internalt.lymphhealthtips.com^
 ||internalt.lymphsupporttips.com^
+||internalt.yourlymphsavior.com^
 ||ip3x4.deplay.nl^
 ||iracema.leadadv.com.br^
 ||isaza.isazaa.com^
@@ -25562,6 +25634,7 @@
 ||miseventos.orem.com.mx^
 ||mkt.of3dacademy.com^
 ||mkt.of3dacademy.com.br^
+||mkt.seuclienteoculto.com.br^
 ||mktservertag.inseconds.com^
 ||mmm.franquiaclinicadacidade.com.br^
 ||mo.fbcapi.motocorpbd.com^
@@ -29159,6 +29232,7 @@
 ||sst.gadgetrixbd.com^
 ||sst.gereedschappro.nl^
 ||sst.getadayroom.com^
+||sst.getfurlife.com^
 ||sst.gmbleadmachine.com^
 ||sst.happyboards.com^
 ||sst.happyhounds.co.za^
@@ -30163,6 +30237,7 @@
 ||wombat.publicdrip.com^
 ||ws.winningstate.com^
 ||www.api.clinicadacidade.com.br^
+||www.clients.dualentry.com^
 ||www.gtm.cosdentbyslc.com^
 ||www.gtmpraiamar.praiamarnatal.com.br^
 ||www.lead.drmohamedibrahim.com^
@@ -30328,6 +30403,8 @@
 ||tk.airfrance.ru^
 ||tk.airfrance.vn^
 ||tk.apprentis-auteuil.org^
+||tk.assurland.com^
+||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.boutique.harpersbazaar.fr^
 ||tk.cadeaux.com^
@@ -31073,6 +31150,7 @@ prd.api.bleacherreport.com^
 ||sp.app.com^
 ||sp.argusleader.com^
 ||sp.bucyrustelegraphforum.com^
+||sp.burlingtonfreepress.com^
 ||sp.coloradoan.com^
 ||sp.commercialappeal.com^
 ||sp.fdlreporter.com^
@@ -31211,6 +31289,7 @@ prd.api.bleacherreport.com^
 ||tracking.bonnier.news^
 ||tracking.chacha.com^
 ||tracking.conduit.com^
+||tracking.hurlmedia.design^
 ||tracking.linda.de^
 ||tracking.live.oe24.at^
 ||tracking.netdoktor.at^
@@ -31521,6 +31600,7 @@ dlsdk.appsflyer.com^
 ||adtracker.mkjigsaw.com^
 ||stats.oilpainting.colorbynumber.veraxen.com^
 ||qa-events-schema.viacom.tech^
+||dns-clientinfo.cbsivideo.com^
 ||report.*.qq.com^
 ||stats-sg.ganymede.eu^
 ||log*.byteoversea.com^
@@ -31693,6 +31773,7 @@ dlsdk.appsflyer.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
 ||branchborder.com^
+||burlywhistle.com^
 ||buttonladybug.com^
 ||catalogcake.com^
 ||cdnral.com^
@@ -31705,6 +31786,7 @@ dlsdk.appsflyer.com^
 ||colossalclouds.com^
 ||complexpixel.com^
 ||contentcamera.com^
+||curlycannon.com^
 ||datacirrus.com^
 ||dependenttrip.com^
 ||driftpizza.com^
@@ -31754,6 +31836,7 @@ dlsdk.appsflyer.com^
 ||pixelvariety.com^
 ||pizzasnut.com^
 ||purposepipe.com^
+||q20jqurls0y7gk8.info^
 ||qualifiedblog.com^
 ||radiantlullaby.com^
 ||readysetcard.com^
