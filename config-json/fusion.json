@@ -6,11 +6,11 @@
   "version": "1.0.0.0",
   "sources": [
     {
-      "name": "1Host Lite",
+      "name": "1Hosts Lite",
       "source": "https://badmojr.github.io/1Hosts/Lite/adblock.txt",
       "type": "adblock",
-      "inclusions_sources": ["./blocklist/inclusion.txt"],
       "inclusions": ["ad", "log", "analytic", "live"],
+      "inclusions_sources": ["./blocklist/inclusion.txt"],
       "transformations": [
         "RemoveComments",
         "Compress",
@@ -21,8 +21,8 @@
       "name": "HaGeZi's Pro Mini",
       "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt",
       "type": "adblock",
-      "inclusions_sources": ["./blocklist/inclusion.txt"],
       "inclusions": ["ad", "log", "analytic", "live"],
+      "inclusions_sources": ["./blocklist/inclusion.txt"],
       "transformations": [
         "RemoveComments",
         "Compress",
