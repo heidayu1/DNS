@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-02T17:47:44.289Z
+! Last modified: 2026-03-03T17:48:01.558Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31997
+! Rules count: 31991
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -138,6 +138,7 @@
 ||trackszn.median.eu^
 ||analytics.qushad.com^
 ||logger.torimochi-ad.net^
+||prodalet.ru^
 ||zdw.w8.com.cn^
 ||collector*.ex.co^
 ||cdn.sov.stream^
@@ -4061,7 +4062,6 @@
 ||smetrics.ambettermeridian.com^
 ||smetrics.ambetterofillinois.com^
 ||smetrics.amersportsproclub.com^
-||smetrics.amplifon.com^
 ||smetrics.animalhealthacademy.com.au^
 ||smetrics.apellis.com^
 ||smetrics.apotheken-aerzte.de^
@@ -9724,7 +9724,6 @@
 ||etracker.novicon.net^
 ||etracker.riess-gruppe.de^
 ||etracker.seoversiert.de^
-||foodstats.eurofins.de^
 ||metrics.bauwerk.de^
 ||metrics.catchandkeep.de^
 ||metrics.cnag.de^
@@ -14541,7 +14540,6 @@
 ||track.fntrk.org^
 ||track.fradall.com^
 ||track.freetaxextension.com^
-||track.gesundheits-welt.net^
 ||track.goldenweb.net^
 ||track.guateexpressgt.com^
 ||track.gurubaldai.lt^
@@ -14910,7 +14908,6 @@
 ||collect.bensherman.co.uk^
 ||collect.bones.dk^
 ||collect.cityfit.pl^
-||collect.clogauoutlet.co.uk^
 ||collect.dancovershop.com^
 ||collect.feriepartner.dk^
 ||collect.feriepartner.no^
@@ -18240,7 +18237,6 @@
 ||sgtm.presensimpro.se^
 ||sgtm.previon.it^
 ||sgtm.prezzemoloevitale.it^
-||sgtm.primadonnacollection.com^
 ||sgtm.primigi.it^
 ||sgtm.prisma-zentrum.com^
 ||sgtm.proactive-software.com^
@@ -23401,7 +23397,6 @@
 ||gtmss.life-ong.org^
 ||gtmss.modefinity.co^
 ||gtmsst.bomconsorcio.com.br^
-||gtmsst.veryspecialgames.co.uk^
 ||gtmstape.phantom-sounds.com^
 ||gtmstapeio.colorepedrarias.com^
 ||gtmstapeio.cortfertelhas.com^
@@ -28676,7 +28671,6 @@
 ||sgtm.musicforincome.com^
 ||sgtm.myfair.com^
 ||sgtm.myguava.com^
-||sgtm.mypassportcenter.com^
 ||sgtm.nailz.store^
 ||sgtm.najzdravnik.com^
 ||sgtm.namacbd.com^
@@ -30474,7 +30468,6 @@
 ||data.volksfreund.de^
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
-||joda.quotidianodipuglia.it^
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
 ||mapp.yesstyle.com^
@@ -31468,6 +31461,7 @@ directtrack.*.js
 ||metrics.uol.com.br^
 ||rel.msn.com^
 ||rem-track.bild.de^
+||stat.sports.ru^
 ||statistic.gamona.de^
 ||webmetrics.nintendo-europe.com^
 ||webstat.freaks4u.com^
