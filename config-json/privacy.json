@@ -9,7 +9,6 @@
       "name": "AdGuard Tracking Protection filter",
       "source": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
       "type": "adblock",
-      "inclusions": ["ad", "log", "analytic", "-live", "collector"],
       "inclusions_sources": ["./blocklist/inclusion.txt"],
       "transformations": [
         "RemoveComments",
