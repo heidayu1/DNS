@@ -16,14 +16,12 @@ vungle
 # 2. Mobile Attribution & Analytics SDKs (tracking install, attribution)
 adjust
 appsflyer
-appsflyersdk
 branch
 amplitude
 
 # 3. General Analytics, Tracking & Telemetry Keywords
 acquire
 analytic
-analytics
 asset
 beacon
 broad
@@ -44,13 +42,11 @@ feature
 
 # 4. Crash Reporting & Error Monitoring
 crash
-crashlytics
 datadog
 sentry
 
 # 5. Google Ecosystem (ads, tracking, Firebase)
 firebase
-firebaselogging
 google
 gvt
 doubleclick
@@ -62,7 +58,7 @@ graph
 instagram
 
 # 7. Microsoft / Windows / Azure Telemetry
-activity.windows
+activity
 application
 azure
 insight
@@ -82,7 +78,6 @@ cloud
 cloudflare
 cloudfront
 fastly
-nel.cloudflare
 
 # 10. Vietnamese / Local Services (app VN, ads nội địa)
 bachhoaxanh
@@ -122,8 +117,7 @@ samsung
 tencent
 vk.com
 yandex
-zh-
-zh-live
+zh
 zhihu
 taobao
 
@@ -142,7 +136,6 @@ jwplayer
 live
 media
 opera
-osp.opera
 puma
 server
 client
@@ -162,12 +155,9 @@ excavatenearbywand
 flagstonefoundingmonotype
 
 # 14. Zalo Ecosystem Tracking & Ads (rất phổ biến ở app VN)
-zaloads
 zadn
-zapps
-zalopay
+zapp
 zalo
-za
 zdn
 
 # 15.VN
