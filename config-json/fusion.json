@@ -10,6 +10,7 @@
       "source": "https://badmojr.github.io/1Hosts/Lite/adblock.txt",
       "type": "adblock",
       "inclusions_sources": ["./blocklist/inclusion.txt"],
+      "exclusions": [".de^"],
       "transformations": [
         "RemoveComments",
         "Compress",
@@ -21,6 +22,7 @@
       "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt",
       "type": "adblock",
       "inclusions_sources": ["./blocklist/inclusion.txt"],
+      "exclusions": [".de^"],
       "transformations": [
         "RemoveComments",
         "Compress",
