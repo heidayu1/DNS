@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-04T14:48:42.197Z
+! Last modified: 2026-03-05T14:48:57.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 29268
+! Rules count: 29270
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -217,7 +217,6 @@
 ||analytics-coletor-site.ojc.com.br^
 ||event.mrtnsvr.com^
 ||stat.onemob.mobi^
-||ip.prvtx.net^
 ||cyberanalytics.nl^
 ||analytics-script.ad-shield.io^
 ||analytics.octaglobal.com^
@@ -2431,7 +2430,6 @@
 ||adtd.douglas.hr^
 ||adtd.douglas.lt^
 ||adtd.douglas.pt^
-||adtd.douglas.ro^
 ||adtd.douglas.si^
 ||adtd.douglas.sk^
 ||adtd.parfumdreams.at^
@@ -2585,7 +2583,6 @@
 ||appleapp.istyle.iq^
 ||appleapp.istyle.mk^
 ||appleapp.istyle.om^
-||appleapp.istyle.ro^
 ||appleapp.istyle.rs^
 ||appleapp.istyle.si^
 ||appleapp.istyle.sk^
@@ -3222,6 +3219,7 @@
 ||data.msg.banksa.com.au^
 ||data.msg.email.commsec.com.au^
 ||data.msg.stgeorge.com.au^
+||data.msg.wegmans.com^
 ||data.msg.westpac.com.au^
 ||data.msgs.bankofmelbourne.com.au^
 ||data.msgs.banksa.com.au^
@@ -4994,6 +4992,7 @@
 ||smetrics.vangraaf.com^
 ||smetrics.vans.co.nz^
 ||smetrics.vans.com.au^
+||smetrics.vaxassist.com^
 ||smetrics.velocityfrequentflyer.com^
 ||smetrics.velsipity.com^
 ||smetrics.verdugotienda.com^
@@ -8331,6 +8330,7 @@
 ||hauzdj.quellogiusto.it^
 ||hcdnpe.iareduceri.ro^
 ||hcjpbc.radaronline.com^
+||hcjpbc.soapoperadigest.com^
 ||hcmhqb.radpowerbikes.ca^
 ||hfpwcx.supermercadosmas.com^
 ||hggxww.megadumptiel.nl^
@@ -8827,6 +8827,7 @@
 ||vnqtp.ziptowntees.com^
 ||vqqca.veracityhealth.co^
 ||vqqem.myovry.ca^
+||vqqio.theory11.com^
 ||vtzad.focl.com^
 ||zgtcp.hotelcollectionofficial.uk^
 ||zhagp.baddworldwide.com^
@@ -10133,6 +10134,7 @@
 ||app.belvitur.com.br^
 ||app.care.eisenhowerhealthcares.org^
 ||app.connections.te.com^
+||app.go.emersonprocess.com^
 ||app.health.bjc.org^
 ||app.id.plascoid.com^
 ||app.ihub.dpworlduae.com^
@@ -11061,6 +11063,7 @@
 ||sandbox-elq.keysight.com.cn^
 ||tracking.dev2.pepsicopartners.com^
 ||tracking.email.trinity-health.org^
+||tracking.luminishealth.org^
 ||tracking.news.evergreenhealth.com^
 ||tracking.xaapbuildings.com^
 ||attend.ubmamgevents.com^
@@ -12647,7 +12650,6 @@
 ||track.teartune.com^
 ||track.thebirdlovers.com^
 ||track.theessentialtech.com^
-||track.togetherprice.com^
 ||track.trackleads.com.au^
 ||track.traktor.fleszbielizna.com^
 ||track.trendyreptiles.com^
@@ -13364,7 +13366,6 @@
 ||gtm.geldersestreken.nl^
 ||gtm.gerritskoffie.nl^
 ||gtm.gianpaolotartaro.it^
-||gtm.gibraltartradingco.com^
 ||gtm.giftednotes.com^
 ||gtm.ginbutikken.dk^
 ||gtm.gioielleriacasella.com^
@@ -17148,7 +17149,6 @@
 ||api.janainalaurentino.com^
 ||api.jazzigo.com^
 ||api.jetfloss.com.br^
-||api.jfsun.com.br^
 ||api.jgssport.com^
 ||api.joaomenna.com.br^
 ||api.johnnysguimaraes.com.br^
@@ -21638,6 +21638,7 @@
 ||load.gtm.envisiondigital.it^
 ||load.gtm.esadvocacia.adv.br^
 ||load.gtm.espartastore.com^
+||load.gtm.ethika.com^
 ||load.gtm.evbantiques.com^
 ||load.gtm.evergreen16.it^
 ||load.gtm.everlend.fr^
@@ -23068,7 +23069,6 @@
 ||measurement.kilamobler.se^
 ||measures.carmehome.com^
 ||media.biolovers.nl^
-||mediabr.v4company.com^
 ||mentor.adrianscalper.com^
 ||mentor.direitocomprado.com.br^
 ||mentor.monetrix.app^
@@ -26633,6 +26633,7 @@
 ||ssapi.rmotos.com.br^
 ||ssc-eu.pesicanada.ca^
 ||ssc-us.pesicanada.ca^
+||ssc.therapist.com^
 ||sscapi.absolute-adventure-mexico.com^
 ||sscapi.barns.seaycreek.com^
 ||sscapi.outerbanksjeeprentals.com^
@@ -27851,6 +27852,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||api.openpanel.dev^
 -events-collector.spot.im^
 ||smetrics.edb.gov.sg^
 ||lgecokr.api.useinsider.com^
@@ -28804,7 +28806,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
-||log.photorecoverypicturerecovery.com^
+||log.sweepycleanplus.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
 ||gbxreport-*.wf.com^
