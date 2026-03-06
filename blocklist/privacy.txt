@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-05T14:48:57.090Z
+! Last modified: 2026-03-06T14:49:13.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 29270
+! Rules count: 29272
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -171,6 +171,7 @@
 ||analytics-beacon.p.uliza.jp^
 ||trace.zhiyan.tencent-cloud.net^
 ||log.voicecloud.cn^
+||log.collectaction.com^
 ||t.adcell.com^
 ||odtrtadl.com^
 ||log.trackingio.com^
@@ -1020,6 +1021,7 @@
 ||media.pirtek.nl^
 ||media.polariswealth.net^
 ||media.theartisansapproach.com^
+||membership.mortonarb.org^
 ||merchant-mail.neosurf.com^
 ||metric.khkgears.us^
 ||metrics.thesellingagency.com^
@@ -1678,6 +1680,7 @@
 ||metrics.sonera.fi^
 ||metrics.sony.jp^
 ||metrics.sothebys.com^
+||metrics.spirithalloween.com^
 ||metrics.stanfordhealthcare.org^
 ||metrics.staples.com.au^
 ||metrics.store.irobot.com^
@@ -1936,7 +1939,6 @@
 ||smetrics.edgepark.com^
 ||smetrics.elecare.com^
 ||smetrics.enautics.com^
-||smetrics.eprice.it^
 ||smetrics.esignal.com^
 ||smetrics.eticketing.abbott.com.sg^
 ||smetrics.ewweb.com^
@@ -7112,7 +7114,6 @@
 ||smetrics.michaeljfox.org^
 ||smetrics.michaelkors.ca^
 ||smetrics.michaelkors.fr^
-||smetrics.michaelkors.it^
 ||smetrics.michaels.com^
 ||smetrics.michigancompletehealth.com^
 ||smetrics.michiganfarmer.com^
@@ -7179,7 +7180,6 @@
 ||smetrics.panasonic.jp^
 ||smetrics.panasonic.net^
 ||smetrics.pandora.com^
-||smetrics.payback.at^
 ||smetrics.payback.it^
 ||smetrics.payback.net^
 ||smetrics.payback.pl^
@@ -19511,6 +19511,7 @@
 ||gtm.ictbangla.com^
 ||gtm.icthax.com^
 ||gtm.id-logical.com^
+||gtm.idealimage.com^
 ||gtm.ideiaeforma.com.br^
 ||gtm.identicbd.com^
 ||gtm.identidadeinvestidora.com.br^
@@ -24631,7 +24632,6 @@
 ||server.mener.com.br^
 ||server.menortaxa.pagplan.com.br^
 ||server.mensclab.com^
-||server.mensmodebd.com^
 ||server.menspark.store^
 ||server.mensvibes.shop^
 ||server.mentecalmacorpoleve.com^
@@ -28860,6 +28860,7 @@ dlsdk.appsflyer.com^
 ||*-datareceiver.aki-game.net^
 ||applog*.matrix.easebar.com^
 ||smartcard.apps.coloros.com^
+||t-odx.op-mobile.opera.com^
 ||ulog*.gifshow.com^
 ||cnlogs.umengcloud.com^
 ||grs.dbankcloud.
@@ -29056,6 +29057,7 @@ dlsdk.appsflyer.com^
 ||imp.startappservice.com^
 ||analytics.any.do^
 ||m.vpadn.com^
+||pps-log.op-mobile.opera.com^
 ||tktracker.aotter.net^
 ||android.bugly.qq.com^
 ||astat.bugly.qq.com^
