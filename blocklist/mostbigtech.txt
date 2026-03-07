@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-06T14:49:17.575Z
+! Last modified: 2026-03-07T14:49:32.974Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -597,14 +597,9 @@
 ||measure.office.net.edgesuite.net^
 ||collector.azure.eaglex.ic.gov^
 ||measure.office.net.cn.intinfra.com^
-||ecs.nel.measure.office.net.cz.intinfra.com^
-||exo.nel.measure.office.net.cz.intinfra.com^
-||identity.nel.measure.office.net.cz.intinfra.com^
-||m365cdn.nel.measure.office.net.cz.intinfra.com^
-||officehub.nel.measure.office.net.cz.intinfra.com^
-||spo.nel.measure.office.net.cz.intinfra.com^
-||teams.nel.measure.office.net.cz.intinfra.com^
-||exo.nel.measure.office.net.in.intinfra.com^
+||measure.office.net.cz.intinfra.com^
+||measure.office.net.in.intinfra.com^
+||exo.nel.measure.office.net.us.intinfra.com^
 ||analytics.live.com^
 ||c.live.com^
 ||location.live.net^
@@ -1138,7 +1133,6 @@
 ||samsungusa.api.useinsider.com^
 ||samsungvn.api.useinsider.com^
 ||h4g3z1-native.samsung.web.app^
-||mon-ru.tiktokv.com.blinkt.de^
 ||frontier23-normal-alisg.tiktokv.com.bpgslb.com^
 ||frontier.byteoversea.com^
 ||gplog-sg.byteoversea.com^
@@ -1221,6 +1215,11 @@
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||frontier.capcutw.us^
+||mon-i18n.tiktokv.com.dvaitas.lt^
+||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
+||mon16-normal-useastred.tiktokv.eu.dvaitas.lt^
+||mcs-ie2.tiktokw.eu.dvaitas.lt^
+||mcs16-normal-no1a.tiktokw.eu.dvaitas.lt^
 ||mcs-i18n.tiktok.com.edgekey.net^
 ||mcs-sg.tiktok.com.edgekey.net^
 ||mcs-va.tiktok.com.edgekey.net^
@@ -1325,8 +1324,6 @@
 ||mcs-ttp2.us.tiktok.com^
 ||mssdk.us.tiktok.com^
 ||mcs.tiktok-row.net^
-||p16-ad-site-sign-sg.tiktokcdn.com^
-||p19-ad-site-sign-sg.tiktokcdn.com^
 ||sf16-ads-format-sign.tiktokcdn.com^
 ||sf19-ads-format-sign.tiktokcdn.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^

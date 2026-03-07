@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-06T14:49:13.214Z
+! Last modified: 2026-03-07T14:49:29.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 29272
+! Rules count: 29273
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -2894,7 +2894,6 @@
 ||data.ekr.nespresso.com^
 ||data.elbierzonoticias.com^
 ||data.elcorreoclasificados.com^
-||data.eldiariomontanes.es^
 ||data.elnortedecastilla.es^
 ||data.elu.nespresso.com^
 ||data.em.assurancewireless.com^
@@ -2917,6 +2916,7 @@
 ||data.email-tsb.cjm.adobe.com^
 ||data.email.americafirst.com^
 ||data.email.animed.co.uk^
+||data.email.belgiantrain.be^
 ||data.email.bridgestone-emea.com^
 ||data.email.bridgestonetire.com^
 ||data.email.cadillacfinancial.com^
@@ -2980,6 +2980,7 @@
 ||data.emails.tesco.hu^
 ||data.emails.tesco.ie^
 ||data.emails.tesco.sk^
+||data.emails.xoom.com^
 ||data.emails1.cahoot.com^
 ||data.emailservice.vattenfall.nl^
 ||data.emdev.officedepot.com^
@@ -4823,6 +4824,7 @@
 ||smetrics.samsung.com.cn^
 ||smetrics.saucony.com.au^
 ||smetrics.savewithsrpbiz.com^
+||smetrics.sazeracbarrelselect.com^
 ||smetrics.scarboroughtoyota.ca^
 ||smetrics.schindler-berufsbildung.ch^
 ||smetrics.schindler-cz.cz^
@@ -6328,7 +6330,6 @@
 ||sadbmetrics.elbierzonoticias.com^
 ||sadbmetrics.elcomercio.es^
 ||sadbmetrics.elcorreoclasificados.com^
-||sadbmetrics.eldiariomontanes.es^
 ||sadbmetrics.elnervion.com^
 ||sadbmetrics.elnortedecastilla.es^
 ||sadbmetrics.estiloydecoracion.es^
@@ -8725,6 +8726,7 @@
 ||finsq.silentballacademy.com^
 ||fnabd.hotelcollection.fr^
 ||fqled.prepapizza.com^
+||fqqok.zipstring.com^
 ||fqvvn.getlemonhead.com^
 ||fspdu.dollarcurlclub.com^
 ||gahlr.readyrocker.com^
@@ -13048,6 +13050,7 @@
 ||data.ecowater.be^
 ||data.eilersen.com^
 ||data.elna-service.pl^
+||data.eltrox.pl^
 ||data.epigenics.eu^
 ||data.erkado.pl^
 ||data.essentials.pl^
@@ -13456,7 +13459,6 @@
 ||gtm.marstrands.se^
 ||gtm.match-talent.org^
 ||gtm.matobaldai.lt^
-||gtm.maxmagazine.nl^
 ||gtm.medcanonestop.com^
 ||gtm.mediconline.se^
 ||gtm.medmasterplan.com.br^
@@ -20257,6 +20259,7 @@
 ||gtm.psimama.com.br^
 ||gtm.psiquiatrasempre.com.br^
 ||gtm.punkin.bg^
+||gtm.pupring.com^
 ||gtm.pwfilms.com.br^
 ||gtm.pymnts.com^
 ||gtm.qcall.ai^
@@ -20549,7 +20552,6 @@
 ||gtm.talkstream.online^
 ||gtm.talktosanta.com^
 ||gtm.tamararolim.com^
-||gtm.tap2deal.com^
 ||gtm.taqwalearningbd.com^
 ||gtm.tarotafrodite.com.br^
 ||gtm.tarotafrodite.online^
@@ -20782,6 +20784,7 @@
 ||gtm.westwoodinstruments.com^
 ||gtm.wfads.com.br^
 ||gtm.whiteslumber.com^
+||gtm.wildforkfoods.com^
 ||gtm.wildwrapz.com^
 ||gtm.witmidia.com.br^
 ||gtm.wm10.com.br^
@@ -25460,7 +25463,6 @@
 ||server.woovino.com^
 ||server.workongroup.com.br^
 ||server.worksharex.com^
-||server.worldfashionbd.com^
 ||server.wpcommerce.site^
 ||server.wponetap.com^
 ||server.wulihaircare.com^
@@ -28184,7 +28186,6 @@ prd.api.bleacherreport.com^
 ||pixel*.production-public.tubi.io^
 ||player.stats.live-video.net^
 ||medialog.smartmediarep.com^
-||weblog.woowa.in^
 ||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
