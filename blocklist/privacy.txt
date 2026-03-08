@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-07T14:49:29.303Z
+! Last modified: 2026-03-08T14:49:47.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 29273
+! Rules count: 29280
 !
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -2398,6 +2398,7 @@
 ||adobe-analytics-dc.douane.nl^
 ||adobe-analytics-dc.fiod.nl^
 ||adobe-analytics.vionicshoes.com^
+||adobe-ep.cuidadodesalud.gov^
 ||adobe-ep.insurekidsnow.gov^
 ||adobe-metrics.340bdirect.com^
 ||adobe-metrics.bankexchangeservices.com^
@@ -3125,6 +3126,7 @@
 ||data.m.dealer.creditacceptance.com^
 ||data.m.eaglesautismfoundation.org^
 ||data.m.metro-tr.com^
+||data.m.mysticlake.com^
 ||data.m.shop.international.nhl.com^
 ||data.m.store.nascar.com^
 ||data.m2.disneydestinations.com^
@@ -5114,6 +5116,7 @@
 ||somni.mapac.thermofisher.cn^
 ||somni.redcardreloadable.com^
 ||spike.email-disney.cjm.adobe.com^
+||ssc.azadliq.org^
 ||ssc.mashaalradio.com^
 ||ssc.polygraph.info^
 ||ssc.radiomarsho.com^
@@ -5824,7 +5827,6 @@
 ||metrics.foxsports.com.au^
 ||metrics.fraport.com^
 ||metrics.freecreditreport.com^
-||metrics.fressnapf.at^
 ||metrics.frontier.com^
 ||metrics.fuzeon.com^
 ||metrics.g-shock.sg^
@@ -6541,6 +6543,7 @@
 ||smetric.betway.mx^
 ||smetric.carview.co.jp^
 ||smetric.changiairport.com^
+||smetric.darden.com^
 ||smetric.e-nichii.net^
 ||smetric.eddiev.com^
 ||smetric.lo.movement.com^
@@ -20969,6 +20972,7 @@
 ||gtmss.life-ong.org^
 ||gtmss.modefinity.co^
 ||gtmsst.bomconsorcio.com.br^
+||gtmsst.veryspecialgames.co.uk^
 ||gtmstape.phantom-sounds.com^
 ||gtmstapeio.colorepedrarias.com^
 ||gtmstapeio.cortfertelhas.com^
@@ -25949,6 +25953,7 @@
 ||sgtm.goldfieldandbanks.com^
 ||sgtm.goldfish.ie^
 ||sgtm.golman.dk^
+||sgtm.goodbatches.com^
 ||sgtm.goshopright.com^
 ||sgtm.goupcompany.com.br^
 ||sgtm.grambanglastore.com^
@@ -26400,6 +26405,7 @@
 ||sgtm.truecar.co.il^
 ||sgtm.trueeco.com.au^
 ||sgtm.trungsoncare.com^
+||sgtm.tryeden.com^
 ||sgtm.tryviralvault.com^
 ||sgtm.tuiss.co.jp^
 ||sgtm.tunegocioturo.com^
@@ -26847,6 +26853,7 @@
 ||sstgtm.yokkao.com^
 ||sstgtm.zeejewel.com^
 ||sstgtma.royalsunnah.com^
+||sstgtms.veryspecialgames.ca^
 ||sstrack.diponty.com^
 ||sstrack.greensefa.com^
 ||sstrack.trendsbymariumbd.com^
@@ -27854,6 +27861,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||api.jformatter.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
 ||smetrics.edb.gov.sg^
@@ -29175,7 +29183,6 @@ dlsdk.appsflyer.com^
 ||azuremystique.com^
 ||badgeboat.com^
 ||badgevolcano.com^
-||barbadoshello.com^
 ||bikepaws.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
