@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-08T14:49:50.736Z
+! Last modified: 2026-03-09T14:50:06.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -723,7 +723,6 @@
 ||msadsscale.microsoft.com^
 ||oca.microsoft.com^
 ||watson.officeint.microsoft.com^
-||rad.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||i1.services.social.microsoft.com^
 ||spynet2.microsoft.com^
@@ -871,7 +870,6 @@
 ||office-events-data.trafficmanager.net^
 ||oms-analytics.trafficmanager.net^
 ||pixel-sync.trafficmanager.net^
-||sconsentit9.trafficmanager.net^
 ||self-events-data.trafficmanager.net^
 ||ssp-prod-eastus-nonmutt.trafficmanager.net^
 ||stats-partner.trafficmanager.net^
