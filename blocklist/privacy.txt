@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-09T14:50:03.534Z
+! Last modified: 2026-03-10T14:50:18.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30204
+! Rules count: 30206
 !
+||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
 ||participants.evolv.ai^
@@ -181,7 +182,6 @@
 ||track.my1elitclub.com^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||optimeeze.appspot.com^
-||tracker-dot-optimeeze.appspot.com^
 ||px*.mediahills.ru^
 ||analytics.foresee.com^
 ||trk.adbutter.net^
@@ -2524,6 +2524,7 @@
 ||analytics.infosysequinox.com^
 ||analytics.infosysprize.org^
 ||analytics.infosyspublicservices.com^
+||analytics.ishopchangi.com^
 ||analytics.jjkellerconsulting.com^
 ||analytics.jjkellerdatasense.com^
 ||analytics.joincambridge.com^
@@ -5173,6 +5174,7 @@
 ||smetrics.wileyplus.com^
 ||smetrics.williams-sonoma.ca^
 ||smetrics.williamscomfortair.com^
+||smetrics.williamsf1.com^
 ||smetrics.wilsonniblett.com^
 ||smetrics.wmaze.com^
 ||smetrics.woma-group.com^
@@ -7322,7 +7324,6 @@
 ||smetrics.panasonic.jp^
 ||smetrics.panasonic.net^
 ||smetrics.pandora.com^
-||smetrics.payback.it^
 ||smetrics.payback.net^
 ||smetrics.payback.pl^
 ||smetrics.pcid.ca^
@@ -9043,6 +9044,7 @@
 ||hoiao.wooden-ships.com^
 ||hqhnb.red-equipment.ca^
 ||ialcp.madeincookware.ca^
+||idehe.tlfapparel.com^
 ||iegvm.threadwallets.com^
 ||iemtz.admsport.com^
 ||ifodr.leadinglady.com^
@@ -9141,6 +9143,7 @@
 ||npzkb.pokerchips.com^
 ||ttokd.greatlakeskidsapparel.com^
 ||zhzdz.shopiammi.com^
+||adzol.opticsforce.com^
 ||aeoze.sewhungryhippie.com^
 ||akjfo.sunrisecapitalgroup.com^
 ||apivd.justpracticesuccess.com^
@@ -11292,7 +11295,6 @@
 ||ahhmkt.anhua.com.cn^
 ||email-am.stage.ca.jll.com^
 ||event.aieverythingabudhabi.com^
-||event.aieverythingegypt.com^
 ||event.gitex-india.com^
 ||event.gitexeurope.com^
 ||event.gitexfuturehealth.com^
@@ -13118,7 +13120,6 @@
 ||cmo.gulfacademysafety.com^
 ||cmo.gulfacademysafety.me^
 ||collect.aof.dk^
-||collect.asetek.com^
 ||collect.ashwagandhaforte.no^
 ||collect.auris.nl^
 ||collect.babysam.se^
@@ -13363,6 +13364,7 @@
 ||data.uspoloassn.no^
 ||data.uspoloassn.se^
 ||data.utp-kabel.be^
+||data.utp-kabel.nl^
 ||data.utranuittotupa.fi^
 ||data.vakprofs.nl^
 ||data.vastgoedbs.nl^
@@ -14561,6 +14563,7 @@
 ||load.krcurxzl.soundboks.co.uk^
 ||load.krcurxzl.soundboks.com^
 ||load.krcurxzl.soundboks.eu^
+||load.kstream.kenayhome.com^
 ||load.kstream.klasthome.com^
 ||load.lbss.lois-bullion.com^
 ||load.lemon.meinefestanstellung-fyrd.com^
@@ -15121,6 +15124,7 @@
 ||load.ss.vincimech.com^
 ||load.ss.vingsted.dk^
 ||load.ss.wheat.co.uk^
+||load.ss.wheat.no^
 ||load.ss.wilsonspetfood.co.uk^
 ||load.ss.woningontruiming-regionaal.nl^
 ||load.ss.wydawnictwootwarte.pl^
@@ -20908,6 +20912,7 @@
 ||gtm.saboresartesanales.site^
 ||gtm.saborethos.com.br^
 ||gtm.safenaconsultoria.com.br^
+||gtm.saffronalley.com^
 ||gtm.sagrupo.com^
 ||gtm.sahabatyatim.com^
 ||gtm.salvexp.com^
@@ -22152,7 +22157,6 @@
 ||load.gtm.abc-chiens.fr^
 ||load.gtm.abctoner.hu^
 ||load.gtm.abctoner.pl^
-||load.gtm.abctoner.ro^
 ||load.gtm.abctonery.cz^
 ||load.gtm.abctonery.sk^
 ||load.gtm.abintus.fr^
@@ -22561,7 +22565,6 @@
 ||load.lh.locushabitat.com^
 ||load.lhppqrld.futurola.com^
 ||load.lhst.reidframed.com^
-||load.lib.dewanyasver.com^
 ||load.lib.dewiboss.com^
 ||load.lime.tripmap.com^
 ||load.lnsass.lovenspice.com^
@@ -28786,7 +28789,6 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||ingest-api.evoto.ai^
 ||api.jformatter.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
