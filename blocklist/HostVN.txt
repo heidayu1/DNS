@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-10T14:50:20.165Z
+! Last modified: 2026-03-11T14:50:35.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1676,6 +1676,12 @@
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||log.aliyuncs.com^
+||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
+||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
+||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
+||ad-host-backup-america.s3.us-west-1.amazonaws.com^
+||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
+||ad-host-backup-europe.s3.eu-central-1.amazonaws.com^
 ||userreport.com^
 ||api.exc.mob.com^
 ||api.share.mob.com^
@@ -2576,6 +2582,23 @@
 ||events.newsroom.bi^
 ||icu.newsroom.bi^
 ||agl006.host^
+||adups.cn^
+||adups.com^
+||smartclip.net^
+||smartclip-services.com^
+||maxesads.com^
+||onegg.site^
+||hookspf.com^
+||sonicsads.com^
+||acobt.tech^
+||mosspf.cn^
+||mosspf.com^
+||mosspf.net^
+||mossru.com^
+||mossfast.com^
+||mossturbo.com^
+||youngle.tech^
+||dmrtb.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -4051,6 +4074,7 @@
 ||ads.xtra.co.nz^
 ||ads.yimg.com^
 ||ads.yldmgrimg.net^
+||ads.zorvec.top^
 ||ads1.mediacapital.pt^
 ||ads1.opensubtitles.org^
 ||ads1.virtual-nights.com^
@@ -4369,6 +4393,7 @@
 ||api.myadsget.com^
 ||api.parse.com^
 ||api.unthem.com^
+||api.youngle.site^
 ||apis.appnxt.net^
 ||apoilpnwr.com^
 ||app-promo.com^
@@ -5154,6 +5179,7 @@
 ||devaluequalmrelative.com^
 ||deviatestartblock.com^
 ||devoteegibberishsinister.com^
+||devpeakomegainnovations.com^
 ||diagramjawlineunhappy.com^
 ||dianomi.com^
 ||dibsemey.com^
@@ -5675,6 +5701,7 @@
 ||hw.zuimeitianqi.com^
 ||hwoqshyx.com^
 ||hwpnocpctu.com^
+||hwuhkabi.in^
 ||hxgqqxopf.com^
 ||hybrid.ai^
 ||hydramedia.com^
@@ -6369,6 +6396,7 @@
 ||ofleafeona.com^
 ||og-shopee9.com^
 ||oghqvffmnt.com^
+||ogpriuleifns.com^
 ||ohtctjiuow.com^
 ||oinkedbowls.com^
 ||oixohmve.com^
@@ -7056,7 +7084,7 @@
 ||smart2cnjuh34jb.com^
 ||smart4ads.com^
 ||smartclick.net^
-||smartclip.net^
+||smartclip.com^
 ||smartmad.com^
 ||smartyads.com^
 ||smashsurprise.com^
@@ -7275,6 +7303,7 @@
 ||telaria.com^
 ||teliad.de^
 ||temelio.com^
+||templatein13.net^
 ||tendertest.com^
 ||tenthsfrumpy.com^
 ||terra8nb.com^
@@ -7315,6 +7344,7 @@
 ||tipsembankment.com^
 ||tipslyrev.com^
 ||tirosagalite.com^
+||tkexutqf.in^
 ||tlvmedia.com^
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
@@ -8418,6 +8448,8 @@
 ||tagmanager.alright.network^
 ||tamgrt.com^
 ||targeting.washpost.nile.works^
+||tc.mnbvcxzq.com^
+||tc.vbnmhjlp.com^
 ||tdf.ringier.ch^
 ||ted.dailymail.co.uk^
 ||ted.metro.co.uk^
@@ -8437,6 +8469,7 @@
 ||to.getnitropack.com^
 ||track-aws.notsy.io^
 ||track.56txs4.com^
+||track.bluexad.ai^
 ||track.cbdatatracker.com^
 ||track.cordial.io^
 ||track.easeus.com^
