@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-11T14:50:34.463Z
+! Last modified: 2026-03-12T14:50:49.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30553
+! Rules count: 30549
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -2432,7 +2432,6 @@
 ||adbsmetrics.hanwha.com^
 ||adbsmetrics.kia.com^
 ||adbsmetrics.koreanair.com^
-||adbsmetrics.kt.com^
 ||adbsmetrics.lgcaremall.com^
 ||adbsmetrics.lotterentacar.net^
 ||adbsmetrics.millionbeauty.co.kr^
@@ -3142,6 +3141,7 @@
 ||data.infinitymail.smart.com.ph^
 ||data.info.313presents.com^
 ||data.info.alexalbon.com^
+||data.info.avianca.com^
 ||data.info.aware.com.au^
 ||data.info.clear.com.br^
 ||data.info.clippers.com^
@@ -6690,7 +6690,6 @@
 ||smetric.eddiev.com^
 ||smetric.lo.movement.com^
 ||smetric.m.nissan-global.com^
-||smetric.malaysiaairlines.com^
 ||smetric.medix-inc.co.jp^
 ||smetric.movement.com^
 ||smetric.parkroyalhotels.com^
@@ -9836,6 +9835,7 @@
 ||data-775b08ba9a.events.at^
 ||data-779b9f41fc.business-live.at^
 ||data-7860983f88.wohintipp.at^
+||data-7bd40aa49e.laendleimmo.at^
 ||data-7fa3547eed.atv2.at^
 ||data-8053aabdac.integrale-planung.net^
 ||data-81547504c8.fupa.net^
@@ -11406,6 +11406,7 @@
 ||dialogue.mazda.cz^
 ||dialogue.mazda.dk^
 ||dialogue.mazda.es^
+||dialogue.mazda.eu^
 ||dialogue.mazda.fr^
 ||dialogue.mazda.gr^
 ||dialogue.mazda.hr^
@@ -13393,7 +13394,6 @@
 ||data.solisci.pl^
 ||data.soojuspumbad.ee^
 ||data.spelt-afvalcontainer.nl^
-||data.staalhaven.dk^
 ||data.staaltuin.nl^
 ||data.staltradgarden.se^
 ||data.steinmandl.at^
@@ -15485,7 +15485,6 @@
 ||load.sstax.jbpronostics.fr^
 ||load.sstm.arenasport.com^
 ||load.sstm.arenaswim.com^
-||load.sstm.collascrill.com^
 ||load.sstrk.green-acres.at^
 ||load.sstrk.green-acres.co.uk^
 ||load.sstrk.green-acres.hr^
@@ -15543,7 +15542,6 @@
 ||load.stp.gordijnen.nl^
 ||load.str.xn--maksrengring-2jb.dk^
 ||load.stsv.brillen.pl^
-||load.stsv.gafas.es^
 ||load.stsv.occhiali24.it^
 ||load.stsv.steiner-vision.co.uk^
 ||load.stsv.steiner-vision.es^
@@ -16356,7 +16354,6 @@
 ||sgtm.ollum.it^
 ||sgtm.on720.com^
 ||sgtm.one2create.co.uk^
-||sgtm.ontdek-utrecht.nl^
 ||sgtm.ornusbike.com^
 ||sgtm.orthogether.com^
 ||sgtm.orticolturaincampo.com^
@@ -16818,6 +16815,7 @@
 ||stipe.hittaflyttfirma.se^
 ||stms.transforminglives.co.uk^
 ||stpanalytics.tudatalattihatalma.hu^
+||stpserver.blossominggifts.com^
 ||strack.odderbeing.com^
 ||sts.domusacademy.com^
 ||sts.only-driip.shop^
@@ -22092,7 +22090,6 @@
 ||load.data.oliverandco.co.uk^
 ||load.data.overseas.realty^
 ||load.data.pdgroupinvestmentsandeducation.com^
-||load.data.procaravan.fi^
 ||load.data.proftine.com.br^
 ||load.data.regalhoney.net^
 ||load.data.rootine.co.il^
@@ -22437,7 +22434,6 @@
 ||load.gtm.clf.org^
 ||load.gtm.cloopband.com^
 ||load.gtm.clthardscapingandlandscaping.com^
-||load.gtm.cobsbread.com^
 ||load.gtm.coilovers.co.za^
 ||load.gtm.coluri.com^
 ||load.gtm.combatstress.org.uk^
@@ -29026,7 +29022,6 @@
 ||utiq.compradiccion.com^
 ||utiq.comunidadmsm.es^
 ||utiq.directoalpaladar.com^
-||utiq.elperiodicoextremadura.com^
 ||utiq.eventfinder.at^
 ||utiq.extratipp.com^
 ||utiq.foodblog.it^
@@ -29260,7 +29255,6 @@ prd.api.bleacherreport.com^
 ||apihorizon.nnmtools.com^
 ||cdnhorizon.nnmtools.com^
 ||log-auth.flysleep.cn^
-||log.onmas.kt.com^
 ||logapi.kt.com^
 ||clog.lghv.net^
 ||stlog*-local.kakao.com^
@@ -30003,6 +29997,7 @@ prd.api.bleacherreport.com^
 ||za.zingnews.vn^
 ||p644.thereporter.com^
 ||v476.reporterherald.com^
+||i867.journal-advocate.com^
 ||h516.thereporteronline.com^
 ||j423.oneidadispatch.com^
 ||api-*.hismarttv.com^
@@ -30090,6 +30085,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
+||global-report.ml.youngjoygame.com^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
