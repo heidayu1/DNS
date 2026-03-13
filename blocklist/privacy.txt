@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-12T14:50:49.753Z
+! Last modified: 2026-03-13T14:51:06.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30549
+! Rules count: 30548
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -2064,7 +2064,6 @@
 ||smetrics.nationalbank.co.nz^
 ||smetrics.nepro.com^
 ||smetrics.nfpa.org^
-||smetrics.nintendo.com^
 ||smetrics.noloan.com^
 ||smetrics.npr.org^
 ||smetrics.nrhtx.com^
@@ -10050,7 +10049,6 @@
 ||adat.dietaesfitnesz.hu^
 ||adat.duol.hu^
 ||adat.figyelo.hu^
-||adat.haon.hu^
 ||adat.hevesmegyeihirlap.hu^
 ||adat.hirdessemeg.hu^
 ||adat.hirtv.hu^
@@ -13372,6 +13370,7 @@
 ||data.patchkast.nl^
 ||data.patchkastwinkel.nl^
 ||data.petsecur.nl^
+||data.pit-pit.com^
 ||data.pl.kramucci.com^
 ||data.powerptgym.co.uk^
 ||data.printerpatroner.dk^
@@ -15485,6 +15484,7 @@
 ||load.sstax.jbpronostics.fr^
 ||load.sstm.arenasport.com^
 ||load.sstm.arenaswim.com^
+||load.sstm.collascrill.com^
 ||load.sstrk.green-acres.at^
 ||load.sstrk.green-acres.co.uk^
 ||load.sstrk.green-acres.hr^
@@ -15542,6 +15542,7 @@
 ||load.stp.gordijnen.nl^
 ||load.str.xn--maksrengring-2jb.dk^
 ||load.stsv.brillen.pl^
+||load.stsv.gafas.es^
 ||load.stsv.occhiali24.it^
 ||load.stsv.steiner-vision.co.uk^
 ||load.stsv.steiner-vision.es^
@@ -16380,7 +16381,6 @@
 ||sgtm.pompdelux.com^
 ||sgtm.pompdelux.dk^
 ||sgtm.pompdelux.nl^
-||sgtm.popuptextil.ro^
 ||sgtm.posternature.com^
 ||sgtm.predeion.it^
 ||sgtm.prefast.nl^
@@ -18888,6 +18888,7 @@
 ||events.galerieslafayette.qa^
 ||events.georgebrazilhvac.com^
 ||events.giftcardgranny.com^
+||events.giftya.com^
 ||events.groggs.com^
 ||events.happyhomeheatingandcooling.com^
 ||events.herbarofficial.com^
@@ -22090,6 +22091,7 @@
 ||load.data.oliverandco.co.uk^
 ||load.data.overseas.realty^
 ||load.data.pdgroupinvestmentsandeducation.com^
+||load.data.procaravan.fi^
 ||load.data.proftine.com.br^
 ||load.data.regalhoney.net^
 ||load.data.rootine.co.il^
@@ -29159,7 +29161,6 @@
 ||telemetry.sdk.inmobi.com^
 ||uxlog-api.danawa.com^
 ||telemetry.microsoft.us^
-||analytics.heistotron.uk^
 ||fluffy-analytics.vercel.app^
 ||stats.renet.io^
 ||tracking.cds.dmm.
@@ -29528,7 +29529,6 @@ prd.api.bleacherreport.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
 ||metrics.biletino.com^
-||analytics.kurocore.com^
 ||metricus.artlebedev.ru^
 ||o365diagtelemetry.trafficmanager.net^
 ||log.ohou.se^
@@ -30085,7 +30085,6 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
-||global-report.ml.youngjoygame.com^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
