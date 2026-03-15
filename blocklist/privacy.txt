@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-14T14:51:21.749Z
+! Last modified: 2026-03-15T14:51:36.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30548
+! Rules count: 30550
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -680,6 +680,7 @@
 ||michiganfirstcreditunion.fmservice.com^
 ||mkt.demandgenreport.com^
 ||newjersey-content.cresa.com^
+||news.cfoleadership.com^
 ||news.coloradobiz.com^
 ||obixdelivery.obix.com^
 ||offer.fmservice.com^
@@ -3695,6 +3696,7 @@
 ||metrics.egencia.fi^
 ||metrics.egencia.ie^
 ||metrics.egencia.it^
+||metrics.egencia.no^
 ||metrics.egencia.pl^
 ||metrics.egencia.se^
 ||metrics.emicizumabinfo.com^
@@ -5247,6 +5249,7 @@
 ||ssc.radiosawa.com^
 ||ssc.radiotavisupleba.ge^
 ||ssc.radiotelevisionmarti.com^
+||ssc.radiyoyacuvoa.com^
 ||ssc.szabadeuropa.hu^
 ||ssc.voadeewanews.com^
 ||ssl.o.medscapelive.org^
@@ -6113,6 +6116,7 @@
 ||metrics.marriottvacationclub.asia^
 ||metrics.mastercard.com^
 ||metrics.matchesfashion.com^
+||metrics.mathworks.cn^
 ||metrics.mathworks.com^
 ||metrics.matlab.com^
 ||metrics.maurices.com^
@@ -7357,6 +7361,7 @@
 ||smetrics.power97.com^
 ||smetrics.prairiefarmer.com^
 ||smetrics.prd.base.be^
+||smetrics.prd.telenet.be^
 ||smetrics.premera.com^
 ||smetrics.pro.roche.fi^
 ||smetrics.promod.eu^
@@ -10057,7 +10062,6 @@
 ||adat.kemma.hu^
 ||adat.kisalfold.hu^
 ||adat.lakaskultura.hu^
-||adat.life.hu^
 ||adat.likebalaton.hu^
 ||adat.magyarnemzet.hu^
 ||adat.mainap.hu^
@@ -29023,7 +29027,6 @@
 ||utiq.blogthinkbig.com^
 ||utiq.compradiccion.com^
 ||utiq.comunidadmsm.es^
-||utiq.directoalpaladar.com^
 ||utiq.eventfinder.at^
 ||utiq.extratipp.com^
 ||utiq.foodblog.it^
@@ -29159,7 +29162,6 @@
 ||spa-tracker*.spapi.io^
 ||unif-id.ssp.inmobi.com^
 ||telemetry.sdk.inmobi.com^
-||uxlog-api.danawa.com^
 ||telemetry.microsoft.us^
 ||fluffy-analytics.vercel.app^
 ||stats.renet.io^
