@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-15T14:51:36.484Z
+! Last modified: 2026-03-16T14:51:51.665Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30550
+! Rules count: 30552
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -173,7 +173,6 @@
 ||analytics-beacon.p.uliza.jp^
 ||trace.zhiyan.tencent-cloud.net^
 ||log.voicecloud.cn^
-||log.collectaction.com^
 ||t.adcell.com^
 ||odtrtadl.com^
 ||log.trackingio.com^
@@ -222,6 +221,7 @@
 ||cyberanalytics.nl^
 ||analytics-script.ad-shield.io^
 ||analytics.octaglobal.com^
+||analytics.liveact.cri-mw.jp^
 ||client.botchk.net^
 ||analytics*.prezly.com^
 ||gapp1.com^
@@ -4918,6 +4918,7 @@
 ||smetrics.rejuvenationhome.ca^
 ||smetrics.rent.mercedes-benz.ch^
 ||smetrics.rent.mercedes-benz.co.jp^
+||smetrics.repco.co.nz^
 ||smetrics.replaygaming.com^
 ||smetrics.respiratoryxchange.com.mx^
 ||smetrics.revlimid-japan.jp^
@@ -5242,6 +5243,7 @@
 ||somni.mapac.thermofisher.cn^
 ||somni.redcardreloadable.com^
 ||spike.email-disney.cjm.adobe.com^
+||ssc.azadiradio.com^
 ||ssc.azadliq.org^
 ||ssc.mashaalradio.com^
 ||ssc.polygraph.info^
@@ -8338,6 +8340,7 @@
 ||events.lieferando.at^
 ||events.pyszne.pl^
 ||events.takeaway.com^
+||events.thuisbezorgd.nl^
 ||omt.mojadm.sk^
 ||pixel.bi.serviceplan.com^
 ||t.chippersdirect.com^
@@ -18374,7 +18377,6 @@
 ||capig.vanity-zurich.ch^
 ||capig.volkswagen.dk^
 ||capig.warejewelers.com^
-||capig.weddyplace.com^
 ||capig.wombenwellness.com^
 ||capig.worldsofpuppets.com^
 ||capig.zerda.academy^
@@ -19034,6 +19036,7 @@
 ||gtm-api.brinaldi.com^
 ||gtm-educ.nanymotacursos.com.br^
 ||gtm-gw.21-draw.com^
+||gtm-mare.unionlido.com^
 ||gtm-projetosvencedores.agilidademais.com.br^
 ||gtm-semanadopowerlifting.escoladopowerlifting.com.br^
 ||gtm-server.filipepenoni.com.br^
@@ -23372,7 +23375,6 @@
 ||load.ss.roseskingdom.cz^
 ||load.ss.rushbrush.com^
 ||load.ss.safashouses.com^
-||load.ss.safran-navigation-timing.com^
 ||load.ss.salontransilvania.ro^
 ||load.ss.saltkur.dk^
 ||load.ss.sambat.com^
@@ -28047,7 +28049,6 @@
 ||sstgtm.buyaz.com.bd^
 ||sstgtm.canvasgallerybd.com^
 ||sstgtm.cosmeticsghor.com^
-||sstgtm.enlivebd.com^
 ||sstgtm.eurosportscamps.com^
 ||sstgtm.glowfuelbd.com^
 ||sstgtm.laminax.com.bd^
@@ -29163,6 +29164,7 @@
 ||unif-id.ssp.inmobi.com^
 ||telemetry.sdk.inmobi.com^
 ||telemetry.microsoft.us^
+||analytics.heistotron.uk^
 ||fluffy-analytics.vercel.app^
 ||stats.renet.io^
 ||tracking.cds.dmm.
@@ -29309,7 +29311,6 @@ prd.api.bleacherreport.com^
 ||d.analyticsmania.com^
 ||gtm.lercio.it^
 ||gtm.mandesager.dk^
-||sgtm.atg.se^
 ||sgtm.csas.cz^
 ||sgtm.fairmont.
 ||sgtm.macrolibrarsi.it^
@@ -29385,7 +29386,6 @@ prd.api.bleacherreport.com^
 ||gtm.guitarzoom.com^
 ||gtm.humann.com^
 ||gtm.jerseyfinance.je^
-||gtm.jotex.se^
 ||gtm.kglteater.dk^
 ||gtm.kiwitaxi.com^
 ||gtm.moneybird.nl^
@@ -29595,6 +29595,7 @@ prd.api.bleacherreport.com^
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
 ||analytics.livestream.com^
+||analytics.marquiz.ru^
 ||analytics.move.ru^
 ||analytics.msnbc.msn.com^
 ||analytics.ooyala.com^
@@ -30145,6 +30146,7 @@ dlsdk.appsflyer.com^
 ||cnlogs.umengcloud.com^
 ||grs.dbankcloud.
 ||logservice.dbankcloud.cn
+||mssdk-boot.cpacutapi.com^
 ||api.abcsinsights.com^
 ||stats.calldorado.com^
 ||traffic.calldorado.com^
