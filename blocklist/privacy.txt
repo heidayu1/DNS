@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-17T14:52:06.762Z
+! Last modified: 2026-03-18T14:52:21.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30469
+! Rules count: 30472
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -2572,7 +2572,6 @@
 ||analytics.pipelife.si^
 ||analytics.seagate.com^
 ||analytics.soluforce.com^
-||analytics.subzero-wolf.com^
 ||analytics.truckingauthority.com^
 ||analytics.ust.com^
 ||analytics.wevolt.energy^
@@ -6671,7 +6670,6 @@
 ||smetric.shop.com^
 ||smetric.thecapitalburger.com^
 ||smetric.tsite.jp^
-||smetrics-cns.panasonic.com^
 ||smetrics.1005freshradio.ca^
 ||smetrics.1011bigfm.com^
 ||smetrics.1031freshradio.ca^
@@ -6791,6 +6789,7 @@
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
 ||smetrics.base.be^
+||smetrics.bcbsnd.com^
 ||smetrics.bd.dk^
 ||smetrics.be.carrefour.eu^
 ||smetrics.beatsbydre.com.cn^
@@ -8768,7 +8767,6 @@
 ||ytbnvm.firadis.net^
 ||yudedj.canadianprotein.com^
 ||yvfgex.happyprince.co.kr^
-||ywrcqa.11alive.com^
 ||yxkzip.brastemp.com.br^
 ||yyrtip.mujkoberec.cz^
 ||yzcfva.healthyplanetcanada.com^
@@ -10995,6 +10993,7 @@
 ||trk.findfashionevents.com^
 ||trk.intermezzofashionevents.com^
 ||trk.magicfashionevents.com^
+||webtracking.bankwebinars.com^
 ||webtracking.cuwebinars.com^
 ||amer.juniper.net^
 ||content.juniper.net^
@@ -15460,6 +15459,7 @@
 ||load.st.carloanfirst.co.uk^
 ||load.st.fussballreisen.com^
 ||load.st.masterminds-event.nl^
+||load.st.wellmaxx-bodyforming.com^
 ||load.stape.av-studio.si^
 ||load.stape.bo-i-vinge.dk^
 ||load.stape.bopaaamagerstrand.dk^
@@ -16506,6 +16506,7 @@
 ||sgtm.vdnkitchen.nl^
 ||sgtm.veatzz.com^
 ||sgtm.vendo.at^
+||sgtm.venezianico.com^
 ||sgtm.verdo.com^
 ||sgtm.verpas.com^
 ||sgtm.verpas.nl^
@@ -16665,6 +16666,7 @@
 ||sst.buywiseappliances.co.uk^
 ||sst.cc-tapis.com^
 ||sst.celinadigby.co.uk^
+||sst.collectorsquare.com^
 ||sst.crashbaggage.com^
 ||sst.curlyburger.dk^
 ||sst.cuscadecaine.ro^
@@ -18426,7 +18428,6 @@
 ||d.footballgadgets.shop^
 ||d.karim-fathi-berrada.fr^
 ||d.liveoptimum.co^
-||d.musclecharge.app^
 ||d.pharmafinancialadvisor.com^
 ||d.pixelacademy.ge^
 ||d.sajada.com^
@@ -18834,7 +18835,6 @@
 ||events.ciganabeleza.com.br^
 ||events.clickbright.co.uk^
 ||events.customairinc.com^
-||events.dot-st.com^
 ||events.drogafarma.com.br^
 ||events.drogariaveracruz.com.br^
 ||events.enigmapanasian.co.uk^
@@ -22051,6 +22051,7 @@
 ||load.data.ryby.dk^
 ||load.data.sellfast.com^
 ||load.data.shosial.co.il^
+||load.data.sparkpaws.com^
 ||load.data.sumocyco.com^
 ||load.data.superbath.co.uk^
 ||load.data.superbath.nl^
@@ -27359,7 +27360,6 @@
 ||sgtm.purestep.co.uk^
 ||sgtm.purewelltoday.online^
 ||sgtm.purplecarrot.com^
-||sgtm.quarkexpeditions.com^
 ||sgtm.quebelamoda.com.br^
 ||sgtm.r.design^
 ||sgtm.raamdecoratievantuiss.nl^
@@ -27891,6 +27891,7 @@
 ||sst.coastalwindows.com^
 ||sst.culturainglesapiaui.com.br^
 ||sst.dadcertified.store^
+||sst.datarails.com^
 ||sst.ddfevent.com^
 ||sst.dhimanacademy.com^
 ||sst.dollardadclub.com^
@@ -28414,7 +28415,6 @@
 ||stepup.bdamadermart.com^
 ||stgm.measuremindsgroup.com^
 ||stgtm.bdseotools.com^
-||stl.swingtradinglab.com^
 ||stl.tradewithathena.com^
 ||stm.7bangladesh.com^
 ||stm.olivespa.gr^
@@ -30008,6 +30008,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
+||sensor.photogrid.app^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
@@ -30080,6 +30081,7 @@ dlsdk.appsflyer.com^
 ||datacollector-drru.dt.dbankcloud.ru^
 ||ulog*.kwai-pro.com^
 ||twns.p2ptun.qq.com^
+||collect.4gtv.tv^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
 ||mon-v*-boot.capcutapi.com^
@@ -30157,7 +30159,6 @@ dlsdk.appsflyer.com^
 ||log-v4-insight.kaizenplatform.net^
 ||tracker.neodatagroup.com^
 ||stats.sxp.smartclip.net^
-||static.fengkongcloud.com^
 ||fp-*it*.fengkongcloud.com^
 ||tracker.fengkongcloud.com^
 ||report-stats.ad.jiguang.cn^
@@ -30412,6 +30413,7 @@ dlsdk.appsflyer.com^
 ||gripcorn.com^
 ||gulliblegrip.com^
 ||happysponge.com^
+||hippojump.com^
 ||idlecollect.com^
 ||incomehippo.com^
 ||irelandroad.com^
@@ -30419,6 +30421,7 @@ dlsdk.appsflyer.com^
 ||jazzstadium.com^
 ||jubilantcascade.com^
 ||lackadaisicalkite.com^
+||logicalminds.net^
 ||logoshutter.com^
 ||maddeningpowder.com^
 ||madebyintent.com^
