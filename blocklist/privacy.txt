@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-18T14:52:21.540Z
+! Last modified: 2026-03-19T14:52:37.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30472
+! Rules count: 30474
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -2236,7 +2236,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2474,7 +2473,6 @@
 ||adtd.douglas.be^
 ||adtd.douglas.ch^
 ||adtd.douglas.cz^
-||adtd.douglas.es^
 ||adtd.douglas.hr^
 ||adtd.douglas.lt^
 ||adtd.douglas.pt^
@@ -4472,6 +4470,7 @@
 ||smetrics.i22.nadro.mx^
 ||smetrics.ibercaja.es^
 ||smetrics.ie.edu^
+||smetrics.iehp.org^
 ||smetrics.ig.ca^
 ||smetrics.igmfinancial.com^
 ||smetrics.ilhealthpracticealliance.com^
@@ -4781,6 +4780,8 @@
 ||smetrics.petersmithcadillac.com^
 ||smetrics.petersmithgm.com^
 ||smetrics.pexion.co.uk^
+||smetrics.pfizer.com^
+||smetrics.pfizerforall.com^
 ||smetrics.pfizermenopause.com^
 ||smetrics.pfizerrsv.com^
 ||smetrics.pharmawebportal.com^
@@ -5436,6 +5437,7 @@
 ||ajo-zensar.adobesandbox.com^
 ||ajo.cnxbikes.com^
 ||ajo1gdc.ajo1gdc.adobevlab.com^
+||al-smetrics.vizio.com^
 ||ametrics.finn.no^
 ||an.avast.ru^
 ||analytic.americanfunds.com^
@@ -5674,7 +5676,6 @@
 ||metrics.activecommunities.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
 ||metrics.airasia.com^
@@ -7288,6 +7289,7 @@
 ||smetrics.nykredit.dk^
 ||smetrics.nylaarp.com^
 ||smetrics.nyulangone.org^
+||smetrics.oakleysi.com^
 ||smetrics.ocrelizumabinfo.com^
 ||smetrics.ocrevus.com^
 ||smetrics.ohiofarmer.com^
@@ -7586,6 +7588,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7696,6 +7699,7 @@
 ||smetrics.zexy-en-soudan.net^
 ||smetrics.zexy-enmusubi.net^
 ||smetrics.zimmerbiomet.com^
+||smetrics.ziplyfiber.com^
 ||smetrics.zurichlife.co.jp^
 ||smetrics2.williamhill.com^
 ||smetricsadobe.gnchollandandbarrett.com^
@@ -11087,7 +11091,6 @@
 ||marketing.overheaddoor.com^
 ||tracking.opentable.com^
 ||email.mymandg.co.uk^
-||live.alljobs.co.il^
 ||stat.starterre.fr^
 ||uk.realestate.bnpparibas^
 ||app.partner.fisglobal.com^
@@ -11908,6 +11911,7 @@
 ||tracking.health.tmcaz.com^
 ||tracking.info.jeffersonhealth.org^
 ||tracking.link.boone.health^
+||webtrackingvet.rossu.edu^
 ||eventos.abastur.com^
 ||newsletters.bancsabadell.com^
 ||procurement.cipscomms.org^
@@ -15643,7 +15647,6 @@
 ||measure.filolo.ch^
 ||measure.generations-plus.ch^
 ||measure.hadatap.pl^
-||measure.ifage.ch^
 ||measure.javorina.com^
 ||measure.kostaboda.se^
 ||measure.logistiekonline.be^
@@ -16338,6 +16341,7 @@
 ||sgtm.petridislv.gr^
 ||sgtm.pharmapower.it^
 ||sgtm.pietrozanettihome.com^
+||sgtm.piquadro.com^
 ||sgtm.plantekoeb.dk^
 ||sgtm.pleasureandpassion.co.uk^
 ||sgtm.pnb-shop.com.ua^
@@ -18599,6 +18603,7 @@
 ||data.joybraga.com.br^
 ||data.jujuhomestore.com^
 ||data.karlamaree.co^
+||data.keyzarjewelry.com^
 ||data.kokomo.games^
 ||data.kramah.sa^
 ||data.krfof.com^
@@ -18958,6 +18963,7 @@
 ||fsstrack.tryme.com.bd^
 ||ftrack.dowasdeal.com^
 ||fvgtmtrack.fvivas.com^
+||g.eventrill.com^
 ||g.petcloud.com.au^
 ||g.seven.academy^
 ||ga.camaderede.pt^
@@ -19963,7 +19969,6 @@
 ||gtm.gasbrianti.com.br^
 ||gtm.gazeboshop.co.uk^
 ||gtm.gearcustoms.com^
-||gtm.geelybrasil.com.br^
 ||gtm.geelynorthadelaide.com.au^
 ||gtm.geepours.com^
 ||gtm.geisianearaujo.com.br^
@@ -29286,7 +29291,6 @@ prd.api.bleacherreport.com^
 ||webc2s.pubgw.yahoo.com^
 ||tracking.cosme.net^
 ||beacon.nc-net.or.jp^
-||lhe-beacon.team-rec.jp^
 ||collect.alphastream.io^
 ||logs.8thwall.com^
 ||analytics.verfacto.com^
@@ -30008,7 +30012,6 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
-||sensor.photogrid.app^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
@@ -30266,7 +30269,6 @@ dlsdk.appsflyer.com^
 ||tracking.trnox.com^
 ||rts.mobula.sdk.duapps.com^
 ||aftonbladetnya.sc.omtrdc.net^
-||omni-ads.omni.news^
 ||track.adform.net^
 ||sync.adotmob.com^
 ||logger.cloudmobi.net^
