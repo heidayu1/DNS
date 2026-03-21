@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-20T14:53:02.717Z
+! Last modified: 2026-03-21T14:53:17.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30478
+! Rules count: 30475
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -668,6 +668,7 @@
 ||marketing.soundtrackyourbrand.com^
 ||marketing.specgradeled.com^
 ||marketing.useadam.co.uk^
+||marketing.visitpasadena.com^
 ||marketing.wealthcarecapital.com^
 ||media.eagleridgeinvestment.com^
 ||media.leahy-ifp.com^
@@ -2236,6 +2237,7 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
+||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2276,6 +2278,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2736,7 +2739,6 @@
 ||data.alert.xfinity.com^
 ||data.alhambraventure.com^
 ||data.americanexpress.test.ajo.adobe.com^
-||data.americas.coca-cola.com^
 ||data.apac.coca-cola.com^
 ||data.areavip.realmadrid.es^
 ||data.articles.ringcentral.com^
@@ -2775,7 +2777,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.campaigns.mediasuper.com.au^
@@ -2993,7 +2994,6 @@
 ||data.email.miumiu.com^
 ||data.email.nab.com.au^
 ||data.email.nabtrade.com.au^
-||data.email.philips-hue.com^
 ||data.email.podcast.adobe.com^
 ||data.email.pradagroup.com^
 ||data.email.q8.it^
@@ -3964,7 +3964,6 @@
 ||smetrics.across-t2d.com^
 ||smetrics.acs.org.au^
 ||smetrics.act4yourheart.com^
-||smetrics.adnradio.cl^
 ||smetrics.adpkdquestions.com^
 ||smetrics.adult.prevnar20.com^
 ||smetrics.aena.es^
@@ -5422,7 +5421,6 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
-||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -5577,7 +5575,6 @@
 ||data.stepstone.nl^
 ||data.vinsolutions.com^
 ||data0.virginmobile.ca^
-||data1.virginmobile.ca^
 ||dev.email-signify.cjm.adobe.com^
 ||digistat.westjet.com^
 ||digistats.westjet.com^
@@ -5676,6 +5673,7 @@
 ||metrics.activecommunities.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
 ||metrics.airasia.com^
@@ -5927,7 +5925,6 @@
 ||metrics.fnac.be^
 ||metrics.ford.ca^
 ||metrics.ford.com^
-||metrics.foxbusiness.com^
 ||metrics.fraport.com^
 ||metrics.freecreditreport.com^
 ||metrics.frontier.com^
@@ -7047,6 +7044,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -8770,6 +8768,7 @@
 ||yqqhbd.yotsuyaotsuka.com^
 ||ytbnvm.firadis.net^
 ||yudedj.canadianprotein.com^
+||yvdxij.applevacations.com^
 ||yvfgex.happyprince.co.kr^
 ||yxkzip.brastemp.com.br^
 ||yyrtip.mujkoberec.cz^
@@ -9037,7 +9036,6 @@
 ||ialcp.madeincookware.ca^
 ||idehe.tlfapparel.com^
 ||iegvm.threadwallets.com^
-||iemtz.admsport.com^
 ||ifodr.leadinglady.com^
 ||ipclt.pleasershoes.com^
 ||irnuo.cloud9adventures.com^
@@ -13065,7 +13063,6 @@
 ||base.vrielingassuradeuren.nl^
 ||beacon.wingwin.eu^
 ||bostad.bostadscentralen.se^
-||bull.tradingfreaks.com^
 ||bwmetrics.jegy.hu^
 ||canttouchme.adsimpact.nl^
 ||canttouchme.head-boards.nl^
@@ -19610,6 +19607,7 @@
 ||gtm.cursostetraeducacao.com.br^
 ||gtm.cursovidabakery.com^
 ||gtm.custodio.arq.br^
+||gtm.customysocks.com^
 ||gtm.cutelariaholder.com^
 ||gtm.cvcpaodeacucarjabaquara.com.br^
 ||gtm.cvcshoppingcenter3.com.br^
@@ -26828,6 +26826,7 @@
 ||sgtm.bmzadvogados.com^
 ||sgtm.boardsox.com.au^
 ||sgtm.bobgerace.com^
+||sgtm.bohomoon.com^
 ||sgtm.boletea.com.mx^
 ||sgtm.boletosvictoriamusic.com^
 ||sgtm.border0.com^
@@ -29136,7 +29135,6 @@
 ||stats.pronouns.page^
 ||ad-bls-tracking.lemino.docomo.ne.jp^
 ||logstash-*.radio-canada.ca^
-||rainbow-prod-jdlog.ldoverseas.com^
 ||analytics.egdata.app^
 ||collector-pxdojv695v.protechts.net^
 ||collector1.sooplive.co.kr^
@@ -29465,7 +29463,6 @@ prd.api.bleacherreport.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
-||metrics.biletino.com^
 ||metricus.artlebedev.ru^
 ||o365diagtelemetry.trafficmanager.net^
 ||log.ohou.se^

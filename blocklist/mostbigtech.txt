@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-20T14:53:05.602Z
+! Last modified: 2026-03-21T14:53:20.755Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -208,6 +208,7 @@
 ||maws-aax-apse-rtb.amazon-adsystem.com^
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
+||maws-aax-eu.amazon-adsystem.com^
 ||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
@@ -763,6 +764,7 @@
 ||t-ring-fdv2.msedge.net^
 ||t-ring-s.msedge.net^
 ||t-ring-s2.msedge.net^
+||t-ring-trafficshield.msedge.net^
 ||t-s1-ring.msedge.net^
 ||win10-trt.msedge.net^
 ||ac2.msn.com^
@@ -921,6 +923,7 @@
 ||citrixtelemetryeheu-alias.servicebus.windows.net^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||hme-live-loganalytics-namespace.servicebus.windows.net^
+||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||ppm-licensingtelemetry.servicebus.windows.net^
 ||prd-qlik-telemetry.servicebus.windows.net^
@@ -1056,6 +1059,7 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
+||acr-nz-prd.samsungcloud.tv^
 ||acr-us-prd.samsungcloud.tv^
 ||acr0.samsungcloudsolution.com^
 ||devicelog.samsungcloudsolution.net^
