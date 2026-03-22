@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-21T14:53:17.155Z
+! Last modified: 2026-03-22T14:53:33.156Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30475
+! Rules count: 30470
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -258,7 +258,6 @@
 ||uz-analysis.akamaized.net^
 ||log.gobankingrates.com^
 ||collect.mxapis.com^
-||ad3.cross-a.net^
 ||events.tremorhub.com^
 ||static.user-red.com^
 ||scripttags.jst.ai^
@@ -2473,7 +2472,6 @@
 ||adobemetrics.yellohvillage.fr^
 ||adobemetrics.yellohvillage.it^
 ||adtd.douglas.at^
-||adtd.douglas.be^
 ||adtd.douglas.ch^
 ||adtd.douglas.cz^
 ||adtd.douglas.hr^
@@ -2994,6 +2992,7 @@
 ||data.email.miumiu.com^
 ||data.email.nab.com.au^
 ||data.email.nabtrade.com.au^
+||data.email.philips-hue.com^
 ||data.email.podcast.adobe.com^
 ||data.email.pradagroup.com^
 ||data.email.q8.it^
@@ -3882,7 +3881,6 @@
 ||sanalytics.tnt-tv.ro^
 ||sanalytics.tnt.africa^
 ||sanalytics.tntsports.cl^
-||sanalytics.tntsports.com.ar^
 ||sanalytics.tntsports.com.br^
 ||sanalytics.tntsports.com.mx^
 ||sanalytics.warnertv.fr^
@@ -5673,7 +5671,6 @@
 ||metrics.activecommunities.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
 ||metrics.airasia.com^
@@ -6284,7 +6281,6 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.ubi.com^
 ||metrics.umiloans.com.au^
@@ -7274,6 +7270,7 @@
 ||smetrics.newequipment.com^
 ||smetrics.newfoundlandgrocerystores.ca^
 ||smetrics.newhope.com^
+||smetrics.nhhealthyfamilies.com^
 ||smetrics.nielsen.com^
 ||smetrics.nijobs.com^
 ||smetrics.nofrills.ca^
@@ -7706,7 +7703,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
@@ -13478,7 +13474,6 @@
 ||gtm.atelierluisiano.com^
 ||gtm.auctentic.com^
 ||gtm.audocph.com^
-||gtm.avenuedusol.com^
 ||gtm.bagsandmore.lt^
 ||gtm.baiadelsole.com^
 ||gtm.ballem.it^
@@ -15634,7 +15629,6 @@
 ||load.zwyluhba.switchtogbt.com^
 ||loe.ipvzdelavanie.sk^
 ||loqueveo.libertadinmobiliaria.es^
-||ltst.kiplingtravel.dk^
 ||matters.kuiper-koekange.nl^
 ||measure.amodit.pl^
 ||measure.caroz.com^
@@ -16995,6 +16989,7 @@
 ||an.audiocube.app^
 ||analytic.haramain.shop^
 ||analytic.perromart.com.sg^
+||analytic.petico.sg^
 ||analytics.1909callegari.com^
 ||analytics.2trendy.sa^
 ||analytics.365gradi.com^
@@ -19493,6 +19488,7 @@
 ||gtm.clinicavitalize.com.br^
 ||gtm.clinicavsx.com.br^
 ||gtm.closerscompany.com.br^
+||gtm.closetsbydesign.com^
 ||gtm.cloudspot.io^
 ||gtm.cloze.com.br^
 ||gtm.clpexpert.com.br^
@@ -20523,7 +20519,6 @@
 ||gtm.marinheiroefalsarelli.com.br^
 ||gtm.marisefarmer.com.br^
 ||gtm.marizeterodrigues.com^
-||gtm.marjosports.com.br^
 ||gtm.marmorariafranco.com.br^
 ||gtm.marmorariarmcarmopolis.com.br^
 ||gtm.marnobremarmores.com.br^
@@ -28427,7 +28422,6 @@
 ||stm.olivespa.gr^
 ||store-tracking.cloudwavebd.com^
 ||stp.adoucisseur-eau.com^
-||stp.apostatudo.bet.br^
 ||stp.complexo-odontologico.raquelcasal.com.br^
 ||stp.gtmlinkmasuk77.site^
 ||stp.nutripalomaquintao.com.br^
@@ -28596,7 +28590,6 @@
 ||track.ieac.net.br^
 ||track.importsend.io^
 ||track.infocrescimento.com^
-||track.jogodeouro.bet.br^
 ||track.kappelimoveis.com.br^
 ||track.kholosh.com^
 ||track.kidsartstudio.com.br^
@@ -29027,6 +29020,7 @@
 ||hbbtv-track.prosiebensat1puls4.com^
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
+||mapp.peacocks.co.uk^
 ||mapp.yesstyle.com^
 ||statistics.tuv.com^
 ||tippcom01.tipp24.com^
@@ -29311,7 +29305,6 @@ prd.api.bleacherreport.com^
 ||track.prod.smash.pet^
 ||metrics.quillbot.com^
 ||tracking.pennypublications.com^
-||analysis.aws.locondo.jp^
 ||data.r.pl^
 ||faro-collector-prod-*.grafana.net^
 ||events.caffeine.tv^
@@ -29460,6 +29453,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -30218,6 +30212,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
