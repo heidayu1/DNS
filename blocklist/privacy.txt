@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-22T14:53:33.156Z
+! Last modified: 2026-03-23T14:53:47.802Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2775,6 +2775,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.campaigns.mediasuper.com.au^
@@ -3850,7 +3851,6 @@
 ||sadbmetrics.vocentoeventos.com^
 ||sadbmetrics.welife.es^
 ||sadbmetrics.worldcanic.com^
-||saec-metrics.base.be^
 ||same.zueriperlen.ch^
 ||sanalytics.adobe.tp.gskpro.com^
 ||sanalytics.allianz-assistance.co.uk^
@@ -7040,7 +7040,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7703,6 +7702,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
@@ -9321,7 +9321,6 @@
 ||tracking.walserart.at^
 ||webanalytics.pwc.fr^
 ||webcontr.chiptuning.com^
-||webcontr.scandtrack.com^
 ||stats.mm-germany.com^
 ||ape.saadsvoterguide.org^
 ||blackbird.docstation.co^
@@ -11976,7 +11975,6 @@
 ||fpt.fjordtravel.no^
 ||fpt.gofjords.com^
 ||logfiles.storck.com^
-||mphdd.multipharma.be^
 ||piwik.slotsparadise.com^
 ||polpharmaanalytics.pl^
 ||stat.kela.fi^
@@ -18272,6 +18270,7 @@
 ||capig.clinejewelers.com^
 ||capig.clinicalguruji.com^
 ||capig.cornishglassart.co.uk^
+||capig.cosibella.pl^
 ||capig.craigwear.com^
 ||capig.dacomag.ro^
 ||capig.diamondstuds.com^
@@ -20168,7 +20167,6 @@
 ||gtm.imc-groupeviso.fr^
 ||gtm.imersaomatheuscarvalho.com.br^
 ||gtm.implace.com.br^
-||gtm.importacaonapratica.com.br^
 ||gtm.importcoinjoias.com.br^
 ||gtm.importstorerolex043.com.br^
 ||gtm.imprint-digital.com^
@@ -20652,7 +20650,6 @@
 ||gtm.murray.org.br^
 ||gtm.murrayrivercruises.com.au^
 ||gtm.muscleandmotion.com^
-||gtm.musclenation.org^
 ||gtm.muslimhelpuk.org^
 ||gtm.muslimlifestyle.com.bd^
 ||gtm.mwled.com.br^
@@ -29082,6 +29079,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||qa-track.ssg.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
 ||smetrics.edb.gov.sg^
@@ -29141,6 +29139,7 @@
 ||clck.edadeal.ru^
 ||beehiiv-adnetwork-production.s*.amazonaws.com^
 ||logapi.sooplive.com^
+||log-api.sooplive.com^
 ||analytics.tempmail100.com^
 ||telemetry.*.pvp.net^
 ||cdn.js.fpaudience.com^
@@ -29476,6 +29475,7 @@ prd.api.bleacherreport.com^
 ||logging.e-himart.co.kr^
 ||weblog.e-himart.co.kr^
 ||acelogger.heraldcorp.com^
+||log.ycapp.yiche.com^
 ||log*.vietnamplus.vn^
 ||analytics.ouc.ac.cy^
 ||analytics.dsyqt.com^
@@ -30061,6 +30061,7 @@ dlsdk.appsflyer.com^
 ||smartcard.apps.coloros.com^
 ||t-odx.op-mobile.opera.com^
 ||ulog*.gifshow.com^
+||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
 ||grs.dbankcloud.
 ||logservice.dbankcloud.cn
@@ -30117,7 +30118,6 @@ dlsdk.appsflyer.com^
 ||trackernew.ulivetv.net^
 ||gamestats.easybrain.com^
 ||logs13.xiti.com^
-||ad-api-log.colopl.jp^
 ||track.ktplay.com^
 ||collector.scopely.io^
 ||payload.adadapted.com^
