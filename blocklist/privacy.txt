@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-23T14:53:47.802Z
+! Last modified: 2026-03-24T14:54:04.387Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30470
+! Rules count: 30469
 !
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -2775,7 +2775,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.campaigns.mediasuper.com.au^
@@ -3193,7 +3192,6 @@
 ||data.m.store.nascar.com^
 ||data.m2.disneydestinations.com^
 ||data.ma1.techvaladobe.com^
-||data.madridista-free.realmadrid.com^
 ||data.madridista-premium.realmadrid.com^
 ||data.madridista.platinum.realmadrid.com^
 ||data.magmail.northeast.aaa.com^
@@ -4553,7 +4551,6 @@
 ||smetrics.mandai.com^
 ||smetrics.mandatumam.com^
 ||smetrics.mangoshotta.com^
-||smetrics.mann-filter.com^
 ||smetrics.mann-hummel.com^
 ||smetrics.map.bivet-ca.nu^
 ||smetrics.marcadoresonline.com^
@@ -5284,7 +5281,6 @@
 ||subscriptionlist.customermail.sparcolruytgroup.be^
 ||subscriptions.communications.guard.me^
 ||subscriptions.costco.ca^
-||subscriptions.costco.com^
 ||subscriptions.e.silverfernfarms.com^
 ||subscriptions.experience.dcu.org^
 ||subscriptions.news.pistons.com^
@@ -5419,6 +5415,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -5671,6 +5668,7 @@
 ||metrics.activecommunities.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
 ||metrics.airasia.com^
@@ -6281,6 +6279,7 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.ubi.com^
 ||metrics.umiloans.com.au^
@@ -7582,7 +7581,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -9110,6 +9108,7 @@
 ||urlir.sophiawebster.com^
 ||vefgg.katespade.com^
 ||vipsj.zgallerie.com^
+||vltjn.bucketsquad.com^
 ||vsjvq.headstrongltd.com^
 ||wbksc.tiptop.ca^
 ||xnpwt.bibado.co.uk^
@@ -16429,7 +16428,6 @@
 ||sgtm.stefanotraslochi.it^
 ||sgtm.stgis.at^
 ||sgtm.stjernegaard-rejser.dk^
-||sgtm.stoffkontor.eu^
 ||sgtm.strapforwatch.nl^
 ||sgtm.strasniclothing.it^
 ||sgtm.stroempekompagniet.dk^
@@ -26758,7 +26756,6 @@
 ||sgtm.alliedoutdoorsolutions.com^
 ||sgtm.alphaimoveisbh.com.br^
 ||sgtm.alphanivelo.com^
-||sgtm.alpro.com^
 ||sgtm.americasavesmoney.com^
 ||sgtm.amerikavizerandevusu.com^
 ||sgtm.amovoa.com^
@@ -29127,9 +29124,9 @@
 ||stats.pronouns.page^
 ||ad-bls-tracking.lemino.docomo.ne.jp^
 ||logstash-*.radio-canada.ca^
+||rainbow-prod-jdlog.ldoverseas.com^
 ||analytics.egdata.app^
 ||collector-pxdojv695v.protechts.net^
-||collector1.sooplive.co.kr^
 ||adgbb.io.naver.com^
 ||data.client.openweb.bid^
 ||h5collector.miyoushe.com^
@@ -29194,6 +29191,7 @@ prd.api.bleacherreport.com^
 ||apihorizon.nnmtools.com^
 ||cdnhorizon.nnmtools.com^
 ||log-auth.flysleep.cn^
+||log.onmas.kt.com^
 ||logapi.kt.com^
 ||clog.lghv.net^
 ||stlog*-local.kakao.com^
@@ -29452,7 +29450,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -29497,6 +29494,7 @@ prd.api.bleacherreport.com^
 ||affiliate.gameladen.com^
 ||aktrack.pubmatic.com^
 ||alxc.addlv.smt.docomo.ne.jp^
+||analysis.sooplive.com^
 ||analytic.imlive.com^
 ||analytics-ingress.bitmovin.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -29628,6 +29626,7 @@ prd.api.bleacherreport.com^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
 ||deliver.oztam.com.au^
+||delog.sooplive.com^
 ||device-metrics-us*.amazon.com^
 ||discovery-script.newspic.kr^
 ||dp1fzft1fdb84.cloudfront.net^
@@ -29641,6 +29640,7 @@ prd.api.bleacherreport.com^
 ||event.condenastdigital.com^
 ||event.impression-neo.naver.com^
 ||event.scimo.io^
+||eventapi.sooplive.com^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||events-api*.outfit7.com^
@@ -30212,7 +30212,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
