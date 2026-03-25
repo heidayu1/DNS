@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-24T14:54:04.387Z
+! Last modified: 2026-03-25T14:54:22.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30469
+! Rules count: 30472
 !
+||delivery.dighty.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
 ||log.ablyft.com^
@@ -2992,7 +2993,6 @@
 ||data.email.miumiu.com^
 ||data.email.nab.com.au^
 ||data.email.nabtrade.com.au^
-||data.email.philips-hue.com^
 ||data.email.podcast.adobe.com^
 ||data.email.pradagroup.com^
 ||data.email.q8.it^
@@ -3195,7 +3195,6 @@
 ||data.madridista-premium.realmadrid.com^
 ||data.madridista.platinum.realmadrid.com^
 ||data.magmail.northeast.aaa.com^
-||data.mail.americasbest.com^
 ||data.mail.beneficios.galicia.ar^
 ||data.mail.callme.dk^
 ||data.mail.career.levtech.jp^
@@ -7943,6 +7942,7 @@
 ||sstats.self.com^
 ||sstats.simzdarma.cz^
 ||sstats.smartertravel.com^
+||sstats.snowandrock.com^
 ||sstats.supply.com^
 ||sstats.telenor.se^
 ||sstats.thermoscientific.com^
@@ -9105,6 +9105,7 @@
 ||tzqip.thevinessupply.co^
 ||ukadh.livelyroot.com^
 ||ulslc.happysocks.com^
+||umzpj.paintyourlife.com^
 ||urlir.sophiawebster.com^
 ||vefgg.katespade.com^
 ||vipsj.zgallerie.com^
@@ -11315,6 +11316,7 @@
 ||trk.admmontreal.com^
 ||trk.admtoronto.com^
 ||trk.advancedmanufacturingeast.com^
+||webtracking.oncourselearning.com^
 ||app.appstatesports.com^
 ||app.arizonawildcats.com^
 ||app.bushnell.org^
@@ -11592,6 +11594,7 @@
 ||app.gozips.com^
 ||app.jaxstatesports.com^
 ||app.ksuowls.com^
+||app.mgoblue.com^
 ||app.mogosme.com^
 ||app.msubobcats.com^
 ||app.scarletknights.com^
@@ -15968,7 +15971,6 @@
 ||sgtm.aquafarmaitalia.it^
 ||sgtm.arkistar.it^
 ||sgtm.artedeltessuto.com^
-||sgtm.athena.eu^
 ||sgtm.athenagenai.com^
 ||sgtm.audexa.ro^
 ||sgtm.avidalia.com^
@@ -18610,6 +18612,7 @@
 ||data.legaldocs.com^
 ||data.leonardoames.com.br^
 ||data.letsluckydata.com^
+||data.libsyn.com^
 ||data.listenx.com.br^
 ||data.littleivoryhaus.com.au^
 ||data.locatellienergia.com.br^
@@ -26809,6 +26812,7 @@
 ||sgtm.biovitfarma.com^
 ||sgtm.bitnet.ge^
 ||sgtm.blackmapletrading.com.co^
+||sgtm.blinds-2go.co.uk^
 ||sgtm.blindsonline.com.au^
 ||sgtm.blog.jornal-livre.com^
 ||sgtm.bluebeni.com.br^
@@ -29246,6 +29250,7 @@ prd.api.bleacherreport.com^
 ||sgtm.csas.cz^
 ||sgtm.fairmont.
 ||sgtm.macrolibrarsi.it^
+||sgtm.milestonesys.com^
 ||sgtm.mycall.no^
 ||sgtm.myprotein.jp^
 ||sgtm.tagmanageritalia.it^
@@ -29299,7 +29304,6 @@ prd.api.bleacherreport.com^
 ||track.ttsave.app^
 ||analytics.3c5.com^
 ||analytics.waifu2x.org^
-||track.prod.smash.pet^
 ||metrics.quillbot.com^
 ||tracking.pennypublications.com^
 ||data.r.pl^
@@ -29494,7 +29498,6 @@ prd.api.bleacherreport.com^
 ||affiliate.gameladen.com^
 ||aktrack.pubmatic.com^
 ||alxc.addlv.smt.docomo.ne.jp^
-||analysis.sooplive.com^
 ||analytic.imlive.com^
 ||analytics-ingress.bitmovin.com^
 ||analytics-rollout-*.amazonaws.com^
