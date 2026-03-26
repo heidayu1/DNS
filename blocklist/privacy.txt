@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-25T14:54:22.944Z
+! Last modified: 2026-03-26T14:54:37.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30472
+! Rules count: 30474
 !
 ||delivery.dighty.com^
 ||bapi-*.moengage.com^
@@ -2984,6 +2984,7 @@
 ||data.email.getmode.com^
 ||data.email.healthanswers.pfizer.com^
 ||data.email.hostplus.com.au^
+||data.email.intuitdome.com^
 ||data.email.islandsbanki.is^
 ||data.email.karwei.nl^
 ||data.email.key.com^
@@ -3586,6 +3587,7 @@
 ||fpt.absabank.mu^
 ||info.emails.claytonhotels.com^
 ||informatie.mail.nn.nl^
+||iqmetrics.dus.com^
 ||iqmetrics.thefan.fm^
 ||jm.customer-success-apac.adobe.com^
 ||l.promo.casiocanada.com^
@@ -4688,7 +4690,6 @@
 ||smetrics.myonlineservices.ch^
 ||smetrics.myorp.ca^
 ||smetrics.myparliament.com^
-||smetrics.myspringfield.mx^
 ||smetrics.mystudywindow.com^
 ||smetrics.myvi.in^
 ||smetrics.myyellow.com^
@@ -6108,6 +6109,7 @@
 ||metrics.ntnews.com.au^
 ||metrics.nutropin.com^
 ||metrics.nvidia.com^
+||metrics.octanner.com^
 ||metrics.okcashbag.com^
 ||metrics.opnme.com^
 ||metrics.oshkosh.com^
@@ -8902,6 +8904,7 @@
 ||jlabb.canadianboardco.com^
 ||jopfp.edeadshop.com^
 ||jppol.coronadoleather.com^
+||jpppq.troscriptions.com^
 ||jsjbt.hotelcollection.in^
 ||jvoaz.beautystat.com^
 ||kadta.hecostix.com^
@@ -10323,6 +10326,7 @@
 ||elqtracking.byggindustrin.se^
 ||elqtracking.dagensmedia.se^
 ||elqtracking.dagensmedicin.se^
+||elqtracking.finance.si^
 ||elqtracking.medidata.com^
 ||elqtracking.mercer-retirement.co.uk^
 ||elqtracking.privataaffarer.se^
@@ -11181,7 +11185,6 @@
 ||fr.adpinfo.com^
 ||ghp.adp.ca^
 ||ims.relationshipone.com^
-||info.adp.com^
 ||info.assets.reuters.com^
 ||info.relationshipone.com^
 ||labs.relationshipone.com^
@@ -21734,6 +21737,7 @@
 ||hub.sixsigmasports.app^
 ||igg.igreengadgets.it^
 ||igtm.bergeresaude.com.br^
+||iklanmurah.vip^
 ||iloveyourdata.universo.work^
 ||indiv.indivmedia.com^
 ||info.advflaviamaria.com.br^
@@ -27484,7 +27488,6 @@
 ||sgtm.terrycycling.com^
 ||sgtm.tessories.com.au^
 ||sgtm.tessories.nz^
-||sgtm.tessutietendaggipanini.it^
 ||sgtm.testdepot.com^
 ||sgtm.thamon.co^
 ||sgtm.the-wellness-magazine.co.uk^
@@ -27740,6 +27743,7 @@
 ||ss.pumpstoponline.com.co^
 ||ss.quaggadesigns.com^
 ||ss.radinatural.com^
+||ss.readyrx.com^
 ||ss.roboapply.co^
 ||ss.santipadilla.com^
 ||ss.shipfast.agency^
@@ -28408,7 +28412,6 @@
 ||stats.ecomailapp.cz^
 ||stats.smilefreshau.com.au^
 ||stats.superfoodies.nl^
-||std.stdrapidtestkits.com^
 ||stepioserver.citicrow.com^
 ||stepservernew.sixtsix.com^
 ||stepstomeasure.qlearn.com.bd^
@@ -29128,7 +29131,6 @@
 ||stats.pronouns.page^
 ||ad-bls-tracking.lemino.docomo.ne.jp^
 ||logstash-*.radio-canada.ca^
-||rainbow-prod-jdlog.ldoverseas.com^
 ||analytics.egdata.app^
 ||collector-pxdojv695v.protechts.net^
 ||adgbb.io.naver.com^
@@ -29180,7 +29182,6 @@ prd.api.bleacherreport.com^
 ||backend-pixel.zotek.io^
 ||monitor.ns1-s.rspcdn.net^
 ||d3aicbrzoy14kh.cloudfront.net^
-||metrics.motoblouz.com^
 ||beacon-*.helpscout.net^
 ||tracker.uira.live^
 ||track-events.membrana.media^
@@ -29522,7 +29523,6 @@ prd.api.bleacherreport.com^
 ||analytics.islamicfinder.org^
 ||analytics.livestream.com^
 ||analytics.marquiz.ru^
-||analytics.move.ru^
 ||analytics.msnbc.msn.com^
 ||analytics.ooyala.com^
 ||analytics.proxer.me^
@@ -30121,6 +30121,7 @@ dlsdk.appsflyer.com^
 ||trackernew.ulivetv.net^
 ||gamestats.easybrain.com^
 ||logs13.xiti.com^
+||tracing-collector.strava.com^
 ||track.ktplay.com^
 ||collector.scopely.io^
 ||payload.adadapted.com^
@@ -30207,6 +30208,7 @@ dlsdk.appsflyer.com^
 ||qa-events-schema.viacom.tech^
 ||dns-clientinfo.cbsivideo.com^
 ||report.*.qq.com^
+||sadobeanalytics.geico.com^
 ||stats-sg.ganymede.eu^
 ||log*.byteoversea.com^
 ||api.telemetry.watchabc.go.com^
