@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-26T14:54:37.269Z
+! Last modified: 2026-03-27T14:54:53.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2696,6 +2696,7 @@
 ||data.account.assurancewireless.com^
 ||data.account.metrobyt-mobile.com^
 ||data.account.paypal.com^
+||data.accounts.t-mobile.com^
 ||data.accountsamericas.coca-cola.com^
 ||data.accountsapac.coca-cola.com^
 ||data.accountsemea.coca-cola.com^
@@ -2776,6 +2777,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.campaigns.mediasuper.com.au^
@@ -2997,7 +2999,6 @@
 ||data.email.podcast.adobe.com^
 ||data.email.pradagroup.com^
 ||data.email.q8.it^
-||data.email.realmadrid.com^
 ||data.email.seven.sa^
 ||data.email.sixflagsqiddiyacity.com^
 ||data.email.state.co.nz^
@@ -3042,7 +3043,6 @@
 ||data.emeapot.techvaladobe.com^
 ||data.emkt3.ing.es^
 ||data.eml.balibras.com^
-||data.eml.hanes.com^
 ||data.eml.maidenform.com^
 ||data.eml.onehanesplace.com^
 ||data.eml.playtexbras.com^
@@ -4395,6 +4395,7 @@
 ||smetrics.fraport.com^
 ||smetrics.frasersproperty.com^
 ||smetrics.free2movecharge.com^
+||smetrics.freshcope.com^
 ||smetrics.front-line.nl^
 ||smetrics.frontiersofknowledgeawards-fbbva.es^
 ||smetrics.frontline.co.th^
@@ -5410,6 +5411,7 @@
 ||adobeanalytics-http.hds.com^
 ||adobeanalytics-https.hds.com^
 ||adobeanalytics-secure.girlscouts.org^
+||adobeanalytics.actalentservices.com^
 ||adobeanalytics.aerotek.com^
 ||adobeanalytics.allegis-partners.com^
 ||adobeanalytics.allegisglobalsolutions.com^
@@ -5668,7 +5670,6 @@
 ||metrics.activecommunities.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
 ||metrics.airasia.com^
@@ -6631,7 +6632,6 @@
 ||securedata.dreamland.be^
 ||securedata.mijnspar.be^
 ||securedata.monspar.be^
-||securedata.okay.be^
 ||securedata.unsw.edu.au^
 ||securemetrics.bananarepublic.eu^
 ||securemetrics.experience.apple^
@@ -8315,7 +8315,6 @@
 ||tags.szabadeuropa.hu^
 ||tags.voadeewanews.com^
 ||tags.voluntariadocaixabank.org^
-||tms-collect.sony.jp^
 ||tms.data.hsbc.com^
 ||visitor-service.sixpad.jp^
 ||vtd.deritrade.com^
@@ -8996,6 +8995,7 @@
 ||aafdk.weliveconscious.com^
 ||adhnu.wanderbeauty.com^
 ||adlgo.nzepouches.com^
+||adscz.calendars.com^
 ||akcze.dysoncanada.ca^
 ||avmvk.oliversweeney.com^
 ||bbvte.statelymen.com^
@@ -9323,7 +9323,6 @@
 ||tracking.sonnasita.at^
 ||tracking.walserart.at^
 ||webanalytics.pwc.fr^
-||webcontr.chiptuning.com^
 ||stats.mm-germany.com^
 ||ape.saadsvoterguide.org^
 ||blackbird.docstation.co^
@@ -10304,6 +10303,7 @@
 ||app.belvitur.com.br^
 ||app.care.eisenhowerhealthcares.org^
 ||app.connections.te.com^
+||app.email.forrester.com^
 ||app.go.emersonprocess.com^
 ||app.health.bjc.org^
 ||app.id.plascoid.com^
@@ -13676,7 +13676,6 @@
 ||gtm.labalorda.com^
 ||gtm.lacasadelspa.fr^
 ||gtm.lafabriquedesmamans.com^
-||gtm.lavmag.eu^
 ||gtm.le-declic.com^
 ||gtm.learnmoreacademy.co.uk^
 ||gtm.levthn.com^
@@ -18262,7 +18261,6 @@
 ||capifb.kidzfunbd.com^
 ||capifb.raidobd.com^
 ||capig.10fitness.com^
-||capig.artonauti.it^
 ||capig.atlas-servis.com^
 ||capig.aviloo.com^
 ||capig.babybudsbd.com^
@@ -20637,6 +20635,7 @@
 ||gtm.mrmeatyeg.com^
 ||gtm.mrshoppingbd.com^
 ||gtm.mrtargetonline.com^
+||gtm.msofas.co.uk^
 ||gtm.mtools.digital^
 ||gtm.mudarnome.com.br^
 ||gtm.muebla.com.mx^
@@ -22641,6 +22640,7 @@
 ||load.gtm.shopsugarbabies.com^
 ||load.gtm.sidebyhome.com.br^
 ||load.gtm.signaturelk.com^
+||load.gtm.silkandsnow.com^
 ||load.gtm.simplainvest.com.br^
 ||load.gtm.skilllane.com^
 ||load.gtm.skymint.com^
@@ -27342,6 +27342,7 @@
 ||sgtm.pmpwithray.com^
 ||sgtm.podovida.cl^
 ||sgtm.polyworks.com^
+||sgtm.popl.co^
 ||sgtm.positibeuniformes.cl^
 ||sgtm.poulsborv.com^
 ||sgtm.powerrichsports.com^
@@ -29131,6 +29132,7 @@
 ||stats.pronouns.page^
 ||ad-bls-tracking.lemino.docomo.ne.jp^
 ||logstash-*.radio-canada.ca^
+||analytics.vgtimes.
 ||analytics.egdata.app^
 ||collector-pxdojv695v.protechts.net^
 ||adgbb.io.naver.com^
@@ -29246,7 +29248,6 @@ prd.api.bleacherreport.com^
 ||analytics.valotool.com^
 ||stats.browsertrix.com^
 ||d.analyticsmania.com^
-||gtm.lercio.it^
 ||gtm.mandesager.dk^
 ||sgtm.csas.cz^
 ||sgtm.fairmont.
@@ -29477,7 +29478,6 @@ prd.api.bleacherreport.com^
 ||logging.e-himart.co.kr^
 ||weblog.e-himart.co.kr^
 ||acelogger.heraldcorp.com^
-||log.ycapp.yiche.com^
 ||log*.vietnamplus.vn^
 ||analytics.ouc.ac.cy^
 ||analytics.dsyqt.com^
