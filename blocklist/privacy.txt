@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-27T14:54:53.316Z
+! Last modified: 2026-03-28T14:55:07.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30474
+! Rules count: 30478
 !
 ||delivery.dighty.com^
 ||bapi-*.moengage.com^
@@ -879,6 +879,7 @@
 ||insights.diamond-consultants.com^
 ||insights.forumone.com^
 ||insights.goodandprosper.com^
+||insights.greatjakes.com^
 ||insights.jabian.com^
 ||insights.journey.world^
 ||insights.knns.nl^
@@ -1818,6 +1819,7 @@
 ||sanalytics.rbsbank.dk^
 ||sanalytics.rbsbank.no^
 ||sanalytics.sibleystatebank.com^
+||sanalytics.southpointcasino.com^
 ||sanalytics.theinstitutes.org^
 ||sanalytics.washingtoncountybank.com^
 ||sanalytics.yourbankcard.com^
@@ -2677,6 +2679,7 @@
 ||data.a.europe.nflshop.com^
 ||data.a.evertondirect.evertonfc.com^
 ||data.a.f1store.formula1.com^
+||data.a.fansedge.com^
 ||data.a.kitbag.com^
 ||data.a.mitchellandness.com^
 ||data.a.mlbshopeurope.com^
@@ -5417,7 +5420,6 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
-||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6130,6 +6132,7 @@
 ||metrics.provincial.com^
 ||metrics.proximus.be^
 ||metrics.pru.co.uk^
+||metrics.prudential.com^
 ||metrics.publiclands.com^
 ||metrics.pulmozyme.com^
 ||metrics.puma.com^
@@ -7450,7 +7453,6 @@
 ||smetrics.simplyink.com^
 ||smetrics.siriusxm.ca^
 ||smetrics.sj.no^
-||smetrics.skandia.se^
 ||smetrics.sloc.co.uk^
 ||smetrics.smartauctionlogin.com^
 ||smetrics.smartstyle.com^
@@ -7582,6 +7584,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -11564,7 +11567,6 @@
 ||tracking1.labcorp.com^
 ||app.augustaentertainmentcomplex.com^
 ||app.centreinthesquare.com^
-||app.fightingillini.com^
 ||app.fordidahocenter.com^
 ||app.gomocs.com^
 ||app.goredbirds.com^
@@ -11794,6 +11796,7 @@
 ||tracking.e.pepsicopartners.com^
 ||tracking.health.bilh.org^
 ||tracking.infiniti-dubai.com^
+||tracking.info.methodisthealthsystem.org^
 ||tracking.nissan-dubai.com^
 ||tracking.ti.com.cn^
 ||tracking.your.montagehealth.org^
@@ -22428,7 +22431,6 @@
 ||load.gtm.envisiondigital.it^
 ||load.gtm.esadvocacia.adv.br^
 ||load.gtm.espartastore.com^
-||load.gtm.ethika.com^
 ||load.gtm.evbantiques.com^
 ||load.gtm.evergreen16.it^
 ||load.gtm.everlend.fr^
@@ -22647,6 +22649,7 @@
 ||load.gtm.sleepsense.net^
 ||load.gtm.spirit.com.kw^
 ||load.gtm.sprezzi-fashion.com^
+||load.gtm.stantonoptical.com^
 ||load.gtm.stellacarakasi.com^
 ||load.gtm.subwaysnap.com^
 ||load.gtm.superrendersfarm.com^
@@ -27063,6 +27066,7 @@
 ||sgtm.gustavomissura.com.br^
 ||sgtm.guttelus.no^
 ||sgtm.gvsportsedu.com^
+||sgtm.hachettelearning.com^
 ||sgtm.hadiyaworld.com^
 ||sgtm.happyolivetree.com.au^
 ||sgtm.hard-nights.com^
@@ -29256,6 +29260,7 @@ prd.api.bleacherreport.com^
 ||sgtm.mycall.no^
 ||sgtm.myprotein.jp^
 ||sgtm.tagmanageritalia.it^
+||sgtm.technikboerse.com^
 ||analytics.rev.iq^
 ||c1-stats.shopifysvc.com^
 ||apple-*.le.com^
@@ -29935,6 +29940,7 @@ directtrack.*.js
 .gatracking.js
 .histats.*.js
 .hit.stat24.
+||aviasales.*-analytics.
 ||dygassets.dygdigital.com^
 ||analytics.chita.ru^
 ||metrics.ainews.kz^
@@ -30042,7 +30048,6 @@ dlsdk.appsflyer.com^
 ||log.hiapkdownload.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||prebid-server-canary.ifunny.co^
-||log.oceanzz.xyz^
 ||analytics.oliveapp.net^
 ||moai-dev-samsung.com^
 ||qmds-dev-samsung.com^
@@ -30209,7 +30214,6 @@ dlsdk.appsflyer.com^
 ||dns-clientinfo.cbsivideo.com^
 ||report.*.qq.com^
 ||sadobeanalytics.geico.com^
-||stats-sg.ganymede.eu^
 ||log*.byteoversea.com^
 ||api.telemetry.watchabc.go.com^
 ||stocks-analytics-events.news.apple-dns.net^
