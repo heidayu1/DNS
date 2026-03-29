@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-28T14:55:07.972Z
+! Last modified: 2026-03-29T14:55:22.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30478
+! Rules count: 30476
 !
 ||delivery.dighty.com^
 ||bapi-*.moengage.com^
@@ -2780,7 +2780,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.campaigns.mediasuper.com.au^
@@ -2986,6 +2985,7 @@
 ||data.email.firestone-emea.com^
 ||data.email.firestonetire.com^
 ||data.email.gamma.be^
+||data.email.gamma.nl^
 ||data.email.getmode.com^
 ||data.email.healthanswers.pfizer.com^
 ||data.email.hostplus.com.au^
@@ -5672,6 +5672,7 @@
 ||metrics.activecommunities.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
 ||metrics.airasia.com^
@@ -6005,7 +6006,6 @@
 ||metrics.ionos.ca^
 ||metrics.ionos.co.uk^
 ||metrics.ionos.es^
-||metrics.ionos.it^
 ||metrics.ionos.mx^
 ||metrics.iossc.rbs.co.uk^
 ||metrics.ipb.citibank.com.sg^
@@ -6781,6 +6781,7 @@
 ||smetrics.babynes.ch^
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -7043,6 +7044,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7088,6 +7090,7 @@
 ||smetrics.insurancesaver.com^
 ||smetrics.intactinsurance.com^
 ||smetrics.interbank.com.pe^
+||smetrics.interbank.pe^
 ||smetrics.interbankbenefit.pe^
 ||smetrics.interestfree.com.au^
 ||smetrics.internationalchampionscup.com^
@@ -7409,7 +7412,6 @@
 ||smetrics.seat.ch^
 ||smetrics.seat.co.nz^
 ||smetrics.seat.com^
-||smetrics.seat.es^
 ||smetrics.seat.fi^
 ||smetrics.seat.fr^
 ||smetrics.seat.ie^
@@ -7538,6 +7540,7 @@
 ||smetrics.suisai-global.net^
 ||smetrics.sumitclub.jp^
 ||smetrics.suncorp.co.nz^
+||smetrics.sunflowerhealthplan.com^
 ||smetrics.sunlife.co.id^
 ||smetrics.sunlife.com.hk^
 ||smetrics.sunlife.ie^
@@ -12723,7 +12726,6 @@
 ||tracking.carpshop24.com^
 ||tracking.prodiga.no^
 ||tracking.vessi.dk^
-||tracking.vessi.se^
 ||tracks.davidkingsbury.co.uk^
 ||trk.applymyrate.com^
 ||trk.swolegripz.com^
@@ -12742,7 +12744,6 @@
 ||evolu.adsdomaintracking.com^
 ||go.cheapinter.net^
 ||i.do.adtrack.it^
-||insight.alwaysfit.com.br^
 ||insight.carla-jewelry.com^
 ||insight.cumaskincare.com^
 ||insight.fluff.co^
@@ -14535,7 +14536,6 @@
 ||load.has-ticket.parkzicht-outdoor.nl^
 ||load.has-ticket.rainbowinthesky.nl^
 ||load.has-ticket.supremacy.nl^
-||load.has-ticket.thegardensofbabylon.com^
 ||load.has-ticket.zwartecross.nl^
 ||load.has.fielddayfestivals.com^
 ||load.has.hideoutfestival.com^
@@ -18846,7 +18846,6 @@
 ||events.farmaciasheroos.com.br^
 ||events.farmaciassaopaulo.com.br^
 ||events.farmapontemanipulacao.com.br^
-||events.flyingeyesoptics.com^
 ||events.galerieslafayette.qa^
 ||events.georgebrazilhvac.com^
 ||events.giftcardgranny.com^
@@ -21451,7 +21450,6 @@
 ||gtm.vaultfurniture.com^
 ||gtm.vectax.com.br^
 ||gtm.veesion.io^
-||gtm.vemmed.com^
 ||gtm.vendamaislingerie.com.br^
 ||gtm.vendasprodutosonlinesf.com^
 ||gtm.venetianlace.com^
@@ -26540,7 +26538,6 @@
 ||server.xfranchise.com.br^
 ||server.xn--espaoaggiornare-hmb.com.br^
 ||server.xzenv.com^
-||server.ybera.com^
 ||server.ygfashionbd.com^
 ||server.yolocoliving.com.br^
 ||server.yorumarketing.com^
@@ -29122,6 +29119,7 @@
 ||htm*.hepsiburada.com^
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
+||bizlog-gateway.myrealtrip.com^
 ||log2.wanmei.com^
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
@@ -29648,7 +29646,6 @@ prd.api.bleacherreport.com^
 ||event.condenastdigital.com^
 ||event.impression-neo.naver.com^
 ||event.scimo.io^
-||eventapi.sooplive.com^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||events-api*.outfit7.com^
@@ -30185,6 +30182,7 @@ dlsdk.appsflyer.com^
 ||trackersdk.bdash-cloud.com^
 ||mapi-log.qoo*.jp^
 ||logend.cookpad.com^
+||viva.api.xiaoying.co^
 ||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||msg.umengcloud.com^
