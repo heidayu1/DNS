@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-03-31T14:55:51.738Z
+! Last modified: 2026-04-01T14:56:07.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30996
+! Rules count: 30991
 !
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
@@ -2178,7 +2178,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2670,7 +2669,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3760,7 +3758,6 @@
 ||securedata.colruytgroupacademy.be^
 ||securedata.commander-monspar.be^
 ||securedata.cru.be^
-||securedata.dats24.be^
 ||securedata.retailpartnerscolruytgroup.be^
 ||securedata.rpcg.be^
 ||securemetrics.athletawell.com^
@@ -4802,6 +4799,7 @@
 ||smetrics.seeeliquisevidence.com^
 ||smetrics.semintra.co.uk^
 ||smetrics.servicechampions.net^
+||smetrics.shell.co.uk^
 ||smetrics.sherwoodbuickgmc.com^
 ||smetrics.sherwoodmotorcars.com^
 ||smetrics.sherwoodparkchev.com^
@@ -5228,6 +5226,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6025,6 +6024,7 @@
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.ubi.com^
 ||metrics.umiloans.com.au^
@@ -7274,7 +7274,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7645,7 +7644,6 @@
 ||sstats.webresint.com^
 ||sstats.williamoneil.com^
 ||sstats.wmagazine.com^
-||sstats.www.o2.cz^
 ||sstats.xactware.com^
 ||sstats.yourchi.org^
 ||sstats2.allure.com^
@@ -13091,7 +13089,6 @@
 ||data.sleepworld.fr^
 ||data.smarthomekoning.nl^
 ||data.snugscent.co.uk^
-||data.solisci.pl^
 ||data.soojuspumbad.ee^
 ||data.spelt-afvalcontainer.nl^
 ||data.staaltuin.nl^
@@ -18306,7 +18303,6 @@
 ||capture.vitaltrack.org^
 ||care.advancedscare.com^
 ||carteiro.altashabilidadesesuperdotacao.com^
-||catfood.mikipetstore.com^
 ||cdn-uk.cxix.com^
 ||cdn.bambouresort.com^
 ||cdn.cahayabinar.com^
@@ -29601,6 +29597,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||ja*.apppure.net^
 ||qa-track.ssg.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
@@ -29933,7 +29930,6 @@ prd.api.bleacherreport.com^
 ||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
 ||pixel-*.rubiconproject.com^
-||stat.arzamas.academy^
 ||d1zxg9iar5y3ur.cloudfront.net^
 ||analytics.aklamio.com^
 ||d17tqr44y57o31.cloudfront.net^
@@ -29973,7 +29969,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -30525,6 +30520,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
+-datareceiver.aki-game.net^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
@@ -30734,7 +30730,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
