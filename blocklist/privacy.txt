@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-01T14:56:07.969Z
+! Last modified: 2026-04-02T14:56:24.117Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30991
+! Rules count: 30999
 !
+||bbc-reporting-api.app^
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2537,6 +2538,7 @@
 ||appleapp.rossellimac.es^
 ||axp.borderreport.com^
 ||axp.cnyhomepage.com^
+||axp.fourstateshomepage.com^
 ||axp.ourquadcities.com^
 ||axp.wiproud.com^
 ||b2binsider.adobe.com^
@@ -3607,6 +3609,7 @@
 ||metrics.thechronicle.com.au^
 ||metrics.therestaurantconference.co.uk^
 ||metrics.therestaurantshow.co.uk^
+||metrics.theworlds50best.com^
 ||metrics.tips.com.au^
 ||metrics.top50boutiquehotels.com^
 ||metrics.top50cocktailbars.com^
@@ -5110,6 +5113,7 @@
 ||swasc.stackit.cloud^
 ||telemetry.am.pictet.com^
 ||telemetry.bowflex.ca^
+||telemetry.bowflex.com^
 ||telemetry.cardfactory.co.uk^
 ||telemetry.cfraresearch.com^
 ||telemetry.dematic.com^
@@ -6488,7 +6492,6 @@
 ||smetrics.ancestry.mx^
 ||smetrics.ancestryinstitution.com^
 ||smetrics.angara.com^
-||smetrics.anwagolf.com^
 ||smetrics.apmexpo.com^
 ||smetrics.aptaclub.co.uk^
 ||smetrics.aptashop.co.uk^
@@ -10910,6 +10913,7 @@
 ||www.tracking.adp.ch^
 ||www.tracking.adp.co.uk^
 ||analytics.flexpay.io^
+||app.noreply.cummins.com^
 ||devhipaa.duke.edu^
 ||emails.idera.com^
 ||event1.thermofisher.com^
@@ -11609,6 +11613,7 @@
 ||tracking.luminishealth.org^
 ||tracking.news.evergreenhealth.com^
 ||tracking.xaapbuildings.com^
+||trackingmms.accenture.com^
 ||content.brightmine.com^
 ||engage.broadcom.com^
 ||featured.bradyid.com^
@@ -28805,7 +28810,6 @@
 ||stape.tintim.app^
 ||stape.track.kadumagalhaes.com^
 ||stape.tradercyber.com^
-||stape.transkriptor.com^
 ||stape.travuscapital.com.br^
 ||stape.triadeflow.com.br^
 ||stape.uiaraoliveirapedagogico.com.br^
@@ -28917,6 +28921,7 @@
 ||sub.tradealgorithm.co.uk^
 ||suu270.alteselevadores.com.br^
 ||svr-relay.sekologistics.com^
+||svr-relay.unitedadlabel.com^
 ||svr.gtm.paelybeauty.com.br^
 ||svrtracking.badrforce.com^
 ||svside.trilogo.com.br^
@@ -29862,6 +29867,7 @@ prd.api.bleacherreport.com^
 ||analytics-batch.blitz.gg^
 ||log.kinolights.com^
 ||analytics.msk1.ru^
+||metrics.viqeo.tv^
 ||analytics-dataplane.invideo.io^
 ||analytics-api.invideo.io^
 ||event.hackle.io^
@@ -30520,6 +30526,8 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
+||log-*.isnssdk.com^
+||track.hily.com^
 -datareceiver.aki-game.net^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
