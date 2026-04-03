@@ -4,13 +4,12 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-02T14:56:24.117Z
+! Last modified: 2026-04-03T11:55:10.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
 ! Rules count: 30999
 !
-||bbc-reporting-api.app^
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2175,10 +2174,12 @@
 ||sstats.instawares.com^
 ||sstats.iridesse.com^
 ||sstats.iso.com^
+||sstats.liander.nl^
 ||sstats.micron.com^
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
+||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2196,7 +2197,6 @@
 ||sstats.thermoscientific.cn^
 ||sstats.uachef.com^
 ||sstats.uascrubs.com^
-||stat-ssl.hitosara.com^
 ||stat-ssl.kaago.com^
 ||stat-ssl.kinarino.jp^
 ||stat-ssl.photohito.com^
@@ -4565,6 +4565,7 @@
 ||smetrics.nurturhealth.com^
 ||smetrics.nykaafashion.com^
 ||smetrics.nz.ugg.com^
+||smetrics.oceaniacruises.com^
 ||smetrics.office-eo.jp^
 ||smetrics.onlinecasino.at^
 ||smetrics.onlinecasino.ca^
@@ -5148,7 +5149,6 @@
 ||webapp.e-post.smn.no^
 ||webapp.epost.snn.no^
 ||webmetrics.oklahoma.gov^
-||www.dxp-data.celonis.com^
 ||a.rohde-schwarz.com.cn^
 ||aa-metrics.aircard.jp^
 ||aa-metrics.airpayment.jp^
@@ -6569,6 +6569,7 @@
 ||smetrics.calbaptist.edu^
 ||smetrics.calvinklein.ca^
 ||smetrics.calvinklein.cn^
+||smetrics.capella.edu^
 ||smetrics.carnival.com^
 ||smetrics.carnival.com.au^
 ||smetrics.carparts.com^
@@ -9414,6 +9415,7 @@
 ||data-2ef5a47289.6rtl.com^
 ||data-30e91950da.joyn.at^
 ||data-34565915dd.firmenwissen.com^
+||data-353c1c8501.falstaff.com^
 ||data-366a248b14.film.at^
 ||data-3839bfef3b.diesteirerin.at^
 ||data-39822b659f.fupa.net^
@@ -9535,6 +9537,7 @@
 ||data-9bc4e9c585.deraktionaer.tv^
 ||data-9f52ae32a2.sicht-sonnenschutz.com^
 ||data-9f9c59bc36.ausschreibung.at^
+||data-9fcd0b641d.falstaff.com^
 ||data-a01a8a1ba4.fupa.net^
 ||data-a035b519d5.puls4.com^
 ||data-a0b1f67d32.fupa.net^
@@ -16278,7 +16281,6 @@
 ||sgtm.rue94.com^
 ||sgtm.rustfridk.dk^
 ||sgtm.sabliers-du-monde.fr^
-||sgtm.salonemilano.it^
 ||sgtm.santander.be^
 ||sgtm.santander.nl^
 ||sgtm.satoorday.com^
@@ -20812,6 +20814,7 @@
 ||gtm.nanysclinicahumanizada.com.br^
 ||gtm.naraestrela.com.br^
 ||gtm.narcistdebaas.nl^
+||gtm.narescue.com^
 ||gtm.nataldunnas.com.br^
 ||gtm.nataliabini.com.br^
 ||gtm.natalianovaes.com^
@@ -29248,7 +29251,6 @@
 ||tracking.lp.kesf.co.il^
 ||tracking.maccudo.online^
 ||tracking.majaalis.online^
-||tracking.makmuranalytics.com^
 ||tracking.materassiematerassi.it^
 ||tracking.minutiae.in^
 ||tracking.modalclo.com^
@@ -29316,6 +29318,7 @@
 ||tracking.usimmigrationsupport.org^
 ||tracking.velozuniformes.com.br^
 ||tracking.visionveda.in^
+||tracking.vturb.com^
 ||tracking.waltons.co.uk^
 ||tracking.wellnesswavess.com^
 ||tracking.wholesaleforeveryone.com^
@@ -29713,7 +29716,6 @@ prd.api.bleacherreport.com^
 ||tracking-sales-pop.carecart.io^
 ||logs.getfiddler.com^
 ||logs.viewstats.com^
-||mystats.flixfiend.top^
 ||ca-log.cafe24data.com^
 ||mon-va.capcutapi.com^
 ||apihorizon.nnmtools.com^
@@ -29770,7 +29772,6 @@ prd.api.bleacherreport.com^
 ||stats.browsertrix.com^
 ||d.analyticsmania.com^
 ||gtm.mandesager.dk^
-||sgtm.csas.cz^
 ||sgtm.fairmont.
 ||sgtm.macrolibrarsi.it^
 ||sgtm.milestonesys.com^
@@ -30307,7 +30308,6 @@ prd.api.bleacherreport.com^
 ||stat.botdetector.ru^
 ||stat.clickfrog.ru^
 ||stat.eagleplatform.com^
-||stat.kbs.co.kr^
 ||stat.myshows.me^
 ||stat.novostimira.com^
 ||stat.radar.imgsmail.ru^
@@ -30412,6 +30412,7 @@ prd.api.bleacherreport.com^
 ||tracking.bonnier.news^
 ||tracking.chacha.com^
 ||tracking.conduit.com^
+||tracking.eurosport.com^
 ||tracking.gvm.com.tw^
 ||tracking.hurlmedia.design^
 ||tracking.live.oe24.at^
@@ -30527,7 +30528,6 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
 ||log-*.isnssdk.com^
-||track.hily.com^
 -datareceiver.aki-game.net^
 ||log.sweepycleanplus.com^
 ||report.starshort.online^
