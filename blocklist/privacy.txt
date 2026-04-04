@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-03T11:55:10.908Z
+! Last modified: 2026-04-04T11:55:26.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 30999
+! Rules count: 31000
 !
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
@@ -54,6 +54,7 @@
 ||stat.khanate.pro^
 ||ssp.api.tappx.com^
 ||monitor-api.blackcrow.ai^
+||openstats.co^
 ||collect.adplogger.no^
 ||track.tel1mekar.com^
 ||log.trend.rankify.best^
@@ -2671,6 +2672,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3061,6 +3063,7 @@
 ||data.m.eaglesautismfoundation.org^
 ||data.m.metro-tr.com^
 ||data.m.mysticlake.com^
+||data.m.philadelphiaeagles.com^
 ||data.m.shop.international.nhl.com^
 ||data.m.store.nascar.com^
 ||data.m2.disneydestinations.com^
@@ -5230,7 +5233,6 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
-||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6757,6 +6759,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -8095,7 +8098,6 @@
 ||ebnpqi.carrefourlocation.fr^
 ||ebrbrw.gulliver-wear.com^
 ||efadyz.smartbuyglasses.co.nz^
-||efbenj.adorebeauty.com.au^
 ||ejejip.bjjfanatics.com^
 ||ejkmld.tradus.com^
 ||ekgmca.gipfel.ru^
@@ -11688,7 +11690,6 @@
 ||stats.dealerspike.com^
 ||stats.netdriven.com^
 ||tagadmin.aumago.com^
-||webanalytics.helen.fi^
 ||www.webanalytics-az.acc.fpfis.tech.ec.europa.eu^
 ||www.webanalytics.europa.eu^
 ||a-api.skz.dev^
@@ -12883,7 +12884,6 @@
 ||collect.printera.lt^
 ||collect.roadangelgroup.com^
 ||collect.scleasing.dk^
-||collect.skargards.com^
 ||collect.skoringen.dk^
 ||collect.skoringen.no^
 ||collect.ucl.dk^
@@ -15817,6 +15817,7 @@
 ||sgtm.adrcenter.it^
 ||sgtm.adriaholiday.it^
 ||sgtm.aegeancollege.gr^
+||sgtm.aerotime.aero^
 ||sgtm.agencyfondocasa.it^
 ||sgtm.agentetopproducer.it^
 ||sgtm.agofstore.com^
@@ -29554,6 +29555,7 @@
 ||web.email.bricocenter.it^
 ||web.email.mishimoto.co.uk^
 ||web.email.mishimoto.eu^
+||web.email.parkcameras.com^
 ||web.email.sebago.co.uk^
 ||web.email.sergiorossi.com^
 ||web.email.superga.co.uk^
@@ -30053,7 +30055,6 @@ prd.api.bleacherreport.com^
 ||analytics.shop.hisense.com^
 ||analytics.similarweb.com^
 ||analytics.sports.ru^
-||analytics.stanby.com^
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.tout.com^

@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-03T11:55:13.924Z
+! Last modified: 2026-04-04T11:55:29.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -183,6 +183,7 @@
 ||identity.browserapps.amazon.de^
 ||imdb.amazon-adsystem.com^
 ||insights.video.a2z.com^
+||ir-ae.amazon-adsystem.com^
 ||ir-br.amazon-adsystem.com^
 ||ir-ca.amazon-adsystem.com^
 ||ir-cn.amazon-adsystem.com^
@@ -534,6 +535,10 @@
 ||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe2.apple-dns.net^
 ||me.apple-dns.net^
+||books-analytics-events.news.apple-dns.net^
+||notes-analytics-events.news.apple-dns.net^
+||stocks-analytics-events.news.apple-dns.net^
+||weather-analytics-events.news.apple-dns.net^
 ||applemediaservices.com^
 ||cstat.cdn-apple.com^
 ||securemetrics.apple.com.cn^
@@ -565,6 +570,7 @@
 ||js1.tst.applicationinsights.io^
 ||js2.tst.applicationinsights.io^
 ||applicationinsights.azure.com^
+||api.applicationinsights.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||dc.applicationinsights.azure.us^
 ||in.applicationinsights.azure.cn^
@@ -697,6 +703,7 @@
 ||watson.live.com^
 ||ads.microsoft.com^
 ||adsdk.microsoft.com^
+||www.adsinapps.microsoft.com^
 ||advertising.microsoft.com^
 ||analyticspixel.microsoft.com^
 ||applicationinsights.microsoft.com^
@@ -723,6 +730,7 @@
 ||msadsscale.microsoft.com^
 ||oca.microsoft.com^
 ||watson.officeint.microsoft.com^
+||rad.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||i1.services.social.microsoft.com^
 ||spynet2.microsoft.com^
@@ -770,6 +778,10 @@
 ||ad.msn.com^
 ||adevents.msn.com^
 ||ads.msn.com^
+||www.a.ads1.msn.com^
+||www.b.ads1.msn.com^
+||www.ads1.msn.com^
+||www.a.ads2.msn.com^
 ||metric.appex-rf.msn.com^
 ||c.ar.msn.com^
 ||arc.msn.com^
@@ -777,6 +789,7 @@
 ||arc1.msn.com^
 ||arc2.msn.com^
 ||arc3.msn.com^
+||arc5.msn.com^
 ||arc9.msn.com^
 ||c.at.msn.com^
 ||c.be.msn.com^
@@ -1367,6 +1380,7 @@
 ||location-v6-ttp2.tiktokv.us^
 ||location-v6-va.tiktokv.com^
 ||location-va.tiktokv.com^
+||location16-normal-useastred.tiktokv.eu^
 ||locationv16-normal-useastred.tiktokv.eu^
 ||log.tiktokv.com^
 ||log.tiktokv.us^
@@ -1415,8 +1429,10 @@
 ||log3-normal-c-useast1a.tiktokv.com^
 ||log31-normal.tiktokv.com^
 ||log31-normal-alisg.tiktokv.com^
+||log31-normal-no1a.tiktokv.eu^
 ||log31-normal-useast1a.tiktokv.com^
 ||log31-normal-useast2a.tiktokv.com^
+||log31-normal-useastred.tiktokv.eu^
 ||log32-normal.tiktokv.com^
 ||log32-normal-alisg.tiktokv.com^
 ||log32-normal-no1a.tiktokv.eu^
@@ -1479,10 +1495,14 @@
 ||mon22-normal-useast1a.tiktokv.com^
 ||mon31-normal.tiktokv.com^
 ||mon31-normal-alisg.tiktokv.com^
+||mon31-normal-no1a.tiktokv.eu^
 ||mon31-normal-useast1a.tiktokv.com^
+||mon31-normal-useastred.tiktokv.eu^
 ||mon32-normal.tiktokv.com^
 ||mon32-normal-alisg.tiktokv.com^
+||mon32-normal-no1a.tiktokv.eu^
 ||mon32-normal-useast1a.tiktokv.com^
+||mon32-normal-useastred.tiktokv.eu^
 ||monbk.tiktokv.com^
 ||mssdk-boot.tiktokv.com^
 ||mssdk-i18n.tiktokv.com^
