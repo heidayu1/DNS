@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-04T11:55:26.548Z
+! Last modified: 2026-04-05T11:55:40.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31000
+! Rules count: 31001
 !
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
@@ -1099,6 +1099,7 @@
 ||tpe.theparticipanteffect.com^
 ||track-acton.healthengine.com.au^
 ||track.healthcare-distribution.com^
+||tracking.experiencescottsdale.com^
 ||trappcloudservices.trapptechnology.com^
 ||wellbyfinancial.fmservice.com^
 ||www.emails.eilcompanies.com^
@@ -2672,7 +2673,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5114,6 +5114,7 @@
 ||sw88.nationalgeographic.fr^
 ||sw88.nationalgeographic.it^
 ||sw88.nationalgeographic.nl^
+||sw88.nationalgeographicla.com^
 ||swasc.stackit.cloud^
 ||telemetry.am.pictet.com^
 ||telemetry.bowflex.ca^
@@ -5233,6 +5234,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6520,6 +6522,7 @@
 ||smetrics.babynes.ch^
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -7281,6 +7284,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -15914,7 +15918,6 @@
 ||sgtm.chitarrafacile.com^
 ||sgtm.cityo.dk^
 ||sgtm.cleafy.com^
-||sgtm.clementoni.com^
 ||sgtm.click2pharmacy.co.uk^
 ||sgtm.clogau.co.uk^
 ||sgtm.coandaair.com^
@@ -16590,7 +16593,6 @@
 ||sst.happy.ch^
 ||sst.happyhoopla.ae^
 ||sst.healthchecks.be^
-||sst.hippocast.fr^
 ||sst.ilmelograno.online^
 ||sst.imiplc.com^
 ||sst.jurislogic.fr^
@@ -17948,6 +17950,7 @@
 ||blog.newportricheyelks.org^
 ||blog.zozoj.com^
 ||blogs.almanambd.com^
+||bls.captainnotepad.com^
 ||bls.modernwindowsanddoors.com^
 ||bls.remedialforems.com^
 ||bls.sponsorcloud.io^
@@ -18751,7 +18754,6 @@
 ||data.techandlock.com.au^
 ||data.techwithnexus.com^
 ||data.techxapl.com^
-||data.telebuds.com.au^
 ||data.theartofcrypto.co^
 ||data.theastraengine.com^
 ||data.thelucyroseclinic.com.au^
@@ -27221,7 +27223,6 @@
 ||sgtm.bydlenihanusova.cz^
 ||sgtm.c3cursosonline.com.br^
 ||sgtm.caddiegolfrejser.dk^
-||sgtm.calzedonia.com.br^
 ||sgtm.camilaexel.com.br^
 ||sgtm.caminhosdoshen.com.br^
 ||sgtm.campaya.dk^
@@ -29563,7 +29564,6 @@
 ||web.email.umbro.co.uk^
 ||web.mail.koganpage.com^
 ||web.mail.nordiq.dk^
-||web.mail.parmalat.it^
 ||web.mail.proximaati.com^
 ||web.mailing.morawa.at^
 ||web.mailing.storz-bickel.com^
@@ -30719,7 +30719,6 @@ dlsdk.appsflyer.com^
 ||log.mmstat.com^
 ||dflow.log.hunantv.com^
 ||ali-stats.jpush.cn^
-||msg.simeji.baidu.jp^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
 ||log-upload-os.mihoyo.com^
@@ -30739,6 +30738,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
@@ -30992,6 +30992,7 @@ dlsdk.appsflyer.com^
 ||snappyreport.com^
 ||soilcontent.com^
 ||spareapp.com^
+||squadtee.net^
 ||squidlogic.com^
 ||statuesqueship.com^
 ||statusinside.com^
