@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-05T11:55:40.586Z
+! Last modified: 2026-04-06T11:55:54.807Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31001
+! Rules count: 30999
 !
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
@@ -259,7 +259,6 @@
 ||collector-*.tvsquared.com^
 ||collectorj.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
-||uz-analysis.akamaized.net^
 ||log.gobankingrates.com^
 ||collect.mxapis.com^
 ||events.tremorhub.com^
@@ -1773,6 +1772,7 @@
 ||omtrns.sstats.q8.dk^
 ||repdata.federaltimes.com^
 ||repdata.news10.net^
+||sadobe.homecenter.com.co^
 ||sadobe.mercuryinsurance.com^
 ||sadobe.sodimac.com.ar^
 ||sanalytics.ceu.com^
@@ -2155,6 +2155,7 @@
 ||sstats.bentleymotors.com^
 ||sstats.brokerforum.com^
 ||sstats.buycostumes.com^
+||sstats.cartoonnetwork.com^
 ||sstats.checksimple.com^
 ||sstats.cimentenligne.com^
 ||sstats.concierge.com^
@@ -5044,7 +5045,6 @@
 ||ssc.polygraph.info^
 ||ssc.radiomarsho.com^
 ||ssc.radiosawa.com^
-||ssc.radiotavisupleba.ge^
 ||ssc.radiotelevisionmarti.com^
 ||ssc.radiyoyacuvoa.com^
 ||ssc.szabadeuropa.hu^
@@ -5234,7 +5234,6 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
-||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6032,7 +6031,6 @@
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
 ||metrics.ttiinc.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.ubi.com^
 ||metrics.umiloans.com.au^
@@ -7395,7 +7393,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -7990,7 +7987,6 @@
 ||tags.polygraph.info^
 ||tags.radiomarsho.com^
 ||tags.radiosawa.com^
-||tags.radiotavisupleba.ge^
 ||tags.radiyoyacuvoa.com^
 ||tags.realestate.com.au^
 ||tags.roberthalf.cn^
@@ -8782,6 +8778,7 @@
 ||rlrxb.ziviapparel.com^
 ||rqqka.firsttactical.com^
 ||rscpm.tikisgeckos.com^
+||rzded.bassettfurniture.com^
 ||sadjh.fhiheat.com^
 ||sbvsb.inspiranzadesigns.com^
 ||sdjof.nadinemerabi.com^
@@ -15787,6 +15784,7 @@
 ||serverside.astroviktor.it^
 ||serverside.bruk.info.pl^
 ||serverside.cillarioemarazzi.it^
+||serverside.clicars.com^
 ||serverside.coolculture.it^
 ||serverside.exodusofficial.it^
 ||serverside.frisdal1.dk^
@@ -16956,6 +16954,7 @@
 ||analytics.cashably.com^
 ||analytics.castelliinaria.info^
 ||analytics.catstevens.com^
+||analytics.centrolilac.com^
 ||analytics.centrolilac.it^
 ||analytics.chiaro.partners^
 ||analytics.chimar.com^
@@ -18571,7 +18570,6 @@
 ||data.fretboardbiology.com^
 ||data.gabrielakuhnenbotanica.com.br^
 ||data.gadgetnovabd.com^
-||data.gamescard.net^
 ||data.geniusiq.io^
 ||data.getroota.com^
 ||data.gettinglostgame.com^
@@ -29615,7 +29613,6 @@
 ||lgecokr.api.useinsider.com^
 ||datadog-log.clovergames.io
 ||events1.avantisvideo.com^
-||event.tradedealer.ru^
 ||clientlog.pwsdk.com^
 ||dlog.pwsdk.com^
 ||log-v*-boot.capcutapi.com^
@@ -29644,6 +29641,7 @@
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
 ||bizlog-gateway.myrealtrip.com^
+||log1.wanmei.com^
 ||log2.wanmei.com^
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
@@ -29717,7 +29715,6 @@ prd.api.bleacherreport.com^
 ||pixel.thoughtmetric.io^
 ||tracking-sales-pop.carecart.io^
 ||logs.getfiddler.com^
-||logs.viewstats.com^
 ||ca-log.cafe24data.com^
 ||mon-va.capcutapi.com^
 ||apihorizon.nnmtools.com^
@@ -30577,6 +30574,7 @@ dlsdk.appsflyer.com^
 ||guid.tpns.sgp.tencent.com^
 ||eats-ads-event-capture.coupang.com^
 ||apm-track.xiaohongshu.com^
+||rtc-logger.bytevcloud.com^
 ||logs-*.rebxgame.com^
 -client-report.honkaiimpact3.com^
 ||*-datareceiver.aki-game.net^
