@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-07T11:56:12.259Z
+! Last modified: 2026-04-08T11:56:28.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31981
+! Rules count: 31979
 !
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
@@ -2235,7 +2235,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2273,6 +2272,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2722,7 +2722,6 @@
 ||data.au-email.princess.com^
 ||data.au-guest.princess.com^
 ||data.aupaathletic.com^
-||data.autocasion.com^
 ||data.automaticas.realmadrid.com^
 ||data.b2bmail.adobe.com^
 ||data.batch-accenture.test.ajo.adobe.com^
@@ -2754,7 +2753,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -6398,7 +6396,6 @@
 ||saametrics.independent.ie^
 ||sadbmetrics.15kvalencia.es^
 ||sadbmetrics.aupaathletic.com^
-||sadbmetrics.autocasion.com^
 ||sadbmetrics.avanzaentucarrera.com^
 ||sadbmetrics.b-venture.com^
 ||sadbmetrics.blogasturias.com^
@@ -6762,6 +6759,7 @@
 ||smetrics.babynes.ch^
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -7541,7 +7539,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7567,6 +7564,7 @@
 ||smetrics.truckfleetmro.com^
 ||smetrics.truffaut.com^
 ||smetrics.truthinitiative.org^
+||smetrics.trygghansa.se^
 ||smetrics.tui.co.uk^
 ||smetrics.tyson.com^
 ||smetrics.u-can.co.jp^
@@ -8080,6 +8078,7 @@
 ||strack.shawmobile.ca^
 ||strack.shop.avfc.co.uk^
 ||strack.shop.psg.fr^
+||strack.sw.siemens.com^
 ||stracking.kyobo.co.kr^
 ||stracking.myomee.com^
 ||subscription.accenturejo.adobesandbox.com^
@@ -11574,7 +11573,6 @@
 ||app.gozips.com^
 ||app.jaxstatesports.com^
 ||app.ksuowls.com^
-||app.mgoblue.com^
 ||app.mogosme.com^
 ||app.msubobcats.com^
 ||app.scarletknights.com^
@@ -11912,7 +11910,6 @@
 ||tracking.luminishealth.org^
 ||tracking.news.evergreenhealth.com^
 ||tracking.xaapbuildings.com^
-||trackingmms.accenture.com^
 ||content.brightmine.com^
 ||engage.broadcom.com^
 ||featured.bradyid.com^
@@ -12780,6 +12777,7 @@
 ||track.catspros.com^
 ||track.cbdmuay.com^
 ||track.cebclicktrack.com^
+||track.clasesdeeconomia.com^
 ||track.classysculptures.com^
 ||track.cosplayware.com^
 ||track.cufflinkdeals.com^
@@ -24744,6 +24742,7 @@
 ||load.t.famigo.com^
 ||load.t.ganaplay.gt^
 ||load.t.ganaplay.sv^
+||load.t.hondubet.com^
 ||load.t.luxedecor.com^
 ||load.t.monkeytilt.com^
 ||load.t.patioliving.com^
@@ -30586,7 +30585,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||pixel-cdp.sberhealth.ru^
+||data-lake-api.internet.apps.samsung.com^
 ||ja*.apppure.net^
 ||qa-track.ssg.com^
 ||api.openpanel.dev^
@@ -30762,6 +30761,7 @@ prd.api.bleacherreport.com^
 ||sgtm.technikboerse.com^
 ||analytics.rev.iq^
 ||c1-stats.shopifysvc.com^
+||stat.le.com^
 ||apple-*.le.com^
 ||analytics.mailmunch.co^
 ||tracker.adsales.rakuten.co.jp^
@@ -31615,7 +31615,6 @@ dlsdk.appsflyer.com^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
 ||analytics-*-nfl.yinzcam.com^
-||fraud.adjoe.zone^
 ||sdk-monitoring.ogury.co^
 ||us-east-1.paa-reporting-advertising.amazon^
 ||tracker.ulivetv.net^
@@ -31718,7 +31717,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
