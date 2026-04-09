@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-09T11:56:42.453Z
+! Last modified: 2026-04-09T13:31:49.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31974
+! Rules count: 31976
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -56,6 +56,7 @@
 ||openstats.co^
 ||collect.adplogger.no^
 ||track.tel1mekar.com^
+||rtg.rubiconredirect.com^
 ||log.trend.rankify.best^
 ||attribution.airbridge.io^
 ||event.airbridge.io^
@@ -545,6 +546,7 @@
 ||a8live-vote.eventos.work^
 ||a8n.radishbo-ya.co.jp^
 ||a8net.hassyadai.com^
+||a8redirect.cart.ec-sites.jp^
 ||a8track.bizdigi.jp^
 ||a8track.boost-station.jp^
 ||a8track.spartabuddy.jp^
