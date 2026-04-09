@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-08T11:56:29.297Z
+! Last modified: 2026-04-09T11:56:43.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -324,6 +324,7 @@
 ||mtrace.qq.com^
 ||report.qq.com^
 ||rmonitor.qq.com^
+||snowflake.qq.com^
 ||up-hl.3g.qq.com^
 ||yun-hl.3g.qq.com^
 ||beacon.qq.com^
@@ -1669,6 +1670,7 @@
 ||logs.datadoghq.eu^
 ||browser-intake-datadoghq.com^
 ||browser-intake-ap1-datadoghq.com^
+||browser-intake-ap2-datadoghq.com^
 ||browser-intake-us3-datadoghq.com^
 ||browser-intake-us5-datadoghq.com^
 ||browser-intake-datadoghq.eu^
@@ -2599,6 +2601,9 @@
 ||mossturbo.com^
 ||youngle.tech^
 ||dmrtb.com^
+||dmads.dailymotion.com^
+||dmxleo.dailymotion.com^
+||optoutadvertising.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -5224,7 +5229,6 @@
 ||dlrioxg1637dk.cloudfront.net^
 ||dmp.starbolt.io^
 ||dmtracker.com^
-||dmxleo.dailymotion.com^
 ||dn.loupmismaze.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dnemkhkbsdbl.com^
@@ -8227,6 +8231,7 @@
 ||log.umsns.com^
 ||log.x2convert.com^
 ||log.ys7.com^
+||logger.eji6.cc^
 ||logger.unsplash.com^
 ||logriancesenius.com^
 ||logs.amap.com^

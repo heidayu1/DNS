@@ -4,13 +4,12 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-08T11:56:28.006Z
+! Last modified: 2026-04-09T11:56:42.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31979
+! Rules count: 31974
 !
-||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -2235,6 +2234,7 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
+||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -4521,7 +4521,6 @@
 ||smetrics.lexusonthepark.ca^
 ||smetrics.lexusqatar.com^
 ||smetrics.lifestyle.com.au^
-||smetrics.linode.com^
 ||smetrics.lionbridge.com^
 ||smetrics.litfulo.com^
 ||smetrics.livingspaces.com^
@@ -5057,7 +5056,6 @@
 ||smetrics.treehousetv.com^
 ||smetrics.trellix.com^
 ||smetrics.trendmicro.co.jp^
-||smetrics.trendmicro.com^
 ||smetrics.trilliumhealthplan.com^
 ||smetrics.trulicity.com^
 ||smetrics.tsakurai.org^
@@ -5638,6 +5636,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6248,6 +6247,7 @@
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6759,7 +6759,6 @@
 ||smetrics.babynes.ch^
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -7009,7 +7008,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -14319,7 +14317,6 @@
 ||load.data.coquedirect.fr^
 ||load.data.deboterkoekbroers.nl^
 ||load.data.diva-e.com^
-||load.data.facelandclinic.com^
 ||load.data.fashionmusthaves.be^
 ||load.data.fashionmusthaves.nl^
 ||load.data.filterfabriek.nl^
@@ -29262,7 +29259,6 @@
 ||sst.gadgetrixbd.com^
 ||sst.gadx.com.bd^
 ||sst.gamecheck1.com^
-||sst.gereedschappro.nl^
 ||sst.getadayroom.com^
 ||sst.getfurlife.com^
 ||sst.gmbleadmachine.com^
@@ -31033,7 +31029,6 @@ prd.api.bleacherreport.com^
 ||analytics.shareaholic.com^
 ||analytics.shop.hisense.com^
 ||analytics.similarweb.com^
-||analytics.sports.ru^
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.tout.com^
