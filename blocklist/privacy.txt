@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-09T13:31:49.209Z
+! Last modified: 2026-04-10T13:32:04.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31976
+! Rules count: 31971
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -655,6 +655,7 @@
 ||marketing.cygnetcloud.com^
 ||marketing.dataprise.com^
 ||marketing.eventsforce.com^
+||marketing.gogovapps.com^
 ||marketing.gradientfg.com^
 ||marketing.happay.co.in^
 ||marketing.harlancapital.com^
@@ -2795,7 +2796,6 @@
 ||data.comunicaciones.bancosanjuan.net^
 ||data.comunicaciones.bancosantacruz.net^
 ||data.comunicaciones.bancosantafe.net^
-||data.comunicaciones.bcp.com.pe^
 ||data.comunicaciones.ficohsa.com.ni^
 ||data.comunicaciones.ficohsa.com.pa^
 ||data.comunicaciones.ficohsa.hn^
@@ -2924,7 +2924,6 @@
 ||data.ekr.nespresso.com^
 ||data.elbierzonoticias.com^
 ||data.elcorreoclasificados.com^
-||data.elnortedecastilla.es^
 ||data.elu.nespresso.com^
 ||data.em.assurancewireless.com^
 ||data.em.canadiantire.ca^
@@ -3701,6 +3700,7 @@
 ||metrics.nutraingredients.com^
 ||metrics.omya.com^
 ||metrics.pfzw.nl^
+||metrics.philosophy.com^
 ||metrics.playitas.net^
 ||metrics.probiotaevent.com^
 ||metrics.products.omya.com^
@@ -4908,7 +4908,6 @@
 ||smetrics.samsung.com.cn^
 ||smetrics.saucony.com.au^
 ||smetrics.savewithsrpbiz.com^
-||smetrics.sazeracbarrelselect.com^
 ||smetrics.scarboroughtoyota.ca^
 ||smetrics.schindler-berufsbildung.ch^
 ||smetrics.schindler-cz.cz^
@@ -5120,6 +5119,7 @@
 ||smetrics.vip-selection.be^
 ||smetrics.virginiaslims.com^
 ||smetrics.virusbuster.jp^
+||smetrics.visiondirect.co.uk^
 ||smetrics.visiondirect.fr^
 ||smetrics.vodafone.al^
 ||smetrics.volkswagenfinancialservices.nl^
@@ -5638,7 +5638,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6416,7 +6415,6 @@
 ||sadbmetrics.elcomercio.es^
 ||sadbmetrics.elcorreoclasificados.com^
 ||sadbmetrics.elnervion.com^
-||sadbmetrics.elnortedecastilla.es^
 ||sadbmetrics.estiloydecoracion.es^
 ||sadbmetrics.festimag.es^
 ||sadbmetrics.funandseriousgamefestival.com^
@@ -7564,7 +7562,6 @@
 ||smetrics.truckfleetmro.com^
 ||smetrics.truffaut.com^
 ||smetrics.truthinitiative.org^
-||smetrics.trygghansa.se^
 ||smetrics.tui.co.uk^
 ||smetrics.tyson.com^
 ||smetrics.u-can.co.jp^
@@ -13570,7 +13567,6 @@
 ||gtm.baiadelsole.com^
 ||gtm.bakken.dk^
 ||gtm.ballem.it^
-||gtm.bare.id^
 ||gtm.bcm.care^
 ||gtm.beafashion.com^
 ||gtm.beaniesflavourco.co.uk^
@@ -13637,7 +13633,6 @@
 ||gtm.csmegastore.dk^
 ||gtm.csmegastore.fi^
 ||gtm.csmegastore.no^
-||gtm.csmegastore.se^
 ||gtm.ctbconsulting.ch^
 ||gtm.cuorerbe.it^
 ||gtm.dagaasbo.com^
@@ -14319,6 +14314,7 @@
 ||load.data.coquedirect.fr^
 ||load.data.deboterkoekbroers.nl^
 ||load.data.diva-e.com^
+||load.data.facelandclinic.com^
 ||load.data.fashionmusthaves.be^
 ||load.data.fashionmusthaves.nl^
 ||load.data.filterfabriek.nl^
@@ -16580,7 +16576,6 @@
 ||sgtm.myselfie.dk^
 ||sgtm.mystylebags.com^
 ||sgtm.mystylebags.it^
-||sgtm.naehpark.com^
 ||sgtm.namosparfums.com^
 ||sgtm.natale.pastagarofalo.it^
 ||sgtm.nationalmuseet.dk^
@@ -20617,7 +20612,6 @@
 ||gtm.gabriellaazeredo.com.br^
 ||gtm.gabriellavitaltricologista.com.br^
 ||gtm.gaiapole.com.br^
-||gtm.galera.bet^
 ||gtm.galera.bet.br^
 ||gtm.galetosdeliverybr.com.br^
 ||gtm.galetosdeliverystm.com.br^
@@ -24075,6 +24069,7 @@
 ||load.sm.blitzy.com^
 ||load.sm.mrsmommabear.com^
 ||load.snuk.cloudaeon.com^
+||load.somos.conquerblocks.com^
 ||load.somos.conquerx.com^
 ||load.soy.sancfood.com^
 ||load.sr.platformtraining.com^
@@ -24458,7 +24453,6 @@
 ||load.sst.massucar.com.br^
 ||load.sst.mattegaleria.com.br^
 ||load.sst.mbhstore.com^
-||load.sst.meafarma.it^
 ||load.sst.medibilje.rs^
 ||load.sst.medicinegems.com^
 ||load.sst.megastore.nl^
@@ -30361,7 +30355,6 @@
 ||treinamento.anovacaradaneuro.com.br^
 ||trk.jornadadareformatributaria.com.br^
 ||trk.thecaseadvisors.com^
-||trk.tryhalogrow.com^
 ||truedata.urbanauras.com.br^
 ||trygloramd-ss.checkoutera.com^
 ||ts.switchstrips.com^
@@ -30583,6 +30576,8 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||log.api-maps.yandex.
+||stat.katitube.com^
 ||data-lake-api.internet.apps.samsung.com^
 ||ja*.apppure.net^
 ||qa-track.ssg.com^
@@ -30608,7 +30603,6 @@
 ||unif-id.ssp.inmobi.com^
 ||telemetry.sdk.inmobi.com^
 ||telemetry.microsoft.us^
-||analytics.heistotron.uk^
 ||fluffy-analytics.vercel.app^
 ||stats.renet.io^
 ||tracking.cds.dmm.
@@ -30629,6 +30623,7 @@
 ||clogger.nocutnews.co.kr^
 ||mon*.tiktokv.us^
 ||analytics.streamingworld.xyz^
+||stats.bouyguestelecom.fr^
 ||analytics.azrhymes.com^
 ||analytics.luogu.me^
 ||analytics.kode.co.kr^
