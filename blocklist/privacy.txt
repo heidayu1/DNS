@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-11T13:32:20.380Z
+! Last modified: 2026-04-12T13:32:35.328Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31976
+! Rules count: 31971
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2276,6 +2276,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2484,7 +2485,6 @@
 ||adtd.parfumdreams.at^
 ||adtd.parfumdreams.co.uk^
 ||adtd.parfumdreams.cz^
-||adtd.parfumdreams.fr^
 ||adtd.parfumdreams.ie^
 ||adtd.parfumdreams.nl^
 ||adtd.parfumdreams.pt^
@@ -3107,7 +3107,6 @@
 ||data.info.gobrightline.com^
 ||data.info.intuitdome.com^
 ||data.info.jetstereo.com^
-||data.info.lifemiles.com^
 ||data.info.metro.fr^
 ||data.info.motomundohn.com^
 ||data.info.nordea.dk^
@@ -3145,7 +3144,6 @@
 ||data.ks.koodomobile.com^
 ||data.kscopepoc.accenture.com^
 ||data.l.discountcontacts.com^
-||data.lagacetadesalamanca.es^
 ||data.loyality.email.ikea.qa^
 ||data.loyalty.timhortons.ca^
 ||data.m.dealer.creditacceptance.com^
@@ -5401,6 +5399,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -5635,7 +5634,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6246,7 +6244,6 @@
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
 ||metrics.ttiinc.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6422,7 +6419,6 @@
 ||sadbmetrics.hoycinema.com^
 ||sadbmetrics.imaginextrioja.com^
 ||sadbmetrics.innova-bilbao.com^
-||sadbmetrics.lagacetadesalamanca.es^
 ||sadbmetrics.laverdad.es^
 ||sadbmetrics.leonoticias.com^
 ||sadbmetrics.localdigitalkit.com^
@@ -7009,6 +7005,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7538,6 +7535,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7649,7 +7647,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -20765,6 +20762,7 @@
 ||gtm.helpdigitalti.com.br^
 ||gtm.helssyhair.com^
 ||gtm.herediacosmeticos.com.br^
+||gtm.heritagepartscentre.com^
 ||gtm.heydensupply.com^
 ||gtm.heyhanni.com^
 ||gtm.hideck.in^
@@ -24702,7 +24700,6 @@
 ||load.stape.styldesign.com.au^
 ||load.stape.surveysme.io^
 ||load.stape.tatoscredito.com.br^
-||load.stape.terapeutaderesultados.com.br^
 ||load.stape.thaismassa.com.br^
 ||load.stape.thebookbusiness.com.br^
 ||load.stape.thegrowingsofa.com^
@@ -30856,6 +30853,7 @@ prd.api.bleacherreport.com^
 ||hlogger.heraldcorp.com^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
+||c.statcounter.com^
 ||analytics.streamfab.
 ||analytics.ifanrusercontent.com^
 ||tracking.shinycolors.enza.fun^
@@ -31292,7 +31290,6 @@ prd.api.bleacherreport.com^
 ||stat.tvigle.ru^
 ||stat.videonow.ru^
 ||stat*.1internet.tv^
-||stat24.meta.ua^
 ||static-ads.zaloapp.com^
 ||static-trackers.adtarget.me^
 ||static.cloudflareinsights.com^
@@ -31432,7 +31429,6 @@ directtrack.*.js
 ||dygassets.dygdigital.com^
 ||analytics.chita.ru^
 ||metrics.ainews.kz^
-||mybbc-analytics.files.bbci.co.uk^
 ||track.bazonline.ch^
 ||cm.g.doubleclick.net^
 ||metrics.aviasales.ru^
@@ -31503,7 +31499,6 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
-||collector.gamechanger.io^
 ||log-*.isnssdk.com^
 -datareceiver.aki-game.net^
 ||log.sweepycleanplus.com^
