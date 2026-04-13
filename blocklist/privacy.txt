@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-12T13:32:35.328Z
+! Last modified: 2026-04-13T13:32:50.364Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31971
+! Rules count: 31973
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2756,6 +2756,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3386,7 +3387,6 @@
 ||data.rtcdpsummitlab.test.ajo.adobe.com^
 ||data.s.nationalvision.com^
 ||data.s.pnc.com^
-||data.salamancahoy.es^
 ||data.santandertesting.test.ajo.adobe.com^
 ||data.santandertestingamerica.test.ajo.adobe.com^
 ||data.savings.nsandi.com^
@@ -3621,7 +3621,6 @@
 ||metrics.bakeryinfo.co.uk^
 ||metrics.beveragedaily.com^
 ||metrics.bhgfinancial.com^
-||metrics.billareisen.at^
 ||metrics.biocompare.com^
 ||metrics.brilliantbylangham.com^
 ||metrics.britainsbestcake.co.uk^
@@ -3640,6 +3639,7 @@
 ||metrics.egencia.co.za^
 ||metrics.egencia.com.au^
 ||metrics.egencia.com.hk^
+||metrics.egencia.com.sg^
 ||metrics.egencia.com.tr^
 ||metrics.egencia.cz^
 ||metrics.egencia.fi^
@@ -5337,7 +5337,6 @@
 ||aa.cnet.com^
 ||aa.dysoncanada.ca^
 ||aametrics.aktia.fi^
-||aanalytics.adelaide.edu.au^
 ||adb-secured.kijk.nl^
 ||adb.kijk.nl^
 ||adbmetrics.blogasturias.com^
@@ -6268,6 +6267,7 @@
 ||metrics.vodafone.com.eg^
 ||metrics.vodafone.com.gh^
 ||metrics.vodafone.ro^
+||metrics.vogue.com.au^
 ||metrics.vw.com^
 ||metrics.vwfs.com^
 ||metrics.vwfs.com.br^
@@ -6758,6 +6758,7 @@
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
 ||smetrics.base.be^
+||smetrics.bbvanetcash.pe^
 ||smetrics.bcbsnd.com^
 ||smetrics.bd.dk^
 ||smetrics.be.carrefour.eu^
@@ -7005,7 +7006,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -8184,7 +8184,6 @@
 ||assets2.suncorpbank.com.au^
 ||assets2.vanz.vero.co.nz^
 ||at-cdn.swisscom.ch^
-||atarget.adelaide.edu.au^
 ||metrics-target.siriusxm.com^
 ||metrics.adobeprimetime.com^
 ||metrics.lmtonline.com^
@@ -8828,6 +8827,7 @@
 ||farhp.nadaderm.com^
 ||fieqk.hotelcollection.mx^
 ||finsq.silentballacademy.com^
+||fjjkh.thelostestate.com^
 ||fnabd.hotelcollection.fr^
 ||fqled.prepapizza.com^
 ||fqqok.zipstring.com^
@@ -9073,7 +9073,6 @@
 ||tzqip.thevinessupply.co^
 ||ukadh.livelyroot.com^
 ||ulslc.happysocks.com^
-||umzpj.paintyourlife.com^
 ||urlir.sophiawebster.com^
 ||vefgg.katespade.com^
 ||vipsj.zgallerie.com^
@@ -13125,7 +13124,6 @@
 ||cdn.medlandspann.is^
 ||cdn.naturprodukt.cz^
 ||cdn.studytexter.com^
-||cdn.villaggioportoada.it^
 ||cdnx.baiadellesirene.it^
 ||cdnx.capogrossocamerota.it^
 ||cdnx.dreamsresortsellia.it^
@@ -14061,6 +14059,7 @@
 ||gtm.yellowbeard.com^
 ||gtm.yoomi.com^
 ||gtm.yourstride.com^
+||gtm.yvonne-arnaud.co.uk^
 ||gtm.zwergensache.com^
 ||gtm001.confiai.lat^
 ||gtm1.cleanbags.dk^
@@ -16269,6 +16268,7 @@
 ||sgtm.borealisgroup.com^
 ||sgtm.borgovetfarma.it^
 ||sgtm.bottegadellachiave.net^
+||sgtm.bricobravo.com^
 ||sgtm.brisco.it^
 ||sgtm.bull-proof.be^
 ||sgtm.butik24.dk^
@@ -18414,6 +18414,7 @@
 ||cafe.matheusaugusto.cloud^
 ||cafe.sniperdoexcel.shop^
 ||calcados.reginarios.com.br^
+||campaign.derooipannen.nl^
 ||canadiandiscst.mywellnessoffer.com^
 ||cantseeme.dapper.agency^
 ||cap.88ads.xyz^
@@ -19112,7 +19113,6 @@
 ||data.luanatavaresbr.com.br^
 ||data.luizfernandoroxo.tribopages.net^
 ||data.maainternational.org.au^
-||data.madlan.co.il^
 ||data.magickitchen.com^
 ||data.maileg.com^
 ||data.mailegusa.com^
@@ -22754,6 +22754,7 @@
 ||load.cafe.capovillatexture.com.br^
 ||load.cafe.lonardistribuidora.com.br^
 ||load.cafe.soniagambetta.com.br^
+||load.caliserverside.calicant.us^
 ||load.capi.fortknight.ca^
 ||load.capi.fortknightoptics.com^
 ||load.capi.labornursemama.com^
@@ -30826,7 +30827,6 @@ prd.api.bleacherreport.com^
 ||gtm.perfectlybasics.nl^
 ||gtm.proff.se^
 ||gtm.readytec.it^
-||gtm.restplatzboerse.at^
 ||gtm.saumag.edu^
 ||gtm.skrz.cz^
 ||gtm.docswell.com^
@@ -31499,6 +31499,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
+||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 -datareceiver.aki-game.net^
 ||log.sweepycleanplus.com^
@@ -31709,6 +31710,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
