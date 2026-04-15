@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-14T13:33:05.940Z
+! Last modified: 2026-04-15T13:33:21.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2237,6 +2237,7 @@
 ||sstats.partstrain.com^
 ||sstats.paypal-metrics.com^
 ||sstats.prevent.se^
+||sstats.rssc.com^
 ||sstats.securitas-direct.com^
 ||sstats.shaneco.com^
 ||sstats.spark.co.nz^
@@ -5286,6 +5287,7 @@
 ||telemetry.am.pictet.com^
 ||telemetry.bowflex.ca^
 ||telemetry.bowflex.com^
+||telemetry.boxt.co.uk^
 ||telemetry.cfraresearch.com^
 ||telemetry.dematic.com^
 ||telemetry.doitbeststore.com^
@@ -9125,7 +9127,6 @@
 ||eutzh.bokksu.com^
 ||fzhga.softpullsolutions.com^
 ||gthug.agrenappliance.com^
-||gtmub.aliveandwell.health^
 ||ibdoz.trilogyaviationgroup.com^
 ||ievbj.oasissenioradvisors.com^
 ||izhte.58foundations.com^
@@ -13005,7 +13006,6 @@
 ||analytics.hauhau.fi^
 ||analytics.hausamsee-aachen.com^
 ||analytics.ikarao-shop.com^
-||analytics.itabus.it^
 ||analytics.kbeauty.rs^
 ||analytics.kemppi.com^
 ||analytics.kerbl.com^
@@ -16814,7 +16814,6 @@
 ||sporingsserver.s-e-a.dk^
 ||sporingsserver.superwood.dk^
 ||sporingsserver.superwood.se^
-||srv.furlanmarri.com^
 ||srvr.mpcentradas.es^
 ||ss.ad-ops.hu^
 ||ss.autobiographieschronos.com^
@@ -20131,7 +20130,6 @@
 ||gtm.giohjoias.com.br^
 ||gtm.gioiapura.com^
 ||gtm.gioiapura.fr^
-||gtm.gioiapura.it^
 ||gtm.giselesabadini.com.br^
 ||gtm.gisellekids.com.br^
 ||gtm.giulianaflores.com.br^
@@ -24261,6 +24259,7 @@
 ||load.stag.optibase.io^
 ||load.stags.supremeopti.com^
 ||load.stape-gtm.chrisbeard.coach^
+||load.stape-sgtm.standupamerica.com^
 ||load.stape.3rdsetce.com^
 ||load.stape.acarolinecastro.com.br^
 ||load.stape.alexandreroth.com^
@@ -31484,6 +31483,7 @@ dlsdk.appsflyer.com^
 @@||redirect.appmetrica.yandex.net^
 @@||redirect.appmetrica.yandex.com^
 @@||79423.analytics.edgekey.net^|
+||inventorycache.com^$badfilter
 @@||optout.rlcdn.com^
 ||form.info-morimoto-real.jp^$badfilter
 ||connect.telstrawholesale.com^$badfilter
