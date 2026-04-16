@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-15T13:33:21.742Z
+! Last modified: 2026-04-16T13:33:36.644Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -17,6 +17,7 @@
 ||participants.evolv.ai^
 ||media.evolv.ai^
 ||platform.datazoom.io^
+||1mythtracker.xyz^
 ||log.grm.gsretail.com^
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
@@ -2751,6 +2752,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3858,7 +3860,6 @@
 ||sanalytics.tnt-tv.ro^
 ||sanalytics.tnt.africa^
 ||sanalytics.tntsports.cl^
-||sanalytics.tntsports.com.br^
 ||sanalytics.tntsports.com.mx^
 ||sanalytics.warnertv.fr^
 ||sanalytics.warnertv.pl^
@@ -4868,7 +4869,6 @@
 ||smetrics.ralphlauren.com.sg^
 ||smetrics.ralphlauren.com.tw^
 ||smetrics.ralphlauren.global^
-||smetrics.ralphlauren.pl^
 ||smetrics.ralphlauren.se^
 ||smetrics.rbctrust.com^
 ||smetrics.rbmofatlanta.com^
@@ -5119,6 +5119,7 @@
 ||smetrics.vikingline.ee^
 ||smetrics.vikingline.fi^
 ||smetrics.vikingline.se^
+||smetrics.vince.com^
 ||smetrics.vip-selection.be^
 ||smetrics.virginiaslims.com^
 ||smetrics.virusbuster.jp^
@@ -5644,7 +5645,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -9262,6 +9262,7 @@
 ||www.fasttrack.fr^
 ||www.fasttracker.fr^
 ||analytics.kist-escherich.com^
+||betterdata.kruu.com^
 ||content01.genius.tv^
 ||content02.genius.tv^
 ||content03.genius.tv^
@@ -12364,7 +12365,6 @@
 ||stats.lauracpa.ca^
 ||stats.leaguestats.gg^
 ||stats.leahcollection.com^
-||stats.learnlinux.tv^
 ||stats.leavetrackapp.com^
 ||stats.lefthoek.com^
 ||stats.legendofnom.com^
@@ -16814,6 +16814,7 @@
 ||sporingsserver.s-e-a.dk^
 ||sporingsserver.superwood.dk^
 ||sporingsserver.superwood.se^
+||sptga.laduree.com^
 ||srvr.mpcentradas.es^
 ||ss.ad-ops.hu^
 ||ss.autobiographieschronos.com^
@@ -23890,7 +23891,6 @@
 ||load.sscapi.creativehiveco.com^
 ||load.ssd.shurawear.com^
 ||load.ssdata.reveryworks.com^
-||load.sseu.fiido.com^
 ||load.ssg.onelabs.one^
 ||load.ssgtm.curreylighting.com^
 ||load.ssgtm.elanlightinglights.com^
@@ -31140,6 +31140,7 @@ dlsdk.appsflyer.com^
 ||adj.st^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
+||global-receiver-ta.thinkingdata.cn^
 -datareceiver.aki-game.net^
 ||log.sweepycleanplus.com^
 ||logc-sg.tsd.xindong.com^
@@ -31483,7 +31484,6 @@ dlsdk.appsflyer.com^
 @@||redirect.appmetrica.yandex.net^
 @@||redirect.appmetrica.yandex.com^
 @@||79423.analytics.edgekey.net^|
-||inventorycache.com^$badfilter
 @@||optout.rlcdn.com^
 ||form.info-morimoto-real.jp^$badfilter
 ||connect.telstrawholesale.com^$badfilter
