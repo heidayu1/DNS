@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-16T13:33:36.644Z
+! Last modified: 2026-04-17T13:33:51.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31613
+! Rules count: 31614
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -78,7 +78,6 @@
 ||rsra-ph.cdn-fileserver.com^
 ||rsras-ph.cdn-fileserver.com^
 ||api.melonity.gg^
-||analytics.pyksid.com^
 ||sr-client-cfg.amplitude.com^
 ||api.amplitude.com^
 ||regionconfig.amplitude.com^
@@ -3105,7 +3104,6 @@
 ||data.info.clear.com.br^
 ||data.info.clippers.com^
 ||data.info.consumercellular.com^
-||data.info.costa.it^
 ||data.info.credit-suisse.com^
 ||data.info.cruisebasketball.com^
 ||data.info.ficohsa.com.gt^
@@ -3311,7 +3309,6 @@
 ||data.notice.t-mobile.com^
 ||data.notificaciones.galicia.ar^
 ||data.notificaciones.ing.es^
-||data.notification-htp.dish.com^
 ||data.notification-htp.sling.com^
 ||data.notification.giftcards.com^
 ||data.notification.investmentbank.db.com^
@@ -3428,7 +3425,6 @@
 ||data.service.tiresplus.com^
 ||data.service.wheelworks.net^
 ||data.service.wizconnected.com^
-||data.service.xoom.com^
 ||data.service1.cahoot.com^
 ||data.service1.santander.co.uk^
 ||data.services.callme.dk^
@@ -3491,7 +3487,6 @@
 ||data.titancert.test.ajo.adobe.com^
 ||data.titancert1.test.ajo.adobe.com^
 ||data.tmail.northeast.aaa.com^
-||data.todoalicante.es^
 ||data.topcomparativas.com^
 ||data.trans.americasbest.com^
 ||data.transaction.americafirst.com^
@@ -3691,6 +3686,7 @@
 ||metrics.joe-reisen.at^
 ||metrics.jynarquehcp.com^
 ||metrics.kataloge.dertour-group.com^
+||metrics.kyliecosmetics.com^
 ||metrics.lastminute.ch^
 ||metrics.londoncoffeefestival.com^
 ||metrics.marcus.com^
@@ -3823,7 +3819,6 @@
 ||sadbmetrics.suenasur.com^
 ||sadbmetrics.surdeutsch.com^
 ||sadbmetrics.tickelium.com^
-||sadbmetrics.todoalicante.es^
 ||sadbmetrics.turium.es^
 ||sadbmetrics.vocentoeventos.com^
 ||sadbmetrics.welife.es^
@@ -5429,6 +5424,7 @@
 ||analytic.underarmour.com^
 ||analytics.adultswim.co.uk^
 ||analytics.allianz-travel.ch^
+||analytics.asml.com^
 ||analytics.avis.lu^
 ||analytics.boing.es^
 ||analytics.boomerang-tv.pl^
@@ -5708,7 +5704,6 @@
 ||metrics.aviationweek.com^
 ||metrics.avigo.com^
 ||metrics.axs.com^
-||metrics.baitoru.com^
 ||metrics.bananarepublic.eu^
 ||metrics.bankatfirst.com^
 ||metrics.banksa.com.au^
@@ -7623,6 +7618,7 @@
 ||smetrics.worshipfacilities.com^
 ||smetrics.wrs.com.sg^
 ||smetrics.wu.com^
+||smetrics.xofluza.com^
 ||smetrics.xolairhcp.com^
 ||smetrics.y108.ca^
 ||smetrics.yellow.com.au^
@@ -9026,7 +9022,6 @@
 ||klddt.fredasalvador.com^
 ||kpemv.lemonadedolls.com^
 ||kshtn.red-equipment.com.au^
-||kslht.hatchcollection.com^
 ||kvoqd.madeincookware.co.uk^
 ||kzsbi.happystaffyco.com^
 ||lbcvr.happysocks.com^
@@ -9038,6 +9033,7 @@
 ||mnjvh.tipperarycrystal.ie^
 ||mxtzl.lemmelive.com^
 ||nhddn.cloudninehair.com^
+||njenz.allivet.com^
 ||njpmt.hatchetheadwear.com^
 ||nnqip.bestcanvas.ca^
 ||nslhy.broadwaysanjose.com^
@@ -9761,6 +9757,7 @@
 ||data-47ee1b0882.osnabrueck.hall-of-fame.online^
 ||data-47ee1b0882.saarfilm.net^
 ||data-48bcc52851.wirtrauern.at^
+||data-497ecca600.fupa.net^
 ||data-4be83b69ca.kka-online.info^
 ||data-4cc3ddd1b2.puls24.at^
 ||data-4ede7e9c86.faz.com^
@@ -9852,6 +9849,7 @@
 ||data-94db24a6dd.motorrad-magazin.at^
 ||data-960dda2233.jam.fm^
 ||data-96d64cb150.fupa.net^
+||data-975521d9ad.horizont.net^
 ||data-992b9a20ea.competitionline.com^
 ||data-997fc825f1.fupa.net^
 ||data-9ac0797a75.4gamechangers.io^
@@ -10340,6 +10338,7 @@
 ||eloqua.certiport.com^
 ||eloqua.radware.com^
 ||eloquatrack.kistler.com^
+||elqapp.clevelandbrowns.com^
 ||elqtrack.info.estatenyheter.no^
 ||elqtracking.bonniernewsevents.se^
 ||elqtracking.byggindustrin.se^
@@ -13699,7 +13698,6 @@
 ||gtm.jydekrog.dk^
 ||gtm.kammak.gl^
 ||gtm.kas20.nl^
-||gtm.kidsproof.nl^
 ||gtm.kidsproofvakantie.nl^
 ||gtm.kirppu.dk^
 ||gtm.kit-siguranta.ro^
@@ -16203,6 +16201,7 @@
 ||sgtm.bidibadu.com^
 ||sgtm.bigorange.it^
 ||sgtm.bimoritaly.com^
+||sgtm.bingoloco.com^
 ||sgtm.biocostellazioni.com^
 ||sgtm.biscottini.it^
 ||sgtm.bisilver.it^
@@ -23891,6 +23890,7 @@
 ||load.sscapi.creativehiveco.com^
 ||load.ssd.shurawear.com^
 ||load.ssdata.reveryworks.com^
+||load.sseu.fiido.com^
 ||load.ssg.onelabs.one^
 ||load.ssgtm.curreylighting.com^
 ||load.ssgtm.elanlightinglights.com^
@@ -29904,6 +29904,7 @@
 ||tracking.svarts.com.br^
 ||tracking.tamermx.com^
 ||tracking.tamimshoe.com^
+||tracking.tcpsoftware.com^
 ||tracking.techaxis.com.np^
 ||tracking.thesperoclinic.com^
 ||tracking.threepiece.us^
@@ -30374,6 +30375,7 @@ prd.api.bleacherreport.com^
 ||track.streak.ninja^
 ||analytics-api.sconto.cz^
 ||log-ana.h3z.jp^
+||stats.allenai.org^
 ||metrics.camsoda.com^
 ||analytics.raenonx.cc^
 ||chocolatine.apexlegendsstatus.com^
@@ -30752,7 +30754,6 @@ prd.api.bleacherreport.com^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d3in1te4fdays6.cloudfront.net^
-||d3r7h55ola878c.cloudfront.net^
 ||d3s7ggfq1s6jlj.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||daq0d0aotgq0f.cloudfront.net^
