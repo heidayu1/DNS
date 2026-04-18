@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-17T13:33:51.720Z
+! Last modified: 2026-04-18T13:34:07.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31614
+! Rules count: 31613
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -671,6 +671,7 @@
 ||marketing.specgradeled.com^
 ||marketing.theredchecker.com^
 ||marketing.useadam.co.uk^
+||marketing.visitmadison.com^
 ||marketing.visitpasadena.com^
 ||marketing.wealthcarecapital.com^
 ||marketing2.technologyadvice.com^
@@ -2751,7 +2752,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -6576,7 +6576,6 @@
 ||secureanalytics.budget.no^
 ||secureanalytics.budget.se^
 ||secureanalytics.budgetautonoleggio.it^
-||securedata.bioplanet.be^
 ||securedata.collishop.be^
 ||securedata.dreambaby.be^
 ||securedata.dreamland.be^
@@ -6766,6 +6765,7 @@
 ||smetrics.braunability.com^
 ||smetrics.brewersfayre.co.uk^
 ||smetrics.bridgewayhs.com^
+||smetrics.brookdale.com^
 ||smetrics.brooksbrothers.com^
 ||smetrics.bt.com.au^
 ||smetrics.buffalotrace.com^
@@ -8790,7 +8790,6 @@
 ||tzgurwizule3.app.cardahealth.com^
 ||z3617cz9ep.fitness.tappbrothers.com^
 ||aaubh.trycloud9.com^
-||abnuc.benchmarkmedia.com^
 ||adcfj.chocomize.com^
 ||admba.shadeit.com^
 ||ajlog.dardanos.com^
@@ -9451,6 +9450,7 @@
 ||yak.flutterblog.net^
 ||analytics.applycreatures.com^
 ||analytics.carnelian.cc^
+||analytics.code.dccouncil.gov^
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
 ||analytics.digitaleyes.ai^
@@ -10412,6 +10412,7 @@
 ||track.education.kenschool.jp^
 ||track.enterpriseconnect.com^
 ||track.exeterisc.com^
+||track.go.qiagen.com^
 ||track.hofstrainternationalprograms.com^
 ||track.illinoisstate.intostudy.com^
 ||track.info.vaccineadvisor.com^
@@ -11559,7 +11560,6 @@
 ||mackaytracking.newyorklifeinvestments.com^
 ||publicidad.davivienda.com.pa^
 ||tracking.eyefinity.com^
-||app.auburntigers.com^
 ||app.bucky.uwbadgers.com^
 ||app.calbears.com^
 ||app.goarmywestpoint.com^
@@ -13182,6 +13182,7 @@
 ||cloud.villaagarna.se^
 ||cmo.gulfacademysafety.com^
 ||cmo.gulfacademysafety.me^
+||collect.aligne.co^
 ||collect.aof.dk^
 ||collect.auris.nl^
 ||collect.avcenter.dk^
@@ -13240,7 +13241,6 @@
 ||data.amarant.nl^
 ||data.artnekretnine.com^
 ||data.assainissement-direct.fr^
-||data.atp-autoteile.at^
 ||data.audicaodirecta.pt^
 ||data.autokilta.fi^
 ||data.aviationgroup.es^
@@ -13974,7 +13974,6 @@
 ||gtm.weeklyrevolt.com^
 ||gtm.well-comm.it^
 ||gtm.werkenbijvandorp.eu^
-||gtm.weshape.dk^
 ||gtm.whitemountains.gr^
 ||gtm.widowmakers.se^
 ||gtm.wittypower.com^
@@ -15388,7 +15387,6 @@
 ||load.sst.atlantis-vodnomesto.si^
 ||load.sst.atticsecurity.com^
 ||load.sst.auto-fairs.com^
-||load.sst.babycenter.hr^
 ||load.sst.bakenfiets.nl^
 ||load.sst.balslow.com^
 ||load.sst.bandjes.nl^
@@ -16010,7 +16008,6 @@
 ||server.conversieversneller.com^
 ||server.coussin.fr^
 ||server.coussinea.fr^
-||server.creageneve.com^
 ||server.cubbly.co.uk^
 ||server.dailywatch.com^
 ||server.danelec.com^
@@ -18768,7 +18765,6 @@
 ||data.masterseanchan.com^
 ||data.maximumcenter.co.il^
 ||data.mensorium.com^
-||data.mentalabs.org^
 ||data.metasoftbd.com^
 ||data.minhaskills.io^
 ||data.mobilesentrix.eu^
@@ -21518,6 +21514,7 @@
 ||gtm.thepartypirate.com^
 ||gtm.therideside.com^
 ||gtm.thesinglemaltshop.com^
+||gtm.thespicehouse.com^
 ||gtm.thestartbr.com.br^
 ||gtm.thestepshotel.com^
 ||gtm.thestore.org^
@@ -30162,7 +30159,6 @@
 ||waaf1.aldiphotos.co.uk^
 ||web.campaign.miriade.com^
 ||web.email.amplifiedclothing.com^
-||web.email.bricocenter.it^
 ||web.email.espares.co.uk^
 ||web.email.mishimoto.co.uk^
 ||web.email.mishimoto.eu^
@@ -30298,6 +30294,7 @@
 ||stats.anime-go.cc^
 ||api.blackcrow.ai^
 ||analytics.emforce.co.kr^
+||j0v36abmdj.execute-api.us-east-1.amazonaws.com^
 prd.api.bleacherreport.com^
 ||ingestion.webanalytics.italia.it^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
@@ -30515,6 +30512,7 @@ prd.api.bleacherreport.com^
 ||webtrack.pospal.cn^
 ||analytics.cookiefirst.dev^
 ||tracker.dalso.org^
+||stats.img2go.com^
 ||log.api.useinsider.com^
 ||hit.api.useinsider.com^
 ||track.lookerpets.com^
@@ -31303,6 +31301,7 @@ dlsdk.appsflyer.com^
 ||track.extra.app^
 ||g.analytics.versa-ai.com^
 ||analytics.rayjump.com^
+||events.ifunny.co^
 ||pathfinder.analytics.komoot.net^
 ||log.geetest.com^
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
