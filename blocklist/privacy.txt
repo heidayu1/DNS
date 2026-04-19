@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-18T13:34:07.270Z
+! Last modified: 2026-04-19T13:34:22.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31613
+! Rules count: 31619
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -1953,6 +1953,7 @@
 ||smetrics.digitalglobe.com^
 ||smetrics.diy.com^
 ||smetrics.dollar.com^
+||smetrics.dreamvacationweek.com^
 ||smetrics.dts.com^
 ||smetrics.dunkindonuts.com^
 ||smetrics.e-abbott.com^
@@ -2270,6 +2271,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -3157,6 +3159,7 @@
 ||data.m.dealer.creditacceptance.com^
 ||data.m.eaglesautismfoundation.org^
 ||data.m.metro-tr.com^
+||data.m.mlsstore.com^
 ||data.m.mysticlake.com^
 ||data.m.philadelphiaeagles.com^
 ||data.m.shop.international.nhl.com^
@@ -3751,7 +3754,6 @@
 ||pages.email.yourmessage.aviva.co.uk^
 ||pages.mail.cunard.com^
 ||pc.mail.firestonecompleteautocare.com^
-||pdmsmrt.gmccanada.ca^
 ||podcast.e.adobe.com^
 ||preference.mktg.homesteadmiamispeedway.com^
 ||preferences.email.gobrightline.com^
@@ -5224,7 +5226,6 @@
 ||sstats.hostplus.com.au^
 ||sstats.mcgriff.com^
 ||sstats.myafco.com^
-||sstats.norauto.es^
 ||sstats.norauto.pt^
 ||sstats.o2family.cz^
 ||sstats.o2knihovna.cz^
@@ -6222,7 +6223,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6318,7 +6318,6 @@
 ||oimg.login.cnbc.com^
 ||oimg.m.calltheclose.cnbc.com^
 ||om.hotels.cn^
-||om.rogersmedia.com^
 ||omni.cn.saxobank.com^
 ||omni.holidaycheck.cz^
 ||omni.westernasset.com^
@@ -6561,7 +6560,6 @@
 ||secureanalytics.avis.com.pt^
 ||secureanalytics.avis.cz^
 ||secureanalytics.avis.dk^
-||secureanalytics.avis.es^
 ||secureanalytics.avis.fr^
 ||secureanalytics.avis.lu^
 ||secureanalytics.avis.nl^
@@ -6982,6 +6980,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7522,6 +7521,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -9008,6 +9008,7 @@
 ||jfjip.onceuponafarmorganics.com^
 ||jflsh.tahylormade.com^
 ||jhvhh.marinadelreyhotel.com^
+||jlnlo.losangelesapparel.net^
 ||jnjbq.monicavinader.com^
 ||joqdd.madeincookware.com.au^
 ||jqmft.pyramidcollection.com^
@@ -9966,6 +9967,7 @@
 ||data-ed3fe893ba.springermedizin.at^
 ||data-ef2b66d556.miss.at^
 ||data-f00aa2a607.dienews.net^
+||data-f1c47705fc.topagrar.com^
 ||data-f1c47705fc.topagrar.pl^
 ||data-f1c47705fc.tygodnik-rolniczy.pl^
 ||data-f1e447fbcf.absolutfussball.com^
@@ -10046,7 +10048,6 @@
 ||adat.nool.hu^
 ||adat.petofinepe.hu^
 ||adat.radio1gong.hu^
-||adat.retroradio.hu^
 ||adat.ripost.hu^
 ||adat.somogyihirlap.hu^
 ||adat.sonline.hu^
@@ -10698,6 +10699,7 @@
 ||app.humanaresponses.com^
 ||app.info.actuate.com^
 ||app.info.americanpublicmediagroup.org^
+||app.info.autotask.com^
 ||app.info.aviationweek.com^
 ||app.info.avid.com^
 ||app.info.compellent.com^
@@ -13191,7 +13193,6 @@
 ||collect.bones.dk^
 ||collect.bronnum.dk^
 ||collect.cityfit.pl^
-||collect.dancovershop.com^
 ||collect.egecarpets.com^
 ||collect.feriepartner.dk^
 ||collect.feriepartner.no^
@@ -15387,6 +15388,7 @@
 ||load.sst.atlantis-vodnomesto.si^
 ||load.sst.atticsecurity.com^
 ||load.sst.auto-fairs.com^
+||load.sst.babycenter.hr^
 ||load.sst.bakenfiets.nl^
 ||load.sst.balslow.com^
 ||load.sst.bandjes.nl^
@@ -16868,6 +16870,7 @@
 ||sscdn.modulo.fr^
 ||ssd.luganohoteladmiral.com^
 ||ssdata.oona-home.ch^
+||ssgtm.1rebel.com^
 ||ssgtm.brickopen.it^
 ||ssgtm.cariuma.fr^
 ||ssgtm.centrepatronal.ch^
@@ -18990,7 +18993,6 @@
 ||events.mambo.com.br^
 ||events.mixlar.com.br^
 ||events.moicapetown.co.za^
-||events.moidurban.co.za^
 ||events.moijoburg.co.za^
 ||events.morifarma.com.br^
 ||events.mountainairmechanical.com^
@@ -21508,7 +21510,6 @@
 ||gtm.theiadidaticos.com.br^
 ||gtm.theinvisiblecollege.com.br^
 ||gtm.thelechuza.co.uk^
-||gtm.thelostco.com^
 ||gtm.themediterraneandish.com^
 ||gtm.themens.com.br^
 ||gtm.thepartypirate.com^
@@ -25937,6 +25938,7 @@
 ||server.globalixbd.com^
 ||server.globalmatrix.com.bd^
 ||server.gnextbaby.com^
+||server.go2africa.com^
 ||server.goiris.com.br^
 ||server.gokursos.com^
 ||server.goldberrybd.com^
@@ -27884,6 +27886,7 @@
 ||sgtm.garganomizarhotel.com^
 ||sgtm.gargoballet.com.br^
 ||sgtm.garnvaerkstedet.dk^
+||sgtm.gate.shop^
 ||sgtm.gatsoulis.gr^
 ||sgtm.geely.ma^
 ||sgtm.gelatodemy.com^
@@ -30159,6 +30162,7 @@
 ||waaf1.aldiphotos.co.uk^
 ||web.campaign.miriade.com^
 ||web.email.amplifiedclothing.com^
+||web.email.bricocenter.it^
 ||web.email.espares.co.uk^
 ||web.email.mishimoto.co.uk^
 ||web.email.mishimoto.eu^
@@ -30591,6 +30595,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -31055,6 +31060,7 @@ prd.api.bleacherreport.com^
 ||api-*.hismarttv.com^
 ||log.musical.ly^
 ||h353.ncadvertiser.com^
+||m700.bigrapidsnews.com^
 ||collection-endpoint-staging.herokuapp.com^
 ||d10vy5gom1ed53.cloudfront.net^
 -track-inview.
