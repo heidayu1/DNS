@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-19T13:34:22.451Z
+! Last modified: 2026-04-20T13:34:37.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31619
+! Rules count: 31615
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2271,7 +2271,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2754,6 +2753,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5075,7 +5075,6 @@
 ||smetrics.upsidedirect.com^
 ||smetrics.usaaperks.com^
 ||smetrics.ussailgpteam.com^
-||smetrics.vangraaf.com^
 ||smetrics.vans.co.nz^
 ||smetrics.vans.com.au^
 ||smetrics.vaxassist.com^
@@ -6980,7 +6979,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -8316,6 +8314,7 @@
 ||bbybqq.levi.co.id^
 ||bdzcck.stadiumgoods.com^
 ||bfvlgp.appstory.co.kr^
+||bhxemw.charleskeith.com^
 ||bilmnu.trouver-un-logement-neuf.com^
 ||bjdqbl.nippn-kenko.net^
 ||bjeehz.accademiadellusso.com^
@@ -8526,6 +8525,7 @@
 ||nfudeh.jadebag.co.kr^
 ||ngyxtr.ripcurl.com^
 ||nktrzh.lastminute.ch^
+||nlgzhd.yoox.com^
 ||noacqq.joamom.co.kr^
 ||nqacsh.politirapporten.dk^
 ||nqqwth.pirktukas.lt^
@@ -20765,7 +20765,6 @@
 ||gtm.movimentomaterno.com.br^
 ||gtm.movmix.com.br^
 ||gtm.mpdias.com.br^
-||gtm.mrkeyshop.com^
 ||gtm.mrmeatyeg.com^
 ||gtm.mrshoppingbd.com^
 ||gtm.mrtargetonline.com^
@@ -22379,7 +22378,6 @@
 ||load.data.e-visa-qatar.com^
 ||load.data.ecolemauriceleroux.com^
 ||load.data.elixir-consulting.com^
-||load.data.evolvebeauty.com^
 ||load.data.geeks.ee^
 ||load.data.geniusiq.io^
 ||load.data.goayo.com^
@@ -23343,7 +23341,6 @@
 ||load.rover.pwrpep.com^
 ||load.royalvapestore.com^
 ||load.rpbc1.smartblinds.co.uk^
-||load.rpbc1.smartblinds.com^
 ||load.rpbc1.smartblinds.nl^
 ||load.rural.doutorjosenetto.com.br^
 ||load.rv.remoteclosingacademy.com^
@@ -24985,8 +24982,6 @@
 ||seamless.bookedsolidads.com^
 ||seamless.joinhwtapp.com^
 ||seamless.trippbars.com^
-||securedata.aiper.com^
-||securedata.aiper.store^
 ||securedata.yesoulfitness.com^
 ||securemetrics.velotricbike.com^
 ||sellup.badana.cl^
@@ -28487,7 +28482,6 @@
 ||sgtm.vinty.co.za^
 ||sgtm.vitalodontoimplantes.com.br^
 ||sgtm.vitalsvault.com^
-||sgtm.voice.controlla.xyz^
 ||sgtm.voidwatches.com^
 ||sgtm.vrsovicke-jitro.cz^
 ||sgtm.walcottradio.com^
@@ -29790,6 +29784,7 @@
 ||tracking.buscasim.com.br^
 ||tracking.carvind.com^
 ||tracking.cashbet.bet^
+||tracking.certified-pep.com^
 ||tracking.chocolate.edu.hk^
 ||tracking.color-theories.com^
 ||tracking.comedybarn.com^
@@ -30254,7 +30249,6 @@
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
-||bizlog-gateway.myrealtrip.com^
 ||log1.wanmei.com^
 ||log2.wanmei.com^
 ||stats.spottedlublin.pl^
@@ -30459,6 +30453,7 @@ prd.api.bleacherreport.com^
 ||gtm.ahlens.se^
 ||gtm.asiakastieto.fi^
 ||gtm.careercontessa.com^
+||gtm.clutter.com^
 ||gtm.ellos.se^
 ||gtm.guitarzoom.com^
 ||gtm.humann.com^
@@ -31473,6 +31468,7 @@ dlsdk.appsflyer.com^
 ||ulog-*.ksapisrv.com^
 ||ulog.*.ksapisrv.com^
 ||ulog.*.kwai-pro.com^
+||ulog2-us.kwaipros.com^
 ||mcs.*.tiktok.com^
 ||mcs.*.tiktokv.com^
 ||log*-normal-*.tiktokv.us^
