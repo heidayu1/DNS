@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-20T13:34:37.226Z
+! Last modified: 2026-04-21T13:34:52.280Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31615
+! Rules count: 31611
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -4892,7 +4892,6 @@
 ||smetrics.riumachitearoom.jp^
 ||smetrics.rivian.com^
 ||smetrics.roadmastertires.com^
-||smetrics.roche.com^
 ||smetrics.rocheinteract.ie^
 ||smetrics.rochemed.ba^
 ||smetrics.roland.com^
@@ -5641,6 +5640,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6222,6 +6222,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6317,6 +6318,7 @@
 ||oimg.login.cnbc.com^
 ||oimg.m.calltheclose.cnbc.com^
 ||om.hotels.cn^
+||om.rogersmedia.com^
 ||omni.cn.saxobank.com^
 ||omni.holidaycheck.cz^
 ||omni.westernasset.com^
@@ -7519,7 +7521,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -13747,7 +13748,6 @@
 ||gtm.matobaldai.lt^
 ||gtm.matteobaldini.com^
 ||gtm.maxpiccinini.com^
-||gtm.medcanonestop.com^
 ||gtm.mediconline.se^
 ||gtm.medmasterplan.com.br^
 ||gtm.meeting-hub.net^
@@ -14257,7 +14257,6 @@
 ||load.data.finom.co^
 ||load.data.flicksachen.at^
 ||load.data.fortune.nl^
-||load.data.goodweigh.nl^
 ||load.data.hearmelondon.co.uk^
 ||load.data.heidisawyer.com^
 ||load.data.heilys.com^
@@ -22378,6 +22377,7 @@
 ||load.data.e-visa-qatar.com^
 ||load.data.ecolemauriceleroux.com^
 ||load.data.elixir-consulting.com^
+||load.data.evolvebeauty.com^
 ||load.data.geeks.ee^
 ||load.data.geniusiq.io^
 ||load.data.goayo.com^
@@ -22393,7 +22393,6 @@
 ||load.data.jewelryboxonline.com^
 ||load.data.johnlegend.com^
 ||load.data.jujuhomestore.com^
-||load.data.laineywilson.com^
 ||load.data.larryslunch.com.au^
 ||load.data.laurendaigle.com^
 ||load.data.little-cars.fr^
@@ -22495,7 +22494,6 @@
 ||load.drga.dubairealestate.net^
 ||load.drupalcms-sgtm-staging.1800gotjunk.com^
 ||load.dsz.alpha4wd.com.au^
-||load.dtwfcizn.konner-sohnen.com.ua^
 ||load.dtwfcizn.konner-sohnen.uk^
 ||load.dudgzruk.onepathnetwork.com^
 ||load.dvboost.coylecbg.com^
@@ -23341,6 +23339,7 @@
 ||load.rover.pwrpep.com^
 ||load.royalvapestore.com^
 ||load.rpbc1.smartblinds.co.uk^
+||load.rpbc1.smartblinds.com^
 ||load.rpbc1.smartblinds.nl^
 ||load.rural.doutorjosenetto.com.br^
 ||load.rv.remoteclosingacademy.com^
@@ -23833,7 +23832,6 @@
 ||load.ss.prestige-global.com^
 ||load.ss.ratesuper.com^
 ||load.ss.reconectaoficial.org^
-||load.ss.remzihoca.com^
 ||load.ss.renewonridgewood.com^
 ||load.ss.ritualsbyglow.com^
 ||load.ss.roseskingdom.cz^
@@ -30590,7 +30588,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -30934,7 +30931,6 @@ prd.api.bleacherreport.com^
 ||static.parsely.com^
 ||statistics.crowdynews.com^
 ||statistics.mailerlite.com^
-||statistics.news1.kr^
 ||stats-newyork1.bloxcms.com^
 ||stats.aplus.com^
 ||stats.articlesbase.com^
