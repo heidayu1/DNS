@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-21T18:13:53.667Z
+! Last modified: 2026-04-22T18:14:16.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31615
+! Rules count: 31620
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -1686,6 +1686,7 @@
 ||metrics.rapidadvance.com^
 ||metrics.rci.com^
 ||metrics.rcn.com^
+||metrics.regal.es^
 ||metrics.reliant.com^
 ||metrics.restockit.com^
 ||metrics.richmondamerican.com^
@@ -2562,7 +2563,6 @@
 ||analytics.wienerberger-building-solutions.com^
 ||analytics.wienerberger.at^
 ||analytics.wienerberger.ba^
-||analytics.wienerberger.be^
 ||analytics.wienerberger.bg^
 ||analytics.wienerberger.co.uk^
 ||analytics.wienerberger.com^
@@ -2753,7 +2753,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3506,6 +3505,7 @@
 ||data.tw-email.princess.com^
 ||data.tw-guest.princess.com^
 ||data.uat.news.research.db.com^
+||data.uat.test.sparebank1.no^
 ||data.uatinvestmentbank.db.com^
 ||data.ubs.test.ajo.adobe.com^
 ||data.uk-email.princess.com^
@@ -3651,6 +3651,7 @@
 ||metrics.dertour-reiseleitung.com^
 ||metrics.egencia.ae^
 ||metrics.egencia.be^
+||metrics.egencia.ch^
 ||metrics.egencia.co.in^
 ||metrics.egencia.co.za^
 ||metrics.egencia.com.au^
@@ -4370,7 +4371,6 @@
 ||smetrics.franklin.edu^
 ||smetrics.fraport-bulgaria.com^
 ||smetrics.fraport-slovenija.si^
-||smetrics.fraport.com^
 ||smetrics.frasersproperty.com^
 ||smetrics.free2movecharge.com^
 ||smetrics.freshcope.com^
@@ -4592,7 +4592,6 @@
 ||smetrics.marketing.lighting.philips.no^
 ||smetrics.marketing.lighting.philips.pl^
 ||smetrics.marketing.lighting.philips.pt^
-||smetrics.marketing.lighting.philips.ro^
 ||smetrics.marketing.lighting.philips.rs^
 ||smetrics.marketing.lighting.philips.ru^
 ||smetrics.marketing.lighting.philips.sa^
@@ -5318,6 +5317,7 @@
 ||webanalytics.logitechg.com.cn^
 ||webapp.e-post.smn.no^
 ||webapp.epost.snn.no^
+||webapp.uat.test.sparebank1.no^
 ||webmetrics.oklahoma.gov^
 ||a.rohde-schwarz.com.cn^
 ||aa-metrics.aircard.jp^
@@ -8229,6 +8229,7 @@
 ||collect.calvinklein.se^
 ||collect.fancl.co.jp^
 ||collect.mtgec.jp^
+||collect.oportun.com^
 ||collect.peek-cloppenburg.at^
 ||collect.sixpad.jp^
 ||events.just-eat.ch^
@@ -14029,6 +14030,7 @@
 ||insights.scrumble.nl^
 ||ipaemula.mcb.dk^
 ||ipmolrez.ems-dolorclast.com^
+||ipt.arthritis-uk.org^
 ||ipt.versusarthritis.org^
 ||kbx.haws.co.uk^
 ||kbx.spinadiscmetaldetectors.com^
@@ -14257,6 +14259,7 @@
 ||load.data.finom.co^
 ||load.data.flicksachen.at^
 ||load.data.fortune.nl^
+||load.data.goodweigh.nl^
 ||load.data.hearmelondon.co.uk^
 ||load.data.heidisawyer.com^
 ||load.data.heilys.com^
@@ -16519,6 +16522,7 @@
 ||sgtm.mystylebags.com^
 ||sgtm.mystylebags.it^
 ||sgtm.namosparfums.com^
+||sgtm.nashbyna.com^
 ||sgtm.natale.pastagarofalo.it^
 ||sgtm.nationalmuseet.dk^
 ||sgtm.naturaproducts.eu^
@@ -16904,6 +16908,7 @@
 ||ssi.statusfalgar.se^
 ||sskg.kg-media.eu^
 ||ssrock.weezevent.com^
+||sst-cdn.hammonds-uk.com^
 ||sst.accademiaitalianachef.com^
 ||sst.adbook.verseo.pl^
 ||sst.adventure-valley.be^
@@ -22393,6 +22398,7 @@
 ||load.data.jewelryboxonline.com^
 ||load.data.johnlegend.com^
 ||load.data.jujuhomestore.com^
+||load.data.laineywilson.com^
 ||load.data.larryslunch.com.au^
 ||load.data.laurendaigle.com^
 ||load.data.little-cars.fr^
@@ -23832,6 +23838,7 @@
 ||load.ss.prestige-global.com^
 ||load.ss.ratesuper.com^
 ||load.ss.reconectaoficial.org^
+||load.ss.remzihoca.com^
 ||load.ss.renewonridgewood.com^
 ||load.ss.ritualsbyglow.com^
 ||load.ss.roseskingdom.cz^
@@ -28440,7 +28447,6 @@
 ||sgtm.tristanstyle.com^
 ||sgtm.trueeco.com.au^
 ||sgtm.trungsoncare.com^
-||sgtm.tryeden.com^
 ||sgtm.tryglucofix.com^
 ||sgtm.tryviralvault.com^
 ||sgtm.tuiss.co.jp^
@@ -30577,7 +30583,6 @@ prd.api.bleacherreport.com^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
 ||analytics.mall.tv^
-||log.etoday.co.kr^
 ||zgsdk.zhugeio.com^
 ||sgtm.simoahava.com^
 ||stats.zone-telechargement.
@@ -31137,7 +31142,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
-||cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com^
+||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
