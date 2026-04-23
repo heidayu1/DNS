@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-22T18:14:16.489Z
+! Last modified: 2026-04-23T18:14:36.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31620
+! Rules count: 31626
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -668,6 +668,7 @@
 ||marketing.periscopewealthadvisors.com^
 ||marketing.rdoequipment.com^
 ||marketing.soundtrackyourbrand.com^
+||marketing.sourceadvisors.com^
 ||marketing.specgradeled.com^
 ||marketing.theredchecker.com^
 ||marketing.useadam.co.uk^
@@ -2199,6 +2200,7 @@
 ||sstat.gilt.com^
 ||sstat.outrigger.com^
 ||sstats.aatbs.com^
+||sstats.adultswim.com^
 ||sstats.alfalaval.com^
 ||sstats.alliander.com^
 ||sstats.ansys.com^
@@ -3162,6 +3164,7 @@
 ||data.m.mysticlake.com^
 ||data.m.philadelphiaeagles.com^
 ||data.m.shop.international.nhl.com^
+||data.m.shop.wwe.com^
 ||data.m.store.nascar.com^
 ||data.m2.disneydestinations.com^
 ||data.ma1.techvaladobe.com^
@@ -3533,7 +3536,6 @@
 ||data.yugioh-recommend.konami.net^
 ||data1.virginplus.ca^
 ||datacollect-dev.cisco.com^
-||datacollection.adelaideuni.edu.au^
 ||dc.areacliente.repsolluzygas.com^
 ||dc.entradas.com^
 ||dc.madridistas.com^
@@ -5423,6 +5425,7 @@
 ||analytic.underarmour.com^
 ||analytics.adultswim.co.uk^
 ||analytics.allianz-travel.ch^
+||analytics.americanfunds.com^
 ||analytics.asml.com^
 ||analytics.avis.lu^
 ||analytics.boing.es^
@@ -5640,7 +5643,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -7521,6 +7523,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -8820,8 +8823,10 @@
 ||eczip.bee-enriched.eu^
 ||edmcq.naturalmedicine.blog^
 ||ehnhh.statefortyeight.com^
+||eipqr.rythmhealth.com^
 ||elade.mensuas.com^
 ||elnbz.qualitylogic.com^
+||erjqq.knix.com^
 ||erurl.barkpotty.com^
 ||eshsm.amazethreads.com^
 ||euefq.louisvilleaddictioncenter.com^
@@ -12836,7 +12841,6 @@
 ||redtrack.biostile.si^
 ||redtrack.ecodrive.in.ua^
 ||redtrack.klaragroulikova.cz^
-||redtrack.manset.com.ua^
 ||redtrack.weeshop.dk^
 ||rt.quaresmadopadrepio.com^
 ||rtrk.gartenpfad.com^
@@ -12909,6 +12913,7 @@
 ||track.rollingriches.com^
 ||track.safeyourlove.co^
 ||track.shareco.life^
+||track.sniff.me^
 ||track.sondercare.com^
 ||track.sportsevents365.com^
 ||track.staging.nolimitgaming.io^
@@ -12934,6 +12939,7 @@
 ||track.westore24.com^
 ||track.wjacket.com^
 ||track.zeleks.ru^
+||tracking.markets4you.online^
 ||tracking.positivesparks.com^
 ||tracking.skinnycoffeesuperboost.com^
 ||tracking.stero.me^
@@ -16404,7 +16410,6 @@
 ||sgtm.herabit.com^
 ||sgtm.hillmanhunting.co.uk^
 ||sgtm.hipdekbedovertrek.nl^
-||sgtm.his.ua^
 ||sgtm.hjart-lungfonden.se^
 ||sgtm.hojskolerne.dk^
 ||sgtm.homeandcook.cz^
@@ -17064,6 +17069,7 @@
 ||stms.transforminglives.co.uk^
 ||stp.autovipbologna.it^
 ||stpanalytics.tudatalattihatalma.hu^
+||stpserver.appleyardflowers.com^
 ||stpserver.blossominggifts.com^
 ||strack.odderbeing.com^
 ||sts.domusacademy.com^
@@ -22590,7 +22596,6 @@
 ||load.events.sulamita.com.br^
 ||load.evga.envolee.com^
 ||load.ewdk.e-wheels.dk^
-||load.ews.ewheels.se^
 ||load.exp.gainsforgamers.com^
 ||load.family-experience.com^
 ||load.family.biogota.life^
@@ -30216,6 +30221,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||data.ssports.com^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30489,6 +30495,7 @@ prd.api.bleacherreport.com^
 ||metrics.viqeo.tv^
 ||analytics-dataplane.invideo.io^
 ||analytics-api.invideo.io^
+||analytics-v*.eip.telegraph.co.uk^
 ||event.hackle.io^
 ||rtm-tracking.zozo.jp^
 ||analytics.netkeiba.com^
@@ -31142,7 +31149,6 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
-||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^

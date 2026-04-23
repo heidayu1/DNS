@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-22T18:14:19.525Z
+! Last modified: 2026-04-23T18:14:40.703Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -252,6 +252,7 @@
 ||s3-dub-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||sponsored-ads-fe.amazon-adsystem.com^
+||sponsored-ads-na.amazon-adsystem.com^
 ||sq-tungsten-ts-eu.amazon-adsystem.com^
 ||sq-tungsten-ts-fe.amazon-adsystem.com^
 ||sq-tungsten-ts.amazon-adsystem.com^
@@ -497,6 +498,7 @@
 ||diagnostics.apple.com^
 ||dz1dt3wqswdezgx4j2ryem5iad.apple.com^
 ||experiments.apple.com^
+||flirfvysba2opz0zmzqs5iuiad.apple.com^
 ||graffiti-tags.apple.com^
 ||iad.apple.com^
 ||iadcontent.apple.com^
@@ -921,6 +923,7 @@
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticseh2.servicebus.windows.net^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
+||citrixanalyticseh3-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticseheu.servicebus.windows.net^
