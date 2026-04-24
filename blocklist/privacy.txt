@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-23T18:14:36.808Z
+! Last modified: 2026-04-24T18:14:55.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2619,6 +2619,7 @@
 ||axp.borderreport.com^
 ||axp.cnyhomepage.com^
 ||axp.fourstateshomepage.com^
+||axp.mystateline.com^
 ||axp.ourquadcities.com^
 ||axp.wiproud.com^
 ||b2binsider.adobe.com^
@@ -3893,7 +3894,6 @@
 ||securetags.geotecnologias.com^
 ||sit-metrics.nab.com.au^
 ||sites.cliente.nissan.com.mx^
-||smetric-krowd.darden.com^
 ||smetric.bajajgeneralinsurance.com^
 ||smetric.bimsplus24.pl^
 ||smetric.franchisedarden.com^
@@ -5182,6 +5182,7 @@
 ||smetrics.zeposiaespanol.com^
 ||smetrics.zeposiareg.ch^
 ||smetrics.zodiacshoes.com^
+||smetrics2.brookdale.com^
 ||smetricsinstoreappra.carmax.com^
 ||smetricsmobile.carmax.com^
 ||smetricsqa.sierra.com^
@@ -5521,7 +5522,6 @@
 ||cookies-adobe.kbc.be^
 ||cookies-adobe.kbc.com^
 ||cs.analytics.lego.com^
-||data-ssl.stepstone.at^
 ||data.bioplanet.be^
 ||data.chelseafc.com^
 ||data.collectandgo.be^
@@ -5643,6 +5643,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6547,7 +6548,6 @@
 ||secmetrics.leggmason.com^
 ||secmetrics.schaefer-shop.at^
 ||secmetrics.schaefer-shop.be^
-||secmetrics.schaefer-shop.ch^
 ||secmetrics.schaefer-shop.nl^
 ||secure.analytics.candlewoodsuites.com^
 ||secure.analytics.crowneplaza.com^
@@ -6581,7 +6581,6 @@
 ||securedata.dreambaby.be^
 ||securedata.dreamland.be^
 ||securedata.mijnspar.be^
-||securedata.monspar.be^
 ||securedata.unsw.edu.au^
 ||securemetrics.bananarepublic.eu^
 ||securemetrics.experience.apple^
@@ -7128,7 +7127,6 @@
 ||smetrics.latitudefinancial.com.au^
 ||smetrics.latitudepay.com^
 ||smetrics.latitudepay.com.au^
-||smetrics.latrobe.edu.au^
 ||smetrics.lazarediamond.jp^
 ||smetrics.ldproducts.com^
 ||smetrics.leagueone.com^
@@ -7286,7 +7284,6 @@
 ||smetrics.quikshiptoner.com^
 ||smetrics.qvc.jp^
 ||smetrics.radissonhotels.com^
-||smetrics.ralphlauren.ch^
 ||smetrics.ralphlauren.eu^
 ||smetrics.ralphlauren.fr^
 ||smetrics.rarediseasesignup.com^
@@ -7560,7 +7557,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -8190,6 +8186,7 @@
 ||starget.aircanada.com^
 ||starget.ladbrokes.be^
 ||starget.nabtrade.com.au^
+||stmetrics.bbva.com.co^
 ||stmetrics.bbva.pe^
 ||stmetrics.bbvanet.com.co^
 ||target.comdata.com^
@@ -8816,6 +8813,7 @@
 ||brpdu.lovefitnessapparel.com^
 ||btnqi.zcaddystore.com^
 ||cmnoe.saadaa.in^
+||cocjl.statefortyeight.com^
 ||dljtc.paradiseunderthestars.com^
 ||dpcsc.happyhairbrush.co.nz^
 ||dzzhm.nelliesclean.ca^
@@ -9035,6 +9033,7 @@
 ||lbdft.katespade.co.uk^
 ||lcvrl.cloudninehair.com.au^
 ||ltqsl.liplab.com^
+||ltrrw.pakaapparel.com^
 ||mipfl.lagos.com^
 ||mlhuj.offroadwarehouse.com^
 ||mnjvh.tipperarycrystal.ie^
@@ -11569,6 +11568,7 @@
 ||mackaytracking.newyorklifeinvestments.com^
 ||publicidad.davivienda.com.pa^
 ||tracking.eyefinity.com^
+||tracking.motorolasolutions.com^
 ||app.bucky.uwbadgers.com^
 ||app.calbears.com^
 ||app.goarmywestpoint.com^
@@ -11740,6 +11740,7 @@
 ||app.tsongascenter.com^
 ||app.uclabruins.com^
 ||app.utahutes.com^
+||elqapp.spectrum.com^
 ||hipaa.wellsense.org^
 ||tracking-qa.veritas.com^
 ||tracking-uat.veritas.com^
@@ -12023,6 +12024,7 @@
 ||track.deloitte.com^
 ||zzzoraclecloudsupportp02e10-app-hs.eloquademos.com^
 ||tracking.sabic.com^
+||tracker.swedish.org^
 ||fpa-api.adweek.com^
 ||fpa-api.arstechnica.com^
 ||fpa-cdn.amontalenti.com^
@@ -14707,7 +14709,6 @@
 ||load.innovation.jb-insuflaveis.pt^
 ||load.innovation.nobracars.nl^
 ||load.innovation.oostlandmini.nl^
-||load.innovation.poncenter.nl^
 ||load.innovation.pouw.nl^
 ||load.innovation.storybmw.nl^
 ||load.innovation.storynext.nl^
@@ -15913,7 +15914,6 @@
 ||metrics.skimsafe.se^
 ||metrics.succeslaexamen.ro^
 ||metrics.svala.com^
-||metrics.tavolla.com^
 ||metrics.thespinery.com^
 ||metrics.thinksafe.it^
 ||metrics.titanic-zuerich.ch^
@@ -17387,6 +17387,7 @@
 ||analytics.laagbe.com^
 ||analytics.ladoun.com^
 ||analytics.lago.it^
+||analytics.laineywilson.com^
 ||analytics.lamsah.co^
 ||analytics.landelijkeenergievergelijker.nl^
 ||analytics.landscapedesigngroup.co.uk^
@@ -21273,6 +21274,7 @@
 ||gtm.saudeeprazer.com.br^
 ||gtm.sava.school^
 ||gtm.saveincloud.com^
+||gtm.sawstop.com^
 ||gtm.scaffoldeducation.com.br^
 ||gtm.scaleads.com.br^
 ||gtm.scalema.com^
@@ -21722,6 +21724,7 @@
 ||gtm.vmseguro.com^
 ||gtm.voaconhecimento.com.br^
 ||gtm.vocedm.com.br^
+||gtm.voicecaddie.com^
 ||gtm.voituremotors.com.br^
 ||gtm.voltewetsuits.com.au^
 ||gtm.voupralondres.com.br^
@@ -22596,6 +22599,7 @@
 ||load.events.sulamita.com.br^
 ||load.evga.envolee.com^
 ||load.ewdk.e-wheels.dk^
+||load.ews.ewheels.se^
 ||load.exp.gainsforgamers.com^
 ||load.family-experience.com^
 ||load.family.biogota.life^
@@ -24566,7 +24570,6 @@
 ||measure.no1creatine.com^
 ||measure.oaklovesyou.com^
 ||measure.orbiloc.com^
-||measure.oway.com^
 ||measure.presidiocare.com^
 ||measure.puresport.co^
 ||measure.scratchee.com^
@@ -30221,7 +30224,6 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||data.ssports.com^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30262,8 +30264,6 @@
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
-||log1.wanmei.com^
-||log2.wanmei.com^
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
 ||data-track*.yingxiong.com^
