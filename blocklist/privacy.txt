@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-24T18:14:55.945Z
+! Last modified: 2026-04-25T18:15:13.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31626
+! Rules count: 31645
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -61,7 +61,6 @@
 ||log.trend.rankify.best^
 ||attribution.airbridge.io^
 ||event.airbridge.io^
-||stats.spreadsimple.com^
 ||sdk-log.airbridge.io^
 ||trk.analytics.wisetracker.co.kr^
 ||data.armexdef.uk^
@@ -1047,6 +1046,7 @@
 ||mediasolutions.netinsight.net^
 ||membership.mortonarb.org^
 ||merchant-mail.neosurf.com^
+||message.alldata.com^
 ||metric.khkgears.us^
 ||metrics.thesellingagency.com^
 ||mkt.aderant.com^
@@ -2789,6 +2789,7 @@
 ||data.comms.pokerstars.com^
 ||data.comms.pokerstars.fr^
 ||data.comms.velera.com^
+||data.communicatie.nn.nl^
 ||data.communications.cbussuper.com.au^
 ||data.communications.hongkongdisneyland.com^
 ||data.communications.manulife.ca^
@@ -3418,7 +3419,6 @@
 ||data.service.belgiantrain.be^
 ||data.service.cfs.com.au^
 ||data.service.colonialfirststate.com.au^
-||data.service.costa.it^
 ||data.service.firestonecompleteautocare.com^
 ||data.service.hibdontiresplus.com^
 ||data.service.miumiu.com^
@@ -3662,6 +3662,7 @@
 ||metrics.egencia.com.sg^
 ||metrics.egencia.com.tr^
 ||metrics.egencia.cz^
+||metrics.egencia.dk^
 ||metrics.egencia.fi^
 ||metrics.egencia.ie^
 ||metrics.egencia.it^
@@ -3821,7 +3822,6 @@
 ||sadbmetrics.huelva24.com^
 ||sadbmetrics.nextspain.es^
 ||sadbmetrics.pintatualhambra.es^
-||sadbmetrics.salamancahoy.es^
 ||sadbmetrics.suenasur.com^
 ||sadbmetrics.surdeutsch.com^
 ||sadbmetrics.tickelium.com^
@@ -4408,6 +4408,7 @@
 ||smetrics.grahamdirect.co.uk^
 ||smetrics.greenrow.com^
 ||smetrics.h-scc.jp^
+||smetrics.handelsbanken.co.uk^
 ||smetrics.handelsbanken.nl^
 ||smetrics.handelsbanken.no^
 ||smetrics.handelsbanken.se^
@@ -4618,6 +4619,7 @@
 ||smetrics.mcdpromotion.ca^
 ||smetrics.mealmixfordogs.com^
 ||smetrics.mebank.com.au^
+||smetrics.medallia.com^
 ||smetrics.medxperts.pk^
 ||smetrics.melanom-info.dk^
 ||smetrics.melanom-wissen.ch^
@@ -4652,6 +4654,7 @@
 ||smetrics.msccruises.ca^
 ||smetrics.msccruises.ch^
 ||smetrics.msccruises.co.nz^
+||smetrics.msccruises.co.uk^
 ||smetrics.msccruises.co.za^
 ||smetrics.msccruises.com^
 ||smetrics.msccruises.com.au^
@@ -4734,6 +4737,7 @@
 ||smetrics.onlinegambling.ca^
 ||smetrics.onlineroulette.ca^
 ||smetrics.onlineslots.ca^
+||smetrics.onnicotine.com^
 ||smetrics.onureg.ch^
 ||smetrics.opdivo-yervoybonusage.com^
 ||smetrics.opdivo.dk^
@@ -6594,6 +6598,7 @@
 ||smeasurement.nissan.ca^
 ||smetric.ads.microsoft.com^
 ||smetric.atg.se^
+||smetric.bahamabreeze.com^
 ||smetric.betway.com^
 ||smetric.betway.dk^
 ||smetric.betway.es^
@@ -6608,6 +6613,7 @@
 ||smetric.m.nissan-global.com^
 ||smetric.medix-inc.co.jp^
 ||smetric.movement.com^
+||smetric.panpacific.com^
 ||smetric.parkroyalhotels.com^
 ||smetric.pastapass.com^
 ||smetric.philosophy.com^
@@ -6982,6 +6988,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7520,7 +7527,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7557,6 +7563,7 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
+||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -10338,6 +10345,7 @@
 ||automationhipaapod01-app-trk.eloquademos.com^
 ||automationhipaapod04-app-trk.eloquademos.com^
 ||automationhipaapod07-mic-trk.eloquademos.com^
+||ctelqtracking.wolterskluwer.com^
 ||dev.tracking.refinitiv.com^
 ||digital.adt-worldwide.com^
 ||digital.adt.com.uy^
@@ -10498,7 +10506,6 @@
 ||tracking.flukebiomedical.com^
 ||tracking.fresnogrizzlies.com^
 ||tracking.gartner.com^
-||tracking.getapp.com^
 ||tracking.glory-global.com^
 ||tracking.go.thermofisher.com^
 ||tracking.go.toyobo-global.com^
@@ -11341,6 +11348,7 @@
 ||novedades.telecomfibercorp.com.ar^
 ||tracking.att.com^
 ||tracking.cpa.qa.web.visa.com^
+||tracking.health.bjc.org^
 ||tracking.questdiagnostics.com^
 ||trk.admmontreal.com^
 ||trk.admtoronto.com^
@@ -11753,6 +11761,7 @@
 ||content.verint.com^
 ||download.createyournextcustomer.com^
 ||events.newyorklifeinvestments.com^
+||tracking.direxion.com^
 ||tracking.ftitechnology.com^
 ||tracking.go.toyobo.co.jp^
 ||tracking.newyorklifeinvestments.com^
@@ -14198,6 +14207,7 @@
 ||load.collect.rum21.se^
 ||load.collect.skodsborg.dk^
 ||load.collector.etiketlageret.dk^
+||load.conversion.lecollectionist.com^
 ||load.cqkrjdhg.mschcopenhagen.com^
 ||load.csst.downsend.co.uk^
 ||load.custom.barglass.no^
@@ -14709,6 +14719,7 @@
 ||load.innovation.jb-insuflaveis.pt^
 ||load.innovation.nobracars.nl^
 ||load.innovation.oostlandmini.nl^
+||load.innovation.poncenter.nl^
 ||load.innovation.pouw.nl^
 ||load.innovation.storybmw.nl^
 ||load.innovation.storynext.nl^
@@ -18866,6 +18877,7 @@
 ||data.teamfollowup.ai^
 ||data.techandlock.com.au^
 ||data.techwithnexus.com^
+||data.terrysfabrics.co.uk^
 ||data.theartofcrypto.co^
 ||data.thefray.com^
 ||data.thelucyroseclinic.com.au^
@@ -18908,6 +18920,7 @@
 ||datahub.unit4.com^
 ||dataserver.bagypack.com^
 ||datastape.hometexbd.com^
+||datastp.pymnts.com^
 ||datatrack.congressocied.com.br^
 ||datatrack.myrnk.com^
 ||day.daycontadora.com.br^
@@ -20163,6 +20176,7 @@
 ||gtm.goodvit.com.br^
 ||gtm.gorocky.ph^
 ||gtm.gorunningtours.com^
+||gtm.gradguard.com^
 ||gtm.gramos.com.br^
 ||gtm.granparque.com.br^
 ||gtm.graziellyxavier.com.br^
@@ -21729,6 +21743,7 @@
 ||gtm.voltewetsuits.com.au^
 ||gtm.voupralondres.com.br^
 ||gtm.vpsul.com.br^
+||gtm.vroom.be^
 ||gtm.vsonsdesign.com^
 ||gtm.vuggebaby.no^
 ||gtm.vulcanojoias.com.br^
@@ -28330,6 +28345,7 @@
 ||sgtm.shefanaturalremedy.com^
 ||sgtm.sheshapeshistory.com.au^
 ||sgtm.shipontime.com^
+||sgtm.shoebacca.com^
 ||sgtm.shop.bausch.it^
 ||sgtm.shop.cooloo.com^
 ||sgtm.shopcleandesign.com^
@@ -28508,6 +28524,7 @@
 ||sgtm.wellnessdailynew.site^
 ||sgtm.westminsterartsacademy.com^
 ||sgtm.wetarseel.ai^
+||sgtm.whatagraph.com^
 ||sgtm.wholeleaf.in^
 ||sgtm.whysocheap.co.uk^
 ||sgtm.wildkard.tn^
@@ -30178,6 +30195,7 @@
 ||web.email.sergiorossi.com^
 ||web.email.superga.co.uk^
 ||web.email.topfarmacia.it^
+||web.email.turtlebay.co.uk^
 ||web.email.umbro.co.uk^
 ||web.mail.koganpage.com^
 ||web.mail.nordiq.dk^
@@ -31525,6 +31543,7 @@ dlsdk.appsflyer.com^
 ||azuremystique.com^
 ||badgeboat.com^
 ||badgevolcano.com^
+||barbadoshello.com^
 ||bikepaws.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
