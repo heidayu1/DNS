@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-25T18:15:13.302Z
+! Last modified: 2026-04-26T18:15:28.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31645
+! Rules count: 31646
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -635,6 +635,7 @@
 ||info.project-ready.com^
 ||info.redstreamtechnology.com^
 ||info.smartstrategyapps.com^
+||info.suncloudhealth.com^
 ||info.terradatum.com^
 ||infoco.readingpartners.org^
 ||infosv.readingpartners.org^
@@ -2274,6 +2275,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2501,6 +2503,7 @@
 ||analytics.architectum.com^
 ||analytics.bigfishgames.com^
 ||analytics.bruker.com^
+||analytics.changiairport.com^
 ||analytics.cirroenergy.com^
 ||analytics.cyrillus.be^
 ||analytics.cyrillus.fr^
@@ -5647,7 +5650,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6229,7 +6231,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6732,6 +6733,7 @@
 ||smetrics.babynes.ch^
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -7527,6 +7529,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -8807,6 +8810,7 @@
 ||ashiq.creditrepaircloud.com^
 ||asmsb.hotelcollection.es^
 ||athur.nlacollection.com^
+||auhgh.ribboncheckup.com^
 ||azhmv.francesvalentine.com^
 ||belze.chromadrum.com^
 ||bersq.theadventurechallenge.com^
@@ -9303,7 +9307,6 @@
 ||stats.steirerjobs.at^
 ||stats.tirolerjobs.at^
 ||stats.vorarlbergerjobs.at^
-||stats.wienerjobs.at^
 ||track.thegundogaffair.com^
 ||tracker.fellowdigitals.com^
 ||tracking.anthonys.at^
@@ -15580,7 +15583,6 @@
 ||load.sst.revilax.be^
 ||load.sst.riozorg.nl^
 ||load.sst.rvw.at^
-||load.sst.sahkon-kilpailutus.fi^
 ||load.sst.scheppach.nl^
 ||load.sst.schur.com^
 ||load.sst.seminarer.dk^
@@ -16487,7 +16489,6 @@
 ||sgtm.larcolaio.com^
 ||sgtm.lavie-paris.com^
 ||sgtm.lecovita.bg^
-||sgtm.legohouse.com^
 ||sgtm.licensel.com^
 ||sgtm.loczek.pl^
 ||sgtm.lotsofgoodies.nl^
@@ -17698,7 +17699,6 @@
 ||api.elegantus.com.br^
 ||api.elevemeloja.com.br^
 ||api.emporiobrasilbeer.com.br^
-||api.emporioemanar.com.br^
 ||api.emporiomadrid.com^
 ||api.emporioorganizadores.com.br^
 ||api.emporioparfum.com.br^
@@ -21403,7 +21403,6 @@
 ||gtm.sniffparfum.com.br^
 ||gtm.snoreless.co.il^
 ||gtm.sociedadedalanterna.com^
-||gtm.socksnob.co.uk^
 ||gtm.sofaworx.co.za^
 ||gtm.softwareg.com.au^
 ||gtm.solarispapelaria.com.br^
@@ -28900,7 +28899,6 @@
 ||sst.fundedsquad.com^
 ||sst.gadgetrixbd.com^
 ||sst.gadx.com.bd^
-||sst.gamecheck1.com^
 ||sst.getadayroom.com^
 ||sst.getfitx.app^
 ||sst.getfurlife.com^
@@ -30621,6 +30619,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -31076,6 +31075,7 @@ prd.api.bleacherreport.com^
 ||wstat.ozon.ru^
 ||yield-manager.browsiprod.com^
 ||za.zingnews.vn^
+||h562.pasadenastarnews.com^
 ||p644.thereporter.com^
 ||v476.reporterherald.com^
 ||i867.journal-advocate.com^
@@ -31381,6 +31381,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^

@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-25T18:15:15.932Z
+! Last modified: 2026-04-26T18:15:30.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -251,6 +251,7 @@
 ||s.amazon-adsystem.com^
 ||s3-dub-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
+||sonar.prime-video.amazon.dev^
 ||sponsored-ads-fe.amazon-adsystem.com^
 ||sponsored-ads-na.amazon-adsystem.com^
 ||sq-tungsten-ts-eu.amazon-adsystem.com^
