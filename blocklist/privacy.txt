@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-26T18:15:28.421Z
+! Last modified: 2026-04-27T18:15:43.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2309,7 +2309,6 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
-||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -2759,6 +2758,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -6189,6 +6189,7 @@
 ||metrics.swinburne.edu.au^
 ||metrics.sympany.ch^
 ||metrics.synergy.net.au^
+||metrics.t-mobile.com^
 ||metrics.taylormadegolf.com^
 ||metrics.taylors.edu.my^
 ||metrics.tdworld.com^
@@ -6733,7 +6734,6 @@
 ||smetrics.babynes.ch^
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -6990,7 +6990,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7252,7 +7251,6 @@
 ||smetrics.panasonic.net^
 ||smetrics.pandora.com^
 ||smetrics.payback.net^
-||smetrics.payback.pl^
 ||smetrics.pcid.ca^
 ||smetrics.pcoptimum.ca^
 ||smetrics.pcworld.co.uk^
@@ -7293,7 +7291,6 @@
 ||smetrics.quikshiptoner.com^
 ||smetrics.qvc.jp^
 ||smetrics.radissonhotels.com^
-||smetrics.ralphlauren.eu^
 ||smetrics.ralphlauren.fr^
 ||smetrics.rarediseasesignup.com^
 ||smetrics.rcsmetrics.it^
@@ -8721,6 +8718,7 @@
 ||xzfizn.massmedian.co.jp^
 ||yadtbk.blacks.co.uk^
 ||yawsyi.freedomliftsystems.com^
+||ybzcmz.momoshop.com.tw^
 ||ycjhuh.stripe-club.com^
 ||ydcbng.yadah.co.kr^
 ||ydosfw.filippa-k.com^
@@ -12053,7 +12051,6 @@
 ||stat.kela.fi^
 ||statistieken.ns-epublisher.com^
 ||stats.arinet.com^
-||stats.dealerspike.com^
 ||stats.netdriven.com^
 ||tagadmin.aumago.com^
 ||www.webanalytics-az.acc.fpfis.tech.ec.europa.eu^
@@ -15583,6 +15580,7 @@
 ||load.sst.revilax.be^
 ||load.sst.riozorg.nl^
 ||load.sst.rvw.at^
+||load.sst.sahkon-kilpailutus.fi^
 ||load.sst.scheppach.nl^
 ||load.sst.schur.com^
 ||load.sst.seminarer.dk^
@@ -16031,6 +16029,7 @@
 ||server.conversieversneller.com^
 ||server.coussin.fr^
 ||server.coussinea.fr^
+||server.creationfurniture.co.uk^
 ||server.cubbly.co.uk^
 ||server.dailywatch.com^
 ||server.danelec.com^
@@ -17094,7 +17093,6 @@
 ||t.kappl.com^
 ||tagging.leaders-academy.com^
 ||tags.madamstoltz.dk^
-||tags.statik.be^
 ||tecsst.fascedacapitano.it^
 ||thegreatesthits.headphonecheck.com^
 ||tinos.bio-logos.com^
@@ -22767,7 +22765,6 @@
 ||load.ggl.vintage-univers.com^
 ||load.ggm.clemonsboats.com^
 ||load.gkbfrss.geekbuying.com^
-||load.gkbss.geekbuying.com^
 ||load.gmanager.fly.business^
 ||load.go.luxpro.com^
 ||load.go.shinecosmetics.com^
@@ -23143,6 +23140,7 @@
 ||load.gtm.theladies.com.br^
 ||load.gtm.theotherpathcbd.com^
 ||load.gtm.thepaystubs.com^
+||load.gtm.thesewingstudio.co.uk^
 ||load.gtm.thesilvergoose.co.za^
 ||load.gtm.theyoghurtcapsule.co.nz^
 ||load.gtm.tonic-studios.co.uk^
@@ -24408,6 +24406,7 @@
 ||load.t.torontoumoving.com^
 ||load.t.witify.io^
 ||load.tag.picheny.com^
+||load.tag.stake.com.co^
 ||load.tags.learnwithtutoria.com^
 ||load.tatu.letseatit.com.br^
 ||load.tcsgm.salesmindset.io^
@@ -30240,6 +30239,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||stats.cinevibe.asia^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30254,8 +30254,6 @@
 ||lgecokr.api.useinsider.com^
 ||datadog-log.clovergames.io
 ||events1.avantisvideo.com^
-||clientlog.pwsdk.com^
-||dlog.pwsdk.com^
 ||log-v*-boot.capcutapi.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
@@ -30286,6 +30284,7 @@
 ||z.cdn.protect-ad.com^
 ||clogger.nocutnews.co.kr^
 ||mon*.tiktokv.us^
+||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
 ||analytics.streamingworld.xyz^
 ||stats.bouyguestelecom.fr^
 ||analytics.azrhymes.com^
@@ -30615,11 +30614,11 @@ prd.api.bleacherreport.com^
 ||olaplog.smartmediarep.com^
 ||gateway.cloud.sbs.co.kr^
 ||adtracking.smartmediarep.com^
+||log.hypebeast.com^
 ||log.bandi.so^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
@@ -31229,7 +31228,6 @@ dlsdk.appsflyer.com^
 ||ulog*.gifshow.com^
 ||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
-||grs.dbankcloud.
 ||logservice.dbankcloud.cn
 ||mssdk-boot.cpacutapi.com^
 ||api.abcsinsights.com^
@@ -31264,6 +31262,7 @@ dlsdk.appsflyer.com^
 -applog*.fqnovel.com^
 ||atsod.launch.liveramp.com^
 ||sonar*.xy.fbcdn.net^
+||mob2.healthtrackergroup.com^
 ||event-dot-learning-piano.appspot.com^
 ||event.karrotmarket.com^
 ||push-api.topaz-analytics.com^
@@ -31416,6 +31415,7 @@ dlsdk.appsflyer.com^
 ||cafe-log.myshoplus.com^
 ||log.tpns.tencent.com^
 ||stats-a.maxthon.com^
+||pgapi.ksmobile.com^
 ||tracking.aatkit.com^
 ||reporting.aatkit.com^
 ||tracking.i2w.io^
