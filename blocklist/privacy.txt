@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-27T18:15:43.944Z
+! Last modified: 2026-04-28T18:15:59.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31646
+! Rules count: 31644
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -1711,7 +1711,6 @@
 ||metrics.sonera.fi^
 ||metrics.sony.jp^
 ||metrics.sothebys.com^
-||metrics.spirithalloween.com^
 ||metrics.stanfordhealthcare.org^
 ||metrics.staples.com.au^
 ||metrics.strategiccoach.com^
@@ -1822,6 +1821,7 @@
 ||sanalytics.rbsbank.no^
 ||sanalytics.sibleystatebank.com^
 ||sanalytics.southpointcasino.com^
+||sanalytics.tcm.com^
 ||sanalytics.theinstitutes.org^
 ||sanalytics.washingtoncountybank.com^
 ||sanalytics.yourbankcard.com^
@@ -2275,7 +2275,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2472,7 +2471,6 @@
 ||adobeedge.pst-myservice.dva.gov.au^
 ||adobemetrics.cluballiance.aaa.com^
 ||adobemetrics.yellohvillage.co.uk^
-||adobemetrics.yellohvillage.com^
 ||adobemetrics.yellohvillage.es^
 ||adobemetrics.yellohvillage.fr^
 ||adobemetrics.yellohvillage.it^
@@ -2512,6 +2510,7 @@
 ||analytics.fmlamanager.com^
 ||analytics.goto-funds.com^
 ||analytics.greenmountain.com^
+||analytics.greenmountainenergy.com^
 ||analytics.hazeldenbettyford.org^
 ||analytics.id.amazongames.com^
 ||analytics.infosys.com^
@@ -3200,7 +3199,6 @@
 ||data.mail.ltsm.truist.com^
 ||data.mail.magazine.northeast.aaa.com^
 ||data.mail.marketing-bcthk.com^
-||data.mail.mktg.truist.com^
 ||data.mail.nn.nl^
 ||data.mail.pocruises.com^
 ||data.mail.reha.levwell.jp^
@@ -3221,6 +3219,7 @@
 ||data.marketing.aeptest.a.intuit.com^
 ||data.marketing.bancobmg.com.br^
 ||data.marketing.boradetop.com.br^
+||data.marketing.doitbest.com^
 ||data.marketing.dollargeneral.com^
 ||data.marketing.ecg.magento.com^
 ||data.marketing.exetel.com.au^
@@ -3337,7 +3336,6 @@
 ||data.notify.chipotle.com^
 ||data.notify.gmfinancial.com^
 ||data.notify.humana.com^
-||data.notify.macys.com^
 ||data.oc.agent.test.ajo.adobe.com^
 ||data.ocagent.test.ajo.adobe.com^
 ||data.oferplan.com^
@@ -4366,7 +4364,6 @@
 ||smetrics.flex.amazon.com.sg^
 ||smetrics.flex.cafe^
 ||smetrics.fmdos.cl^
-||smetrics.fnac.ch^
 ||smetrics.folksamlopension.se^
 ||smetrics.fondation.pwc.fr^
 ||smetrics.fordquic.com^
@@ -4376,7 +4373,6 @@
 ||smetrics.franklin.edu^
 ||smetrics.fraport-bulgaria.com^
 ||smetrics.fraport-slovenija.si^
-||smetrics.frasersproperty.com^
 ||smetrics.free2movecharge.com^
 ||smetrics.freshcope.com^
 ||smetrics.front-line.nl^
@@ -5650,6 +5646,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6232,6 +6229,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -8185,6 +8183,7 @@
 ||assets2.suncorpbank.com.au^
 ||assets2.vanz.vero.co.nz^
 ||at-cdn.swisscom.ch^
+||mcdmetrics2.aaa.com^
 ||metrics-target.siriusxm.com^
 ||metrics.adobeprimetime.com^
 ||metrics.lmtonline.com^
@@ -8830,7 +8829,6 @@
 ||eczip.bee-enriched.eu^
 ||edmcq.naturalmedicine.blog^
 ||ehnhh.statefortyeight.com^
-||eipqr.rythmhealth.com^
 ||elade.mensuas.com^
 ||elnbz.qualitylogic.com^
 ||erjqq.knix.com^
@@ -8949,6 +8947,7 @@
 ||thbeq.honestpaws.com^
 ||tmqqm.smartrike.com.au^
 ||tsmet.kendallscollection.com^
+||tzipd.rockemsocks.com^
 ||uiadz.fajastributo.com^
 ||uipah.happyhairbrush.co.nz^
 ||ulivt.duradry.com^
@@ -15832,7 +15831,6 @@
 ||measure.borashop.eu^
 ||measure.caroz.com^
 ||measure.cbs-executive.dk^
-||measure.chienvert.com^
 ||measure.dawsongroup.nl^
 ||measure.dieterenmobilitycompany.be^
 ||measure.egsoftware.com^
@@ -18435,6 +18433,7 @@
 ||capig.hondaofknoxville.com^
 ||capig.impactoperfect.com.br^
 ||capig.ivanandmaria.com^
+||capig.johnsonfitness.com^
 ||capig.kniyhtpower.store^
 ||capig.kometarevue.com^
 ||capig.lime-technologies.com^
@@ -21777,6 +21776,7 @@
 ||gtm.wooj.design^
 ||gtm.workai.com.br^
 ||gtm.workmize.com^
+||gtm.worldsprings.com^
 ||gtm.wotan3d.com.br^
 ||gtm.wplugin.com.br^
 ||gtm.wrainy.com.br^
@@ -28907,6 +28907,7 @@
 ||sst.happyboards.com^
 ||sst.happyhounds.co.za^
 ||sst.happythoughts.global^
+||sst.headsandtailsjewellery.co.uk^
 ||sst.heritagerenovationswindowsanddoors.com^
 ||sst.holzwerken-live.net^
 ||sst.hotelcabanadellago.cl^
@@ -30239,7 +30240,6 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||stats.cinevibe.asia^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30314,7 +30314,6 @@
 ||hba*.hepsiburada.com^
 ||uxlog.next.koapp.com^
 ||tracker-beam.aktuality.sk^
-||collector.fullxh.com^
 ||agent-server.sc-api.seaart.ai^
 ||tracker.ris.promo^
 ||stats.anime-go.cc^
@@ -31380,7 +31379,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
