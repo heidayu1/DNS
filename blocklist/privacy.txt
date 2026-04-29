@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-28T18:15:59.877Z
+! Last modified: 2026-04-29T18:16:15.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31644
+! Rules count: 31658
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2308,6 +2308,7 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
+||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -2559,6 +2560,7 @@
 ||analytics.pipelife.se^
 ||analytics.pipelife.sk^
 ||analytics.sleepoutfitters.com^
+||analytics.toyotaforklift.com^
 ||analytics.truckingauthority.com^
 ||analytics.ust.com^
 ||analytics.wellington.com^
@@ -2952,7 +2954,6 @@
 ||data.email-signify.cjm.adobe.com^
 ||data.email-tsb.cjm.adobe.com^
 ||data.email.ace.aaa.com^
-||data.email.adobe.com^
 ||data.email.americafirst.com^
 ||data.email.animed.co.uk^
 ||data.email.aptivepestcontrol.com^
@@ -3160,7 +3161,6 @@
 ||data.kscopepoc.accenture.com^
 ||data.l.discountcontacts.com^
 ||data.loyality.email.ikea.qa^
-||data.loyalty.timhortons.ca^
 ||data.m.dealer.creditacceptance.com^
 ||data.m.eaglesautismfoundation.org^
 ||data.m.metro-tr.com^
@@ -3667,6 +3667,7 @@
 ||metrics.egencia.fi^
 ||metrics.egencia.ie^
 ||metrics.egencia.it^
+||metrics.egencia.nl^
 ||metrics.egencia.no^
 ||metrics.egencia.pl^
 ||metrics.egencia.se^
@@ -4237,6 +4238,7 @@
 ||smetrics.concierto.cl^
 ||smetrics.congressconnection.com^
 ||smetrics.connecticare.com^
+||smetrics.coolray.com^
 ||smetrics.cooltoday.com^
 ||smetrics.coopertire.ca^
 ||smetrics.coopertire.com^
@@ -4408,6 +4410,7 @@
 ||smetrics.greenrow.com^
 ||smetrics.h-scc.jp^
 ||smetrics.handelsbanken.co.uk^
+||smetrics.handelsbanken.com^
 ||smetrics.handelsbanken.nl^
 ||smetrics.handelsbanken.no^
 ||smetrics.handelsbanken.se^
@@ -6841,6 +6844,7 @@
 ||smetrics.contactsdirect.com^
 ||smetrics.converse.co.uk^
 ||smetrics.cookhouseandpub.co.uk^
+||smetrics.coordinatedcarehealth.com^
 ||smetrics.corner.ch^
 ||smetrics.cornercard.ch^
 ||smetrics.cornertrader.ch^
@@ -7524,7 +7528,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7806,6 +7809,7 @@
 ||sstats.cntraveler.com^
 ||sstats.commonspirit.org^
 ||sstats.competitivecyclist.com^
+||sstats.cotswoldoutdoor.com^
 ||sstats.daicompanies.com^
 ||sstats.datamanie.cz^
 ||sstats.deloittedigital.com^
@@ -9215,6 +9219,7 @@
 ||data.lincoln.com^
 ||data.privacy.ensighten.com^
 ||dcfdata.espn.com^
+||emetrics.eastwestbank.com^
 ||ens.nzzmediasolutions.ch^
 ||letsencrypt.data.ensighten.com^
 ||measure.ensighten.com^
@@ -9302,7 +9307,6 @@
 ||stats.oberoejobs.at^
 ||stats.salzburgerjobs.at^
 ||stats.steirerjobs.at^
-||stats.tirolerjobs.at^
 ||stats.vorarlbergerjobs.at^
 ||track.thegundogaffair.com^
 ||tracker.fellowdigitals.com^
@@ -9313,6 +9317,7 @@
 ||tracking.lanxess.com^
 ||tracking.sonnasita.at^
 ||tracking.walserart.at^
+||trkkr.bugatti-media.com^
 ||webanalytics.pwc.fr^
 ||webdat.mai-estate.com^
 ||stats.mm-germany.com^
@@ -9790,6 +9795,7 @@
 ||data-5c172edac2.prosieben.at^
 ||data-5d2679d281.skysportaustria.at^
 ||data-5e5ac4ec65.menshealth-personaltrainer.com^
+||data-5fdd0f6a02.salzburg24.at^
 ||data-60d896f23d.radio.dk^
 ||data-60d896f23d.radio.it^
 ||data-60d896f23d.radio.pl^
@@ -10555,6 +10561,8 @@
 ||tracking.seton.at^
 ||tracking.seton.be^
 ||tracking.seton.ca^
+||tracking.seton.co.uk^
+||tracking.seton.com^
 ||tracking.seton.es^
 ||tracking.seton.fr^
 ||tracking.seton.it^
@@ -11955,6 +11963,7 @@
 ||event.gitexvietnam.com^
 ||page.email.trinity-health.org^
 ||sandbox-elq.keysight.com.cn^
+||tracking.business.comcast.com^
 ||tracking.dev2.pepsicopartners.com^
 ||tracking.email.trinity-health.org^
 ||tracking.luminishealth.org^
@@ -11995,6 +12004,7 @@
 ||tracking.marketone.com^
 ||content.golfpride.com^
 ||elq.keysight.com.cn^
+||event.riseexpo.com^
 ||events.careallies.com^
 ||events.mbrl.ae^
 ||events.tegrita.com^
@@ -12015,6 +12025,7 @@
 ||tracking.bv.com^
 ||tracking.care.essentiahealth.org^
 ||tracking.health.lexmed.com^
+||webtracking.becker.com^
 ||connect.adelaideuni.edu.au^
 ||contact.samsungsds.com^
 ||events.bendigotafe.edu.au^
@@ -16496,7 +16507,6 @@
 ||sgtm.madeinbeauty.it^
 ||sgtm.maisonvictorio.com^
 ||sgtm.makecasa.it^
-||sgtm.mamarella.com^
 ||sgtm.mandimu.cz^
 ||sgtm.mandimu.hu^
 ||sgtm.mandimu.nl^
@@ -25008,6 +25018,7 @@
 ||seamless.bookedsolidads.com^
 ||seamless.joinhwtapp.com^
 ||seamless.trippbars.com^
+||securedata.merachfit.com^
 ||securedata.yesoulfitness.com^
 ||securemetrics.velotricbike.com^
 ||sellup.badana.cl^
@@ -28816,6 +28827,7 @@
 ||ssgtm.mia-healthcare.com^
 ||ssgtm.mycardbd.app^
 ||ssgtm.nuvolightinglights.com^
+||ssgtm.parcel2go.com^
 ||ssgtm.polvoracomunicacao.com.br^
 ||ssgtm.savoylightinglights.com^
 ||ssgtm.schoolyogainstitute.com^
@@ -29650,7 +29662,6 @@
 ||track.fbfanimation.co.il^
 ||track.femininebykabir.com^
 ||track.fitnessshopbd.com^
-||track.fly99.online^
 ||track.forcevitalis.online^
 ||track.fragsu.com^
 ||track.freelancerruhit.com^
@@ -30285,6 +30296,7 @@
 ||clogger.nocutnews.co.kr^
 ||mon*.tiktokv.us^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
+||api-analytics.pelikan.sk^
 ||analytics.streamingworld.xyz^
 ||stats.bouyguestelecom.fr^
 ||analytics.azrhymes.com^
@@ -30468,6 +30480,7 @@ prd.api.bleacherreport.com^
 ||analytics.waifu2x.org^
 ||metrics.quillbot.com^
 ||tracking.pennypublications.com^
+||t.streetsblog.org^
 ||data.r.pl^
 ||faro-collector-prod-*.grafana.net^
 ||events.caffeine.tv^
@@ -31273,6 +31286,7 @@ dlsdk.appsflyer.com^
 ||tobapplog.tobsnssdk.com^
 ||log.talkie-ai.com^
 ||stats.studyquicks.com^
+||fm-analytics-api.pocketfm.com^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
 ||analytics-*-nfl.yinzcam.com^
