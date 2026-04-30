@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-29T18:16:15.996Z
+! Last modified: 2026-04-30T18:16:31.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31658
+! Rules count: 31665
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -188,6 +188,7 @@
 ||tag.statshop.fr^
 ||analytics.contentexchange.me^
 ||metrics.userguiding.com^
+||tracker.gleanview.com^
 ||rtc.dymatrix.cloud^
 ||dmkt.point-ad-game.com^
 ||analytics.growthphysics.com^
@@ -2472,7 +2473,6 @@
 ||adobeedge.pst-myservice.dva.gov.au^
 ||adobemetrics.cluballiance.aaa.com^
 ||adobemetrics.yellohvillage.co.uk^
-||adobemetrics.yellohvillage.es^
 ||adobemetrics.yellohvillage.fr^
 ||adobemetrics.yellohvillage.it^
 ||adtd.douglas.ch^
@@ -2624,6 +2624,7 @@
 ||axp.fourstateshomepage.com^
 ||axp.mystateline.com^
 ||axp.ourquadcities.com^
+||axp.tristatehomepage.com^
 ||axp.wiproud.com^
 ||b2binsider.adobe.com^
 ||cane.intel.cn^
@@ -6491,6 +6492,7 @@
 ||sanalytics.cdf.cl^
 ||sanalytics.chilevision.cl^
 ||sanalytics.cnnchile.com^
+||sanalytics.enterprise.spectrum.com^
 ||sanalytics.esporteinterativo.com.br^
 ||sanalytics.ewz.ch^
 ||sanalytics.expomaritt.com^
@@ -7268,6 +7270,7 @@
 ||smetrics.pharmapremiasolution.com^
 ||smetrics.phoenix.edu^
 ||smetrics.pinkribbonbottle.com^
+||smetrics.pionline.com^
 ||smetrics.plymouthrock.com^
 ||smetrics.power97.com^
 ||smetrics.prairiefarmer.com^
@@ -8169,7 +8172,6 @@
 ||adobe.research.galicia.ar^
 ||adobe.navenegocios.ar^
 ||adobetarget.yellohvillage.co.uk^
-||adobetarget.yellohvillage.es^
 ||adobetarget.yellohvillage.fr^
 ||adtarget.barcainnovationhub.com^
 ||adtarget.fcbarcelona.cat^
@@ -8507,6 +8509,7 @@
 ||ljyipz.nugnes1920.com^
 ||lknqfn.furla.com^
 ||lozjnq.stateandliberty.com^
+||lpbhnv.nbcphiladelphia.com^
 ||lpbhnv.telemundoareadelabahia.com^
 ||lpipua.kcar.com^
 ||lqpvvd.naadam.co^
@@ -9044,6 +9047,7 @@
 ||lbcvr.happysocks.com^
 ||lbdft.katespade.co.uk^
 ||lcvrl.cloudninehair.com.au^
+||lmzyh.adanola.com^
 ||ltqsl.liplab.com^
 ||ltrrw.pakaapparel.com^
 ||mipfl.lagos.com^
@@ -12061,6 +12065,7 @@
 ||stat.kela.fi^
 ||statistieken.ns-epublisher.com^
 ||stats.arinet.com^
+||stats.manz.at^
 ||stats.netdriven.com^
 ||tagadmin.aumago.com^
 ||www.webanalytics-az.acc.fpfis.tech.ec.europa.eu^
@@ -13226,6 +13231,7 @@
 ||collect.feriepartner.dk^
 ||collect.feriepartner.no^
 ||collect.flisekompaniet.no^
+||collect.foliosociety.com^
 ||collect.havilavoyages.com^
 ||collect.humac.dk^
 ||collect.iduna.se^
@@ -14035,7 +14041,6 @@
 ||gtmserver.veradias.coach^
 ||gtmserver.xrent4u.com^
 ||gtmshop.roccafiore.it^
-||gtmsrv.caseih.com^
 ||gtmsrv.caseoperatorsclub.com^
 ||gtmss.acquarioshop.it^
 ||gtmss.aubade.com^
@@ -14841,7 +14846,6 @@
 ||load.more.citygames-kids.nl^
 ||load.moredata.qtsystems.se^
 ||load.movadixen.gbt-shop.us^
-||load.msr.900.care^
 ||load.mtg.euphire.pl^
 ||load.mtgs.areon.eu^
 ||load.mtgs.enebire.sk^
@@ -15038,7 +15042,6 @@
 ||load.sgtm.evigeblomster.dk^
 ||load.sgtm.falseeyelashes.co.uk^
 ||load.sgtm.fidanevimsatis.com^
-||load.sgtm.fiskaly.com^
 ||load.sgtm.fixgarage.it^
 ||load.sgtm.flagstangsfabrikken.dk^
 ||load.sgtm.gestalt.fr^
@@ -16602,7 +16605,6 @@
 ||sgtm.petrosglyfada.gr^
 ||sgtm.pharmapower.it^
 ||sgtm.pietrozanettihome.com^
-||sgtm.piquadro.com^
 ||sgtm.plantekoeb.dk^
 ||sgtm.pleasureandpassion.co.uk^
 ||sgtm.pompdelux.com^
@@ -18156,6 +18158,7 @@
 ||assets.bygghobby.no^
 ||assets.cambiandotuvida50.site^
 ||assets.cargoboard.com^
+||assets.comparitech.com^
 ||assets.extremefitness.no^
 ||assets.ikventilasjon.no^
 ||assets.kost1.no^
@@ -21754,6 +21757,7 @@
 ||gtm.vuggebaby.no^
 ||gtm.vulcanojoias.com.br^
 ||gtm.wakandaslots.com^
+||gtm.waldos.com.mx^
 ||gtm.watatutravel.com^
 ||gtm.watchstraps.com.au^
 ||gtm.waterbros.com.au^
@@ -23274,6 +23278,7 @@
 ||load.medicaremedicarequotes.convertservers.com^
 ||load.medicion.artexa.com^
 ||load.meter.dmipartners.com^
+||load.metis.manual.co^
 ||load.metrics.375chicken.com^
 ||load.metrics.aerografodiscount.es^
 ||load.metrics.aerografodiscount.it^
@@ -24962,6 +24967,7 @@
 ||rgtm.cosmedischinstituut.be^
 ||rgtm.mydieselpro.com^
 ||rgtm.penez.be^
+||rgtm.plt4m.com^
 ||rgtm.rhng.com.au^
 ||rgtmc.recebidosclub.com^
 ||rise.longwealthcapital.com^
@@ -27757,6 +27763,7 @@
 ||sgtm.cirashop.net^
 ||sgtm.cityfans.com^
 ||sgtm.cjxsolar.nl^
+||sgtm.classicfootballshirts.com^
 ||sgtm.clearsmile.jp^
 ||sgtm.clinrol.com^
 ||sgtm.clipbee.ai^
