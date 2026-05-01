@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-04-30T18:16:31.429Z
+! Last modified: 2026-05-01T18:16:47.629Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31665
+! Rules count: 31683
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -329,6 +329,8 @@
 ||rlog.popin.cc^
 ||log.popin.cc^
 ||accounts-meta-events.outsideonline.com^
+||aiq-in.prevention.com^
+||aiq-in.roadandtrack.com^
 ||aiq-in.seventeen.com^
 ||aiqx.madameweb.movie^
 ||events-meta-events.outsideonline.com^
@@ -690,12 +692,14 @@
 ||postgraduate2.smu.edu.sg^
 ||privateclient.hubinternational.com^
 ||profile-update.healthgrades.com^
+||retailleaders.rila.org^
 ||smuacademy.smu.edu.sg^
 ||solutions.advantageauburn.com^
 ||solutions.amigraphics.com^
 ||techservices.trapptechnology.com^
 ||toronto-content.cresa.com^
 ||trappcloudservices.trapptechnology.com^
+||vip.gophersport.com^
 ||www2.advp.com^
 ||www2.bobcad.com^
 ||a.highroadsolution.com^
@@ -2452,6 +2456,7 @@
 ||adobe-ep.cuidadodesalud.gov^
 ||adobe-ep.insurekidsnow.gov^
 ||adobe-metrics.bankexchangeservices.com^
+||adobe-metrics.nbarizona.com^
 ||adobe-metrics.vectrabank.com^
 ||adobe-metrics.zionsfamily.com^
 ||adobe-secure.cjone.com^
@@ -2683,7 +2688,6 @@
 ||data.accounts.t-mobile.com^
 ||data.accountsamericas.coca-cola.com^
 ||data.accountsapac.coca-cola.com^
-||data.accountsemea.coca-cola.com^
 ||data.accountslatam.coca-cola.com^
 ||data.acsappsvcs1.test.ajo.adobe.com^
 ||data.admin-updates.airmiles.ca^
@@ -3290,6 +3294,7 @@
 ||data.murciagastronomica.es^
 ||data.mynotifications.myuhc.com^
 ||data.nedbanktest.dev.cjmadobe.com^
+||data.news.313presents.com^
 ||data.news.airmiles.ca^
 ||data.news.blesscollectionhotels.com^
 ||data.news.eurobet.it^
@@ -3665,6 +3670,7 @@
 ||metrics.egencia.com.tr^
 ||metrics.egencia.cz^
 ||metrics.egencia.dk^
+||metrics.egencia.es^
 ||metrics.egencia.fi^
 ||metrics.egencia.ie^
 ||metrics.egencia.it^
@@ -6851,11 +6857,13 @@
 ||smetrics.cornercard.ch^
 ||smetrics.cornertrader.ch^
 ||smetrics.cornertrader.com^
+||smetrics.cortevents.com^
 ||smetrics.costumesupercenter.com^
 ||smetrics.cotellic.com^
 ||smetrics.cottages.com^
 ||smetrics.country104.com^
 ||smetrics.country105.com^
+||smetrics.countryfinancial.com^
 ||smetrics.countrypassport.com^
 ||smetrics.crainscleveland.com^
 ||smetrics.crainsgrandrapids.com^
@@ -7149,6 +7157,7 @@
 ||smetrics.loblaws.ca^
 ||smetrics.loft.com^
 ||smetrics.louandgrey.com^
+||smetrics.louisianahealthconnect.com^
 ||smetrics.lowes.com^
 ||smetrics.ltdcommodities.com^
 ||smetrics.lucentis.com^
@@ -7521,6 +7530,7 @@
 ||smetrics.telecel.com.gh^
 ||smetrics.telenet.be^
 ||smetrics.telenor.dk^
+||smetrics.textbooks.com^
 ||smetrics.the-farmer.com^
 ||smetrics.theexprogram.com^
 ||smetrics.thegpsa.org^
@@ -8857,6 +8867,7 @@
 ||gahlr.readyrocker.com^
 ||gckkl.hotelcollection.pl^
 ||giran.ziipstick.com^
+||gjrrr.hotelcollection.com^
 ||gmjbr.sudhirshivaramphotography.com^
 ||grhte.medicinanatur.blog^
 ||gseip.hellojupiter.com^
@@ -8977,6 +8988,7 @@
 ||zvbqi.cycologyclothing.com^
 ||zvsul.parkinsonslawsuits.com^
 ||zvumg.appbrew.tech^
+||aadgc.greybandit.com^
 ||aafdk.weliveconscious.com^
 ||adhnu.wanderbeauty.com^
 ||adlgo.nzepouches.com^
@@ -9040,6 +9052,7 @@
 ||kfiip.stevemadden.ca^
 ||kjekb.chadwicks.com^
 ||klddt.fredasalvador.com^
+||kpdgj.adanola.com^
 ||kpemv.lemonadedolls.com^
 ||kshtn.red-equipment.com.au^
 ||kvoqd.madeincookware.co.uk^
@@ -9168,6 +9181,7 @@
 ||srzmf.indacloud.co^
 ||szhls.bncbuildersinc.com^
 ||teipd.onlinecyclinggear.com^
+||tipuh.themillionroses.com^
 ||ukvnr.glamrdip.com^
 ||vcdzh.lizzyjames.com^
 ||vdgtm.shoplc.com^
@@ -9838,6 +9852,7 @@
 ||data-8053aabdac.integrale-planung.net^
 ||data-81547504c8.fupa.net^
 ||data-83380557db.fupa.net^
+||data-8468e8ebc5.laola1.at^
 ||data-84a0f3455d.transfermarkt.at^
 ||data-84a0f3455d.transfermarkt.be^
 ||data-84a0f3455d.transfermarkt.ch^
@@ -11838,6 +11853,7 @@
 ||read.telecoms.com^
 ||solutions.diperk.co.uk^
 ||tracking-explore.agilent.com^
+||tracking.aapa.org^
 ||tracking.chem-agilent.com^
 ||tracking.connect.nicklauschildrens.org^
 ||tracking.connect.nicklaushealth.org^
@@ -11846,6 +11862,7 @@
 ||tracking.infiniti-dubai.com^
 ||tracking.info.methodisthealthsystem.org^
 ||tracking.nissan-dubai.com^
+||tracking.pepsicopartners.com^
 ||tracking.ti.com.cn^
 ||tracking.your.montagehealth.org^
 ||trk.imeeventscalendar.com^
@@ -13389,7 +13406,6 @@
 ||data.librairieclub.be^
 ||data.lsp.pl^
 ||data.luminadeco.pl^
-||data.lumond.com^
 ||data.makmisho.com^
 ||data.maplearning.hu^
 ||data.masalo.eu^
@@ -14846,6 +14862,7 @@
 ||load.more.citygames-kids.nl^
 ||load.moredata.qtsystems.se^
 ||load.movadixen.gbt-shop.us^
+||load.msr.900.care^
 ||load.mtg.euphire.pl^
 ||load.mtgs.areon.eu^
 ||load.mtgs.enebire.sk^
@@ -15418,7 +15435,6 @@
 ||load.sst.appsfortableau.infotopics.com^
 ||load.sst.arturinterieur.be^
 ||load.sst.atapack.nl^
-||load.sst.atlantis-vodnomesto.si^
 ||load.sst.atticsecurity.com^
 ||load.sst.auto-fairs.com^
 ||load.sst.babycenter.hr^
@@ -16240,7 +16256,6 @@
 ||sgtm.blacktools.ro^
 ||sgtm.blezi.com^
 ||sgtm.blomer.nl^
-||sgtm.bolha.com^
 ||sgtm.bollsen.dk^
 ||sgtm.bollsen.hu^
 ||sgtm.bonjourben.com^
@@ -17288,6 +17303,7 @@
 ||adminandres.fraganxa.com^
 ||ads.atdove.org^
 ||ads.cabalexile.to^
+||ads.davidprotein.com^
 ||ads.dianacapi.vip^
 ||ads.dovelewis.org^
 ||ads.eumaisviagens.com.br^
@@ -21424,6 +21440,7 @@
 ||gtm.solutionshop.com.br^
 ||gtm.somdecristal.com.br^
 ||gtm.somenza.com^
+||gtm.sonobello.com^
 ||gtm.sonomag.com.br^
 ||gtm.sora-immobilier.com^
 ||gtm.sorte.minhasorte.info^
@@ -21894,7 +21911,6 @@
 ||gtms.airporthotelbologna.it^
 ||gtms.carolfeitosanutri.com.br^
 ||gtms.flexacustic.com.br^
-||gtms.freddy.com^
 ||gtms.isar.com.br^
 ||gtms.medbusca.com^
 ||gtms.meshkati.sa^
@@ -28768,6 +28784,7 @@
 ||ss01.goodtrack.com.br^
 ||ssad.divebooker.com^
 ||ssapi.automuller.com.br^
+||ssapi.curology.com^
 ||ssapi.goldjob.com.br^
 ||ssapi.motomaniajundiai.com.br^
 ||ssapi.rmotos.com.br^
@@ -31185,6 +31202,7 @@ dlsdk.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
+||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
