@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-05T20:22:41.504Z
+! Last modified: 2026-05-06T20:22:56.173Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -84,6 +84,9 @@
 ||aax-vx-us-us-west-2.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
 ||ads-setu-proxy-eu.amazon.com^
+||ads-setu-proxy-fe.amazon.com^
+||ads-setu-proxy.amazon.com^
+||ads.amazon.com^
 ||advertising-api-eu.amazon.com^
 ||advertising.a2z.com^
 ||advertising.amazon.ae^
@@ -685,6 +688,7 @@
 ||sgtus1-excel-telemetry-vip.officeapps.live.com^
 ||sgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||sgtus1-word-telemetry-vip.officeapps.live.com^
+||telemetry.officeapps.live.com^
 ||tgtus1-excel-telemetry-vip.officeapps.live.com^
 ||tgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||tgtus1-word-telemetry-vip.officeapps.live.com^
