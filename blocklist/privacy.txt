@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-06T20:22:54.045Z
+! Last modified: 2026-05-07T20:23:09.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31723
+! Rules count: 31710
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -1157,6 +1157,7 @@
 ||ad.aucview.com^
 ||ad.autorace.jp^
 ||ad.hoikushibank.com^
+||ad.kddi-fs.com^
 ||ad.omotenashi.work^
 ||ad.ordersuit.info^
 ||ad.takasu.co.jp^
@@ -2591,7 +2592,6 @@
 ||analytics.wienerberger.ee^
 ||analytics.wienerberger.fr^
 ||analytics.wienerberger.hr^
-||analytics.wienerberger.hu^
 ||analytics.wienerberger.in^
 ||analytics.wienerberger.it^
 ||analytics.wienerberger.lt^
@@ -2768,7 +2768,6 @@
 ||data.bloomingdales.test.ajo.adobe.com^
 ||data.boletin.super99.com^
 ||data.brokers.ampbanking.com.au^
-||data.burgosconecta.es^
 ||data.business.nordea.dk^
 ||data.business.nordea.no^
 ||data.butlletins-3catinfo.3cat.cat^
@@ -2973,7 +2972,6 @@
 ||data.email.animed.co.uk^
 ||data.email.aptivepestcontrol.com^
 ||data.email.aquarabiaqiddiyacity.com^
-||data.email.belgiantrain.be^
 ||data.email.bridgestone-emea.com^
 ||data.email.bridgestonetire.com^
 ||data.email.cadillacfinancial.com^
@@ -2983,8 +2981,6 @@
 ||data.email.club33waltdisneyworld.com^
 ||data.email.firestone-emea.com^
 ||data.email.firestonetire.com^
-||data.email.gamma.be^
-||data.email.gamma.nl^
 ||data.email.getmode.com^
 ||data.email.healthanswers.pfizer.com^
 ||data.email.hostplus.com.au^
@@ -3003,7 +2999,6 @@
 ||data.email.seven.sa^
 ||data.email.spring-savings.co.uk^
 ||data.email.state.co.nz^
-||data.email.tangerine.ca^
 ||data.email.telmore.dk^
 ||data.email.uhc.com^
 ||data.email.uhg.com^
@@ -3399,7 +3394,6 @@
 ||data.qamailing.mcafee.com^
 ||data.qamarketing.giftcards.com^
 ||data.qr.test.ajo.adobe.com^
-||data.qrgroup.qatarairways.com^
 ||data.racq.dev.cjmadobe.com^
 ||data.rahu.test.ajo.adobe.com^
 ||data.realmadrid1.test.cjmadobe.com^
@@ -5674,7 +5668,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6410,7 +6403,6 @@
 ||sadbmetrics.avanzaentucarrera.com^
 ||sadbmetrics.b-venture.com^
 ||sadbmetrics.blogasturias.com^
-||sadbmetrics.burgosconecta.es^
 ||sadbmetrics.caravantur.eus^
 ||sadbmetrics.carrera-empresas.com^
 ||sadbmetrics.carreraempresas.com^
@@ -6422,7 +6414,6 @@
 ||sadbmetrics.ecomov.es^
 ||sadbmetrics.elbalcondemateo.es^
 ||sadbmetrics.elbierzonoticias.com^
-||sadbmetrics.elcomercio.es^
 ||sadbmetrics.elcorreoclasificados.com^
 ||sadbmetrics.elnervion.com^
 ||sadbmetrics.estiloydecoracion.es^
@@ -10420,7 +10411,6 @@
 ||elqtracking.dagensmedia.se^
 ||elqtracking.dagensmedicin.se^
 ||elqtracking.dagligvarunytt.se^
-||elqtracking.finance.si^
 ||elqtracking.medidata.com^
 ||elqtracking.mercer-retirement.co.uk^
 ||elqtracking.privataaffarer.se^
@@ -10575,7 +10565,6 @@
 ||tracking.justine.co.za^
 ||tracking.kalypso.com^
 ||tracking.kroll.com^
-||tracking.landauer.com^
 ||tracking.levelblue.com^
 ||tracking.lseg.com^
 ||tracking.mizuhogroup.com^
@@ -26998,7 +26987,6 @@
 ||server.seguralta.com.br^
 ||server.sejamaisodontologia.com.br^
 ||server.seldomfashion.com^
-||server.seletaeducacao.com.br^
 ||server.sellbaazar.shop^
 ||server.selltez.com^
 ||server.sendflow.com.br^
@@ -31418,7 +31406,6 @@ dlsdk.appsflyer.com^
 ||log.down61.com^
 ||trackersdk.bdash-cloud.com^
 ||mapi-log.qoo*.jp^
-||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
