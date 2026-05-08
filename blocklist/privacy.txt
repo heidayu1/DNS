@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-07T20:23:09.415Z
+! Last modified: 2026-05-08T20:23:25.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31710
+! Rules count: 31704
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -177,6 +177,7 @@
 ||t.adcell.com^
 ||odtrtadl.com^
 ||log.trackingio.com^
+||iad.anm.co.uk^
 ||cdn.wgchrrammzv.com^
 ||cdn.pranmcpkx.com^
 ||cookie.codemarketing.cloud^
@@ -8244,7 +8245,6 @@
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||a1.api.bbc.co.uk^
 ||avocado.laprovence.com^
-||collect.meilleurtaux.com^
 ||data.lelivrescolaire.fr^
 ||ressources.caradisiac.com^
 ||configure.adlermode.com^
@@ -10349,7 +10349,6 @@
 ||tr.serviceclient.younited-coach.com^
 ||tr.serviceclient.younited-credit.com^
 ||tr.services.caradisiac.com^
-||tr.servicesclients.canalplus.ch^
 ||tr.servicesclients.canalplus.fr^
 ||tr.servicoaocliente.younited-credit.com^
 ||tr.smtp1.email-mediapost.fr^
@@ -16721,7 +16720,6 @@
 ||sgtm.sklepslodkapasja.pl^
 ||sgtm.slovenijahujsa.si^
 ||sgtm.smilrejser.dk^
-||sgtm.sodastream.it^
 ||sgtm.solutions2share.com^
 ||sgtm.soluzionetasse.com^
 ||sgtm.somosrevelion.com^
@@ -17270,7 +17268,6 @@
 ||trg.papilio.gr^
 ||tss.appartbeaute.com^
 ||tss.appartement-neuf-corse.com^
-||tt.livefastdieyoung.com^
 ||vipimo.accessbdd.com^
 ||visit.speakersacademy.com^
 ||vms.laadpalenwijzer.be^
@@ -30178,7 +30175,6 @@
 ||utiq.extratipp.com^
 ||utiq.foodblog.it^
 ||utiq.holidaycheck.at^
-||utiq.holidaycheck.ch^
 ||utiq.ippen.media^
 ||utiq.lacronicabadajoz.com^
 ||utiq.lagacetadesalamanca.es^
@@ -30535,7 +30531,6 @@ prd.api.bleacherreport.com^
 ||analytics.castel.jp^
 ||gtm.actic.se^
 ||gtm.ahlens.se^
-||gtm.asiakastieto.fi^
 ||gtm.careercontessa.com^
 ||gtm.clutter.com^
 ||gtm.ellos.se^
@@ -30672,7 +30667,6 @@ prd.api.bleacherreport.com^
 ||gateway.cloud.sbs.co.kr^
 ||adtracking.smartmediarep.com^
 ||log.hypebeast.com^
-||log.bandi.so^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^

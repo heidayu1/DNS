@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-07T20:23:12.305Z
+! Last modified: 2026-05-08T20:23:29.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1303,6 +1303,7 @@
 ||ads.tiktok.tv^
 ||ads-api.tiktok.com^
 ||ads-frontier.tiktok.com^
+||ads-ru.tiktok.com^
 ||ads-service.tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads-useast2a.tiktok.com^
@@ -1660,6 +1661,7 @@
 ||ads-ttp2.tiktokw.eu^
 ||ads16-normal-useastred.tiktokw.eu^
 ||analytics-exp-ttp2.tiktokw.eu^
+||analytics-exp16-normal-useastred.tiktokw.eu^
 ||analytics-ie.tiktokw.eu^
 ||analytics-ipv6.tiktokw.us^
 ||analytics-ttp2.tiktokw.eu^
