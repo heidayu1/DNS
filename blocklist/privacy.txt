@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-08T20:23:25.048Z
+! Last modified: 2026-05-09T20:23:41.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31704
+! Rules count: 31701
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -33,6 +33,7 @@
 ||track.trakkr.ai^
 ||tracker.zmaticoo.com^
 ||data.thoughtmetric.io^
+||assets.9gtb.com^
 ||beacon.coofis.com^
 ||aditude.prebid-server.com^
 ||cache.prebid-server.com^
@@ -3716,7 +3717,6 @@
 ||metrics.marcus.com^
 ||metrics.marketing.prod.aze.scania.com^
 ||metrics.maxizoo.be^
-||metrics.maxizoo.fr^
 ||metrics.maxizoo.ie^
 ||metrics.mca-insight.com^
 ||metrics.mcahospitalityawards.com^
@@ -4928,7 +4928,6 @@
 ||smetrics.saltverde.com^
 ||smetrics.samedelman.ca^
 ||smetrics.samiltax.com^
-||smetrics.samsung.com.cn^
 ||smetrics.saucony.com.au^
 ||smetrics.savewithsrpbiz.com^
 ||smetrics.scarboroughtoyota.ca^
@@ -12880,7 +12879,6 @@
 ||evolu.adsdomaintracking.com^
 ||go.ads2.pagol.bet.br^
 ||go.cheapinter.net^
-||i.do.adtrack.it^
 ||insight.alwaysfitcreators.com.br^
 ||insight.carla-jewelry.com^
 ||insight.cumaskincare.com^
@@ -21663,7 +21661,6 @@
 ||gtm.tudosobrelooks.com.br^
 ||gtm.tudosobremarcenaria.com.br^
 ||gtm.tuliolopes.com.br^
-||gtm.tunisiebooking.com^
 ||gtm.tupode.com^
 ||gtm.turicollura.com.br^
 ||gtm.turkista.shop^
