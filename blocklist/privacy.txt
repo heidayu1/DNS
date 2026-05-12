@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-11T20:24:11.885Z
+! Last modified: 2026-05-12T20:24:27.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31683
+! Rules count: 31673
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -693,7 +693,6 @@
 ||news.coloradobiz.com^
 ||offer.fmservice.com^
 ||pitkinvstatefarmgeneralinsurancecompany.e.epiqnotification.com^
-||postgraduate.smu.edu.sg^
 ||postgraduate2.smu.edu.sg^
 ||privateclient.hubinternational.com^
 ||profile-update.healthgrades.com^
@@ -2291,7 +2290,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2809,7 +2807,6 @@
 ||data.comms.pokerstars.com^
 ||data.comms.pokerstars.fr^
 ||data.comms.velera.com^
-||data.communicatie.nn.nl^
 ||data.communications.cbussuper.com.au^
 ||data.communications.hongkongdisneyland.com^
 ||data.communications.manulife.ca^
@@ -5666,6 +5663,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6012,8 +6010,6 @@
 ||metrics.kayoutlet.com^
 ||metrics.keno.com.au^
 ||metrics.kenwood.com^
-||metrics.kidsnews.com.au^
-||metrics.kidspot.com.au^
 ||metrics.kpmg.com^
 ||metrics.kpmg.us^
 ||metrics.lacaixa.es^
@@ -7406,6 +7402,7 @@
 ||smetrics.sho.com^
 ||smetrics.shop.superstore.ca^
 ||smetrics.shopjapan.co.jp^
+||smetrics.shopmyexchange.com^
 ||smetrics.shoppersdrugmart.ca^
 ||smetrics.shoptruespirit.com^
 ||smetrics.showcase.ca^
@@ -12000,7 +11997,6 @@
 ||event.gitex-india.com^
 ||event.gitexeurope.com^
 ||event.gitexfuturehealth.com^
-||event.gitexturkiye.com^
 ||event.gitexvietnam.com^
 ||page.email.trinity-health.org^
 ||sandbox-elq.keysight.com.cn^
@@ -13060,7 +13056,6 @@
 ||analytics.eshop.ciur.cz^
 ||analytics.essenzasegreta.com^
 ||analytics.fisiocomputer.com^
-||analytics.fitnessfirst.fi^
 ||analytics.foxgreen.eu^
 ||analytics.gastronoma-shop.nl^
 ||analytics.gebhardt-group.com^
@@ -13123,7 +13118,6 @@
 ||analytics.showtic.se^
 ||analytics.startupvalencia.org^
 ||analytics.timhotel.com^
-||analytics.turbotheorie.nl^
 ||analytics.um5.ee^
 ||analytics.utensileriaonline.it^
 ||analytics.vamos.immo^
@@ -13224,7 +13218,6 @@
 ||cdnx.hotelcalalonga.it^
 ||cdnx.hotelcostadelloionio.it^
 ||cdnx.hotelpicapalinuro.it^
-||cdnx.hotelroscianum.com^
 ||cdnx.hotelsolpalace.com^
 ||cdnx.leucosyahotel.com^
 ||cdnx.residencebolivarcamerota.it^
@@ -15909,7 +15902,6 @@
 ||metrics.accent.eu.sk^
 ||metrics.agardina.ee^
 ||metrics.agardina.eu^
-||metrics.agardina.hu^
 ||metrics.agardina.lt^
 ||metrics.agardina.lv^
 ||metrics.aswakeukens.nl^
@@ -22394,7 +22386,6 @@
 ||load.dads.ullasportsbeachwear.com^
 ||load.data.21-5.com^
 ||load.data.21-5.se^
-||load.data.55places.com^
 ||load.data.acelinkarmor.com^
 ||load.data.americanrotary.com^
 ||load.data.artangels.net^
@@ -30223,7 +30214,6 @@
 ||web.email.umbro.co.uk^
 ||web.mail.koganpage.com^
 ||web.mail.nordiq.dk^
-||web.mail.proximaati.com^
 ||web.mailing.morawa.at^
 ||web.mailing.storz-bickel.com^
 ||web.mailing.vapormed.com^
@@ -30266,6 +30256,8 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||mpecom-analyticevents-prod.boyner.com.tr^
+||dlso-ap96.macgamingdb.app^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30318,7 +30310,6 @@
 ||analytics.azrhymes.com^
 ||analytics.luogu.me^
 ||analytics.kode.co.kr^
-||stats.pronouns.page^
 ||ad-bls-tracking.lemino.docomo.ne.jp^
 ||logstash-*.radio-canada.ca^
 ||analytics.vgtimes.
@@ -30976,7 +30967,6 @@ prd.api.bleacherreport.com^
 ||stat.adultium.com^
 ||stat.alloha.tv^
 ||stat.botdetector.ru^
-||stat.clickfrog.ru^
 ||stat.eagleplatform.com^
 ||stat.myshows.me^
 ||stat.novostimira.com^
@@ -31016,7 +31006,6 @@ prd.api.bleacherreport.com^
 ||stats.someecards.com^
 ||stats.suite101.com^
 ||stats.tipser.com^
-||stats.travelask.ru^
 ||stats.visistat.com^
 ||stats.wwd.com^
 ||stats2.arstechnica.com^
@@ -31199,6 +31188,7 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
 ||cxlog.shinhansec.com^
+||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
