@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-12T20:24:27.127Z
+! Last modified: 2026-05-13T20:24:42.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31673
+! Rules count: 31679
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -308,7 +308,6 @@
 ||logs.juspay.in
 ||logs.browser-intake-datadoghq.eu^
 ||logs.datadoghq.eu^
-||am-trc-events.taboola.com^
 ||tattle.api.osano.com^
 ||tracker.plerdy.com^
 ||track.edu-info.jp^
@@ -327,6 +326,21 @@
 ||query*.petametrics.com^
 ||rcounter.rambler.ru^
 ||top-staging.mail.ru^
+||am-trc-events.taboola.com^
+||beacon.taboola.com^
+||api-events.taboola.com^
+||trc.taboola.com^
+||trc-events.taboola.com^
+||imprammp.taboola.com^
+||am-vid-events.taboola.com^
+||am-match.taboola.com^
+||vidstat.taboola.com^
+||nr-events.taboola.com^
+||cds.taboola.com^
+||sync.taboola.com^
+||hp.taboola.com^
+||pm-widget.taboola.com^
+||c2.taboola.com^
 .ay.delivery^
 ||taskapi.net^
 ||rlog.popin.cc^
@@ -2263,7 +2277,6 @@
 ||sstats.shaneco.com^
 ||sstats.spark.co.nz^
 ||sstats.studieplan.nl^
-||sstats.swissotel.com^
 ||sstats.tena.ca^
 ||sstats.tena.us^
 ||sstats.thermofisher.com^
@@ -2865,7 +2878,6 @@
 ||data.cx.palladiumtravelclub.com^
 ||data.cx.theushuaiaexperience.com^
 ||data.dats24.be^
-||data.deals.consumercellular.com^
 ||data.degranada.net^
 ||data.delivers.buick.com^
 ||data.delivers.cadillac.com^
@@ -2971,6 +2983,7 @@
 ||data.email.animed.co.uk^
 ||data.email.aptivepestcontrol.com^
 ||data.email.aquarabiaqiddiyacity.com^
+||data.email.belgiantrain.be^
 ||data.email.bridgestone-emea.com^
 ||data.email.bridgestonetire.com^
 ||data.email.cadillacfinancial.com^
@@ -2980,6 +2993,8 @@
 ||data.email.club33waltdisneyworld.com^
 ||data.email.firestone-emea.com^
 ||data.email.firestonetire.com^
+||data.email.gamma.be^
+||data.email.gamma.nl^
 ||data.email.getmode.com^
 ||data.email.healthanswers.pfizer.com^
 ||data.email.hostplus.com.au^
@@ -2998,6 +3013,7 @@
 ||data.email.seven.sa^
 ||data.email.spring-savings.co.uk^
 ||data.email.state.co.nz^
+||data.email.tangerine.ca^
 ||data.email.telmore.dk^
 ||data.email.uhc.com^
 ||data.email.uhg.com^
@@ -4359,7 +4375,6 @@
 ||smetrics.etihadcargo.com^
 ||smetrics.etihadholidays.com^
 ||smetrics.ev.tatamotors.com^
-||smetrics.evernorth.com^
 ||smetrics.evivanlanschot.nl^
 ||smetrics.evoshield.com^
 ||smetrics.evrysdi.com^
@@ -8665,7 +8680,6 @@
 ||sxjfhh.app.com^
 ||sxjfhh.argusleader.com^
 ||sxjfhh.coloradoan.com^
-||sxjfhh.commercialappeal.com^
 ||sxjfhh.fdlreporter.com^
 ||sxjfhh.lansingstatejournal.com^
 ||sxjfhh.montgomeryadvertiser.com^
@@ -9342,7 +9356,6 @@
 ||stats.salzburgerjobs.at^
 ||stats.steirerjobs.at^
 ||stats.vorarlbergerjobs.at^
-||track.karlstorz.com^
 ||track.thegundogaffair.com^
 ||tracker.fellowdigitals.com^
 ||tracking.anthonys.at^
@@ -10127,7 +10140,6 @@
 ||mailtracking.tf1.com^
 ||mailtracking.tfou.com^
 ||news.mailperformance.com^
-||t8.mailperformance.com^
 ||tr.academy.canal-plus.com^
 ||tr.actu.infopro-digital-media.fr^
 ||tr.adhesion.ircom-laverriere.com^
@@ -10395,7 +10407,6 @@
 ||eloqua.certiport.com^
 ||eloqua.radware.com^
 ||eloquatrack.kistler.com^
-||elqapp.clevelandbrowns.com^
 ||elqtrack.info.estatenyheter.no^
 ||elqtracking.bonniernewsevents.se^
 ||elqtracking.byggindustrin.se^
@@ -12659,7 +12670,6 @@
 ||2.tracktrack.org^
 ||ads.dreamjobcompany.com^
 ||aipaistop.urogymansclinic.com^
-||assets.mediahostingcdn.com^
 ||att.adn.hqusers.com^
 ||bgwncsntrack.trackaffmktg.com^
 ||blog.americaupdates.com^
@@ -13107,7 +13117,6 @@
 ||analytics.pineca.pl^
 ||analytics.pineca.pt^
 ||analytics.plainproxies.com^
-||analytics.popvakuutus.fi^
 ||analytics.pro-clima.cz^
 ||analytics.quick-garden.co.uk^
 ||analytics.raamwinkel.be^
@@ -13345,9 +13354,7 @@
 ||data.diks.net^
 ||data.dizajnovyzvuk.sk^
 ||data.dockx.be^
-||data.dog-fit.com^
 ||data.dride.com.br^
-||data.dvderotik.com^
 ||data.eagleextend.eu^
 ||data.eagleextend.pt^
 ||data.easyjobs.be^
@@ -16460,7 +16467,6 @@
 ||sgtm.ibb.com^
 ||sgtm.idealmove.cz^
 ||sgtm.igieco.it^
-||sgtm.ikh.se^
 ||sgtm.ilrossetti.it^
 ||sgtm.impactcommerce.com^
 ||sgtm.improvcomedy.eu^
@@ -19743,7 +19749,6 @@
 ||gtm.cristinedentista.com.br^
 ||gtm.croamareshotel.com^
 ||gtm.cronicasdamoda.com^
-||gtm.cruzeirodosul.edu.br^
 ||gtm.cryptoknightacademy.com^
 ||gtm.crystalunits.com^
 ||gtm.cspedras.com.br^
@@ -30214,6 +30219,7 @@
 ||web.email.umbro.co.uk^
 ||web.mail.koganpage.com^
 ||web.mail.nordiq.dk^
+||web.mail.proximaati.com^
 ||web.mailing.morawa.at^
 ||web.mailing.storz-bickel.com^
 ||web.mailing.vapormed.com^
@@ -30256,8 +30262,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||mpecom-analyticevents-prod.boyner.com.tr^
-||dlso-ap96.macgamingdb.app^
+||data-api.fenbi.com^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -31610,6 +31615,7 @@ dlsdk.appsflyer.com^
 ||gripcorn.com^
 ||gulliblegrip.com^
 ||happysponge.com^
+||headyhook.com^
 ||hippojump.com^
 ||idlecollect.com^
 ||incomehippo.com^
