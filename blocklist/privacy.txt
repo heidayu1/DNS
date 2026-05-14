@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-13T20:24:42.716Z
+! Last modified: 2026-05-14T20:24:59.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31679
+! Rules count: 31684
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2265,7 +2265,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2787,6 +2786,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -10329,7 +10329,6 @@
 ||tr.pm.pelhammedia.com^
 ||tr.politicoevents.eu^
 ||tr.politicolive.eu^
-||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.qualite.viparis.com^
 ||tr.read.glose.com^
@@ -12794,7 +12793,6 @@
 ||track.hard-swimwear.com^
 ||track.healthierdayz.com^
 ||track.homie.com.au^
-||track.hukitchen.com^
 ||track.icowhide.com^
 ||track.injuryjusticealliance.com^
 ||track.kitup.net^
@@ -13792,7 +13790,6 @@
 ||gtm.ltingenjorsbyra.se^
 ||gtm.lucartprofessional.com^
 ||gtm.lucasborgesarquitetura.arq.br^
-||gtm.lucasdivestore.com^
 ||gtm.luminadeco.pl^
 ||gtm.luvio.pt^
 ||gtm.luxadent.se^
@@ -16475,7 +16472,6 @@
 ||sgtm.insights-global.com^
 ||sgtm.instilla.it^
 ||sgtm.institutomarketing.es^
-||sgtm.intraweb.it^
 ||sgtm.intuitibrix.com^
 ||sgtm.irapido.it^
 ||sgtm.isbologna.com^
@@ -16983,7 +16979,6 @@
 ||sst.diingu.app^
 ||sst.disneyinconcert.medialane.nl^
 ||sst.easyequipment.com^
-||sst.estateguru.co^
 ||sst.eventparkdanmark.dk^
 ||sst.events.pes.eu^
 ||sst.fishingdraws.co.uk^
@@ -31561,6 +31556,7 @@ dlsdk.appsflyer.com^
 @@||metrics.torproject.org^
 @@||track2.royalmail.com^
 @@||webtrack.dhlglobalmail.com^
+||abruptroad.com^
 ||absurdapple.com^
 ||acquireuser.com^
 ||adamantsnail.com^
@@ -31575,17 +31571,19 @@ dlsdk.appsflyer.com^
 ||azuremystique.com^
 ||badgeboat.com^
 ||badgevolcano.com^
-||barbadoshello.com^
 ||bikepaws.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
 ||branchborder.com^
+||broadboundary.com^
+||broaddoor.com^
 ||burlywhistle.com^
 ||buttonladybug.com^
 ||catalogcake.com^
 ||cdnral.com^
 ||chademocharge.com^
 ||chaosmonitor.com^
+||chickensstation.com^
 ||chipperisle.com^
 ||cicdserver.com^
 ||cloudhustles.com^
@@ -31593,14 +31591,19 @@ dlsdk.appsflyer.com^
 ||colossalclouds.com^
 ||complexpixel.com^
 ||contentcamera.com^
+||crashpandas.com^
 ||curlycannon.com^
 ||datacirrus.com^
+||datastoried.com^
 ||dependenttrip.com^
+||diplomahawaii.com^
 ||dyecloud.com^
 ||elusivecascade.com^
 ||embellishedmeadow.com^
+||etherealripple.com^
 ||eventsmall.com^
 ||exquisiteartisanship.com^
+||fadechildren.com^
 ||fitnessmapper.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
@@ -31608,6 +31611,7 @@ dlsdk.appsflyer.com^
 ||foxtrotdata.com^
 ||freezeassets.com^
 ||futuristicapparatus.com^
+||gladglen.com^
 ||gleamingtrade.com^
 ||glowingmeadow.com^
 ||gluedpixel.com^
@@ -31620,10 +31624,11 @@ dlsdk.appsflyer.com^
 ||idlecollect.com^
 ||incomehippo.com^
 ||irelandroad.com^
+||jadeitite.com^
 ||jaderooster.com^
 ||jazzstadium.com^
-||jubilantcascade.com^
 ||lackadaisicalkite.com^
+||livelyreward.com^
 ||logicalminds.net^
 ||logoshutter.com^
 ||maddeningpowder.com^
@@ -31636,22 +31641,21 @@ dlsdk.appsflyer.com^
 ||mixedreading.com^
 ||mutemailbox.com^
 ||mutualhappy.com^
-||nebulousripple.com^
 ||niftygraphs.com^
 ||nullradar.com^
 ||operationnail.com^
+||oppositeoperation.com^
 ||ourblogthing.com^
 ||owlreporter.com^
 ||pastoralroad.com^
 ||pawsnug.com^
-||perkyjade.com^
+||photographpan.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
 ||pixelvariety.com^
 ||purposepipe.com^
 ||q20jqurls0y7gk8.info^
 ||qualifiedblog.com^
-||radiantlullaby.com^
 ||readysetcard.com^
 ||refundradar.com^
 ||regexmail.com^
@@ -31686,6 +31690,7 @@ dlsdk.appsflyer.com^
 ||treadbun.com^
 ||tritebadge.com^
 ||wellgroomedapparel.com^
+||wellmadefrog.com^
 ||whimsygadget.com^
 ||wordchip.com^
 ||zipperxray.com^
