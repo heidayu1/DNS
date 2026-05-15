@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-14T20:24:59.496Z
+! Last modified: 2026-05-15T20:25:17.060Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31684
+! Rules count: 31680
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -38,7 +38,6 @@
 ||aditude.prebid-server.com^
 ||cache.prebid-server.com^
 ||cdnm.techpump.com^
-||event.marketap.io^
 ||monitoring.hackle.io^
 ||event-api.hackle.io^
 ||trackingmyadsas.com^
@@ -2265,6 +2264,7 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
+||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -3460,7 +3460,6 @@
 ||data.service.wheelworks.net^
 ||data.service.wizconnected.com^
 ||data.service1.cahoot.com^
-||data.service1.santander.co.uk^
 ||data.services.callme.dk^
 ||data.services.chowtaifook.com^
 ||data.services.commsec.com.au^
@@ -9040,7 +9039,6 @@
 ||dfpbc.happysocks.com^
 ||dnivu.omadays.com^
 ||dqfre.helloadorn.com^
-||drjzh.loveinfaith.life^
 ||dzhhc.brandalley.co.uk^
 ||eedom.cliphair.co.uk^
 ||egkdj.skinnydiplondon.com^
@@ -12888,7 +12886,6 @@
 ||insight.pulsulin.ch^
 ||insight.saubhagyavati.in^
 ||insight.susueno.co^
-||insight.thatsme.organic^
 ||insight.thebeautyinsider.org^
 ||insight.tryonset.com^
 ||insight.vinnea.no^
@@ -13164,7 +13161,6 @@
 ||assets.emser.ch^
 ||assets.gcentre.co.uk^
 ||assets.ogrzewanie-pex.pl^
-||assets.piercingkungen.se^
 ||assets.prydligt.com^
 ||assets.prydligt.eu^
 ||assets.prydligt.fi^
@@ -16704,7 +16700,6 @@
 ||sgtm.somosrevelion.com^
 ||sgtm.sparokna.pl^
 ||sgtm.sportkraft.net^
-||sgtm.spreest.pl^
 ||sgtm.sprinkly.co.uk^
 ||sgtm.stadsmissionen.se^
 ||sgtm.stageit.lt^
@@ -30678,6 +30673,7 @@ prd.api.bleacherreport.com^
 ||adc.api.nine.com.au^
 ||adcounter*.uptolike.ru^
 ||ads-trk.vidible.tv^
+||adstat.4u.pl^
 ||adstax-cdn.adrtx.net^
 ||affiliate.gameladen.com^
 ||aktrack.pubmatic.com^
@@ -30964,6 +30960,7 @@ prd.api.bleacherreport.com^
 ||sp.wisconsinrapidstribune.com^
 ||spade.twitch.tv^
 ||spixel.socy.es^
+||stat.4u.pl^
 ||stat.adultium.com^
 ||stat.alloha.tv^
 ||stat.botdetector.ru^
@@ -31188,7 +31185,6 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
 ||cxlog.shinhansec.com^
-||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
