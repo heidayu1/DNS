@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-15T20:25:17.060Z
+! Last modified: 2026-05-16T20:25:32.955Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31680
+! Rules count: 31664
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2786,7 +2786,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -4700,7 +4699,6 @@
 ||smetrics.mutuateayuda.es^
 ||smetrics.my.ie.edu^
 ||smetrics.mybayerplus.com^
-||smetrics.mycard.com.au^
 ||smetrics.mydccu.com^
 ||smetrics.myenterprise.gov.sg^
 ||smetrics.myio.com.au^
@@ -5545,7 +5543,6 @@
 ||c.analytics.lego.com^
 ||canada.deloitte-digital-engage.adobesandbox.com^
 ||collect.allianz-technology.ch^
-||collect.allianz.ch^
 ||collect.allianzcinema.ch^
 ||collect.allianzdriveincinema.ch^
 ||collect.allianzglobalinvestors-service.ch^
@@ -7564,6 +7561,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -10377,7 +10375,6 @@
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
 ||analytics.globality.com^
-||analytics.neworleanssaints.com^
 ||analytics.pelicans.nba.com^
 ||analytics.uwindsor.ca^
 ||answers.teradata.com^
@@ -10613,7 +10610,6 @@
 ||tracking.syncsketch.com^
 ||tracking.tdk.cn^
 ||tracking.tink.com^
-||tracking.tuftsmedicine.org^
 ||tracking.umms.org^
 ||tracking.vismaspcs.se^
 ||tracking.wida.wisc.edu^
@@ -11052,7 +11048,6 @@
 ||regmdr.pref.ims.dialog-direct.com^
 ||s.clientes.construrama.com^
 ||track.hg.healthgrades.com^
-||tracking.care.muschealth.org^
 ||tracking.care.salinasvalleyhealth.com^
 ||tracking.continuingstudies.wisc.edu^
 ||tracking.lfg.com^
@@ -11397,7 +11392,6 @@
 ||novedades.telecomfibercorp.com.ar^
 ||tracking.att.com^
 ||tracking.cpa.qa.web.visa.com^
-||tracking.health.bjc.org^
 ||tracking.questdiagnostics.com^
 ||trk.admmontreal.com^
 ||trk.admtoronto.com^
@@ -11881,11 +11875,9 @@
 ||tracking.aapa.org^
 ||tracking.chem-agilent.com^
 ||tracking.connect.nicklauschildrens.org^
-||tracking.connect.nicklaushealth.org^
 ||tracking.e.pepsicopartners.com^
 ||tracking.health.bilh.org^
 ||tracking.infiniti-dubai.com^
-||tracking.info.methodisthealthsystem.org^
 ||tracking.nissan-dubai.com^
 ||tracking.pepsicopartners.com^
 ||tracking.ti.com.cn^
@@ -12011,7 +12003,6 @@
 ||tracking.business.comcast.com^
 ||tracking.dev2.pepsicopartners.com^
 ||tracking.email.trinity-health.org^
-||tracking.luminishealth.org^
 ||tracking.news.evergreenhealth.com^
 ||tracking.xaapbuildings.com^
 ||catracking.cubiq.com^
@@ -13666,7 +13657,6 @@
 ||gtm.drjorgebarros.com.br^
 ||gtm.dronevolt.dk^
 ||gtm.dublinmaths.ie^
-||gtm.dutchen.nl^
 ||gtm.ecolinq.com^
 ||gtm.ecolinq.fr^
 ||gtm.ecolinq.nl^
@@ -17682,7 +17672,6 @@
 ||api.deafios.com.br^
 ||api.desvendandosonhos.com^
 ||api.devvo.com.br^
-||api.dewamuda-cloud.net^
 ||api.diarioutil.com^
 ||api.diegosantiagopo.com.br^
 ||api.dilealotrovador.com.br^
@@ -18993,7 +18982,6 @@
 ||eudata.wildridecarrier.com^
 ||event.farmagent.jp^
 ||event.ikame.net^
-||event.nta.co.jp^
 ||event.ucarpac.com^
 ||eventos.drogalider.com.br^
 ||eventos.drogarianossafarma.com.br^
@@ -20758,7 +20746,6 @@
 ||gtm.milkadecoracoes.com.br^
 ||gtm.milolinesgolf.com^
 ||gtm.mimagiclove.com^
-||gtm.mimohomeware.com^
 ||gtm.mimoto.com.br^
 ||gtm.mimppy.com.br^
 ||gtm.mindfitpro.com.br^
@@ -24681,7 +24668,6 @@
 ||metrics.blazexpress.com^
 ||metrics.bloomzhemp.com^
 ||metrics.bluemarblegeo.com^
-||metrics.boneo.se^
 ||metrics.buydelta8now.com^
 ||metrics.catbirdnyc.com^
 ||metrics.celmaqmg.com.br^
@@ -30301,7 +30287,6 @@
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
 ||api-analytics.pelikan.sk^
 ||analytics.streamingworld.xyz^
-||stats.bouyguestelecom.fr^
 ||analytics.azrhymes.com^
 ||analytics.luogu.me^
 ||analytics.kode.co.kr^
@@ -30712,6 +30697,7 @@ prd.api.bleacherreport.com^
 ||analytics.shareaholic.com^
 ||analytics.shop.hisense.com^
 ||analytics.similarweb.com^
+||analytics.teespring.com^
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.tout.com^
@@ -31519,8 +31505,6 @@ dlsdk.appsflyer.com^
 ||ulog-*.ksapisrv.com^
 ||ulog.*.ksapisrv.com^
 ||ulog.*.kwai-pro.com^
-||ulog1-us.kwai-pro.com^
-||ulog2-us.kwaipros.com^
 ||mcs.*.tiktok.com^
 ||mcs.*.tiktokv.com^
 ||log*-normal-*.tiktokv.us^
