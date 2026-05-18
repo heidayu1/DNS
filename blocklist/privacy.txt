@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-17T08:38:26.559Z
+! Last modified: 2026-05-18T08:38:44.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31664
+! Rules count: 31653
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -3499,7 +3499,6 @@
 ||data.support.nab.com.au^
 ||data.support.nabtrade.com.au^
 ||data.surdeutsch.com^
-||data.surinenglish.com^
 ||data.survey.starbucks.com^
 ||data.surveys.aware.com.au^
 ||data.sw-mail.algolia.com^
@@ -5674,7 +5673,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6255,7 +6253,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -7016,6 +7013,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7323,7 +7321,6 @@
 ||smetrics.quikshiptoner.com^
 ||smetrics.qvc.jp^
 ||smetrics.radissonhotels.com^
-||smetrics.ralphlauren.fr^
 ||smetrics.rarediseasesignup.com^
 ||smetrics.rcsmetrics.it^
 ||smetrics.realcanadiansuperstore.ca^
@@ -9248,7 +9245,6 @@
 ||assets1.gio.com.au^
 ||assets1.shannons.com.au^
 ||assets1.suncorp.co.nz^
-||assets1.suncorp.com.au^
 ||assets1.suncorpbank.com.au^
 ||assets1.terrischeer.com.au^
 ||assets1.vanz.vero.co.nz^
@@ -12283,6 +12279,7 @@
 ||stats.curbnumberpro.com^
 ||stats.curtiscummings.me^
 ||stats.cymbiant.co.uk^
+||stats.dailyposter.com^
 ||stats.danestevens.dev^
 ||stats.danielwolf.photography^
 ||stats.danner-landschaftsbau.at^
@@ -12321,6 +12318,7 @@
 ||stats.eliteclng.com^
 ||stats.elixir-lang.org^
 ||stats.elysenewland.com^
+||stats.emailrep.io^
 ||stats.emk.at^
 ||stats.emmah.net^
 ||stats.emmas.site^
@@ -14277,7 +14275,6 @@
 ||load.data.advania.se^
 ||load.data.alexandramatias.com^
 ||load.data.autobattery.cz^
-||load.data.barry-callebaut.com^
 ||load.data.bestofwines.com^
 ||load.data.bouwlampkoning.be^
 ||load.data.bouwlampkoning.nl^
@@ -14793,7 +14790,6 @@
 ||load.llss.lampisilumini.md^
 ||load.loader.auraherbals.pl^
 ||load.login.avitalx.ro^
-||load.logs.officedepot.fr^
 ||load.looker.duvet-koenig.ch^
 ||load.loqtwoho.cozaherbata.pl^
 ||load.loqtwoho.kawaherbatasklep.pl^
@@ -17226,7 +17222,6 @@
 ||tracking.utedesign.no^
 ||tracking.wavecrest.io^
 ||tracking.wellness-concept.be^
-||tracking.zerolatencyvr.nrw^
 ||trck.leadsgorilla.io^
 ||trg.papilio.gr^
 ||tss.appartbeaute.com^
@@ -18194,7 +18189,6 @@
 ||cap.88ads.xyz^
 ||capi.3rdstory.com.au^
 ||capi.abdullahincubator.com^
-||capi.abstractocean.com^
 ||capi.accidentesdmv.com^
 ||capi.aceleradoran1.com.br^
 ||capi.acertoechicotedeinjecoes.com.br^
@@ -23717,7 +23711,6 @@
 ||load.sm.mrsmommabear.com^
 ||load.sm.thatcleanlife.com^
 ||load.snuk.cloudaeon.com^
-||load.somos.conquerblocks.com^
 ||load.somos.conquerx.com^
 ||load.soy.sancfood.com^
 ||load.sr.platformtraining.com^
@@ -28367,7 +28360,6 @@
 ||sgtm.slunecny-svah.cz^
 ||sgtm.smart-tel.pl^
 ||sgtm.snugbrandwear.com^
-||sgtm.socialself.com^
 ||sgtm.sockcandy.com^
 ||sgtm.socochallenge.com^
 ||sgtm.sodaighor.com^
@@ -28605,7 +28597,6 @@
 ||sonabudsshop-ss.checkoutera.com^
 ||sp.glowtrackjoy.com^
 ||speederproshop-ss.checkoutera.com^
-||spgtm.jogodeouro.bet.br^
 ||sprint-47cdn.stape.dev^
 ||spyfocusshop-ss.checkoutera.com^
 ||sqbfnliy.admittedly.co^
@@ -30245,7 +30236,6 @@
 ||log.api-maps.yandex.
 ||stat.katitube.com^
 ||ja*.apppure.net^
-||c.qiandao.cn^
 ||qa-track.ssg.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
@@ -31175,7 +31165,6 @@ dlsdk.appsflyer.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
 -datareceiver.aki-game.net^
-||log.sweepycleanplus.com^
 ||logc-sg.tsd.xindong.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
