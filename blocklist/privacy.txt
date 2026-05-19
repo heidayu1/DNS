@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-18T08:38:44.978Z
+! Last modified: 2026-05-19T08:39:04.277Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31653
+! Rules count: 31639
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2786,6 +2786,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3840,7 +3841,6 @@
 ||sa.adidas.se^
 ||sa.adidas.sk^
 ||saa.dyson.vn^
-||saametrics.vaisala.com^
 ||sadbmetrics.7canibales.com^
 ||sadbmetrics.alhambraventure.com^
 ||sadbmetrics.andorrataste.com^
@@ -3957,7 +3957,6 @@
 ||smetrics.acariahealth.com^
 ||smetrics.acpny.com^
 ||smetrics.across-t2d.com^
-||smetrics.acs.org.au^
 ||smetrics.act4yourheart.com^
 ||smetrics.adpkdquestions.com^
 ||smetrics.adult.prevnar20.com^
@@ -4212,7 +4211,6 @@
 ||smetrics.casino.co.uk^
 ||smetrics.casino.co.za^
 ||smetrics.casino.com.br^
-||smetrics.casino.guru^
 ||smetrics.casino.it^
 ||smetrics.casino.mx^
 ||smetrics.casino.pe^
@@ -5326,6 +5324,7 @@
 ||telemetry.oliverwymanforum.com^
 ||telemetry.otsuka-us.com^
 ||telemetry.schwinnfitness.com^
+||telemetry.sentarahealthplans.com^
 ||telemetry.webasto.com^
 ||tepshared.tep.test.ajo.adobe.com^
 ||test-lp-preset.ssb.test.ajo.adobe.com^
@@ -6409,7 +6408,6 @@
 ||sadbmetrics.carreraempresas.com^
 ||sadbmetrics.cmacomunicacion.com^
 ||sadbmetrics.degranada.net^
-||sadbmetrics.diariosur.es^
 ||sadbmetrics.donostimasterscup.com^
 ||sadbmetrics.e-movilidad.com^
 ||sadbmetrics.ecomov.es^
@@ -6754,7 +6752,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7013,7 +7010,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7881,7 +7877,6 @@
 ||sstats.homesteadhotels.com^
 ||sstats.hostelbookers.com^
 ||sstats.hostelworld.com^
-||sstats.juttu.be^
 ||sstats.lag-avtal.se^
 ||sstats.libresse.co.za^
 ||sstats.libresse.ee^
@@ -9825,7 +9820,6 @@
 ||data-525bd81403.a1.net^
 ||data-545e23e607.kosmo.at^
 ||data-5492b7d422.fupa.net^
-||data-572c83e731.motorsport-total.com^
 ||data-57e4acce5f.oe24radio.at^
 ||data-583b460b43.edison.media^
 ||data-595db38f76.woman.at^
@@ -12428,6 +12422,7 @@
 ||stats.lauracpa.ca^
 ||stats.leaguestats.gg^
 ||stats.leahcollection.com^
+||stats.learnlinux.tv^
 ||stats.leavetrackapp.com^
 ||stats.lefthoek.com^
 ||stats.legendofnom.com^
@@ -13283,7 +13278,6 @@
 ||d.rapidformations.co.uk^
 ||dados.institucionalltklab.com^
 ||dads.maiscasa.pt^
-||data.07eins.com^
 ||data.123drogisterij.nl^
 ||data.adlar.com^
 ||data.algeteknik.dk^
@@ -13691,7 +13685,6 @@
 ||gtm.fundreef.com^
 ||gtm.gamabuntalab.it^
 ||gtm.gasgasshopping.at^
-||gtm.gate-away.com^
 ||gtm.gate14.it^
 ||gtm.geldersestreken.nl^
 ||gtm.gianpaoloantonante.it^
@@ -14062,7 +14055,6 @@
 ||gtmtracker.vendetodoslossantosdias.com^
 ||gtmx.xdaysleft-wear.com^
 ||host.zoodipistoia.it^
-||iceglamk.billiga-arbetsklader.se^
 ||insights.odiseimusic.com^
 ||insights.scrumble.nl^
 ||ipaemula.mcb.dk^
@@ -16569,7 +16561,6 @@
 ||sgtm.nsc.dk^
 ||sgtm.nyhavn.dk^
 ||sgtm.oak-budget.com^
-||sgtm.oasimedicashop.it^
 ||sgtm.odblokujfinanse.pl^
 ||sgtm.ohgood.ro^
 ||sgtm.oknolevne.cz^
@@ -16832,7 +16823,6 @@
 ||sporingsserver.s-e-a.dk^
 ||sporingsserver.superwood.dk^
 ||sporingsserver.superwood.se^
-||sptga.laduree.com^
 ||srvr.mpcentradas.es^
 ||ss.ad-ops.hu^
 ||ss.adventure-shop.at^
@@ -17350,7 +17340,6 @@
 ||analytics.clac.io^
 ||analytics.cleantech.training^
 ||analytics.cliqtosave.com^
-||analytics.cop-room.com^
 ||analytics.corepetitus.lt^
 ||analytics.creem.com^
 ||analytics.deboraribeirotricot.com.br^
@@ -18144,7 +18133,6 @@
 ||assets.apotekfordeg.no^
 ||assets.bygghobby.no^
 ||assets.cambiandotuvida50.site^
-||assets.comparitech.com^
 ||assets.extremefitness.no^
 ||assets.ikventilasjon.no^
 ||assets.kost1.no^
@@ -30461,7 +30449,6 @@ prd.api.bleacherreport.com^
 ||metrics.quillbot.com^
 ||tracking.pennypublications.com^
 ||t.streetsblog.org^
-||data.r.pl^
 ||faro-collector-prod-*.grafana.net^
 ||events.caffeine.tv^
 ||analytics-conomi.line.me^
@@ -30702,7 +30689,6 @@ prd.api.bleacherreport.com^
 ||app.crossengage.io^
 ||app.leadsrx.com^
 ||app.redretarget.com^
-||appsanalytics.appideas.it^
 ||apptracker.gamedock.io^
 ||audience.visiblemeasures.com^
 ||b-aws.aol.com^
