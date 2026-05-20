@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-19T08:39:04.277Z
+! Last modified: 2026-05-20T08:39:23.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31639
+! Rules count: 31635
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2786,7 +2786,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -2843,7 +2842,6 @@
 ||data.comunicaciones.tengo.hn^
 ||data.comunicats.3cat.cat^
 ||data.comunitat.3cat.cat^
-||data.connect.riolasvegas.com^
 ||data.connect.riteaid.com^
 ||data.contact.church-footwear.com^
 ||data.contact.miumiu.com^
@@ -5672,6 +5670,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6252,6 +6251,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -7554,7 +7554,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -11993,7 +11992,6 @@
 ||tracking.business.comcast.com^
 ||tracking.dev2.pepsicopartners.com^
 ||tracking.email.trinity-health.org^
-||tracking.news.evergreenhealth.com^
 ||tracking.xaapbuildings.com^
 ||catracking.cubiq.com^
 ||catracking.finning.com^
@@ -16918,7 +16916,6 @@
 ||sst-cdn.hammonds-uk.com^
 ||sst.accademiaitalianachef.com^
 ||sst.adbook.verseo.pl^
-||sst.adventure-valley.be^
 ||sst.aec-collection.com^
 ||sst.agriturismotenutadibiscina.com^
 ||sst.ah-trades.com^
@@ -31648,4 +31645,3 @@ dlsdk.appsflyer.com^
 ||wellmadefrog.com^
 ||whimsygadget.com^
 ||wordchip.com^
-||zipperxray.com^
