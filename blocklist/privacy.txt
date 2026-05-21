@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-20T08:39:23.279Z
+! Last modified: 2026-05-21T08:39:39.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31635
+! Rules count: 31621
 !
+||tagmanager.andata.ru^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -5302,7 +5303,6 @@
 ||subscriptions.news.pistons.com^
 ||sw88.cinemapp.com^
 ||sw88.nationalgeographic.es^
-||sw88.nationalgeographic.fr^
 ||sw88.nationalgeographic.it^
 ||sw88.nationalgeographic.nl^
 ||sw88.nationalgeographicla.com^
@@ -9340,7 +9340,6 @@
 ||stats.krauss-gmbh.com^
 ||stats.oberoejobs.at^
 ||stats.salzburgerjobs.at^
-||stats.steirerjobs.at^
 ||stats.vorarlbergerjobs.at^
 ||track.thegundogaffair.com^
 ||tracker.fellowdigitals.com^
@@ -13237,7 +13236,6 @@
 ||collect.bronnum.dk^
 ||collect.cityfit.pl^
 ||collect.egecarpets.com^
-||collect.feriepartner.dk^
 ||collect.feriepartner.no^
 ||collect.flisekompaniet.no^
 ||collect.foliosociety.com^
@@ -16462,7 +16460,6 @@
 ||sgtm.kentstrapper.com^
 ||sgtm.keobat.fr^
 ||sgtm.kinglouie.com^
-||sgtm.kirakuco.com^
 ||sgtm.klafs.at^
 ||sgtm.klafs.com^
 ||sgtm.klimadynon.se^
@@ -17112,7 +17109,6 @@
 ||track.gartnerbutikken.dk^
 ||track.gortcoaching.nl^
 ||track.hamlinfistulauk.org^
-||track.iafstore.com^
 ||track.inmenso.pl^
 ||track.jinnyjoes.ch^
 ||track.karakara.lt^
@@ -17142,7 +17138,6 @@
 ||track.workoutbrands.com^
 ||track.wpcare.me^
 ||track.yamamotonutrition.ch^
-||track.yamamotonutrition.com^
 ||track.yamamotonutrition.fr^
 ||track.zonemag.ro^
 ||track.zooluwear.com^
@@ -18767,7 +18762,6 @@
 ||data.maritorres.com.br^
 ||data.marysquare.com^
 ||data.masdelgada.shop^
-||data.masterseanchan.com^
 ||data.maximumcenter.co.il^
 ||data.mensorium.com^
 ||data.metasoftbd.com^
@@ -19552,7 +19546,6 @@
 ||gtm.cbschool.com.br^
 ||gtm.cbscompresores.com.mx^
 ||gtm.cdmmarmorespnz.com.br^
-||gtm.celiacosmetics.com^
 ||gtm.cenarioverde.com.br^
 ||gtm.cendanamantau.com^
 ||gtm.centraldeaviamentos.com.br^
@@ -21391,7 +21384,6 @@
 ||gtm.solutionshop.com.br^
 ||gtm.somdecristal.com.br^
 ||gtm.somenza.com^
-||gtm.sonobello.com^
 ||gtm.sonomag.com.br^
 ||gtm.sora-immobilier.com^
 ||gtm.sorte.minhasorte.info^
@@ -26835,7 +26827,6 @@
 ||server.revestedesign.com.br^
 ||server.revestimento.quero-quero.com.br^
 ||server.revisabuco.com.br^
-||server.revisaoensinojuridico.com.br^
 ||server.revisaotatica.com.br^
 ||server.revistatecnologiagrafica.com.br^
 ||server.revol.com.sg^
@@ -27832,7 +27823,6 @@
 ||sgtm.elnino-parfum.pl^
 ||sgtm.energatto.com^
 ||sgtm.envuelvelistones.com^
-||sgtm.eprisfragrances.com^
 ||sgtm.erazerxp2.com^
 ||sgtm.erural.net^
 ||sgtm.estime.com.br^
@@ -28476,7 +28466,6 @@
 ||sgtm.vestal.gr^
 ||sgtm.vestopazzo.it^
 ||sgtm.vicbela.com.br^
-||sgtm.vicofoodbox.com^
 ||sgtm.vidalforce.com^
 ||sgtm.viden.gr^
 ||sgtm.vika-krol.club^
@@ -30215,7 +30204,6 @@
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
 ||data-api.fenbi.com^
-||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
 ||log.api-maps.yandex.
@@ -30534,7 +30522,6 @@ prd.api.bleacherreport.com^
 ||track.kueez.com^
 ||track.parentmood.com^
 ||track.shrinkplus.com^
-||track.thefunpost.com^
 -tracker.biliapi.net^
 ||pixel*.production-public.tubi.io^
 ||player.stats.live-video.net^
@@ -30660,7 +30647,6 @@ prd.api.bleacherreport.com^
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
 ||analytics.livestream.com^
-||analytics.marquiz.ru^
 ||analytics.msnbc.msn.com^
 ||analytics.ooyala.com^
 ||analytics.proxer.me^
