@@ -4,13 +4,12 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-21T08:39:39.420Z
+! Last modified: 2026-05-22T08:39:55.273Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31621
+! Rules count: 31602
 !
-||tagmanager.andata.ru^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
@@ -99,7 +98,6 @@
 ||install*.zonastat.com^
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
-||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
 ||featureassets.org^
@@ -2230,7 +2228,6 @@
 ||sstat.gilt.com^
 ||sstat.outrigger.com^
 ||sstats.aatbs.com^
-||sstats.adultswim.com^
 ||sstats.alfalaval.com^
 ||sstats.alliander.com^
 ||sstats.ansys.com^
@@ -3135,7 +3132,6 @@
 ||data.info.aware.com.au^
 ||data.info.clear.com.br^
 ||data.info.clippers.com^
-||data.info.consumercellular.com^
 ||data.info.credit-suisse.com^
 ||data.info.cruisebasketball.com^
 ||data.info.ficohsa.com.gt^
@@ -3966,7 +3962,6 @@
 ||smetrics.aia.co.kr^
 ||smetrics.airplus.com^
 ||smetrics.aitrios.sony-semicon.com^
-||smetrics.akamai.com^
 ||smetrics.aktivmedkols.no^
 ||smetrics.aktsam.se^
 ||smetrics.alegiscare.com^
@@ -4435,7 +4430,6 @@
 ||smetrics.handelsbanken.com^
 ||smetrics.handelsbanken.nl^
 ||smetrics.handelsbanken.no^
-||smetrics.handelsbanken.se^
 ||smetrics.hartenergy.com^
 ||smetrics.havenwellwithin.com^
 ||smetrics.hdfc.bank.in^
@@ -5204,7 +5198,6 @@
 ||smetrics.ytv.com^
 ||smetrics.zadbajoswojezdrowie.com^
 ||smetrics.zavzpret.com^
-||smetrics.zeposia.be^
 ||smetrics.zeposia.co.uk^
 ||smetrics.zeposia.com^
 ||smetrics.zeposiaespanol.com^
@@ -5670,7 +5663,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -7554,6 +7546,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -18384,7 +18377,6 @@
 ||capig.10fitness.com^
 ||capig.altlifeagency.com^
 ||capig.atlas-servis.com^
-||capig.aviloo.com^
 ||capig.babybudsbd.com^
 ||capig.bachari.gr^
 ||capig.barneymedia.nl^
@@ -18747,7 +18739,6 @@
 ||data.letsluckydata.com^
 ||data.libsyn.com^
 ||data.lineagetreecare.com^
-||data.listenx.com.br^
 ||data.listybox.com^
 ||data.locatellienergia.com.br^
 ||data.loftystyle.com.br^
@@ -24521,7 +24512,6 @@
 ||marketing.liveinnerfit.com^
 ||marketing.tipsdelchef.com^
 ||mctrackface.isleephst.com^
-||mdata.action1.com^
 ||me.saddherbazar.xyz^
 ||measure.ai-masti.in^
 ||measure.artprintshop.co.uk^
@@ -27366,7 +27356,6 @@
 ||server1.magicbookseries.xyz^
 ||server1.poshaki.com^
 ||server1.regenera-brasil.com^
-||server1.rsleatherbd.com^
 ||server1.shoppix.com.bd^
 ||server1.waveseller.com^
 ||server1592.instantpeptides.com^
@@ -28837,7 +28826,6 @@
 ||sst.businessloansapprovedfast.com^
 ||sst.canadalegacy.ca^
 ||sst.channel-live.co.uk^
-||sst.chatmax.app^
 ||sst.cloud-hire.org^
 ||sst.cloudhire.ai^
 ||sst.coastalwindows.com^
@@ -30579,7 +30567,6 @@ prd.api.bleacherreport.com^
 ||adtracking.smartmediarep.com^
 ||log.hypebeast.com^
 ||weblog.dema.mil.kr^
-||stats.seotraff.team^
 ||analytics.ngs55.ru^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
@@ -30765,7 +30752,6 @@ prd.api.bleacherreport.com^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||events-api*.outfit7.com^
-||events.apester.com^
 ||events.jora.com^
 ||events.newsroom.bi^
 ||events.release.narrativ.com^
@@ -31037,7 +31023,6 @@ prd.api.bleacherreport.com^
 ||za.zingnews.vn^
 ||x680.sgvtribune.com^
 ||h562.pasadenastarnews.com^
-||p644.thereporter.com^
 ||v476.reporterherald.com^
 ||i867.journal-advocate.com^
 ||h516.thereporteronline.com^
@@ -31260,11 +31245,7 @@ dlsdk.appsflyer.com^
 ||report.*.gbqofs.io^
 ||log-music-data.line-apps.com^
 ||collect.analytics.unity3d.com^
-||confe.dc.oppomobile.com^
-||conff.dc.oppomobile.com^
-||dragate.dc.oppomobile.com^
 ||adx-in.ads.heytapmobile.com^
-||stat-in.dc.oppomobile.com^
 ||trckr.contextualadv.com^
 ||logger.growstarry.com^
 ||audid-api.taobao.com^
