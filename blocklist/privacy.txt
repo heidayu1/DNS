@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-24T08:40:26.994Z
+! Last modified: 2026-05-25T08:40:42.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31650
+! Rules count: 31641
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2307,6 +2307,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2644,7 +2645,6 @@
 ||appleapp.jumpplus.com^
 ||appleapp.lab9.be^
 ||appleapp.lineheart.lu^
-||appleapp.mac-center.com^
 ||appleapp.mac-center.com.pe^
 ||appleapp.macforum.se^
 ||appleapp.machines.com.my^
@@ -2789,6 +2789,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3564,7 +3565,6 @@
 ||datacollect-dev.cisco.com^
 ||dc.areacliente.repsolluzygas.com^
 ||dc.entradas.com^
-||dc.madridistas.com^
 ||dc.realmadridnext.com^
 ||delivery.lululemon.com^
 ||demo.emaillpb.adobe.com^
@@ -4677,7 +4677,6 @@
 ||smetrics.msccruises.ch^
 ||smetrics.msccruises.co.nz^
 ||smetrics.msccruises.co.uk^
-||smetrics.msccruises.co.za^
 ||smetrics.msccruises.com^
 ||smetrics.msccruises.com.au^
 ||smetrics.msccruises.dk^
@@ -5427,7 +5426,6 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
-||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -5852,7 +5850,6 @@
 ||metrics.dandh.com^
 ||metrics.darty.com^
 ||metrics.deakin.edu.au^
-||metrics.delicious.com.au^
 ||metrics.delta.com^
 ||metrics.deltafarmpress.com^
 ||metrics.der.com^
@@ -7010,6 +7007,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7503,7 +7501,6 @@
 ||smetrics.stioltohcp.com^
 ||smetrics.strokeawareness.com^
 ||smetrics.stubhub.co.uk^
-||smetrics.stwater.co.uk^
 ||smetrics.suisai-global.net^
 ||smetrics.sumitclub.jp^
 ||smetrics.suncorp.co.nz^
@@ -7591,6 +7588,7 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
+||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -10598,7 +10596,6 @@
 ||tracking.superlawyers.com^
 ||tracking.syncsketch.com^
 ||tracking.tdk.cn^
-||tracking.tink.com^
 ||tracking.umms.org^
 ||tracking.vismaspcs.se^
 ||tracking.wida.wisc.edu^
@@ -13173,7 +13170,6 @@
 ||app.curoskin.co.uk^
 ||app.pez-candy.com^
 ||app.prescan.at^
-||applaus.buehnen-graz.com^
 ||arrakis.pradorey.es^
 ||assets.emser.at^
 ||assets.emser.ch^
@@ -13181,7 +13177,6 @@
 ||assets.ogrzewanie-pex.pl^
 ||assets.prydligt.com^
 ||assets.prydligt.eu^
-||assets.prydligt.fi^
 ||assets.prydligt.se^
 ||assets.sidroga.at^
 ||assets.sidroga.ch^
@@ -13455,7 +13450,6 @@
 ||data.nora-stockholm.se^
 ||data.nordstealth.com^
 ||data.novosom.pt^
-||data.ohgreen.be^
 ||data.onefm.ch^
 ||data.optifithealth.se^
 ||data.orthovital-pro.com^
@@ -13655,7 +13649,6 @@
 ||gtm.crowdfundingfactory.fr^
 ||gtm.csencorsi.it^
 ||gtm.csmegastore.com^
-||gtm.csmegastore.dk^
 ||gtm.csmegastore.fi^
 ||gtm.csmegastore.no^
 ||gtm.ctbconsulting.ch^
@@ -21232,7 +21225,6 @@
 ||gtm.ribelim.com.br^
 ||gtm.ricardoavila.com.br^
 ||gtm.richy.sa^
-||gtm.ride1up.com^
 ||gtm.rightwaydirect.co.uk^
 ||gtm.ristorantedaclaudio.it^
 ||gtm.riwaanbd.com^
@@ -25584,7 +25576,6 @@
 ||server.cpapcenter.com.br^
 ||server.cprgroup.com.au^
 ||server.cracksstyle.com^
-||server.creamchargerswarehouse.co.uk^
 ||server.creativeportrait.net.au^
 ||server.creatorgrowthacademy.com^
 ||server.crisrabaioli.com^
@@ -30407,7 +30398,6 @@ prd.api.bleacherreport.com^
 ||sgtm.milestonesys.com^
 ||sgtm.mycall.no^
 ||sgtm.myprotein.jp^
-||sgtm.technikboerse.com^
 ||analytics.rev.iq^
 ||c1-stats.shopifysvc.com^
 ||stat.le.com^
@@ -30613,6 +30603,7 @@ prd.api.bleacherreport.com^
 ||log.hypebeast.com^
 ||weblog.dema.mil.kr^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
