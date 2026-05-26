@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-25T08:40:42.708Z
+! Last modified: 2026-05-26T08:40:58.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31641
+! Rules count: 31595
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -17,7 +17,6 @@
 ||participants.evolv.ai^
 ||media.evolv.ai^
 ||platform.datazoom.io^
-||1mythtracker.xyz^
 ||log.grm.gsretail.com^
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
@@ -666,7 +665,6 @@
 ||insights.greatjakes.com^
 ||insights.jabian.com^
 ||insights.kitestring.com^
-||insights.lullabot.com^
 ||insights.partnerwithfacet.com^
 ||insights.thelinusgroup.com^
 ||insights.winwithoutpitching.com^
@@ -2307,7 +2305,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2535,7 +2532,6 @@
 ||analytics.architectum.com^
 ||analytics.bigfishgames.com^
 ||analytics.bruker.com^
-||analytics.changiairport.com^
 ||analytics.cirroenergy.com^
 ||analytics.cyrillus.be^
 ||analytics.cyrillus.fr^
@@ -2792,7 +2788,6 @@
 ||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
-||data.canarias7.es^
 ||data.candidatesexp.adobe.com^
 ||data.canon.club-news.com.hk^
 ||data.carnival-uk-dev.test.ajo.adobe.com^
@@ -7007,7 +7002,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7607,7 +7601,6 @@
 ||smetrics.vitalsource.com^
 ||smetrics.vodafone.com.gh^
 ||smetrics.vodafone.es^
-||smetrics.vodafone.qa^
 ||smetrics.vodafonecu.gr^
 ||smetrics.vogue-eyewear.com^
 ||smetrics.vonage.co.uk^
@@ -9006,7 +8999,6 @@
 ||adlgo.nzepouches.com^
 ||adscz.calendars.com^
 ||ajlez.broadwayinhollywood.com^
-||akcze.dysoncanada.ca^
 ||avmvk.oliversweeney.com^
 ||bbvte.statelymen.com^
 ||bdihj.adorncosmetics.com.au^
@@ -13538,7 +13530,6 @@
 ||fpt.simplychocolate.dk^
 ||future.curlysecret.com^
 ||g.meilenstein-akademie.com^
-||g.pappas.at^
 ||g.pappas.hu^
 ||g.thementorshipscandinavia.com^
 ||gads.homecompany-moebel.com^
@@ -17851,7 +17842,6 @@
 ||api.leadinvest.com.br^
 ||api.lealtex.com.br^
 ||api.leandrojesusbbf.com.br^
-||api.lego.com.br^
 ||api.legostore.com.br^
 ||api.lenitoautomoveis.com.br^
 ||api.leovalenciano.com^
@@ -19617,7 +19607,6 @@
 ||gtm.claudiapatricio.com.br^
 ||gtm.claudinhacrochet.com.br^
 ||gtm.clementicompany.com^
-||gtm.clicklivre.com.br^
 ||gtm.clicktopaint.it^
 ||gtm.climacore.net^
 ||gtm.climateseed.com^
@@ -21120,7 +21109,6 @@
 ||gtm.protranslate.net^
 ||gtm.provaselite.com.br^
 ||gtm.prowhitening.no^
-||gtm.proxyprintery.com^
 ||gtm.proxywaifus.com^
 ||gtm.psi.canvaesthetic.com.br^
 ||gtm.psicanalisandose.com.br^
@@ -27733,7 +27721,6 @@
 ||sgtm.choppdourados.com.br^
 ||sgtm.ciberdescans.com^
 ||sgtm.cidercade.com^
-||sgtm.cirashop.net^
 ||sgtm.cityfans.com^
 ||sgtm.cjxsolar.nl^
 ||sgtm.classicfootballshirts.com^
@@ -28585,7 +28572,6 @@
 ||sm.headingprints.com^
 ||snhgtm.scienceandhumans.com^
 ||softdrinks.euvou.events^
-||sogtm.academy.org.il^
 ||sogtm.colman.ac.il^
 ||solutions.soydaatacademy.com^
 ||sonabuds-ss.checkoutera.com^
@@ -28863,7 +28849,6 @@
 ||sst.coastalwindows.com^
 ||sst.culturainglesapiaui.com.br^
 ||sst.dadcertified.store^
-||sst.datarails.com^
 ||sst.ddfevent.com^
 ||sst.dollardadclub.com^
 ||sst.echidnaoffroad.com.au^
@@ -30334,6 +30319,7 @@ prd.api.bleacherreport.com^
 ||pixel.thoughtmetric.io^
 ||tracking-sales-pop.carecart.io^
 ||logs.getfiddler.com^
+||mystats.flixfiend.top^
 ||ca-log.cafe24data.com^
 ||mon-va.capcutapi.com^
 ||apihorizon.nnmtools.com^
@@ -31516,12 +31502,10 @@ dlsdk.appsflyer.com^
 @@||webtrack.dhlglobalmail.com^
 ||abruptroad.com^
 ||absurdapple.com^
-||acquireuser.com^
 ||adamantsnail.com^
 ||addictedattention.com^
 ||admiral.pub^
 ||admiralproxied.com^
-||admissionaudit.com^
 ||adorableanger.com^
 ||aheadgrow.com^
 ||applocus.com^
@@ -31533,62 +31517,42 @@ dlsdk.appsflyer.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
 ||branchborder.com^
-||broadboundary.com^
 ||broaddoor.com^
-||burlywhistle.com^
 ||buttonladybug.com^
 ||catalogcake.com^
 ||cdnral.com^
 ||chademocharge.com^
 ||chaosmonitor.com^
-||chickensstation.com^
 ||chipperisle.com^
 ||cicdserver.com^
 ||cloudhustles.com^
 ||cloudjumbo.com^
 ||colossalclouds.com^
-||complexpixel.com^
-||contentcamera.com^
 ||crashpandas.com^
 ||curlycannon.com^
-||datacirrus.com^
 ||datastoried.com^
 ||dependenttrip.com^
-||diplomahawaii.com^
 ||dyecloud.com^
 ||elusivecascade.com^
 ||embellishedmeadow.com^
 ||etherealripple.com^
 ||eventsmall.com^
-||exquisiteartisanship.com^
-||fadechildren.com^
 ||fitnessmapper.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
 ||flourishingpartnership.com^
-||foxtrotdata.com^
-||freezeassets.com^
-||futuristicapparatus.com^
-||gladglen.com^
 ||gleamingtrade.com^
 ||glowingmeadow.com^
 ||gluedpixel.com^
 ||grayreceipt.com^
 ||gripcorn.com^
 ||gulliblegrip.com^
-||happysponge.com^
-||headyhook.com^
 ||hippojump.com^
 ||idlecollect.com^
 ||incomehippo.com^
 ||irelandroad.com^
-||jadeitite.com^
-||jaderooster.com^
-||jazzstadium.com^
 ||lackadaisicalkite.com^
-||livelyreward.com^
 ||logicalminds.net^
-||logoshutter.com^
 ||maddeningpowder.com^
 ||madebyintent.com^
 ||madlysuccessful.com^
@@ -31596,29 +31560,23 @@ dlsdk.appsflyer.com^
 ||madoverrice.com^
 ||marriedmailbox.com^
 ||mediatescarf.com^
-||mixedreading.com^
 ||mutemailbox.com^
-||mutualhappy.com^
 ||niftygraphs.com^
 ||nullradar.com^
 ||operationnail.com^
-||oppositeoperation.com^
 ||ourblogthing.com^
 ||owlreporter.com^
 ||pastoralroad.com^
 ||pawsnug.com^
-||photographpan.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
 ||pixelvariety.com^
 ||purposepipe.com^
 ||q20jqurls0y7gk8.info^
-||qualifiedblog.com^
 ||readysetcard.com^
 ||refundradar.com^
 ||regexmail.com^
 ||rhetoricalactivity.com^
-||roadwalks.com^
 ||sadspacekitty.com^
 ||saladfuel.com^
 ||scenicapparel.com^
@@ -31627,7 +31585,6 @@ dlsdk.appsflyer.com^
 ||skylightdata.com^
 ||slickcontent.com^
 ||smoggystation.com^
-||smokedolives.com^
 ||snappyreport.com^
 ||soilcontent.com^
 ||spareapp.com^
@@ -31635,10 +31592,8 @@ dlsdk.appsflyer.com^
 ||squidlogic.com^
 ||statuesqueship.com^
 ||statusinside.com^
-||steadycopper.com^
 ||stripedbat.com^
 ||substantialgrade.com^
-||successfuelevents.com^
 ||sunsetstatic.com^
 ||surfacesmedia.com^
 ||telephoneapparatus.com^
@@ -31648,6 +31603,5 @@ dlsdk.appsflyer.com^
 ||treadbun.com^
 ||tritebadge.com^
 ||wellgroomedapparel.com^
-||wellmadefrog.com^
 ||whimsygadget.com^
 ||wordchip.com^
