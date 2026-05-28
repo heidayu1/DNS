@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-27T08:41:21.759Z
+! Last modified: 2026-05-28T08:41:37.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -896,6 +896,7 @@
 ||analytics-listener.trafficmanager.net^
 ||beacons.trafficmanager.net^
 ||bingads.trafficmanager.net^
+||ch-asimov-leafs-events-data.trafficmanager.net^
 ||collector-main.trafficmanager.net^
 ||dsp-ad-cache-tm.trafficmanager.net^
 ||eventservice.trafficmanager.net^

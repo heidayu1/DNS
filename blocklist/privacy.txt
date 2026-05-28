@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-27T08:41:18.528Z
+! Last modified: 2026-05-28T08:41:34.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31573
+! Rules count: 31579
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2338,6 +2338,7 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
+||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -3294,7 +3295,6 @@
 ||data.msg.bankofmelbourne.com.au^
 ||data.msg.banksa.com.au^
 ||data.msg.centuryliquorandwines.com^
-||data.msg.email.commsec.com.au^
 ||data.msg.huntvalleywineandspirits.com^
 ||data.msg.stgeorge.com.au^
 ||data.msg.wegmans.com^
@@ -3668,6 +3668,7 @@
 ||metrics.dertour-reiseleitung.com^
 ||metrics.egencia.ae^
 ||metrics.egencia.be^
+||metrics.egencia.ca^
 ||metrics.egencia.ch^
 ||metrics.egencia.co.in^
 ||metrics.egencia.co.za^
@@ -3975,6 +3976,7 @@
 ||smetrics.alfaromeousa.com^
 ||smetrics.allaboutwater.com^
 ||smetrics.allenedmonds.ca^
+||smetrics.allianz.com.au^
 ||smetrics.allstatecorporation.com^
 ||smetrics.allstateidentityprotection.com^
 ||smetrics.altomfrontline.dk^
@@ -4001,6 +4003,7 @@
 ||smetrics.bamboohr.com^
 ||smetrics.bancoppel.com^
 ||smetrics.bank-daiwa.co.jp^
+||smetrics.bankwest.com.au^
 ||smetrics.barberinilenses.com^
 ||smetrics.barkandwhiskers.com^
 ||smetrics.bayer-agri.fr^
@@ -4999,6 +5002,7 @@
 ||smetrics.slowlove.com^
 ||smetrics.slugger.com^
 ||smetrics.smartcommerce.amazon.in^
+||smetrics.smtb.jp^
 ||smetrics.societyofvaluedminds.org^
 ||smetrics.solidigm.com^
 ||smetrics.solidigmtech.com.cn^
@@ -7511,6 +7515,7 @@
 ||smetrics.tamiflu.com^
 ||smetrics.target.com^
 ||smetrics.targetoptical.com^
+||smetrics.tataaig.com^
 ||smetrics.taylormadegolf.com^
 ||smetrics.tecentriq-hcp.com^
 ||smetrics.tecentriq.com^
@@ -7936,6 +7941,7 @@
 ||sswmetrics.sabresonicweb.com^
 ||sswmetrics.vietnamairlines.com^
 ||stat-ssl.icotto.jp^
+||stat-ssl.idou.me^
 ||stat-ssl.kinarino-mall.jp^
 ||stat-ssl.kyujinbox.com^
 ||stat-ssl.money-viva.jp^
@@ -8075,6 +8081,7 @@
 ||strack.mentor.com^
 ||strack.mercycareaz.org^
 ||strack.reservationcounter.com^
+||strack.shaw.ca^
 ||strack.shawdirect.ca^
 ||strack.shawmobile.ca^
 ||strack.shop.avfc.co.uk^
@@ -9207,6 +9214,7 @@
 ||analytics.synchronyretail.com^
 ||analytics.synchronyuniversity.com^
 ||analyticstest.amica.com^
+||assets1.aami.com.au^
 ||assets1.apia.com.au^
 ||assets1.asteronlife.co.nz^
 ||assets1.bingle.com.au^
@@ -11276,6 +11284,7 @@
 ||tracking.abrdn.com^
 ||tracking.adp-iat.adp.ca^
 ||tracking.adp-iat.adp.com^
+||tracking.adp.ca^
 ||tracking.adpinfo.com^
 ||tracking.adpri.org^
 ||tracking.events.adp.com^
@@ -13072,7 +13081,6 @@
 ||analytics.koebogspar.dk^
 ||analytics.komoder.at^
 ||analytics.komoder.bg^
-||analytics.komoder.ch^
 ||analytics.komoder.com^
 ||analytics.komoder.es^
 ||analytics.komoder.fr^
@@ -27947,7 +27955,6 @@
 ||sgtm.hotelspol.it^
 ||sgtm.hotelsportinglivigno.com^
 ||sgtm.hotelstmichael.it^
-||sgtm.hotelucidelfaro.com^
 ||sgtm.hotelvillaricci.it^
 ||sgtm.houseofmarley.co.il^
 ||sgtm.houseofmassagechairs.com^
@@ -30126,7 +30133,6 @@
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
-||mapp.peacocks.co.uk^
 ||mapp.yesstyle.com^
 ||statistics.tuv.com^
 ||tippcom01.tipp24.com^
@@ -30449,6 +30455,7 @@ prd.api.bleacherreport.com^
 ||dtr-onsite-feed.datarize.ai^
 ||realtime-profiling.datarize.ai^
 ||log.pipeline.datarize.io^
+||analyticswritenew.xerevo.com^
 ||*adapt-beacon.awsprodops.movetv.com^
 ||analytics.theta360.com^
 ||analytics.pangle-ads.com^
@@ -30569,7 +30576,6 @@ prd.api.bleacherreport.com^
 ||log.hypebeast.com^
 ||weblog.dema.mil.kr^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
