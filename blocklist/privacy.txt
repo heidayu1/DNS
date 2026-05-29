@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-28T08:41:34.739Z
+! Last modified: 2026-05-29T08:41:51.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31579
+! Rules count: 31573
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2480,7 +2480,6 @@
 ||adobe-ep.cuidadodesalud.gov^
 ||adobe-ep.insurekidsnow.gov^
 ||adobe-metrics.bankexchangeservices.com^
-||adobe-metrics.calbanktrust.com^
 ||adobe-metrics.nbarizona.com^
 ||adobe-metrics.nsbank.com^
 ||adobe-metrics.vectrabank.com^
@@ -5416,6 +5415,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -7540,7 +7540,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7900,7 +7899,6 @@
 ||sstats.smartertravel.com^
 ||sstats.snowandrock.com^
 ||sstats.supply.com^
-||sstats.telenor.se^
 ||sstats.thermoscientific.com^
 ||sstats.tiffany.at^
 ||sstats.tiffany.ca^
@@ -16234,7 +16232,6 @@
 ||sgtm.biocostellazioni.com^
 ||sgtm.biscottini.it^
 ||sgtm.bisilver.it^
-||sgtm.bivillage.com^
 ||sgtm.blacktools.ro^
 ||sgtm.blezi.com^
 ||sgtm.blomer.nl^
@@ -16862,7 +16859,6 @@
 ||ss.makerealcontent.com^
 ||ss.mortensensmad.dk^
 ||ss.nadeci.pl^
-||ss.nadzwyczajnie.pl^
 ||ss.naturescollection.eu^
 ||ss.natuurlijkpresteren.nl^
 ||ss.navilogic.dk^
@@ -27596,7 +27592,6 @@
 ||sgtm.amrutam.global^
 ||sgtm.anahioficial.com.br^
 ||sgtm.andbam.care^
-||sgtm.andreamagrin.com^
 ||sgtm.antidote.sg^
 ||sgtm.apostefacil.bet^
 ||sgtm.appcues.com^
@@ -30581,7 +30576,6 @@ prd.api.bleacherreport.com^
 ||core.airbridge.io^
 ||metricus.artlebedev.ru^
 ||o365diagtelemetry.trafficmanager.net^
-||log.ohou.se^
 ||ab-log.datahou.se^
 ||cdn.sgmntfy.com^
 ||analytics.helpukrainewinwidget.org^
@@ -31126,6 +31120,7 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
 ||cxlog.shinhansec.com^
+||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
@@ -31345,7 +31340,6 @@ dlsdk.appsflyer.com^
 ||telemetry.voxeet.com^
 ||api*.amplitude.com^
 ||conversions.appsflyer.com^
-||collect.serious.li^
 ||analytics.mobilegamestats.com^
 ||p.statp.com^
 ||tracking-receiver.prod-general.stocard-backend.com^
