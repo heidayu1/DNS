@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-29T08:41:54.021Z
+! Last modified: 2026-05-30T08:42:10.139Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -628,6 +628,12 @@
 ||g.bing.com^
 ||raka.bing.com^
 ||c.bingapis.com^
+||upload.fp.measure.office.com.corp.mmco.int.cardano.com^
+||exo.nel.measure.office.net.cardano.com^
+||identity.nel.measure.office.net.cardano.com^
+||m365cdn.nel.measure.office.net.cardano.com^
+||spo.nel.measure.office.net.cardano.com^
+||teams.nel.measure.office.net.cardano.com^
 ||insights.cloud.microsoft^
 ||measure.office.net.edgesuite.net^
 ||collector.azure.eaglex.ic.gov^
