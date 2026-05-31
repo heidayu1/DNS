@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-05-31T08:42:22.753Z
+! Last modified: 2026-05-31T15:44:05.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31556
+! Rules count: 31546
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -1695,7 +1695,6 @@
 ||metrics.oreillyauto.com^
 ||metrics.paperdirect.com^
 ||metrics.paysafecard.com^
-||metrics.people.com^
 ||metrics.peopleenespanol.com^
 ||metrics.peoplescourt.warnerbros.com^
 ||metrics.petinsurance.com^
@@ -2304,6 +2303,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2780,6 +2780,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.candidatesexp.adobe.com^
@@ -4307,7 +4308,6 @@
 ||smetrics.drmartens.com.au^
 ||smetrics.drmercola.ae^
 ||smetrics.droughtfacts.com^
-||smetrics.dxc.com^
 ||smetrics.e-roche.si^
 ||smetrics.e-techstore.com^
 ||smetrics.earpros.com^
@@ -5517,7 +5517,6 @@
 ||collect.allianzcinema.ch^
 ||collect.allianzdriveincinema.ch^
 ||collect.allianzglobalinvestors-service.ch^
-||collect.cap.ch^
 ||collect.elvia.ch^
 ||collect2.allianz.ch^
 ||cookies-adobe.kbc.be^
@@ -5646,7 +5645,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6628,7 +6626,6 @@
 ||smetrics.21nova.com^
 ||smetrics.24life.com^
 ||smetrics.28degreescard.com.au^
-||smetrics.7eleven.com.au^
 ||smetrics.915thebeat.com^
 ||smetrics.925thechuck.ca^
 ||smetrics.931freshradio.ca^
@@ -6987,6 +6984,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -9322,7 +9320,6 @@
 ||tracking.lanxess.com^
 ||tracking.sonnasita.at^
 ||tracking.walserart.at^
-||trkkr.bugatti-media.com^
 ||webanalytics.pwc.fr^
 ||webdat.mai-estate.com^
 ||stats.mm-germany.com^
@@ -10084,7 +10081,6 @@
 ||adat.travelo.hu^
 ||adat.tunderszepek.hu^
 ||adat.ujneplap.hu^
-||adat.vaol.hu^
 ||adat.varpalotaiujsag.hu^
 ||adat.videkize.hu^
 ||adat.vitorlazasmagazin.hu^
@@ -12880,7 +12876,6 @@
 ||km.adsdomaintracking.com^
 ||main.mywellnesslife.blog^
 ||mdt.newsgazetadopovo.com^
-||media.contentassetscdn.com^
 ||nt.brainharmonytips.com^
 ||perpetualtracking.lytess.com^
 ||rdtrack.csd.shop^
@@ -13667,7 +13662,6 @@
 ||gtm.filabe.ch^
 ||gtm.finafarina.com.br^
 ||gtm.fingrlix.com^
-||gtm.fishermans-partner.shop^
 ||gtm.flowtannhelse.no^
 ||gtm.francograsso.com^
 ||gtm.fridautbildning.se^
@@ -16788,7 +16782,6 @@
 ||sgtm.zeilare.com^
 ||sgtm.ziemlewski.pl^
 ||sgtm.zuplexestate.co.uk^
-||sgtmbugatticom.bugatti-media.com^
 ||sgtmdata.felicetrasformazionepersonale.it^
 ||sgtmdata.finchiusure.com^
 ||sgtmdata.metroquadroitalia.it^
@@ -19766,7 +19759,6 @@
 ||gtm.deskrio.com.br^
 ||gtm.detectorinspector.com.au^
 ||gtm.dewaidr.life^
-||gtm.dewajp-vip.com^
 ||gtm.dezeroatrader.com^
 ||gtm.dgm.co.it^
 ||gtm.dhakabazzarbd.com^
@@ -24962,7 +24954,6 @@
 ||seamless.joinhwtapp.com^
 ||seamless.trippbars.com^
 ||securedata.merachfit.com^
-||securedata.yesoulfitness.com^
 ||securemetrics.velotricbike.com^
 ||sellup.badana.cl^
 ||semlimites.a2baceleradora.com^
@@ -30346,7 +30337,6 @@ prd.api.bleacherreport.com^
 ||d.analyticsmania.com^
 ||gtm.mandesager.dk^
 ||sgtm.fairmont.
-||sgtm.macrolibrarsi.it^
 ||sgtm.milestonesys.com^
 ||sgtm.mycall.no^
 ||sgtm.myprotein.jp^
@@ -30499,7 +30489,6 @@ prd.api.bleacherreport.com^
 ||pixel*.production-public.tubi.io^
 ||player.stats.live-video.net^
 ||medialog.smartmediarep.com^
-||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
 ||tp.content-score.com^
@@ -30555,6 +30544,7 @@ prd.api.bleacherreport.com^
 ||log.hypebeast.com^
 ||weblog.dema.mil.kr^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||twstat.lifenewsjr.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
