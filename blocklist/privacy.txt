@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-01T15:46:01.434Z
+! Last modified: 2026-06-02T15:46:22.670Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31590
+! Rules count: 31587
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -713,6 +713,7 @@
 ||solutions.amigraphics.com^
 ||techservices.trapptechnology.com^
 ||toronto-content.cresa.com^
+||tradeshows.aem.org^
 ||trappcloudservices.trapptechnology.com^
 ||vip.gophersport.com^
 ||www2.advp.com^
@@ -3652,7 +3653,6 @@
 ||metrics.beveragedaily.com^
 ||metrics.bhgfinancial.com^
 ||metrics.biocompare.com^
-||metrics.breadfinancial.com^
 ||metrics.brilliantbylangham.com^
 ||metrics.britainsbestcake.co.uk^
 ||metrics.buysearchsell.com.au^
@@ -8212,7 +8212,6 @@
 ||target.comdata.com^
 ||target.dipdirect.com^
 ||target.huskydip.com^
-||target.breadfinancial.com^
 ||target.mca-insight.com^
 ||target.integradordeseguros.com^
 ||target.publicissapient.com^
@@ -17264,7 +17263,6 @@
 ||adminandres.fraganxa.com^
 ||ads.atdove.org^
 ||ads.cabalexile.to^
-||ads.davidprotein.com^
 ||ads.dianacapi.vip^
 ||ads.dovelewis.org^
 ||ads.eumaisviagens.com.br^
@@ -27493,7 +27491,6 @@
 ||serverstape.styblu.com^
 ||serverstape.vapor9dxb.com^
 ||serverstape.zeandre.com^
-||serverstapeio.ploomes.com^
 ||serverstepio.gentleandhifi.com^
 ||serverstepio1.gentleandhifi.com^
 ||servertadashi.unifast.com.br^
@@ -30197,6 +30194,7 @@
 ||stat.katitube.com^
 ||ja*.apppure.net^
 ||qa-track.ssg.com^
+||api.jformatter.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
 ||smetrics.edb.gov.sg^
@@ -31128,7 +31126,6 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||adj.st^
 ||cxlog.shinhansec.com^
-||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
 ||log-*.isnssdk.com^
 ||global-receiver-ta.thinkingdata.cn^
