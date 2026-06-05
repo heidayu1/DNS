@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-04T05:19:15.384Z
+! Last modified: 2026-06-05T05:19:31.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31579
+! Rules count: 31573
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -2781,6 +2781,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.candidatesexp.adobe.com^
@@ -5235,7 +5236,6 @@
 ||sstats.hostplus.com.au^
 ||sstats.mcgriff.com^
 ||sstats.myafco.com^
-||sstats.norauto.pt^
 ||sstats.o2family.cz^
 ||sstats.o2knihovna.cz^
 ||sstats.paymypremiums.com^
@@ -5907,7 +5907,6 @@
 ||metrics.gatesnotes.com^
 ||metrics.gazyva.com^
 ||metrics.gcimetrics.com^
-||metrics.geelongadvertiser.com.au^
 ||metrics.gemcreditline.co.nz^
 ||metrics.gemfinance.co.nz^
 ||metrics.gemvisa.com.au^
@@ -8855,7 +8854,6 @@
 ||fjjkh.thelostestate.com^
 ||fnabd.hotelcollection.fr^
 ||fqled.prepapizza.com^
-||fqqok.zipstring.com^
 ||fqvvn.getlemonhead.com^
 ||fspdu.dollarcurlclub.com^
 ||gahlr.readyrocker.com^
@@ -10063,7 +10061,6 @@
 ||adat.astronet.hu^
 ||adat.automotor.hu^
 ||adat.baon.hu^
-||adat.beol.hu^
 ||adat.biharinaplo.ro^
 ||adat.boon.hu^
 ||adat.bravo.hu^
@@ -11096,7 +11093,6 @@
 ||stat.wk-formation.fr^
 ||stat.wkf.fr^
 ||track.education.intostudy.com^
-||tracking.athlon.com^
 ||ap.quadient.com^
 ||app.bceagles.com^
 ||app.cityspringstheatre.com^
@@ -13991,7 +13987,6 @@
 ||gtm.visitbrabant.com^
 ||gtm.visitrauland.com^
 ||gtm.vistatravel.no^
-||gtm.voldt.com^
 ||gtm.vreimobila.ro^
 ||gtm.vuau.com^
 ||gtm.wallpassion.co.uk^
@@ -27976,6 +27971,7 @@
 ||sgtm.ivybeautyandbubbles.miami^
 ||sgtm.ivydubai.ae^
 ||sgtm.ivyindoha.com^
+||sgtm.ivyrx.com^
 ||sgtm.janovapec.cz^
 ||sgtm.jardiniimoveis.com.br^
 ||sgtm.jeseniova93.cz^
@@ -30290,6 +30286,7 @@ prd.api.bleacherreport.com^
 ||pixel.thoughtmetric.io^
 ||tracking-sales-pop.carecart.io^
 ||logs.getfiddler.com^
+||mystats.flixfiend.top^
 ||ca-log.cafe24data.com^
 ||mon-va.capcutapi.com^
 ||apihorizon.nnmtools.com^
@@ -30480,7 +30477,6 @@ prd.api.bleacherreport.com^
 ||webtrack.pospal.cn^
 ||analytics.cookiefirst.dev^
 ||tracker.dalso.org^
-||stats.img2go.com^
 ||log.api.useinsider.com^
 ||hit.api.useinsider.com^
 ||track.lookerpets.com^
@@ -30946,7 +30942,6 @@ prd.api.bleacherreport.com^
 ||tcheck.outbrainimg.com^
 ||telegraf.detmir-stats.ru^
 ||telemetry.jivosite.com^
-||tl.tradetracker.net^
 ||tm.tradetracker.net^
 ||tr.datanyze.com^
 ||tr1.admeira.ch^
@@ -31514,7 +31509,6 @@ dlsdk.appsflyer.com^
 ||crashpandas.com^
 ||curlycannon.com^
 ||datastoried.com^
-||dazzlescript.com^
 ||dependenttrip.com^
 ||dyecloud.com^
 ||elusivecascade.com^
