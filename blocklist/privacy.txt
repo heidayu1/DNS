@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-05T05:19:31.494Z
+! Last modified: 2026-06-06T05:19:47.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 31573
+! Rules count: 31567
 !
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
@@ -270,7 +270,6 @@
 ||log.ma-jin.jp^
 ||prisma-tr.prismamedia.com^
 ||pandg.tapad.com^
-||analytics.fs-bdash.com^
 ||ana.mediable.info^
 ||bc.ad.daum.net^
 ||monitor.azure.com^
@@ -2619,7 +2618,6 @@
 ||analyticsresults.datev.com^
 ||appleapp.co.tiendasishop.com^
 ||appleapp.cr.tiendasishop.com^
-||appleapp.digimap.co.id^
 ||appleapp.gms-store.com^
 ||appleapp.icon.co.cr^
 ||appleapp.intecat.com^
@@ -2781,7 +2779,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.candidatesexp.adobe.com^
@@ -3088,7 +3085,6 @@
 ||data.fans.lukebrowningracing.co.uk^
 ||data.fans.realmadrid.com^
 ||data.fans.ussailgpteam.com^
-||data.fans.williamsf1.com^
 ||data.fastlane-email.paypal.com^
 ||data.fedex.dev.ajo.adobe.com^
 ||data.financeiro.ampli.com.br^
@@ -3739,7 +3735,6 @@
 ||metrics.refinitiv.com^
 ||metrics.restaurantonline.co.uk^
 ||metrics.retail-week.com^
-||metrics.sentido.com^
 ||metrics.steinhafels.com^
 ||metrics.stockhead.com.au^
 ||metrics.teamviewer.cn^
@@ -4121,7 +4116,6 @@
 ||smetrics.blackandmild.com^
 ||smetrics.blackjack.com^
 ||smetrics.bliz.com^
-||smetrics.bluemercury.com^
 ||smetrics.blueprintprep.com^
 ||smetrics.bms-arma.nl^
 ||smetrics.bms-io-academy.co.uk^
@@ -4690,6 +4684,7 @@
 ||smetrics.myvi.in^
 ||smetrics.myyellow.com^
 ||smetrics.nadro.mx^
+||smetrics.namestudio.com^
 ||smetrics.namestudioapi.com^
 ||smetrics.nationalgrideso.com^
 ||smetrics.nativeyewear.com^
@@ -11551,6 +11546,7 @@
 ||answers.teradata.pl^
 ||answers.teradata.ru^
 ||answers.teradata.se^
+||email.hockeytown.com^
 ||go.biz.mississippipower.com^
 ||news.equipbaie.com^
 ||news.metalheadconvention.com^
@@ -16138,7 +16134,6 @@
 ||serverside.horecagemak.nl^
 ||serverside.larepubblicadeglianimali.com^
 ||serverside.marketingandleads.pt^
-||serverside.pepejeans.com^
 ||serverside.refina.co.uk^
 ||serverside.skillsandlead.pt^
 ||serverside.speakandlead.pt^
@@ -16586,6 +16581,7 @@
 ||sgtm.pompdelux.com^
 ||sgtm.pompdelux.dk^
 ||sgtm.pompdelux.nl^
+||sgtm.popuptextil.ro^
 ||sgtm.posternature.com^
 ||sgtm.predeion.it^
 ||sgtm.prefast.nl^
@@ -18508,7 +18504,6 @@
 ||collect.deerhunter.eu^
 ||collect.digicar.nl^
 ||collect.engel.eu^
-||collect.glowgolf.nl^
 ||collect.goecker.dk^
 ||collect.goecker.se^
 ||collect.healthierhomes.com^
@@ -27832,7 +27827,6 @@
 ||sgtm.fix-klima.com^
 ||sgtm.fix-pv.com^
 ||sgtm.flagandbanner.com^
-||sgtm.flewd.com^
 ||sgtm.flickere.com.bd^
 ||sgtm.flomedicinalfarmacia.com.br^
 ||sgtm.flowerpower.ae^
@@ -30174,6 +30168,8 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||browser.pipe.aria.microsoft.com^
+||go-usertrack-importer.pub.rtl-api.com^
 ||data-api.fenbi.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30217,6 +30213,7 @@
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
 ||data-track*.yingxiong.com^
+||z.cdn.protect-ad.com^
 ||clogger.nocutnews.co.kr^
 ||mon*.tiktokv.us^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
@@ -30465,7 +30462,6 @@ prd.api.bleacherreport.com^
 ||analytics.code.illusion.jp^
 ||stracker.rmg.ru^
 ||mcs-*.tiktok.com^
-||track.msg.fortune.com^
 ||track.sp.crdl.io^
 ||tracker.iplocation.net^
 ||adservice.google.
@@ -31221,7 +31217,6 @@ dlsdk.appsflyer.com^
 ||mediation.mwmadnetworks.com^
 ||admob-app-id-*.firebaseio.com^
 ||sg.log.ulivetv.net^
-||events.funnelish.com^
 ||toblog.tobsnssdk.com^
 ||tobapplog.tobsnssdk.com^
 ||log.talkie-ai.com^
@@ -31516,7 +31511,6 @@ dlsdk.appsflyer.com^
 ||etherealripple.com^
 ||eventsmall.com^
 ||fitnessmapper.com^
-||flippedfunnel.com^
 ||floodedpixel.com^
 ||flourishingpartnership.com^
 ||gleamingtrade.com^

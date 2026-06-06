@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-05T05:19:34.076Z
+! Last modified: 2026-06-06T05:19:50.580Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -943,6 +943,7 @@
 ||citrixanalyticseh.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
+||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
@@ -954,7 +955,6 @@
 ||citrixtelemetryeheu-alias.servicebus.windows.net^
 ||ehtelemetrystaging-alias.servicebus.windows.net^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
-||hme-live-loganalytics-namespace.servicebus.windows.net^
 ||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
