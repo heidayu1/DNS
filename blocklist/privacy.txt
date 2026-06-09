@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-08T05:20:19.568Z
+! Last modified: 2026-06-09T05:20:35.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32320
+! Rules count: 32323
 !
 ||identity.treeumapp.net^
 ||monitoragc.xyz^
@@ -110,7 +110,6 @@
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
-||featureassets.org^
 ||api.taggrs.io^
 ||cdn.q0losid.com^
 ||stats2.indianpornempire.com^
@@ -1709,6 +1708,7 @@
 ||metrics.oreillyauto.com^
 ||metrics.paperdirect.com^
 ||metrics.paysafecard.com^
+||metrics.people.com^
 ||metrics.peopleenespanol.com^
 ||metrics.peoplescourt.warnerbros.com^
 ||metrics.petinsurance.com^
@@ -2326,7 +2326,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2839,6 +2838,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -7891,6 +7891,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -10257,7 +10258,6 @@
 ||data-c7fa2f50f1.photovoltaik.eu^
 ||data-cadceaa3b3.tvheute.at^
 ||data-cd0b4bd19f.motorsport-aktuell.com^
-||data-cdd14ee8a7.servustv.com^
 ||data-cf8fd9b799.integrale-planung.net^
 ||data-cf8fd9b799.klimajournal.com^
 ||data-d3b9450695.tv-media.at^
@@ -21281,6 +21281,7 @@
 ||gtm.murray.org.br^
 ||gtm.murrayrivercruises.com.au^
 ||gtm.muscleandmotion.com^
+||gtm.musclenation.org^
 ||gtm.muslimlifestyle.com.bd^
 ||gtm.mwled.com.br^
 ||gtm.myclosettcriciuma.com^
@@ -22226,7 +22227,6 @@
 ||gtm.vuggebaby.no^
 ||gtm.vulcanojoias.com.br^
 ||gtm.wakandaslots.com^
-||gtm.waldos.com.mx^
 ||gtm.watatutravel.com^
 ||gtm.watchstraps.com.au^
 ||gtm.waterbros.com.au^
@@ -30783,6 +30783,8 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||analytics.oeksound.com^
+||statikk.modelviewer.lol^
 ||browser.pipe.aria.microsoft.com^
 ||go-usertrack-importer.pub.rtl-api.com^
 ||analytics.pingaja.com^
@@ -30812,6 +30814,7 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
+||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||analytics.launcherleaks.net^

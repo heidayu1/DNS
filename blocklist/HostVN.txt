@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-08T05:20:20.916Z
+! Last modified: 2026-06-09T05:20:37.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -88,7 +88,6 @@
 ||syndicatedsearch.goog^
 ||adsensecustomsearchads.com^
 ||app-ads-services.com^
-||app-analytics-services.com^
 ||target.microsoft.com^
 ||oca.telemetry.microsoft.com^
 ||responses.df.telemetry.microsoft.com^
@@ -8163,6 +8162,8 @@
 ||api.wipmania.com^
 ||api2.poperblocker.com^
 ||apolloprogram.io^
+||app-analytics-services-att.com^
+||app-analytics-services.com^
 ||applog.camera360.com^
 ||appres.camera360.com^
 ||arc.io^
