@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-09T05:20:35.919Z
+! Last modified: 2026-06-10T05:20:51.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -15,7 +15,6 @@
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
-||data.artistchai.co.kr^
 ||log.ablyft.com^
 ||participants.evolv.ai^
 ||media.evolv.ai^
@@ -168,7 +167,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -4870,7 +4868,6 @@
 ||smetrics.nykaafashion.com^
 ||smetrics.nz.ugg.com^
 ||smetrics.oceaniacruises.com^
-||smetrics.oddspedia.com^
 ||smetrics.office-eo.jp^
 ||smetrics.oneamerica.com^
 ||smetrics.onetrust.com^
@@ -5496,7 +5493,6 @@
 ||webapp.epost.snn.no^
 ||webapp.uat.test.sparebank1.no^
 ||webmetrics.oklahoma.gov^
-||websdk.admiral.com^
 ||www.dxp-data.celonis.com^
 ||a.rohde-schwarz.com.cn^
 ||aa-metrics.aircard.jp^
@@ -5582,6 +5578,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6415,6 +6412,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6746,7 +6744,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -6949,6 +6946,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7774,7 +7772,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7812,7 +7809,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -10094,6 +10090,7 @@
 ||data-597aebc8e1.daznservices.com^
 ||data-5a078ffbef.wb-immo.net^
 ||data-5c172edac2.prosieben.at^
+||data-5ca562c702.tt.com^
 ||data-5d2679d281.skysportaustria.at^
 ||data-5e5ac4ec65.menshealth-personaltrainer.com^
 ||data-5fdd0f6a02.salzburg24.at^
@@ -30783,6 +30780,11 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||analytics.learndirect.com^
+||data.deschouwwitgoed.nl^
+||metrics.nautilus2.pl^
+||tracking.vbr.ru^
+||stats.sailtheship.xyz^
 ||analytics.oeksound.com^
 ||statikk.modelviewer.lol^
 ||browser.pipe.aria.microsoft.com^
@@ -30814,7 +30816,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||analytics.launcherleaks.net^
@@ -31118,6 +31119,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31234,7 +31236,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31735,7 +31736,6 @@ prd.api.bleacherreport.com^
 ||api-*.hismarttv.com^
 ||log.musical.ly^
 ||h353.ncadvertiser.com^
-||h559.stamfordadvocate.com^
 ||m700.bigrapidsnews.com^
 ||collection-endpoint-staging.herokuapp.com^
 ||d10vy5gom1ed53.cloudfront.net^

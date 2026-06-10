@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-09T05:20:38.953Z
+! Last modified: 2026-06-10T05:20:54.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -358,14 +358,8 @@
 ||z-na.amazon-adsystem.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
-||connect-dra.dbankcloud.cn^
-||connect-drcn.dbankcloud.cn^
-||connect-dre.dbankcloud.cn^
-||connect-drru.dbankcloud.cn^
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics1.data.dbankcloud.cn^
-||dnkeeper.dbankcloud.com^
-||dt.dbankcloud.ru^
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-dre.dt.dbankcloud.cn^
@@ -380,13 +374,8 @@
 ||metrics-drcn.dt.dbankcloud.com^
 ||metrics-dre.dt.dbankcloud.cn^
 ||metrics1-drcn.dt.dbankcloud.cn^
-||grs.dbankcloud.asia^
-||grs.dbankcloud.cn^
-||grs.dbankcloud.com^
-||grs.dbankcloud.eu^
 ||connect-drru.hispace.dbankcloud.cn^
 ||connect-drru.hispace.dbankcloud.ru^
-||logservice1.dbankcloud.com^
 ||connect-dra.map.dbankcloud.com^
 ||connect-dre.map.dbankcloud.com^
 ||adx-dra.op.dbankcloud.com^
@@ -400,6 +389,17 @@
 ||grs.platform.dbankcloud.ru^
 ||logservice-dre.platform.dbankcloud.cn^
 ||openlocation-drcn.platform.dbankcloud.com^
+||connect-dra.dbankcloud.cn^
+||connect-drcn.dbankcloud.cn^
+||connect-dre.dbankcloud.cn^
+||connect-drru.dbankcloud.cn^
+||dnkeeper.dbankcloud.com^
+||dt.dbankcloud.ru^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||logservice1.dbankcloud.com^
 ||adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn^
 ||events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn^
@@ -435,19 +435,13 @@
 ||metrics1-data-hicloud-com.gere.dbankedge.cn^
 ||metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
+||adx-dra-op-hicloud-com-dra.region.dbankedge.cn^
 ||events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn^
 ||events-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||grs-dbankcloud-com-dra.region.dbankedge.cn^
 ||grs-dbankcloud-com-dre.region.dbankedge.cn^
 ||grs-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||adx-dre.op.dbankcloud.com.edgekey.net^
-||data.hicloud.com^
-||dnkeeper.hicloud.com^
-||dt.hicloud.com^
-||grs.hicloud.com^
-||logbak.hicloud.com^
-||logservice.hicloud.com^
-||logservice1.hicloud.com^
 ||adx-dra.op.hicloud.com^
 ||adx-dre.op.hicloud.com^
 ||adx-drru.op.hicloud.com^
@@ -455,8 +449,13 @@
 ||events-dre.op.hicloud.com^
 ||logservice-dra.platform.hicloud.com^
 ||logservice-dre.platform.hicloud.com^
-||dt.hihonorcloud.com^
-||grs.hihonorcloud.com^
+||data.hicloud.com^
+||dnkeeper.hicloud.com^
+||dt.hicloud.com^
+||grs.hicloud.com^
+||logbak.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
 ||honorsearch-drcn.hiboard.hihonorcloud.com^
 ||honorsearch-dre.hiboard.hihonorcloud.com^
@@ -468,6 +467,8 @@
 ||log-drru.platform.hihonorcloud.com^
 ||tracking-data.platform.hihonorcloud.com^
 ||tracking-data-drru.platform.hihonorcloud.com^
+||dt.hihonorcloud.com^
+||grs.hihonorcloud.com^
 ||ads.cloud.huawei.com^
 ||ads-drru.cloud.huawei.ru^
 ||rnd-cbgpas01.huawei.com^
@@ -498,6 +499,7 @@
 ||prod-event-relay-weather-api.v.aaplimg.com^
 ||prod-news-notification-events.v.aaplimg.com^
 ||securemetrics.v.aaplimg.com^
+||securemetrics-cn.v.aaplimg.com^
 ||securemvt.v.aaplimg.com^
 ||smoot-feedback.v.aaplimg.com^
 ||supportmetrics.v.aaplimg.com^
@@ -511,11 +513,14 @@
 ||idiagnostics.apple.com.akadns.net^
 ||iphonesubmissions.apple.com.akadns.net^
 ||radarsubmissions.apple.com.akadns.net^
-||iad-apple.com.akadns.net^
 ||partiality.itunes-apple.com.akadns.net^
 ||xp.itunes-apple.com.akadns.net^
 ||xp-cdn-lb.itunes-apple.com.akadns.net^
 ||searchads.lb-apple.com.akadns.net^
+||iad-apple.com.akadns.net^
+||partiality.itunes.apple.com^
+||msc-dct-prod.msc.apple.com^
+||fbs.smoot.apple.com^
 ||advertising.apple.com^
 ||advp.apple.com^
 ||api-adservices.apple.com^
@@ -540,10 +545,8 @@
 ||internalcheck.apple.com^
 ||iphonesubmissions.apple.com^
 ||iphonesubmissions-old.apple.com^
-||partiality.itunes.apple.com^
 ||launch.apple.com^
 ||metrics.apple.com^
-||msc-dct-prod.msc.apple.com^
 ||news-app-events.apple.com^
 ||news-events.apple.com^
 ||news-notification-events.apple.com^
@@ -558,7 +561,6 @@
 ||searchads.apple.com^
 ||securemetrics.apple.com^
 ||securemvt.apple.com^
-||fbs.smoot.apple.com^
 ||stocks-analytics-events.apple.com^
 ||supportmetrics.apple.com^
 ||weather-analytics-events.apple.com^
@@ -566,19 +568,18 @@
 ||xp-cdn.apple.com^
 ||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe2.apple-dns.net^
-||me.apple-dns.net^
 ||books-analytics-events.news.apple-dns.net^
 ||notes-analytics-events.news.apple-dns.net^
 ||stocks-analytics-events.news.apple-dns.net^
 ||weather-analytics-events.news.apple-dns.net^
-||applemediaservices.com^
+||me.apple-dns.net^
 ||cstat.cdn-apple.com^
 ||securemetrics.apple.com.cn^
 ||feedbackws.icloud.com.cn^
 ||cdn-xp-ingest.edge.apple^
+||partiality.itunes.apple.com.edgekey.net^
 ||experiments.apple.com.edgekey.net^
 ||iadsdk.apple.com.edgekey.net^
-||partiality.itunes.apple.com.edgekey.net^
 ||xp.apple.com.edgekey.net^
 ||cstat.apple.com.edgesuite.net^
 ||searchads.apple.com.edgesuite.net^
@@ -586,10 +587,11 @@
 ||feedbackws.icloud.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
-||qwapi.com^
 ||marketing.services.apple^
 ||beacon.shazam.com^
 ||h4g3z1-native.apple.web.app^
+||applemediaservices.com^
+||qwapi.com^
 ||c-bingapis-com.dual-a-0034.a-msedge.net^
 ||measure.office.com.akamaized.net^
 ||in.appcenter.ms^
