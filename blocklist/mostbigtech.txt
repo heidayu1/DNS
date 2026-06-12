@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-11T05:21:10.756Z
+! Last modified: 2026-06-12T05:21:25.930Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -655,6 +655,7 @@
 ||excel-telemetry.officeapps.live.com^
 ||ffc-excel-telemetry.officeapps.live.com^
 ||ffc-word-telemetry.officeapps.live.com^
+||fgteu1-word-telemetry-vip.officeapps.live.com^
 ||frc-visio-telemetry.officeapps.live.com^
 ||inc-visio-telemetry.officeapps.live.com^
 ||nexus.officeapps.live.com^
@@ -736,7 +737,6 @@
 ||watson.live.com^
 ||pipe.aria.microsoft.com^
 ||collector.azure.microsoft.cloud^
-||collector.azure.microsoft.scloud^
 ||track.notif.careersppe.microsoft.com^
 ||events.data.microsoft.com^
 ||events-sandbox.data.microsoft.com^
@@ -885,8 +885,6 @@
 ||measure.office.com^
 ||measure.office.net^
 ||prod.editor.ads.trafficmanager.net^
-||azure.bcp.bingads.trafficmanager.net^
-||azure.tip.bingads.trafficmanager.net^
 ||tracker.flightview.com.trafficmanager.net^
 ||events.data.trafficmanager.net^
 ||vortex.data.trafficmanager.net^
@@ -895,18 +893,22 @@
 ||euc-excel-telemetry.wac.trafficmanager.net^
 ||euc-powerpoint-telemetry.wac.trafficmanager.net^
 ||euc-word-telemetry.wac.trafficmanager.net^
+||eurffc-word-telemetry.wac.trafficmanager.net^
 ||excel-telemetry.wac.trafficmanager.net^
 ||powerpoint-telemetry.wac.trafficmanager.net^
 ||ppc-excel-telemetry.wac.trafficmanager.net^
 ||ppc-powerpoint-telemetry.wac.trafficmanager.net^
 ||ppc-word-telemetry.wac.trafficmanager.net^
 ||word-telemetry.wac.trafficmanager.net^
+||ads-msn-com-profile.trafficmanager.net^
 ||adsdk.trafficmanager.net^
 ||agps-location-livenet.trafficmanager.net^
 ||analytics.trafficmanager.net^
 ||analytics-listener.trafficmanager.net^
 ||beacons.trafficmanager.net^
+||bingads.trafficmanager.net^
 ||ch-asimov-leafs-events-data.trafficmanager.net^
+||collection-location-livenet.trafficmanager.net^
 ||collector-main.trafficmanager.net^
 ||dsp-ad-cache-tm.trafficmanager.net^
 ||eventservice.trafficmanager.net^
@@ -1301,6 +1303,8 @@
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
 ||mcs.us.tiktokv.com.edgesuite.net^
 ||frontier.tiktokv-eu.com.edgesuite.net^
+||ad-instantpage-ttp2.tiktokv.eu.edgesuite.net^
+||adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net^
 ||frontier16-normal-no1a.tiktokv.eu.edgesuite.net^
 ||frontier16-normal-useastred.tiktokv.eu.edgesuite.net^
 ||analytics-exp-ttp2.tiktokw.eu.edgesuite.net^
@@ -1312,6 +1316,8 @@
 ||mcs16-normal-no1a.tiktokw.eu.edgesuite.net^
 ||mcs16-normal-useastred.tiktokw.eu.edgesuite.net^
 ||frontier.capcutw.us.edgesuite.net^
+||ad-instantpage.tiktokv.us.edgesuite.net^
+||ad-instantpage-ttp2.tiktokv.us.edgesuite.net^
 ||frontier.tiktokv.us.edgesuite.net^
 ||frontier-ttp2.tiktokv.us.edgesuite.net^
 ||mcs.tiktokv.us.edgesuite.net^
@@ -1745,10 +1751,12 @@
 ||mcs-va.tiktokv.com.ttdns2.com^
 ||mcs-va-useast2a.tiktokv.com.ttdns2.com^
 ||frontier.tiktokv-eu.com.ttdns3.com^
+||ad-instantpage-ttp2.tiktokv.eu.ttdns3.com^
 ||analytics-ie.tiktokw.eu.ttdns3.com^
 ||analytics-ttp2.tiktokw.eu.ttdns3.com^
 ||mcs-ie.tiktokw.eu.ttdns3.com^
 ||mcs-ie2.tiktokw.eu.ttdns3.com^
+||ad-instantpage.tiktokv.us.ttdns4.com^
 ||h4g3z1-native.tiktok.extended.web.app^
 ||traffic-media.co.uk^
 ||mistat.india.xiaomi.com.edgesuite.net^

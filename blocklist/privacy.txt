@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-11T05:21:07.875Z
+! Last modified: 2026-06-12T05:21:23.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32323
+! Rules count: 32327
 !
 ||identity.treeumapp.net^
 ||monitoragc.xyz^
@@ -2284,7 +2284,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -4566,6 +4565,7 @@
 ||smetrics.holcimbe.com^
 ||smetrics.holcimelevate.com^
 ||smetrics.homegoods.com^
+||smetrics.horizonblue.com^
 ||smetrics.horizonnjhealth.com^
 ||smetrics.horsexperts.be^
 ||smetrics.hossintropia.com^
@@ -6067,6 +6067,7 @@
 ||metrics.fnac.be^
 ||metrics.ford.ca^
 ||metrics.ford.com^
+||metrics.foxbusiness.com^
 ||metrics.fraport.com^
 ||metrics.freecreditreport.com^
 ||metrics.fressnapf.at^
@@ -7768,6 +7769,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -10903,6 +10905,7 @@
 ||trck.asset.malcotools.com^
 ||trck.e.atradius.com^
 ||trck.events.informamiddleeast.com^
+||trck.go.emoneyadvisor.com^
 ||trck.ins.northcascadeins.com^
 ||trck.ins.vnyins.com^
 ||trck.ins.webberadvisors.com^
@@ -28255,7 +28258,6 @@
 ||sgtm.cidercade.com^
 ||sgtm.cityfans.com^
 ||sgtm.cjxsolar.nl^
-||sgtm.classicfootballshirts.com^
 ||sgtm.clearsmile.jp^
 ||sgtm.clinrol.com^
 ||sgtm.clipbee.ai^
@@ -30780,6 +30782,8 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||cchome-stage.adobe.io^
+||cchome.adobe.io^
 ||analytics.learndirect.com^
 ||data.deschouwwitgoed.nl^
 ||metrics.nautilus2.pl^
@@ -30846,7 +30850,6 @@
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
-||analytics.simpler.so^
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
 ||data-track*.yingxiong.com^
@@ -31262,6 +31265,7 @@ prd.api.bleacherreport.com^
 ||logging.e-himart.co.kr^
 ||weblog.e-himart.co.kr^
 ||acelogger.heraldcorp.com^
+||t.hypers.com.cn^
 ||log*.vietnamplus.vn^
 ||analytics.ouc.ac.cy^
 ||analytics.dsyqt.com^
