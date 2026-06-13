@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-12T05:21:25.930Z
+! Last modified: 2026-06-13T05:21:42.891Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -51,6 +51,7 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
+||aax-us-east-dtb-mobile-events.amazon-adsystem.com^
 ||aax-us-east-dtb-mobile.amazon-adsystem.com^
 ||aax-us-east-dtb.amazon-adsystem.com^
 ||aax-us-east-ott.amazon-adsystem.com^
@@ -68,7 +69,6 @@
 ||aax-us-pdx-rtb-adx.amazon-adsystem.com^
 ||aax-us-pdx-rtb.amazon-adsystem.com^
 ||aax-us-pdx.amazon-adsystem.com^
-||aax-us-west-2-ott.amazon-adsystem.amazon.com^
 ||aax-us-west-dtb-mobile-events.amazon-adsystem.com^
 ||aax-us-west-dtb-mobile.amazon-adsystem.com^
 ||aax-us-west-ott-events.amazon-adsystem.com^
@@ -567,6 +567,7 @@
 ||xp.apple.com^
 ||xp-cdn.apple.com^
 ||feedbackws.fe.apple-dns.cn^
+||feedbackws.fe.apple-dns.net^
 ||feedbackws.fe2.apple-dns.net^
 ||books-analytics-events.news.apple-dns.net^
 ||notes-analytics-events.news.apple-dns.net^
@@ -630,7 +631,6 @@
 ||g.bing.com^
 ||raka.bing.com^
 ||c.bingapis.com^
-||upload.fp.measure.office.com.corp.mmco.int.cardano.com^
 ||exo.nel.measure.office.net.cardano.com^
 ||identity.nel.measure.office.net.cardano.com^
 ||m365cdn.nel.measure.office.net.cardano.com^
@@ -934,7 +934,6 @@
 ||tm-enrollment-telemetry-datacore.trafficmanager.net^
 ||us-mesh-events-data-leafs.trafficmanager.net^
 ||vstelemetry.trafficmanager.net^
-||we-events-prod-1.trafficmanager.net^
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
 ||dc.services.visualstudio.com^
 ||h4g3z1-native.winoffice.web.app^
@@ -1033,6 +1032,7 @@
 ||samsung.ecorebates.com^
 ||samsung.telemetry.eyeo.com^
 ||ehg-samsungusa.hitbox.com^
+||ureca.samsungapps.com.ad.mexnet.de^
 ||samsung.com.ssl.sc.omtrdc.net^
 ||samsungcard.sc.omtrdc.net^
 ||samsungnorthamerica.sc.omtrdc.net^
@@ -1103,6 +1103,7 @@
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
 ||report.gras.samsungdm.com^
+||us-report.gras.samsungdm.com^
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
 ||dev-apigw.samsungdmroute.com^
@@ -1362,7 +1363,6 @@
 ||vas-hl-x.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||xlog.snssdk.com^
-||url4077.ads-service.tiktok.com^
 ||ads.us.tiktok.com^
 ||ads-ttp2.us.tiktok.com^
 ||analytics.us.tiktok.com^
@@ -1377,7 +1377,6 @@
 ||ads.tiktok.tv^
 ||ads-api.tiktok.com^
 ||ads-frontier.tiktok.com^
-||ads-ru.tiktok.com^
 ||ads-sg.tiktok.com^
 ||analytics.tiktok.com^
 ||analytics-attribution.tiktok.com^

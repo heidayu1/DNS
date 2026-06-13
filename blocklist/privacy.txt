@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-12T05:21:23.562Z
+! Last modified: 2026-06-13T05:21:40.201Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -183,6 +183,7 @@
 ||analytics.recruitics.com^
 ||trace.zhiyan.tencent-cloud.net^
 ||log.voicecloud.cn^
+||log.collectaction.com^
 ||t.adcell.com^
 ||odtrtadl.com^
 ||log.trackingio.com^
@@ -2835,6 +2836,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5717,6 +5719,7 @@
 ||digistats.westjet.com^
 ||dplp1.ibmnorthamerica.adobesandbox.com^
 ||ecn-analytics.emc.com^
+||emetrics.bose.com^
 ||fipsta.urbanara.at^
 ||gw-analytics.panasonic.com^
 ||hqmetrics.sony.com^
@@ -5983,6 +5986,7 @@
 ||metrics.cnb.com^
 ||metrics.coalesse.com^
 ||metrics.cognizant.nl^
+||metrics.comcast.com^
 ||metrics.comenity.net^
 ||metrics.commercialtrucktrader.com^
 ||metrics.commonclaimsmistakesvideo.com^
@@ -9586,7 +9590,6 @@
 ||metrics.zaun-star.com^
 ||monitoring.medizinbedarf.eu^
 ||statistics.hagnauer.org^
-||statistics.krohne.com^
 ||statistics.xpedite-dx.com^
 ||stats.hilscher.com^
 ||stats.kaerntnerjobs.at^
@@ -21280,7 +21283,6 @@
 ||gtm.murray.org.br^
 ||gtm.murrayrivercruises.com.au^
 ||gtm.muscleandmotion.com^
-||gtm.musclenation.org^
 ||gtm.muslimlifestyle.com.bd^
 ||gtm.mwled.com.br^
 ||gtm.myclosettcriciuma.com^
@@ -25512,7 +25514,6 @@
 ||seamless.trippbars.com^
 ||securedata.aiper.com^
 ||securedata.aiper.store^
-||securedata.berlook.com^
 ||securedata.merachfit.com^
 ||securemetrics.velotricbike.com^
 ||sellup.badana.cl^
@@ -30783,7 +30784,6 @@
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
 ||cchome-stage.adobe.io^
-||cchome.adobe.io^
 ||analytics.learndirect.com^
 ||data.deschouwwitgoed.nl^
 ||metrics.nautilus2.pl^
@@ -30839,7 +30839,6 @@
 ||fluffy-analytics.vercel.app^
 ||stats.renet.io^
 ||d2qxmykuaro8s3.cloudfront.net^
-||tracking.cds.dmm.
 ||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||events.gfe.nvidia.com^
 ||analytics.claudelog.com^
@@ -30959,6 +30958,7 @@ prd.api.bleacherreport.com^
 ||acr-*-prd.samsungcloud.tv^
 .prod.pr.analytics.console.aws.a2z.com
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
+||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||co932.coloradopolitics.com^
 ||d485.capitalgazette.com^
@@ -31485,7 +31485,6 @@ prd.api.bleacherreport.com^
 ||log.g-enews.com^
 ||log.iyunmai.com^
 ||log.krs-ix.ru^
-||log.mix.sina.com.cn^
 ||log.outbrainimg.com^
 ||log.polarisoffice.com^
 ||log.quora.com^
@@ -31908,6 +31907,7 @@ dlsdk.appsflyer.com^
 ||cnlogs.umengcloud.com^
 ||logservice.dbankcloud.cn
 ||mssdk-boot.cpacutapi.com^
+||collect.ureca-lab.com^
 ||api.abcsinsights.com^
 ||stats.calldorado.com^
 ||traffic.calldorado.com^
