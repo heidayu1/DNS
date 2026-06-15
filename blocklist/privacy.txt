@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-14T05:21:56.850Z
+! Last modified: 2026-06-15T05:22:12.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32327
+! Rules count: 32328
 !
 ||identity.treeumapp.net^
 ||monitoragc.xyz^
@@ -119,7 +119,6 @@
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
-||starkgame.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||view.zijieapi.com^
 ||mato.clanto.cloud^
@@ -167,6 +166,7 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2325,6 +2325,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2539,7 +2540,6 @@
 ||adtd.douglas.hr^
 ||adtd.douglas.hu^
 ||adtd.douglas.lt^
-||adtd.douglas.nl^
 ||adtd.douglas.pl^
 ||adtd.douglas.pt^
 ||adtd.douglas.ro^
@@ -2837,6 +2837,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -6415,7 +6416,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6747,6 +6747,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7211,6 +7212,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7811,6 +7813,7 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
+||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -7888,7 +7891,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -8987,7 +8989,6 @@
 ||xzfizn.massmedian.co.jp^
 ||yadtbk.blacks.co.uk^
 ||yawsyi.freedomliftsystems.com^
-||ybzcmz.momoshop.com.tw^
 ||ycjhuh.stripe-club.com^
 ||ydcbng.yadah.co.kr^
 ||ydosfw.filippa-k.com^
@@ -18020,7 +18021,6 @@
 ||api.blackbooksloja.com.br^
 ||api.blepharo.com.br^
 ||api.blog.appsdalei.com^
-||api.blog.arkrix.com^
 ||api.blog.bazgus.com^
 ||api.blog.boobluk.com^
 ||api.blog.careerspayless.com^
@@ -23383,6 +23383,7 @@
 ||load.gtm.eraoquemefaltava.com^
 ||load.gtm.esadvocacia.adv.br^
 ||load.gtm.espartastore.com^
+||load.gtm.ethika.com^
 ||load.gtm.evbantiques.com^
 ||load.gtm.evergreen16.it^
 ||load.gtm.everlend.fr^
@@ -25100,7 +25101,6 @@
 ||media.bestproxyandvpn.com^
 ||media.biolovers.nl^
 ||media.promopanda.com^
-||mediabr.v4company.com^
 ||meer.prado.com^
 ||mehadi.cosyneeds.shop^
 ||member12a.luxbridgecloud.com^
@@ -26482,7 +26482,6 @@
 ||server.gopayshop.com^
 ||server.gouxstudio.com^
 ||server.gptronics.com.br^
-||server.graceandstella.com^
 ||server.gramerponno.com^
 ||server.granjarioclaro.com.br^
 ||server.graodetrigo.com^
@@ -29545,6 +29544,7 @@
 ||sstrack.trendsbymariumbd.com^
 ||sstracking.biacarneiro.com.br^
 ||sstracking.econestorganics.com^
+||sstrck.cdntrckng.com^
 ||sstsgtm.veryspecialgames.com^
 ||ssv.unicohotelcollection.com^
 ||st.bela.viradavirtual.com^
@@ -30819,6 +30819,7 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
+||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||service-ad-image-ga-weighted.prd.pluto.tv^
@@ -30844,7 +30845,6 @@
 ||analytics.claudelog.com^
 ||advancedanalytics-websocket-pri-001.hexaglobe.net^
 ||htm*.hepsiburada.com^
-||valencia-beacons.xumo.com^
 ||analytics.cosmicstack.org^
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
@@ -31122,7 +31122,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31217,6 +31216,7 @@ prd.api.bleacherreport.com^
 ||analytics.makeitmeme.com^
 ||trc.gpcdn.pl^
 ||sensorsdata*.read.duokan.com^
+||tracking.shopstyle.co.uk^
 ||analytics.*.sky.com^
 ||kinesis.eu-west-1.amazonaws.com^
 ||inlog01.hket.com^
@@ -31239,6 +31239,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
