@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-15T05:22:12.919Z
+! Last modified: 2026-06-16T05:22:28.163Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32328
+! Rules count: 32326
 !
+||welovedata.go2cloud.org^
 ||identity.treeumapp.net^
 ||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
@@ -2325,7 +2326,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -7212,7 +7212,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7775,7 +7774,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7891,6 +7889,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -13201,7 +13200,6 @@
 ||red.epicmedia.shop^
 ||red.track.storebkc.com^
 ||redtrack.biostile.si^
-||redtrack.distacart.com^
 ||redtrack.ecodrive.in.ua^
 ||redtrack.klaragroulikova.cz^
 ||redtrack.manset.com.ua^
@@ -29948,7 +29946,6 @@
 ||stapegtm.palladiodoorcollection.com^
 ||stapegtm.prepasia.org^
 ||stapegtm.unijorge.edu.br^
-||stapegtm.uva.br^
 ||stapehelena.reformadigital.org^
 ||stapeigormiguel.reformadigital.org^
 ||stapeio.draloharatrackig.com.br^
@@ -30829,6 +30826,7 @@
 ||logs.collector.*.cloud.solarwinds.com^
 ||agatha-log-service-*.a.run.app^
 ||hw-t.hypers.com.cn^
+||pixel-conversion.apps.seabroadnet.com^
 ||corfu.blogvault.net^
 ||app-analysislog.sto.cn^
 ||spa-tracker*.spapi.io^
