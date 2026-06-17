@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-16T05:22:28.163Z
+! Last modified: 2026-06-17T05:22:43.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32326
+! Rules count: 32331
 !
+||metrics-web.help^
 ||welovedata.go2cloud.org^
 ||identity.treeumapp.net^
 ||monitoragc.xyz^
@@ -167,7 +168,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2286,7 +2286,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2837,7 +2836,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -4086,7 +4084,6 @@
 ||smetrics.alfaromeousa.com^
 ||smetrics.allaboutwater.com^
 ||smetrics.allenedmonds.ca^
-||smetrics.allianz.com.au^
 ||smetrics.allstatecorporation.com^
 ||smetrics.allstateidentityprotection.com^
 ||smetrics.altomfrontline.dk^
@@ -5580,6 +5577,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -5826,6 +5824,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6416,6 +6415,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6740,6 +6740,7 @@
 ||scanalytics.wral.com^
 ||scookies-adobe.cbc.be^
 ||scookies-adobe.kbc-group.com^
+||scookies-adobe.kbc.be^
 ||scookies-adobe.kbc.com^
 ||scookies-adobe.kbcbrussels.be^
 ||scookies-adobe.kbclease.lu^
@@ -6747,7 +6748,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7811,7 +7811,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -10911,6 +10910,7 @@
 ||trck.ins.northcascadeins.com^
 ||trck.ins.vnyins.com^
 ||trck.ins.webberadvisors.com^
+||trck.inside.juniper.net^
 ||trck.insights.1finity.com^
 ||trck.medlem.elogit.no^
 ||trck.news.aquadatastudio.com^
@@ -11942,6 +11942,7 @@
 ||app.augustaentertainmentcomplex.com^
 ||app.baylorbears.com^
 ||app.centreinthesquare.com^
+||app.fightingillini.com^
 ||app.fordidahocenter.com^
 ||app.gomocs.com^
 ||app.goredbirds.com^
@@ -17847,6 +17848,7 @@
 ||analytics.joog.com.br^
 ||analytics.julesmat.be^
 ||analytics.junglecampsa.com^
+||analytics.justbid.com^
 ||analytics.justice.tax^
 ||analytics.justicetax.pro^
 ||analytics.jwaherjewels.com^
@@ -30816,7 +30818,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||service-ad-image-ga-weighted.prd.pluto.tv^
@@ -31120,6 +31121,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31237,7 +31239,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31330,6 +31331,7 @@ prd.api.bleacherreport.com^
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.tio.ch^
+||analytics.tmonews.com^
 ||analytics.tout.com^
 ||analytics.tripoto.com^
 ||analytics.us.archive.org^
@@ -31495,6 +31497,7 @@ prd.api.bleacherreport.com^
 ||log.zdnet.co.kr^
 ||log.zepeto.io^
 ||log*.aliyuncs.com^
+||log000.goo.ne.jp^
 ||logcol.kyobobook.co.kr^
 ||logcollect.totalcms.ncloud.or.kr^
 ||logger-*.dailymotion.com^
@@ -31721,6 +31724,7 @@ prd.api.bleacherreport.com^
 ||video-ad-stats.googlesyndication.com^
 ||webed.dm-event.net^
 ||webid.ad.daum.net^
+||weblog.coupang.com^
 ||weblog.hankookilbo.com^
 ||weblog.zdnet.co.kr^
 ||wlog.tmon.co.kr^
@@ -32311,6 +32315,7 @@ dlsdk.appsflyer.com^
 ||scenicapparel.com^
 ||serenecascade.com^
 ||shadeship.com^
+||sidetrades.com^
 ||skylightdata.com^
 ||slickcontent.com^
 ||smoggystation.com^
