@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-18T05:22:59.157Z
+! Last modified: 2026-06-19T05:23:14.280Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32334
+! Rules count: 32338
 !
+||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
 ||welovedata.go2cloud.org^
 ||identity.treeumapp.net^
@@ -2836,6 +2837,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3516,6 +3518,7 @@
 ||data.santandertestingamerica.test.ajo.adobe.com^
 ||data.savings.nsandi.com^
 ||data.sbux.test.ajo.adobe.com^
+||data.securemetrics-apple.com^
 ||data.service.5555555.co.il^
 ||data.service.9mil.co.il^
 ||data.service.aware.com.au^
@@ -7077,7 +7080,6 @@
 ||smetrics.cru.org^
 ||smetrics.crystalski.ie^
 ||smetrics.css.ch^
-||smetrics.csu.edu.au^
 ||smetrics.cupraofficial.com^
 ||smetrics.curel.com^
 ||smetrics.cytivalifesciences.co.kr^
@@ -7773,6 +7775,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -10129,7 +10132,6 @@
 ||data-8053aabdac.integrale-planung.net^
 ||data-81547504c8.fupa.net^
 ||data-83380557db.fupa.net^
-||data-8468e8ebc5.laola1.at^
 ||data-84a0f3455d.transfermarkt.at^
 ||data-84a0f3455d.transfermarkt.be^
 ||data-84a0f3455d.transfermarkt.ch^
@@ -29907,6 +29909,7 @@
 ||stape.tintim.app^
 ||stape.track.kadumagalhaes.com^
 ||stape.tradercyber.com^
+||stape.transkriptor.com^
 ||stape.travuscapital.com.br^
 ||stape.triadeflow.com.br^
 ||stape.triopadilhao.com.br^
@@ -30782,6 +30785,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||mcs-normal-*.capcutapi.com^
 ||tracker-proxy.getmimo.com^
 ||cchome-stage.adobe.io^
 ||analytics.learndirect.com^
