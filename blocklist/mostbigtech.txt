@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-19T05:23:17.306Z
+! Last modified: 2026-06-20T05:23:32.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -814,6 +814,7 @@
 ||t-ring-s2.msedge.net^
 ||t-ring-trafficshield.msedge.net^
 ||t-s1-ring.msedge.net^
+||t-s2-ring.msedge.net^
 ||win10-trt.msedge.net^
 ||metric.appex-rf.msn.com^
 ||c.ar.msn.com^
