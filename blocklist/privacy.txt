@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-20T05:23:30.041Z
+! Last modified: 2026-06-21T05:23:45.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32314
+! Rules count: 32335
 !
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -181,6 +181,7 @@
 ||geo-service.adtelligent.com^
 ||collect-v*.51.la^
 ||ip.momentummedia.com.au^
+||cdn.userleap.com^
 ||analytics.recruitics.com^
 ||trace.zhiyan.tencent-cloud.net^
 ||log.voicecloud.cn^
@@ -713,6 +714,7 @@
 ||media.claritylabsolutions.com^
 ||media.leahy-ifp.com^
 ||michiganfirstcreditunion.fmservice.com^
+||mktg.aicipc.com^
 ||newjersey-content.cresa.com^
 ||news.cfoleadership.com^
 ||news.coloradobiz.com^
@@ -887,6 +889,7 @@
 ||info.northcdatacenters.com^
 ||info.philadelphia.aleragroup.com^
 ||info.rbatriad.com^
+||info.readingpartners.org^
 ||info.relphbenefitadvisors.aleragroup.com^
 ||info.safelogic.com^
 ||info.scottmadden.com^
@@ -1045,7 +1048,9 @@
 ||marketing.quickloadz.com^
 ||marketing.readinghorizons.com^
 ||marketing.readtolead.org^
+||marketing.sap.events.deloitte.com^
 ||marketing.seobusinessreporter.com^
+||marketing.sertantcapital.com^
 ||marketing.shadow-soft.com^
 ||marketing.shurtapemail.com^
 ||marketing.sonomawealthadvisors.com^
@@ -3752,7 +3757,6 @@
 ||metrics.calimera.com^
 ||metrics.camperboerse.com^
 ||metrics.chipotle.co.uk^
-||metrics.codesports.com.au^
 ||metrics.confectionerynews.com^
 ||metrics.conveniencestore.co.uk^
 ||metrics.dairyreporter.com^
@@ -5575,7 +5579,6 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
-||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -5713,6 +5716,7 @@
 ||data1.virginmobile.ca^
 ||dev.email-signify.cjm.adobe.com^
 ||digistat.westjet.com^
+||digistats.westjet.com^
 ||dplp1.ibmnorthamerica.adobesandbox.com^
 ||ecn-analytics.emc.com^
 ||emetrics.bose.com^
@@ -7206,6 +7210,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -10311,7 +10316,6 @@
 ||data-f59db3288b.trauer.nrw^
 ||data-f59db3288b.wahl.news^
 ||data-f5d00c1ea1.tageskarte.io^
-||data-f6693670bf.sn.at^
 ||data-f690045316.sicht-sonnenschutz.com^
 ||data-fa2c5597f6.elektrobike-online.com^
 ||data-fc6e3104c2.gatrixx.com^
@@ -10471,6 +10475,7 @@
 ||tr.emailing.canalsat.ch^
 ||tr.emailing.cifea-mkg.com^
 ||tr.emailing.cnam-paysdelaloire.fr^
+||tr.emailing.coe.int^
 ||tr.emailing.cstar.fr^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
@@ -10644,6 +10649,7 @@
 ||app.belvitur.com.br^
 ||app.care.eisenhowerhealthcares.org^
 ||app.connections.te.com^
+||app.email.forrester.com^
 ||app.go.emersonprocess.com^
 ||app.health.bjc.org^
 ||app.id.plascoid.com^
@@ -11341,6 +11347,7 @@
 ||webtracking.cuwebinars.com^
 ||amer.juniper.net^
 ||apac.juniper.net^
+||content.juniper.net^
 ||forms.juniper.net^
 ||insights.harvardbusiness.org^
 ||metrics-now.experian.com^
@@ -11412,6 +11419,7 @@
 ||app.usctrojans.com^
 ||ar.quadient.com^
 ||economicadvantage.midamerican.com^
+||info.cegbu.oraclecloud.com^
 ||secure.gartnerevents.com^
 ||tracking.guidehouse.com^
 ||app.12thman.com^
@@ -11517,6 +11525,7 @@
 ||app.jusnet.pt^
 ||beedigital.padigital.es^
 ||events.enigen.co.uk^
+||info.aranzadilaley.es^
 ||info.checkin.pwc.com^
 ||lp.smartbusiness.samsung.com^
 ||sandboxdownload.dnv.com^
@@ -11571,6 +11580,7 @@
 ||services.relationshipone.com^
 ||smallbusiness.adpinfo.com^
 ||solutions.refinitiv.cn^
+||subscribe.adpinfo.com^
 ||survey.relationshipone.com^
 ||tracking.abrdn.com^
 ||tracking.adp-iat.adp.ca^
@@ -11647,6 +11657,7 @@
 ||tradeshow.edm.globalsources.com^
 ||track.auckland.ac.nz^
 ||track.manawa-mai.ac.nz^
+||contents.pwc.com^
 ||page.go.imdaad.ae^
 ||subscription.coface.com^
 ||tracking.abraservice.com^
@@ -12038,6 +12049,7 @@
 ||email-ap.joneslanglasalle.com.cn^
 ||events.icmi.com^
 ||events.ricoh.ie^
+||learn.certiport.com^
 ||track.info.cancertherapyadvisor.com^
 ||track.info.clinicaladvisor.com^
 ||track.info.clinicalpainadvisor.com^
@@ -12085,6 +12097,7 @@
 ||tracking2.labcorp.com^
 ||app.marketing.richardsonrfpd.com^
 ||branch.verintsystemsinc.com^
+||content.verint.com^
 ||download.createyournextcustomer.com^
 ||events.newyorklifeinvestments.com^
 ||tracking.direxion.com^
@@ -12247,6 +12260,7 @@
 ||links.npsemails.mbna.co.uk^
 ||mail.coloplastprofessional.com^
 ||marketing-automation.amadeus.com^
+||marketing.amadeus.com^
 ||nationalbusinessawards.ubm-events.com^
 ||shows.anticipate-event.com^
 ||shows.anticipate-london.com^
@@ -12273,6 +12287,7 @@
 ||eloquatracking.iqvia.com^
 ||eventos.abastur.com^
 ||eventos.cihac.com^
+||newsletters.bancsabadell.com^
 ||procurement.cipscomms.org^
 ||email-am.stage.ca.jll.com^
 ||event.aieverythingegypt.com^
@@ -12301,15 +12316,20 @@
 ||tracking.info.jeffersonhealth.org^
 ||tracking.link.boone.health^
 ||webtrackingvet.rossu.edu^
+||content.brightmine.com^
+||engage.broadcom.com^
 ||featured.bradyid.com^
 ||forms.bradyid.com^
+||go-vmware.broadcom.com^
 ||sw.broadcom.com^
 ||tracking.air-worldwide.com^
 ||tracking.solartrade-us.baywa-re.com^
 ||tracking.verisk.com^
 ||communications.apilayer.com^
 ||communications.embarcadero.com^
+||content.eaton.com^
 ||events.lexmark.com^
+||forms.embarcadero.com^
 ||go.email.santotomas.cl^
 ||metricsinfoqac.edc.ca^
 ||now.informamail09.com^
@@ -18886,7 +18906,6 @@
 ||capig.makertechlabs.com.br^
 ||capig.meetspacevr.co.uk^
 ||capig.mobile.telekom.ro^
-||capig.noiza.com^
 ||capig.optimalsolicitors.com^
 ||capig.optionsmedicalweightloss.com^
 ||capig.outhere-music.com^
@@ -19454,7 +19473,6 @@
 ||events.farmapontemanipulacao.com.br^
 ||events.flanco.ro^
 ||events.flyingeyesoptics.com^
-||events.galerieslafayette.qa^
 ||events.gartland.com.au^
 ||events.georgebrazilhvac.com^
 ||events.giftcardgranny.com^
@@ -24751,6 +24769,7 @@
 ||load.stag.optibase.io^
 ||load.stags.supremeopti.com^
 ||load.stape-gtm.chrisbeard.coach^
+||load.stape-sgtm.standupamerica.com^
 ||load.stape.3rdsetce.com^
 ||load.stape.acarolinecastro.com.br^
 ||load.stape.alexandreroth.com^
@@ -30801,6 +30820,7 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
+||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||service-ad-image-ga-weighted.prd.pluto.tv^
@@ -30927,13 +30947,13 @@ prd.api.bleacherreport.com^
 ||clog.lghv.net^
 ||stlog*-local.kakao.com^
 ||mssdk*.capcutapi.com^
-||events.attentivemobile.com^
 ||events.statsigapi.net^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||apollo.miniclip.com^
+||log-upload-os.hoyoverse.com^
 ||pixels.argusplatform.com^
 ||logging.g.sst.secureserver.net^
 ||collector-*.px-client.net^
@@ -31205,6 +31225,7 @@ prd.api.bleacherreport.com^
 ||analytics.*.sky.com^
 ||kinesis.eu-west-1.amazonaws.com^
 ||inlog01.hket.com^
+||pingback.giphy.com^
 ||analytics.zoomit.ir^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
@@ -31427,10 +31448,8 @@ prd.api.bleacherreport.com^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||events-api*.outfit7.com^
-||events.apester.com^
 ||events.jora.com^
 ||events.newsroom.bi^
-||events.privy.com^
 ||events.reclamefolder.nl^
 ||events.release.narrativ.com^
 ||events*.cre.ma^
@@ -31474,6 +31493,7 @@ prd.api.bleacherreport.com^
 ||log.krs-ix.ru^
 ||log.outbrainimg.com^
 ||log.polarisoffice.com^
+||log.quora.com^
 ||log.reformal.ru^
 ||log.tf.co.kr^
 ||log.ttbc-hcm.gov.vn^
@@ -31704,6 +31724,7 @@ prd.api.bleacherreport.com^
 ||tracking.yourfilehost.com^
 ||tracking*.euroads.fi^
 ||tsj0.madeindesign.com^
+||ubt-sin.tripcdn.com^
 ||vhsrwd.aip24.pl^
 ||video-ad-stats.googlesyndication.com^
 ||webed.dm-event.net^
@@ -31877,7 +31898,6 @@ dlsdk.appsflyer.com^
 ||stat.tpns.sgp.tencent.com^
 ||guid.tpns.sgp.tencent.com^
 ||usstat.icocofun.com^
-||eats-ads-event-capture.coupang.com^
 ||log1.perfectworldgames.com^
 ||log2.perfectworldgames.com^
 ||apm-track.xiaohongshu.com^
@@ -32078,6 +32098,7 @@ dlsdk.appsflyer.com^
 ||log.adtimaserver.vn^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
+||consent-manager-events.ogury.io^
 ||api.share.mob.com^
 ||sq.requestads.com^
 ||track.mobshark.net^
