@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-21T05:23:45.307Z
+! Last modified: 2026-06-22T05:24:00.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32335
+! Rules count: 32345
 !
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -169,6 +169,7 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2287,6 +2288,7 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
+||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2326,6 +2328,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2837,6 +2840,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5579,6 +5583,7 @@
 ||adobeanalytics.allegisglobalsolutions.com^
 ||adobeanalytics.allegisgroup.com^
 ||adobeanalytics.astoncarter.com^
+||adobeanalytics.bws.com.au^
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
@@ -6747,6 +6752,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -6949,6 +6955,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7811,6 +7818,7 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
+||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -7888,7 +7896,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -10369,6 +10376,7 @@
 ||adat.mainap.hu^
 ||adat.mandiner.hu^
 ||adat.mediaworks.hu^
+||adat.mindmegette.hu^
 ||adat.mlog.hu^
 ||adat.nool.hu^
 ||adat.petofinepe.hu^
@@ -22164,6 +22172,7 @@
 ||gtm.vaultfurniture.com^
 ||gtm.vectax.com.br^
 ||gtm.veesion.io^
+||gtm.vemmed.com^
 ||gtm.vendamaislingerie.com.br^
 ||gtm.vendasprodutosonlinesf.com^
 ||gtm.vendedormestre.com.br^
@@ -25485,7 +25494,6 @@
 ||sadi.theminoxidil5.com^
 ||sapgtm.mookaa.co.in^
 ||sapi.allstroreshop.com^
-||sapi.bingo.bet.br^
 ||sapi.kyvoo.io^
 ||sapi.start.bet.br^
 ||sapi.worbit.io^
@@ -30737,6 +30745,7 @@
 ||web.email.umbro.co.uk^
 ||web.mail.koganpage.com^
 ||web.mail.nordiq.dk^
+||web.mail.parmalat.it^
 ||web.mail.proximaati.com^
 ||web.mailing.morawa.at^
 ||web.mailing.storz-bickel.com^
@@ -30851,6 +30860,7 @@
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
+||collector.moderntv.eu^
 ||ipm.adblockplus.dev^
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
@@ -30920,7 +30930,6 @@ prd.api.bleacherreport.com^
 ||sgtm.wimdu.
 ||data.festool.pl^
 ||tagging.rodimedia.nl^
-||pipeline.rd.nl^
 ||log.kroffle.net^
 ||event.*.shoplive.cloud^
 ||backend-pixel.zotek.io^
@@ -31125,7 +31134,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31244,6 +31252,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -32078,6 +32087,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
