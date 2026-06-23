@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-22T05:24:00.264Z
+! Last modified: 2026-06-23T05:24:16.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32345
+! Rules count: 32353
 !
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -4102,7 +4102,6 @@
 ||smetrics.animalhealthacademy.com.au^
 ||smetrics.apellis.com^
 ||smetrics.apolloplatform.com^
-||smetrics.apuestasdeportivas.com^
 ||smetrics.ascentric.co.uk^
 ||smetrics.aservoequihaler.com^
 ||smetrics.asgrow.com.ar^
@@ -5378,6 +5377,7 @@
 ||ssc.polygraph.info^
 ||ssc.radiomarsho.com^
 ||ssc.radiosawa.com^
+||ssc.radiotavisupleba.ge^
 ||ssc.radiotelevisionmarti.com^
 ||ssc.radiyoyacuvoa.com^
 ||ssc.szabadeuropa.hu^
@@ -6419,7 +6419,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6927,6 +6926,7 @@
 ||smetrics.ancestryinstitution.com^
 ||smetrics.ancestrystage.com^
 ||smetrics.angara.com^
+||smetrics.anwagolf.com^
 ||smetrics.aptaclub.co.uk^
 ||smetrics.aptashop.co.uk^
 ||smetrics.arcobusinesssolutions.com^
@@ -6955,7 +6955,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7896,6 +7895,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -8539,6 +8539,7 @@
 ||tags.polygraph.info^
 ||tags.radiomarsho.com^
 ||tags.radiosawa.com^
+||tags.radiotavisupleba.ge^
 ||tags.radiyoyacuvoa.com^
 ||tags.realestate.com.au^
 ||tags.roberthalf.cn^
@@ -13099,6 +13100,7 @@
 ||track.icowhide.com^
 ||track.injuryjusticealliance.com^
 ||track.kitup.net^
+||track.kodland.org^
 ||track.libertysavings.org^
 ||track.lifeswitcher.com^
 ||track.lifewelllived.fitness^
@@ -17840,6 +17842,7 @@
 ||analytics.foodanddrinkstyling.com^
 ||analytics.gentselegance.com^
 ||analytics.gorgeous-il.co.il^
+||analytics.govyy.com^
 ||analytics.grabogarden.com^
 ||analytics.greentoe.com^
 ||analytics.greenwaste.com^
@@ -20207,7 +20210,6 @@
 ||gtm.cristinedentista.com.br^
 ||gtm.croamareshotel.com^
 ||gtm.cronicasdamoda.com^
-||gtm.cruzeirodosul.edu.br^
 ||gtm.cryptoknightacademy.com^
 ||gtm.crystalunits.com^
 ||gtm.cspedras.com.br^
@@ -21071,6 +21073,7 @@
 ||gtm.lucasnaves.com^
 ||gtm.lucibellagrupowhatsapp.cabe.shop^
 ||gtm.lucioflaviopaiva.com^
+||gtm.luck.bet^
 ||gtm.lucrandocomdelivery.com.br^
 ||gtm.ludicjalecos.com^
 ||gtm.luega.com.br^
@@ -30789,7 +30792,9 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||stats.mappl.tv^
+||collector.umogames.com^
+||collector.quizzop.com^
+||collector.feedzop.com^
 ||mcs-normal-*.capcutapi.com^
 ||tracker-proxy.getmimo.com^
 ||cchome-stage.adobe.io^
@@ -30825,6 +30830,7 @@
 ||pixel.udpauto.ru^
 ||datadog-log.clovergames.io
 ||events1.avantisvideo.com^
+||event.tradedealer.ru^
 ||analytics.editorialedomani.it^
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
@@ -30832,6 +30838,7 @@
 ||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
+||event-storage.netmonet.co^
 ||service-ad-image-ga-weighted.prd.pluto.tv^
 ||analytics.launcherleaks.net^
 ||t.collectiveaudience.co^
@@ -30944,6 +30951,7 @@ prd.api.bleacherreport.com^
 ||pixel.thoughtmetric.io^
 ||tracking-sales-pop.carecart.io^
 ||logs.getfiddler.com^
+||logs.viewstats.com^
 ||mystats.flixfiend.top^
 ||ca-log.cafe24data.com^
 ||mon-va.capcutapi.com^
@@ -30970,7 +30978,6 @@ prd.api.bleacherreport.com^
 ||acr-*-prd.samsungcloud.tv^
 .prod.pr.analytics.console.aws.a2z.com
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
-||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||co932.coloradopolitics.com^
 ||d485.capitalgazette.com^
@@ -31870,6 +31877,7 @@ dlsdk.appsflyer.com^
 ||events.backtrace.io^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||stat.apfgexfusion.com^
+||events-api.lyrebirdstudio.net^
 ||report.1-1.io^
 ||logdata.hatspotlight.asia^
 ||datarangers-event.myrightone.com^
