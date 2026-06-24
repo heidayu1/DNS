@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-23T05:24:16.663Z
+! Last modified: 2026-06-24T05:24:32.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32353
+! Rules count: 32345
 !
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -169,7 +169,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2328,7 +2327,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2840,7 +2838,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -4261,6 +4258,7 @@
 ||smetrics.bmsstudyconnect.com^
 ||smetrics.bmwgroupdirect.com^
 ||smetrics.bnpparibas.com^
+||smetrics.bny.com^
 ||smetrics.boehringer-academy.co.uk^
 ||smetrics.boehringer-ingelheim.ch^
 ||smetrics.boehringer-ingelheim.co.uk^
@@ -6419,6 +6417,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6751,7 +6750,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7216,7 +7214,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7491,7 +7488,6 @@
 ||smetrics.payback.at^
 ||smetrics.payback.it^
 ||smetrics.payback.net^
-||smetrics.payback.pl^
 ||smetrics.pcid.ca^
 ||smetrics.pcoptimum.ca^
 ||smetrics.pcworld.co.uk^
@@ -7779,7 +7775,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7817,7 +7812,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -12184,7 +12178,6 @@
 ||tracking.health.bilh.org^
 ||tracking.infiniti-dubai.com^
 ||tracking.nissan-dubai.com^
-||tracking.pepsicopartners.com^
 ||tracking.ti.com.cn^
 ||tracking.your.montagehealth.org^
 ||trk.imeeventscalendar.com^
@@ -12396,6 +12389,7 @@
 ||analytics.akvo.org^
 ||analytics.digiplace.site^
 ||analytics.effectory.com^
+||analytics.ferrero.com^
 ||analytics.hr.nl^
 ||epiphany.masterworks.digital^
 ||logfiles.storck.com^
@@ -13755,7 +13749,6 @@
 ||data.ledstripkoning.nl^
 ||data.legendary90s.be^
 ||data.lexuswarszawa-zeran.pl^
-||data.librairieclub.be^
 ||data.lsp.pl^
 ||data.luminadeco.pl^
 ||data.lumond.com^
@@ -30792,7 +30785,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
-||collector.umogames.com^
+||event-collector.analytics.onedio.com^
 ||collector.quizzop.com^
 ||collector.feedzop.com^
 ||mcs-normal-*.capcutapi.com^
@@ -30835,7 +30828,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -31129,7 +31121,6 @@ prd.api.bleacherreport.com^
 ||analytics.pangle-ads.com^
 ||analytics.fap.bar^
 ||analytics-batch.blitz.gg^
-||log.kinolights.com^
 ||analytics.msk1.ru^
 ||metrics.viqeo.tv^
 ||analytics-dataplane.invideo.io^
@@ -31141,6 +31132,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31259,7 +31251,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31613,6 +31604,7 @@ prd.api.bleacherreport.com^
 ||spade.twitch.tv^
 ||spixel.socy.es^
 ||stat.4u.pl^
+||stat.5-tv.ru^
 ||stat.adultium.com^
 ||stat.alibaba.com^
 ||stat.alloha.tv^
@@ -31717,6 +31709,7 @@ prd.api.bleacherreport.com^
 ||tracker.mattel.com^
 ||tracker.pinnaclesports.com^
 ||tracker.secretescapes.com^
+||tracker.softcube.com^
 ||tracker.stats.in.th^
 ||tracker.tubecj.com^
 ||trackers.adtarget.me^
@@ -32095,7 +32088,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
