@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-24T05:24:32.297Z
+! Last modified: 2026-06-25T05:24:48.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32345
+! Rules count: 32351
 !
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -2838,6 +2838,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -3020,7 +3021,6 @@
 ||data.elnortedecastilla.es^
 ||data.elu.nespresso.com^
 ||data.em.assurancewireless.com^
-||data.em.canadiantire.ca^
 ||data.em.ringcentral.com^
 ||data.em.scotiabank.com^
 ||data.em.t-mobile.com^
@@ -3528,6 +3528,7 @@
 ||data.service.costa.it^
 ||data.service.firestonecompleteautocare.com^
 ||data.service.hibdontiresplus.com^
+||data.service.manulife.ca^
 ||data.service.miumiu.com^
 ||data.service.movir.nl^
 ||data.service.nordea.fi^
@@ -3563,7 +3564,6 @@
 ||data.socio.realmadrid.net^
 ||data.spiritairlines.test.ajo.adobe.com^
 ||data.srvc.cadillacfinancial.com^
-||data.srvc.gmfinancial.com^
 ||data.ssb.test.ajo.adobe.com^
 ||data.stage-mail.fpl.com^
 ||data.stage-message.aircanada.com^
@@ -5373,6 +5373,7 @@
 ||ssc.azadliq.org^
 ||ssc.mashaalradio.com^
 ||ssc.polygraph.info^
+||ssc.radiofarda.com^
 ||ssc.radiomarsho.com^
 ||ssc.radiosawa.com^
 ||ssc.radiotavisupleba.ge^
@@ -5827,6 +5828,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6953,6 +6955,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7214,6 +7217,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7812,6 +7816,7 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
+||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -11978,6 +11983,7 @@
 ||app.gozips.com^
 ||app.jaxstatesports.com^
 ||app.ksuowls.com^
+||app.mgoblue.com^
 ||app.mogosme.com^
 ||app.msubobcats.com^
 ||app.scarletknights.com^
@@ -30785,6 +30791,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||appview.fafafa.ai^
 ||event-collector.analytics.onedio.com^
 ||collector.quizzop.com^
 ||collector.feedzop.com^
@@ -30935,7 +30942,6 @@ prd.api.bleacherreport.com^
 ||monitor.ns1-s.rspcdn.net^
 ||d3aicbrzoy14kh.cloudfront.net^
 ||metrics.motoblouz.com^
-||beacon-*.helpscout.net^
 ||tracker.uira.live^
 ||events-collector-dataplatform.action-media.ru^
 ||track-events.membrana.media^
