@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-25T05:24:48.904Z
+! Last modified: 2026-06-26T05:25:05.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32351
+! Rules count: 32348
 !
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -4342,7 +4342,6 @@
 ||smetrics.citeline.com^
 ||smetrics.citibank.ae^
 ||smetrics.civilsandutilities.com^
-||smetrics.clearly.ca^
 ||smetrics.climate.com^
 ||smetrics.climatefieldview.be^
 ||smetrics.climatefieldview.es^
@@ -5186,7 +5185,6 @@
 ||smetrics.taylors.edu.my^
 ||smetrics.techdata.com^
 ||smetrics.teletoon.com^
-||smetrics.telustvplus.com^
 ||smetrics.tennantco.com^
 ||smetrics.tetrapak.com^
 ||smetrics.theathletesfoot.co.nz^
@@ -5828,7 +5826,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6955,7 +6952,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7217,7 +7213,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7492,6 +7487,7 @@
 ||smetrics.payback.at^
 ||smetrics.payback.it^
 ||smetrics.payback.net^
+||smetrics.payback.pl^
 ||smetrics.pcid.ca^
 ||smetrics.pcoptimum.ca^
 ||smetrics.pcworld.co.uk^
@@ -30791,6 +30787,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||analytics.wispbyte.com^
 ||appview.fafafa.ai^
 ||event-collector.analytics.onedio.com^
 ||collector.quizzop.com^
@@ -30798,6 +30795,7 @@
 ||mcs-normal-*.capcutapi.com^
 ||tracker-proxy.getmimo.com^
 ||cchome-stage.adobe.io^
+||cchome.adobe.io^
 ||analytics.learndirect.com^
 ||data.deschouwwitgoed.nl^
 ||metrics.nautilus2.pl^
@@ -30843,6 +30841,7 @@
 ||t.collectiveaudience.co^
 ||rum.api.intuit.com^
 ||logs.collector.*.cloud.solarwinds.com^
+||events.insiad.com^
 ||agatha-log-service-*.a.run.app^
 ||hw-t.hypers.com.cn^
 ||pixel-conversion.apps.seabroadnet.com^
@@ -31924,7 +31923,6 @@ dlsdk.appsflyer.com^
 ||applog*.matrix.easebar.com^
 ||smartcard.apps.coloros.com^
 ||api-fp-retry-bj.fengkongcloud.com^
-||t-odx.op-mobile.opera.com^
 ||ulog*.gifshow.com^
 ||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
@@ -32140,7 +32138,6 @@ dlsdk.appsflyer.com^
 ||imp.startappservice.com^
 ||analytics.any.do^
 ||m.vpadn.com^
-||pps-log.op-mobile.opera.com^
 ||tktracker.aotter.net^
 ||android.bugly.qq.com^
 ||astat.bugly.qq.com^
