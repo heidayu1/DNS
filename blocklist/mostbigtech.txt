@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-26T05:25:07.776Z
+! Last modified: 2026-06-27T05:25:23.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -876,8 +876,6 @@
 ||confiant.msn.com^
 ||flex.msn.com^
 ||g00.msn.com^
-||h1.msn.com^
-||h2.msn.com^
 ||h6.msn.com^
 ||mobileads.msn.com^
 ||mobileleads.msn.com^
@@ -1897,6 +1895,7 @@
 ||jupiter.sys.miui.com^
 ||metok.sys.miui.com^
 ||intl.up.w.xk.miui.com^
+||ad.miui.com^
 ||app.miui.com^
 ||browser.miui.com^
 ||events.miui.com^

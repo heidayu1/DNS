@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-26T05:25:05.064Z
+! Last modified: 2026-06-27T05:25:21.082Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32348
+! Rules count: 32350
 !
+||opecloud.com^
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
 ||welovedata.go2cloud.org^
@@ -2838,7 +2839,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5059,7 +5059,7 @@
 ||smetrics.samsung.com.cn^
 ||smetrics.saucony.com.au^
 ||smetrics.savewithsrpbiz.com^
-||smetrics.sbishinseibank.co.jp^
+||smetrics.sazeracbarrelselect.com^
 ||smetrics.scarboroughtoyota.ca^
 ||smetrics.schindler-berufsbildung.ch^
 ||smetrics.schindler-cz.cz^
@@ -5223,6 +5223,7 @@
 ||smetrics.tunegocioenserio.com^
 ||smetrics.tunisie.pwc.fr^
 ||smetrics.tuvsud.cn^
+||smetrics.tuvsud.com^
 ||smetrics.tv2media.dk^
 ||smetrics.tv2reklame.dk^
 ||smetrics.tyknology.com^
@@ -7213,6 +7214,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -9311,6 +9313,7 @@
 ||jhvhh.marinadelreyhotel.com^
 ||jihzn.feature.com^
 ||jlnlo.losangelesapparel.net^
+||jnecc.jadedldn.com^
 ||jnjbq.monicavinader.com^
 ||joqdd.madeincookware.com.au^
 ||jqmft.pyramidcollection.com^
@@ -31402,7 +31405,6 @@ prd.api.bleacherreport.com^
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect.igodigital.com^
-||collect.usefathom.com^
 ||collector-hpn.ghostery.net^
 ||collector.bunchbox.co^
 ||collector.hamsterix.
