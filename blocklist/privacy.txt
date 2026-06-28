@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-27T05:25:21.082Z
+! Last modified: 2026-06-28T05:25:36.448Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32350
+! Rules count: 32353
 !
 ||opecloud.com^
 ||clickhouse-collector.*.prod.plat.agency^
@@ -5827,6 +5827,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -22038,6 +22039,7 @@
 ||gtm.thisdogslife.co^
 ||gtm.thomtax.co.uk^
 ||gtm.thorbjjcf.com.br^
+||gtm.thwifty.com^
 ||gtm.tiagoalves.com.br^
 ||gtm.tiaodabet.com.br^
 ||gtm.tilesparadiseuk.com^
@@ -25317,6 +25319,7 @@
 ||metrics.wnc-cbd.com^
 ||metrics.yatrakundaliniactivation.fr^
 ||metrics.zamnesia.com^
+||metricsnadtc.haworth.com^
 ||metricsvtex.oficinareserva.com^
 ||metro.truewisemedia.net^
 ||micasa.eventofaturandoalto.com^
@@ -25521,7 +25524,6 @@
 ||securedata.aiper.com^
 ||securedata.aiper.store^
 ||securedata.merachfit.com^
-||securemetrics.velotricbike.com^
 ||sellup.badana.cl^
 ||semlimites.a2baceleradora.com^
 ||sensseloshop-ss.checkoutera.com^
@@ -31405,6 +31407,7 @@ prd.api.bleacherreport.com^
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect.igodigital.com^
+||collect.usefathom.com^
 ||collector-hpn.ghostery.net^
 ||collector.bunchbox.co^
 ||collector.hamsterix.
