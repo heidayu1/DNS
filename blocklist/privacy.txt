@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-28T05:25:36.448Z
+! Last modified: 2026-06-29T05:25:52.070Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32353
+! Rules count: 32360
 !
+||dsp-track-global.zmaticoo.com^
 ||opecloud.com^
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
@@ -170,6 +171,7 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2839,6 +2841,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5827,7 +5830,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6418,7 +6420,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6467,6 +6468,7 @@
 ||metrics.westnet.com.au^
 ||metrics.westpac.com.au^
 ||metrics.wgu.edu^
+||metrics.williamhill.com^
 ||metrics.williamhill.es^
 ||metrics.williams-sonoma.ca^
 ||metrics.williams-sonoma.com^
@@ -6751,6 +6753,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -6954,6 +6957,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7778,6 +7782,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7893,7 +7898,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -30838,6 +30842,7 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
+||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -30998,7 +31003,6 @@ prd.api.bleacherreport.com^
 ||w9g7dlhw3kaank.www.eldorado.gg^
 ||tracker.jkplayers.com^
 ||b.ranking.apis.sankei-digital.co.jp^
-||is-log.furunavi.jp^
 ||analytics-op.streak.ninja^
 ||track.streak.ninja^
 ||analytics-api.sconto.cz^
@@ -31142,7 +31146,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31261,6 +31264,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31892,6 +31896,7 @@ dlsdk.appsflyer.com^
 ||stats.*.rongnav.com^
 ||log.wigoliv.work^
 ||log.suddenclean.com^
+||lw-c-log.lastwarapp.com^
 ||fcm-collect-api.alyac.com^
 ||mssdk.capcutapi.us
 ||jdlog.uu.cc^
@@ -31973,6 +31978,7 @@ dlsdk.appsflyer.com^
 ||mob2.healthtrackergroup.com^
 ||event-dot-learning-piano.appspot.com^
 ||events.swiftlycontent.net^
+||log.cleandesigner.live^
 ||event.karrotmarket.com^
 ||iot-in-logser.realme.com^
 ||push-api.topaz-analytics.com^
@@ -32097,6 +32103,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
