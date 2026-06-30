@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-29T05:25:52.070Z
+! Last modified: 2026-06-30T05:26:10.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32360
+! Rules count: 32364
 !
+||telemetry.adsninja.ca^
 ||dsp-track-global.zmaticoo.com^
 ||opecloud.com^
 ||clickhouse-collector.*.prod.plat.agency^
@@ -87,6 +88,7 @@
 ||rsra-ph.cdn-fileserver.com^
 ||rsras-ph.cdn-fileserver.com^
 ||api.melonity.gg^
+||api.instant.one^
 ||analytics.pyksid.com^
 ||sr-client-cfg.amplitude.com^
 ||api.amplitude.com^
@@ -3858,7 +3860,6 @@
 ||metrics.ukfoodanddrinkshows.co.uk^
 ||metrics.wacken.com^
 ||metrics.william-reed.com^
-||metrics.wmg.com^
 ||metrics.worlds50bestbars.com^
 ||metrics.worldsbestbartendersselection.com^
 ||metrics.worldsbestsommeliersselection.com^
@@ -5524,6 +5525,7 @@
 ||aa.dysoncanada.ca^
 ||aametrics.aktia.fi^
 ||aamt.msnbc.com^
+||aanalytics.adelaide.edu.au^
 ||adb-secured.kijk.nl^
 ||adb.kijk.nl^
 ||adbmetrics.blogasturias.com^
@@ -6957,7 +6959,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7782,7 +7783,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7898,6 +7898,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -8456,6 +8457,7 @@
 ||assets2.suncorpbank.com.au^
 ||assets2.vanz.vero.co.nz^
 ||at-cdn.swisscom.ch^
+||atarget.adelaide.edu.au^
 ||mcdmetrics2.aaa.com^
 ||metrics-target.siriusxm.com^
 ||metrics.adobeprimetime.com^
@@ -8869,7 +8871,6 @@
 ||qmzwzz.headout.com^
 ||qolhpm.iparts.pl^
 ||qqcddg.henkelauto.com^
-||qqdflf.lpga.or.jp^
 ||qqhvso.outiror.com^
 ||qqinrm.jagodo.vn^
 ||qqjybs.digidirect.com.au^
@@ -13505,6 +13506,7 @@
 ||base.vrielingassuradeuren.nl^
 ||bluepanda.bike-mailorder.com^
 ||breadcrumb.wearezrcl.com^
+||bull.tradingfreaks.com^
 ||bwmetrics.jegy.hu^
 ||capi.autocoach.nl^
 ||capi.basecampfood.com^
@@ -30917,6 +30919,7 @@
 ||uxlog.next.koapp.com^
 ||stats.itc.ua^
 ||analytics-service.api.linkme.global^
+||cdn.instant.one^
 ||tracker-beam.aktuality.sk^
 ||agent-server.sc-api.seaart.ai^
 ||tracker.ris.promo^
@@ -31342,6 +31345,7 @@ prd.api.bleacherreport.com^
 ||analytics.islamicfinder.org^
 ||analytics.livestream.com^
 ||analytics.marquiz.ru^
+||analytics.move.ru^
 ||analytics.msnbc.msn.com^
 ||analytics.ooyala.com^
 ||analytics.proxer.me^
