@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-06-30T05:26:10.008Z
+! Last modified: 2026-07-01T05:26:27.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32364
+! Rules count: 32361
 !
 ||telemetry.adsninja.ca^
 ||dsp-track-global.zmaticoo.com^
@@ -173,7 +173,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -3860,6 +3859,7 @@
 ||metrics.ukfoodanddrinkshows.co.uk^
 ||metrics.wacken.com^
 ||metrics.william-reed.com^
+||metrics.wmg.com^
 ||metrics.worlds50bestbars.com^
 ||metrics.worldsbestbartendersselection.com^
 ||metrics.worldsbestsommeliersselection.com^
@@ -3867,6 +3867,7 @@
 ||metrics.worldsteakchallenge.com^
 ||metrics.ymobile.jp^
 ||metrics1.citicards.com^
+||metrics1.thankyou.com^
 ||mktlp.accenturemkt.adobesandbox.com^
 ||msub.mmail.northeast.aaa.com^
 ||nexus-track-ppr.dev.se.com^
@@ -4097,7 +4098,6 @@
 ||smetrics.amaroso.com.au^
 ||smetrics.ambettermeridian.com^
 ||smetrics.ambetterofillinois.com^
-||smetrics.americastire.com^
 ||smetrics.amersportsproclub.com^
 ||smetrics.amplifon.com^
 ||smetrics.animalhealthacademy.com.au^
@@ -6422,6 +6422,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6747,7 +6748,6 @@
 ||scanalytics.wral.com^
 ||scookies-adobe.cbc.be^
 ||scookies-adobe.kbc-group.com^
-||scookies-adobe.kbc.be^
 ||scookies-adobe.kbc.com^
 ||scookies-adobe.kbcbrussels.be^
 ||scookies-adobe.kbclease.lu^
@@ -6755,7 +6755,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7220,7 +7219,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -11825,6 +11823,7 @@
 ||gbtracking.finning.com^
 ||insights.golubcapital.com^
 ||lp.adp.com^
+||marketing.golubcapital.com^
 ||response.ingrammicrocloud.com^
 ||solutions.adp.com^
 ||stat.suresmile.dentsplysirona.com^
@@ -30844,7 +30843,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -31149,6 +31147,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31267,7 +31266,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -32107,7 +32105,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
