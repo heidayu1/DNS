@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-02T05:26:46.162Z
+! Last modified: 2026-07-02T14:40:51.027Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32368
+! Rules count: 32370
 !
 ||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
@@ -2365,6 +2365,7 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
+||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -3255,7 +3256,6 @@
 ||data.lagacetadesalamanca.es^
 ||data.larioja.com^
 ||data.lasprovincias.es^
-||data.latinamerica.coca-cola.com^
 ||data.laverdad.es^
 ||data.lavozdigital.es^
 ||data.leonoticias.com^
@@ -4953,6 +4953,7 @@
 ||smetrics.previcox.com^
 ||smetrics.prevnar20.com^
 ||smetrics.priceroadcorridor.com^
+||smetrics.privatebank.citibank.com^
 ||smetrics.projectbaseline.com^
 ||smetrics.prozinc.us^
 ||smetrics.prrs.com^
@@ -5831,7 +5832,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -7819,6 +7819,7 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
+||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -28570,7 +28571,6 @@
 ||sgtm.jmanta.com^
 ||sgtm.johnmccarthycpa.com^
 ||sgtm.johnsansomphoto.com^
-||sgtm.joinem.co^
 ||sgtm.joinluminous.com^
 ||sgtm.joshwrightpiano.com^
 ||sgtm.joyspringvitamins.com^
@@ -30803,6 +30803,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||sync.inmobi.com^
 ||stats.mapple.*^
 ||analytics.wispbyte.com^
 ||appview.fafafa.ai^
@@ -31721,6 +31722,7 @@ prd.api.bleacherreport.com^
 ||track.tproger.ru^
 ||track.ugamezone.com^
 ||track.websiteceo.com^
+||track.wildblue.com^
 ||track.zalando.
 ||tracker.arc.io^
 ||tracker.cartprotector.com^
