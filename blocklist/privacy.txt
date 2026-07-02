@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-01T05:26:27.493Z
+! Last modified: 2026-07-02T05:26:46.162Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32361
+! Rules count: 32368
 !
+||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
 ||dsp-track-global.zmaticoo.com^
 ||opecloud.com^
@@ -2364,7 +2365,6 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
-||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -2842,7 +2842,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5832,6 +5831,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -7149,6 +7149,7 @@
 ||smetrics.farmfutures.com^
 ||smetrics.farmprogress.com^
 ||smetrics.fcbarcelona.co.it^
+||smetrics.fcbarcelona.es^
 ||smetrics.fcbarcelona.fr^
 ||smetrics.fcbarcelona.jp^
 ||smetrics.fcbarcelona.net^
@@ -7818,7 +7819,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -9375,6 +9375,7 @@
 ||qtqqn.thriftvintagefashion.com^
 ||reuat.zestypaws.com^
 ||rfmqj.broadwaysd.com^
+||rgsql.dippindaisys.com^
 ||rlrxb.ziviapparel.com^
 ||rqqka.firsttactical.com^
 ||rscpm.tikisgeckos.com^
@@ -16169,6 +16170,7 @@
 ||load.thankyou.abeauty.ro^
 ||load.thefarmclub.deltashore.uk^
 ||load.tkyioiob.anewsleep.dk^
+||load.tm.all3dp.com^
 ||load.tm.dlthub.com^
 ||load.tm.rezervuoki.lt^
 ||load.toejsalg.repbasics.dk^
@@ -17290,6 +17292,7 @@
 ||sporingsserver.superwood.dk^
 ||sporingsserver.superwood.se^
 ||sptga.laduree.com^
+||srv.furlanmarri.com^
 ||srvr.mpcentradas.es^
 ||ss.ad-ops.hu^
 ||ss.adventure-shop.at^
@@ -18719,6 +18722,7 @@
 ||capi.depilarte.co^
 ||capi.dhakafoodservice.com^
 ||capi.digitaltoolslab.com^
+||capi.documentodoestudante.com.br^
 ||capi.dryly.com^
 ||capi.dynamicbangladesh.com^
 ||capi.ecomartbd.com^
@@ -20637,6 +20641,7 @@
 ||gtm.giohjoias.com.br^
 ||gtm.gioiapura.com^
 ||gtm.gioiapura.fr^
+||gtm.gioiapura.it^
 ||gtm.giselesabadini.com.br^
 ||gtm.gisellekids.com.br^
 ||gtm.giulianaflores.com.br^
@@ -20837,6 +20842,7 @@
 ||gtm.invistacomasomma.com.br^
 ||gtm.invistodireito.com.br^
 ||gtm.ipcstudiogrowth.in^
+||gtm.iqair.com^
 ||gtm.iqsounds.com^
 ||gtm.irani.delivery^
 ||gtm.ironmountainhotsprings.com^
@@ -30797,6 +30803,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||stats.mapple.*^
 ||analytics.wispbyte.com^
 ||appview.fafafa.ai^
 ||event-collector.analytics.onedio.com^
