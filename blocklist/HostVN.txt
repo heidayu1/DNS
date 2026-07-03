@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-02T14:42:02.172Z
+! Last modified: 2026-07-03T14:42:27.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1807,10 +1807,17 @@
 ||ylog.hiido.com^
 ||siteintercept.qualtrics.com^
 ||aepxlg.adobe.com^
-||campaign.adobe.com^
 ||geo.adobe.com^
 ||sstats.adobe.com^
 ||stats.adobe.com^
+||acds-events.adobe.io^
+||analytics.adobe.io^
+||cc-api-data-stage.adobe.io^
+||cc-api-data.adobe.io^
+||cchome-stage.adobe.io^
+||cchome.adobe.io^
+||hz-telemetry.adobe.io^
+||telemetry.adobe.io^
 ||statserv.net^
 ||impactradius-event.com^
 ||act.ds.kakao.com^
@@ -2658,6 +2665,15 @@
 ||junclikrmedi.com^
 ||conversionsapigateway.com^
 ||kueezrtb.com^
+||collector.github.com^
+||collector-cdn.github.com^
+||collector.githubapp.com^
+||analytics.githubassets.com^
+||copilot-telemetry.githubusercontent.com^
+||copilot-telemetry-service.githubusercontent.com^
+||telemetry.business.githubcopilot.com^
+||telemetry.enterprise.githubcopilot.com^
+||telemetry.individual.githubcopilot.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -3968,6 +3984,7 @@
 ||ads.bid^
 ||ads.bigfoot.com^
 ||ads.bittorrent.com^
+||ads.bizwd.net^
 ||ads.blog.com^
 ||ads.bluemountain.com^
 ||ads.boylesports.com^
@@ -5176,6 +5193,7 @@
 ||crudenessfinishersacred.com^
 ||crummydevioussucculent.com^
 ||crumpetprankerstench.com^
+||cruncherpatiencestoreroom.com^
 ||crunchybears.com^
 ||cruzswim.org^
 ||csm.cxpublic.com^
@@ -5543,6 +5561,7 @@
 ||extreme-dm.com^
 ||extremetracking.com^
 ||ey43.com^
+||eycfdxhanqord.site^
 ||eyebrowscrambledlater.com^
 ||eyereturn.com^
 ||eyeviewads.com^
@@ -6128,6 +6147,7 @@
 ||kuqfudazkn.com^
 ||kvkaa.com^
 ||kw3y5otoeuniv7e9rsi.com^
+||kx.upturnsidoist.cyou^
 ||kykay.com^
 ||kzuocxorfo.com^
 ||laceassumestatic.com^
@@ -7213,6 +7233,7 @@
 ||rumadel.com^
 ||runads.com^
 ||rusenov.com^
+||rutseasickmunch.com^
 ||ruvsraaklrih.com^
 ||ruwjkygaxo.com^
 ||rvrpushserv.com^
@@ -7595,6 +7616,7 @@
 ||terra8nb.com^
 ||terriblethumb.com^
 ||testingmetriksbre.ru^
+||tevitpcfav.com^
 ||text-link-ads.com^
 ||textads.biz^
 ||textlinks.com^
@@ -8185,6 +8207,7 @@
 ||zoosnet.net^
 ||zovidree.com^
 ||ztumuvofzbfe.com^
+||zuchhsparxodc.site^
 ||zucoagorsout.com^
 ||zuieggzsdlo.com^
 ||zumdivdwug.com^
@@ -8325,7 +8348,6 @@
 ||c.riskified.com^
 ||c2i-cdn.startappnetwork.com^
 ||cadmus.script.ac^
-||cc-api-data.adobe.io^
 ||cc.swiftype.com^
 ||cdn.c-i.as^
 ||cdn.counter.dev^
@@ -8351,7 +8373,6 @@
 ||collect.analyse.lnearn.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
-||collector.githubapp.com^
 ||collector.leaddyno.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^

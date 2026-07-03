@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-02T14:41:58.799Z
+! Last modified: 2026-07-03T14:42:25.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32370
+! Rules count: 32368
 !
 ||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
@@ -2843,6 +2843,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5593,7 +5594,6 @@
 ||adobeanalytics.medline.com^
 ||adobeanalytics.mlaglobal.com^
 ||adobeanalytics.populusgroup.com^
-||adobeanalytics.teksystems.com^
 ||adobemarketing.bodendirect.at^
 ||adobes.marugame-seimen.com^
 ||adobes.toridoll.com^
@@ -18962,7 +18962,6 @@
 ||capig.torontoartsacademy.com^
 ||capig.tortillamasters.com^
 ||capig.trisoro.mk^
-||capig.twentytwowords.com^
 ||capig.tytax.com^
 ||capig.usa-insulation.net^
 ||capig.volkswagen.dk^
@@ -31894,7 +31893,6 @@ dlsdk.appsflyer.com^
 ||collector-*.perimeterx.net^
 ||events.backtrace.io^
 ||kbox-analytics-prod.s*.amazonaws.com^
-||stat.apfgexfusion.com^
 ||events-api.lyrebirdstudio.net^
 ||report.1-1.io^
 ||logdata.hatspotlight.asia^
