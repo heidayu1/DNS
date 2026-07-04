@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-03T14:42:28.810Z
+! Last modified: 2026-07-04T04:12:47.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -516,7 +516,6 @@
 ||supportmetrics.v.aaplimg.com^
 ||xp.v.aaplimg.com^
 ||ab.apple.com.akadns.net^
-||cstat-lb.apple.com.akadns.net^
 ||diagassets-lb.apple.com.akadns.net^
 ||diagnostics.apple.com.akadns.net^
 ||iadcontent-lb.apple.com.akadns.net^
@@ -525,8 +524,6 @@
 ||iphonesubmissions.apple.com.akadns.net^
 ||radarsubmissions.apple.com.akadns.net^
 ||partiality.itunes-apple.com.akadns.net^
-||xp.itunes-apple.com.akadns.net^
-||xp-cdn-lb.itunes-apple.com.akadns.net^
 ||searchads.lb-apple.com.akadns.net^
 ||iad-apple.com.akadns.net^
 ||partiality.itunes.apple.com^
@@ -534,6 +531,7 @@
 ||fbs.smoot.apple.com^
 ||advertising.apple.com^
 ||advp.apple.com^
+||analytics-events.apple.com^
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||cstat.apple.com^
@@ -558,6 +556,7 @@
 ||iphonesubmissions-old.apple.com^
 ||launch.apple.com^
 ||metrics.apple.com^
+||news-analytics-events.apple.com^
 ||news-app-events.apple.com^
 ||news-events.apple.com^
 ||news-notification-events.apple.com^
@@ -566,6 +565,7 @@
 ||odin-signals.apple.com^
 ||performance-partners.apple.com^
 ||phonesubmissions.apple.com^
+||podcasts-analytics-events.apple.com^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||proxy-skadnetwork.apple.com^
 ||radarsubmissions.apple.com^
@@ -574,6 +574,7 @@
 ||securemvt.apple.com^
 ||stocks-analytics-events.apple.com^
 ||supportmetrics.apple.com^
+||tv-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||xp.apple.com^
 ||xp-cdn.apple.com^
@@ -974,6 +975,7 @@
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||hme-live-loganalytics-namespace.servicebus.windows.net^
 ||hme-uat-loganalytics-namespace.servicebus.windows.net^
+||kg-legacy-analytics.servicebus.windows.net^
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||ppm-licensingtelemetry.servicebus.windows.net^
