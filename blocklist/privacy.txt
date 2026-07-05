@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-04T04:12:45.001Z
+! Last modified: 2026-07-05T04:13:02.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32368
+! Rules count: 32367
 !
 ||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
@@ -2365,7 +2365,6 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
-||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -2732,7 +2731,6 @@
 ||data-ssl.milkround.com^
 ||data-ssl.nijobs.com^
 ||data-ssl.retailchoice.com^
-||data-ssl.stepstone.be^
 ||data-ssl.stepstone.fr^
 ||data-ssl.stepstone.nl^
 ||data.1337.test.ajo.adobe.com^
@@ -3532,7 +3530,6 @@
 ||data.service.costa.it^
 ||data.service.firestonecompleteautocare.com^
 ||data.service.hibdontiresplus.com^
-||data.service.manulife.ca^
 ||data.service.miumiu.com^
 ||data.service.movir.nl^
 ||data.service.nordea.fi^
@@ -5594,6 +5591,7 @@
 ||adobeanalytics.medline.com^
 ||adobeanalytics.mlaglobal.com^
 ||adobeanalytics.populusgroup.com^
+||adobeanalytics.teksystems.com^
 ||adobemarketing.bodendirect.at^
 ||adobes.marugame-seimen.com^
 ||adobes.toridoll.com^
@@ -7782,6 +7780,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -11262,7 +11261,6 @@
 ||www.tdsip.com^
 ||www.us.roche-applied-science.com^
 ||zh-tw.siemensplmevents.com^
-||app.bncontacto.fi.cr^
 ||app.info.coopenae.fi.cr^
 ||app.updates.digicert.com^
 ||assets.spectrumhealthlakeland.org^
@@ -13198,7 +13196,6 @@
 ||insight.kids-watches1.com^
 ||insight.longevityhealthinsider.com^
 ||insight.pulsulin.ch^
-||insight.saubhagyavati.in^
 ||insight.susueno.co^
 ||insight.thatsme.organic^
 ||insight.thebeautyinsider.org^
@@ -30850,6 +30847,7 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
+||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -31100,7 +31098,6 @@ prd.api.bleacherreport.com^
 ||metrics.quillbot.com^
 ||tracking.pennypublications.com^
 ||t.streetsblog.org^
-||data.r.pl^
 ||faro-collector-prod-*.grafana.net^
 ||events.caffeine.tv^
 ||analytics-conomi.line.me^
@@ -31273,6 +31270,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31893,6 +31891,7 @@ dlsdk.appsflyer.com^
 ||collector-*.perimeterx.net^
 ||events.backtrace.io^
 ||kbox-analytics-prod.s*.amazonaws.com^
+||stat.apfgexfusion.com^
 ||events-api.lyrebirdstudio.net^
 ||report.1-1.io^
 ||logdata.hatspotlight.asia^
