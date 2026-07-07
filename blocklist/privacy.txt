@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-06T04:13:19.003Z
+! Last modified: 2026-07-07T04:13:37.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32378
+! Rules count: 32375
 !
 ||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
@@ -29,7 +29,6 @@
 ||log.grm.gsretail.com^
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
-||analytics.vinovo.si^
 ||cs.media.net^
 ||gm.mmstat.com^
 ||gw-usa-tracker.zmaticoo.com^
@@ -2334,7 +2333,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2847,6 +2845,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -6962,7 +6961,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7225,7 +7223,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7905,6 +7902,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -31135,7 +31133,6 @@ prd.api.bleacherreport.com^
 ||gtm.moneybird.nl^
 ||gtm.perfectlybasics.nl^
 ||gtm.proff.se^
-||gtm.rains.com^
 ||gtm.readytec.it^
 ||gtm.restplatzboerse.at^
 ||gtm.saumag.edu^
