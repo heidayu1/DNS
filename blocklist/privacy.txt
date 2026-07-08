@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-07T04:13:37.021Z
+! Last modified: 2026-07-08T04:13:53.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32375
+! Rules count: 32377
 !
 ||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
@@ -116,6 +116,7 @@
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
+||api.taboola.sve.cc^
 ||api.taggrs.io^
 ||cdn.q0losid.com^
 ||stats2.indianpornempire.com^
@@ -173,7 +174,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2845,7 +2845,6 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
-||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -4916,6 +4915,7 @@
 ||smetrics.pch.com^
 ||smetrics.peachjohn.co.jp^
 ||smetrics.pembridge.com^
+||smetrics.penguin.co.uk^
 ||smetrics.petersmithcadillac.com^
 ||smetrics.petersmithgm.com^
 ||smetrics.pexion.co.uk^
@@ -5835,6 +5835,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6425,6 +6426,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6561,7 +6563,6 @@
 ||repdata.usatoday.com^
 ||repdata.wcsh6.com^
 ||repdata.yorkdispatch.com^
-||s-adobe.wacoal.jp^
 ||s-adobeanalytics.vice.com^
 ||s.metrics.artistsnetwork.com^
 ||saa.cnet.com^
@@ -6757,7 +6758,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7786,7 +7786,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7824,7 +7823,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -8663,6 +8661,7 @@
 ||ebnpqi.carrefourlocation.fr^
 ||ebrbrw.gulliver-wear.com^
 ||efadyz.smartbuyglasses.co.nz^
+||efbenj.adorebeauty.com.au^
 ||ehucad.profmax.pro^
 ||ejejip.bjjfanatics.com^
 ||ejkmld.tradus.com^
@@ -9337,6 +9336,7 @@
 ||kpemv.lemonadedolls.com^
 ||kppgz.grandinroad.com^
 ||kshtn.red-equipment.com.au^
+||kslht.hatchcollection.com^
 ||kvoqd.madeincookware.co.uk^
 ||kzsbi.happystaffyco.com^
 ||lbcvr.happysocks.com^
@@ -17111,6 +17111,7 @@
 ||sgtm.rue94.com^
 ||sgtm.rustfridk.dk^
 ||sgtm.sabliers-du-monde.fr^
+||sgtm.salonemilano.it^
 ||sgtm.santander.be^
 ||sgtm.santander.nl^
 ||sgtm.satoorday.com^
@@ -19510,6 +19511,7 @@
 ||events.mambo.com.br^
 ||events.mixlar.com.br^
 ||events.moicapetown.co.za^
+||events.moidurban.co.za^
 ||events.moijoburg.co.za^
 ||events.morifarma.com.br^
 ||events.mountainairmechanical.com^
@@ -24909,7 +24911,6 @@
 ||load.t.astrobet.ec^
 ||load.t.boombet-ar.bet^
 ||load.t.bountyos.com^
-||load.t.caman.vip^
 ||load.t.crushbetplay.com^
 ||load.t.famigo.com^
 ||load.t.ganaplay.gt^
@@ -30858,7 +30859,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -30897,6 +30897,7 @@
 ||tad.tygem.com^
 ||data-track*.yingxiong.com^
 ||z.cdn.protect-ad.com^
+||xstat.gazeta.bo^
 ||analytics.monetha.io^
 ||clogger.nocutnews.co.kr^
 ||mon*.tiktokv.us^
@@ -31161,6 +31162,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31179,7 +31181,6 @@ prd.api.bleacherreport.com^
 ||track.msg.fortune.com^
 ||track.sp.crdl.io^
 ||adservice.google.
-||weblog.kma.go.kr^
 ||analytics.ripped.guide^
 ||analytics.tedium.co^
 ||openmonitor.alipay.com^
@@ -31262,6 +31263,7 @@ prd.api.bleacherreport.com^
 ||inlog01.hket.com^
 ||pingback.giphy.com^
 ||analytics.zoomit.ir^
+||prd-collector-platform.ex.co^
 ||pixel.ex.co^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
@@ -31280,7 +31282,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31490,6 +31491,7 @@ prd.api.bleacherreport.com^
 ||events.newsroom.bi^
 ||events.reclamefolder.nl^
 ||events.release.narrativ.com^
+||events.turbosquid.com^
 ||events*.cre.ma^
 ||evs.data.ciceksepeti.com^
 ||exacttarget.api.mashery.com^
