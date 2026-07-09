@@ -4,12 +4,14 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-08T04:13:53.817Z
+! Last modified: 2026-07-09T04:14:11.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32377
+! Rules count: 32383
 !
+||mradx.net^
+||api.tblcontent.com^
 ||pcx-events.revbox.co^
 ||telemetry.adsninja.ca^
 ||dsp-track-global.zmaticoo.com^
@@ -806,6 +808,7 @@
 ||content.recordpoint.com^
 ||content.tacticalma.com^
 ||content.versantsolutions.com^
+||content.wacom.com^
 ||contentmarketing.scheierassociates.com^
 ||dallas-content.cresa.com^
 ||dialog.losberger.com^
@@ -2845,6 +2848,7 @@
 ||data.campagneinformative.inail.it^
 ||data.campaign.cfs.com.au^
 ||data.campaigns.cbussuper.com.au^
+||data.campaigns.cineplex.com^
 ||data.campaigns.colonialfirststate.com.au^
 ||data.campaigns.jobs.army.mod.uk^
 ||data.canarias7.es^
@@ -5835,7 +5839,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -8905,6 +8908,7 @@
 ||rymdtx.bladkongen.no^
 ||rzgwpw.madeincookware.com^
 ||sbbmzg.boks.app^
+||sbyneh.dailymail.co.uk^
 ||sdmegj.zucchibassetti.com^
 ||sfbtvc.donghobaothanh.vn^
 ||sflvqq.pleinoutlet.com^
@@ -11953,6 +11957,7 @@
 ||go.emeadatacenter.services.global.ntt^
 ||insights.atradiuscollections.com^
 ||tracking.connect.services.global.ntt^
+||tracking.eloq.soa.org^
 ||tracking.hello.global.ntt^
 ||tracking1.labcorp.com^
 ||app.augustaentertainmentcomplex.com^
@@ -30812,6 +30817,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||analytics.evolushost.com^
 ||sync.inmobi.com^
 ||stats.mapple.*^
 ||analytics.wispbyte.com^
@@ -30983,7 +30989,6 @@ prd.api.bleacherreport.com^
 ||apihorizon.nnmtools.com^
 ||cdnhorizon.nnmtools.com^
 ||log-auth.flysleep.cn^
-||telemetry.nbcuott.com^
 ||log.onmas.kt.com^
 ||logapi.kt.com^
 ||clog.lghv.net^
@@ -31268,6 +31273,7 @@ prd.api.bleacherreport.com^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
 ||analytics.mall.tv^
+||log.etoday.co.kr^
 ||zgsdk.zhugeio.com^
 ||sgtm.simoahava.com^
 ||stats.zone-telechargement.
