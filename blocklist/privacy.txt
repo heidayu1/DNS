@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-09T04:14:11.740Z
+! Last modified: 2026-07-10T04:14:30.260Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32383
+! Rules count: 32390
 !
+||logws*.ati-host.net^
 ||mradx.net^
 ||api.tblcontent.com^
 ||pcx-events.revbox.co^
@@ -2513,6 +2514,7 @@
 ||adobe-analytics-dc.fiod.nl^
 ||adobe-ep.cuidadodesalud.gov^
 ||adobe-ep.insurekidsnow.gov^
+||adobe-ep.medicaid.gov^
 ||adobe-metrics.bankexchangeservices.com^
 ||adobe-metrics.calbanktrust.com^
 ||adobe-metrics.nbarizona.com^
@@ -9446,6 +9448,7 @@
 ||eutzh.bokksu.com^
 ||fzhga.softpullsolutions.com^
 ||gthug.agrenappliance.com^
+||gtmub.aliveandwell.health^
 ||ibdoz.trilogyaviationgroup.com^
 ||ievbj.oasissenioradvisors.com^
 ||izhte.58foundations.com^
@@ -10079,7 +10082,6 @@
 ||data-3f9c4f5eb9.automotive.at^
 ||data-3fb5262fad.unsersalzburg.at^
 ||data-411f822017.fem.com^
-||data-4248af8297.futurezone.at^
 ||data-449cc4329e.90minuten.at^
 ||data-44a005f23c.bergfex.ch^
 ||data-44a005f23c.bergfex.com^
@@ -12022,6 +12024,7 @@
 ||app.goguecenter.auburn.edu^
 ||app.gorhody.com^
 ||app.niuhuskies.com^
+||app.olemisssports.com^
 ||app.pepperdinewaves.com^
 ||app.ramblinwreck.com^
 ||app.richmondspiders.com^
@@ -30817,6 +30820,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||analytics.pextra.cloud^
 ||analytics.evolushost.com^
 ||sync.inmobi.com^
 ||stats.mapple.*^
@@ -31347,6 +31351,7 @@ prd.api.bleacherreport.com^
 ||analytics.atlassian.com^
 ||analytics.bi.encuentra24.com^
 ||analytics.bloomberg.com^
+||analytics.brunch.co.kr^
 ||analytics.carambo.la^
 ||analytics.ceneo.pl^
 ||analytics.cinematoday.jp^
@@ -31884,6 +31889,8 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||sngmta.qq.com^
 ||adj.st^
+||w.inmobi.com^
+||pbs.inmobi.com^
 ||cxlog.shinhansec.com^
 ||tracker.tianmu.mobi^
 ||log*.boomplaymusic.com^
