@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-11T04:14:49.484Z
+! Last modified: 2026-07-12T04:15:07.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32389
+! Rules count: 32390
 !
 ||logws*.ati-host.net^
 ||mradx.net^
@@ -2370,7 +2370,6 @@
 ||stats.getty.edu^
 ||stats.gomastercard.com.au^
 ||stats.hannaandersson.com^
-||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.iata.org^
@@ -6964,6 +6963,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7226,6 +7226,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
