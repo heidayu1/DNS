@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-14T04:18:01.140Z
+! Last modified: 2026-07-14T17:28:59.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -178,7 +178,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -264,6 +263,7 @@
 ||analytics.superstructure.ai^
 ||cdn.raekdata.com^
 ||telemetrics.klaviyo.com^
+||sensors.ibreader.com^
 ||sgtm.sefamerve.com^
 ||ga-bq-py-1.appspot.com^
 ||cdn.adt567.net^
@@ -1767,6 +1767,8 @@
 ||metrics.sonera.fi^
 ||metrics.sony.jp^
 ||metrics.sothebys.com^
+||metrics.spencersonline.com^
+||metrics.spirithalloween.com^
 ||metrics.stanfordhealthcare.org^
 ||metrics.staples.com.au^
 ||metrics.strategiccoach.com^
@@ -4632,6 +4634,7 @@
 ||smetrics.kaobeautybrands.com^
 ||smetrics.karcher-futuretech.com^
 ||smetrics.karcher.cn^
+||smetrics.karcher.com^
 ||smetrics.karcher.cz^
 ||smetrics.kebuena.com.mx^
 ||smetrics.keepmaturationontrack.ca^
@@ -6433,6 +6436,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6764,7 +6768,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7230,7 +7233,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7794,7 +7796,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7832,7 +7833,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -8055,7 +8055,6 @@
 ||ssldata.thepointsguy.com^
 ||sslmetrics.vivint.com^
 ||sslomni.canadiantire.ca^
-||sslstats.canadapost-postescanada.ca^
 ||sslstats.postescanada-canadapost.ca^
 ||sslstats.postescanada.ca^
 ||sslstats.ssl.postescanada-canadapost.ca^
@@ -11290,6 +11289,7 @@
 ||trk.contentmarketinginstitute.com^
 ||trk.contentmarketingworld.com^
 ||website-security.rapidssl.com^
+||webtracking.aucmed.edu^
 ||app.byutickets.com^
 ||app.charlotte49ers.com^
 ||app.cincinnatiarts.org^
@@ -11756,6 +11756,7 @@
 ||tracking.idwholesaler.com^
 ||tracking.idzone.com^
 ||tracking.ocr.ca^
+||tracking.pella.com^
 ||tracking.protective.com^
 ||tracking.simpleaccess.com^
 ||tracking.venture-net.co.jp^
@@ -12333,6 +12334,7 @@
 ||tracking.dev2.pepsicopartners.com^
 ||tracking.email.trinity-health.org^
 ||tracking.xaapbuildings.com^
+||webtracking.medical.rossu.edu^
 ||catracking.cubiq.com^
 ||catracking.finning.com^
 ||connect.care.pennstatehealth.org^
@@ -12368,7 +12370,6 @@
 ||tracking.marketone.com^
 ||content.golfpride.com^
 ||elq.keysight.com.cn^
-||event.riseexpo.com^
 ||events.careallies.com^
 ||events.mbrl.ae^
 ||events.tegrita.com^
@@ -23293,6 +23294,7 @@
 ||load.ggl.vintage-univers.com^
 ||load.ggm.clemonsboats.com^
 ||load.gkbfrss.geekbuying.com^
+||load.gkbss.geekbuying.com^
 ||load.gmanager.fly.business^
 ||load.go.luxpro.com^
 ||load.go.shinecosmetics.com^
@@ -30875,7 +30877,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -30985,6 +30986,7 @@ prd.api.bleacherreport.com^
 ||log.kroffle.net^
 ||event.*.shoplive.cloud^
 ||backend-pixel.zotek.io^
+||rudr-events.joybird.com^
 ||monitor.ns1-s.rspcdn.net^
 ||d3aicbrzoy14kh.cloudfront.net^
 ||metrics.motoblouz.com^
@@ -31029,6 +31031,7 @@ prd.api.bleacherreport.com^
 ||beacons.digital.disneyadvertising.com^
 ||telegraph.prd.api.max.com^
 ||atom-qa.warnermedia.com^
+||tracking.leadspark.io^
 ||stats.amur.life^
 ||pixel.dev.smartnews.com^
 ||fail.adr.ec^
@@ -31180,6 +31183,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31300,7 +31304,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -32144,7 +32147,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
@@ -32372,7 +32374,6 @@ dlsdk.appsflyer.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
 ||pixelvariety.com^
-||playerhappy.com^
 ||purposepipe.com^
 ||q20jqurls0y7gk8.info^
 ||radexports.com^
@@ -32381,7 +32382,6 @@ dlsdk.appsflyer.com^
 ||refundradar.com^
 ||regexmail.com^
 ||rhetoricalactivity.com^
-||rocketmonitor.com^
 ||sadspacekitty.com^
 ||saladfuel.com^
 ||scenicapparel.com^
