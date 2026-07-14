@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-13T04:15:25.678Z
+! Last modified: 2026-07-14T04:18:01.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32396
+! Rules count: 32403
 !
 ||analytics.infraloods.nl^
 ||logws*.ati-host.net^
@@ -286,6 +286,7 @@
 ||collector-*.tvsquared.com^
 ||collectorj.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
+||uz-analysis.akamaized.net^
 ||log.gobankingrates.com^
 ||collect.mxapis.com^
 ||events.tremorhub.com^
@@ -2339,7 +2340,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -6968,7 +6968,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7795,6 +7794,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7910,6 +7910,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -9410,6 +9411,7 @@
 ||uamhf.livesans.com^
 ||ukadh.livelyroot.com^
 ||ulslc.happysocks.com^
+||umzpj.paintyourlife.com^
 ||urlir.sophiawebster.com^
 ||vefgg.katespade.com^
 ||vipsj.zgallerie.com^
@@ -13237,6 +13239,7 @@
 ||rt.quaresmadopadrepio.com^
 ||rtrk.gartenpfad.com^
 ||rtrk.linkpfad.com^
+||rtrk.swipey.ai^
 ||shop.tracksmartco.com^
 ||track.almacasa.ro^
 ||track.analiz-medica.com.ua^
@@ -29473,6 +29476,7 @@
 ||sst.happythoughts.global^
 ||sst.headsandtailsjewellery.co.uk^
 ||sst.heritagerenovationswindowsanddoors.com^
+||sst.hiper.bet.br^
 ||sst.holzwerken-live.net^
 ||sst.hotelcabanadellago.cl^
 ||sst.ipseguro.com.br^
@@ -29847,7 +29851,6 @@
 ||stape.medinamoveisplanejados.com.br^
 ||stape.meditacaonodiaadia.com.br^
 ||stape.membershipworkshop.com^
-||stape.mercadopago.com.br^
 ||stape.metodocamilasaadi.com^
 ||stape.metodohabilidadedeouro.com^
 ||stape.metodoharmonicapilates.com.br^
@@ -30240,6 +30243,7 @@
 ||track.ieac.net.br^
 ||track.importsend.io^
 ||track.infocrescimento.com^
+||track.jogodeouro.bet.br^
 ||track.kanavkesar.com^
 ||track.kappelimoveis.com.br^
 ||track.kholosh.com^
@@ -30834,7 +30838,6 @@
 ||collector.feedzop.com^
 ||mcs-normal-*.capcutapi.com^
 ||tracker-proxy.getmimo.com^
-||cchome.adobe.io^
 ||analytics.learndirect.com^
 ||data.deschouwwitgoed.nl^
 ||metrics.nautilus2.pl^
@@ -30907,6 +30910,7 @@
 ||bilog.lovense-api.com^
 ||collector.moderntv.eu^
 ||ipm.adblockplus.dev^
+||log1.wanmei.com^
 ||log2.wanmei.com^
 ||stats.spottedlublin.pl^
 ||tad.tygem.com^
@@ -31409,7 +31413,6 @@ prd.api.bleacherreport.com^
 ||b-aws.aol.com^
 ||banstat.nadavi.net^
 ||bdg-analytics.appspot.com^
-||beacon-1.newrelic.com^
 ||beacon.ehow.com^
 ||beacon.gu-web.net^
 ||beacon.kmi-us.com^
@@ -31478,6 +31481,7 @@ prd.api.bleacherreport.com^
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d3in1te4fdays6.cloudfront.net^
 ||d3s7ggfq1s6jlj.cloudfront.net^
+||d5i9o0tpq9sa1.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
 ||daq0d0aotgq0f.cloudfront.net^
@@ -32008,6 +32012,7 @@ dlsdk.appsflyer.com^
 ||log*-normal-useast1a.lemon8-app.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||ali-bj-pcdn-*.biliapi.net^
+||tatrack.thinkyeah.com^
 -applog*.fqnovel.com^
 ||atsod.launch.liveramp.com^
 ||sonar*.xy.fbcdn.net^
@@ -32367,6 +32372,7 @@ dlsdk.appsflyer.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
 ||pixelvariety.com^
+||playerhappy.com^
 ||purposepipe.com^
 ||q20jqurls0y7gk8.info^
 ||radexports.com^
@@ -32375,6 +32381,7 @@ dlsdk.appsflyer.com^
 ||refundradar.com^
 ||regexmail.com^
 ||rhetoricalactivity.com^
+||rocketmonitor.com^
 ||sadspacekitty.com^
 ||saladfuel.com^
 ||scenicapparel.com^
