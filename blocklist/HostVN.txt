@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-14T17:29:02.167Z
+! Last modified: 2026-07-15T17:29:25.131Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2543,14 +2543,43 @@
 ||log1.cmpassport.com^
 ||log2.cmpassport.com^
 ||ad.weibo.com^
-||adimg.uve.weibo.com^
-||adstrategy.biz.weibo.com^
-||vs.biz.weibo.com^
-||log.tpns.tencent.com^
-||log.tpns.gz2.tencent.com^
-||stat.tpns.tencent.com^
-||stat.tpns.gz2.tencent.com^
+||alitui.weibo.com^
+||biz.weibo.com^
+||uve.weibo.com^
+||beacon.tencent.com^
+||ad.hunyuan.tencent.com^
 ||tpstelemetry.tencent.com^
+||android.bugly.tencent.com^
+||ios.bugly.tencent.com^
+||galileotelemetry.tencent.com^
+||guid.tpns.tencent.com^
+||log.tpns.tencent.com^
+||mstat.tpns.tencent.com^
+||stat.tpns.tencent.com^
+||guid.tpns.hk.tencent.com^
+||log.tpns.hk.tencent.com^
+||stat.tpns.hk.tencent.com^
+||log.tpns.gz2.tencent.com^
+||stat.tpns.gz2.tencent.com^
+||guid.tpns.sgp.tencent.com^
+||log.tpns.sgp.tencent.com^
+||stat.tpns.sgp.tencent.com^
+||guid.tpns.sh.tencent.com^
+||log.tpns.sh.tencent.com^
+||mstat.tpns.sh.tencent.com^
+||stat.tpns.sh.tencent.com^
+||log.sina.cn^
+||log2.sina.cn^
+||ad.cj.sina.cn^
+||statistic.cj.sina.cn^
+||adimg.mobile.sina.cn^
+||u1.img.mobile.sina.cn^
+||ad.us.sinaimg.cn^
+||ads.sina.com^
+||beacon.sina.com.cn^
+||counter.sina.com.cn^
+||log.mix.sina.com.cn^
+||sbeacon.sina.com.cn^
 ||privacy-policy.truste.com^
 ||trackerapi.truste.com^
 ||goadserver.com^
@@ -3793,7 +3822,6 @@
 ||ad.site-landing.com^
 ||ad.tv2.no^
 ||ad.unimhk.com^
-||ad.us.sinaimg.cn^
 ||ad.usatoday.com^
 ||ad.virtual-nights.com^
 ||ad.weatherbug.com^
@@ -4423,6 +4451,7 @@
 ||agqoshfujku.com^
 ||agtcmuohbt.in^
 ||ah-ha.com^
+||ah.eyesnamda.cfd^
 ||ahalogy.com^
 ||ahdcrajmzbtvj.com^
 ||aheadday.com^
@@ -5637,6 +5666,7 @@
 ||fluencypierre.com^
 ||flyingsquirellsmooch.com^
 ||fnbauniukvi.com^
+||fnzocmpkp.com^
 ||footbathmockerpurse.com^
 ||for-j.com^
 ||forearmthrobjanuary.com^
@@ -5761,6 +5791,7 @@
 ||go.cuteab.com^
 ||go.imkirh.com^
 ||go.mavrtracktor.com^
+||go.playlg.com^
 ||go.rmishe.com^
 ||go.xlivrdr.com^
 ||go1.for3e.com^
@@ -5902,6 +5933,11 @@
 ||hppvkbfcuq.com^
 ||htlbid.com^
 ||httpool.com^
+||hue2n.com^
+||hue4c.com^
+||hueads.com^
+||hueadsortb.com^
+||hueadsxml.com^
 ||hugazdazst.com^
 ||hugfromoctopus.com^
 ||humandemand.com^
@@ -5967,6 +6003,7 @@
 ||imgpromo.easyrencontre.com^
 ||imimobile.com^
 ||immensehoney.com^
+||immizdgmacjvi.space^
 ||immoxdzdke.com^
 ||impactmobile.com^
 ||impeccablewriter.com^
@@ -6106,6 +6143,7 @@
 ||jpwrashuzfstxc.com^
 ||jqvhnbxtwze.com^
 ||jqyryzrbuqpfp.space^
+||jrmkpvntxat.com^
 ||js.mbidadm.com^
 ||js.wpncdn.com^
 ||js.wpnjs.com^
@@ -6272,6 +6310,9 @@
 ||lytics.io^
 ||lzjl.com^
 ||lzoazzruvkze.com^
+||m.hue11.com^
+||m.hue14.com^
+||m.hue2b.com^
 ||m.trb.com^
 ||m0rsq075u.com^
 ||m1.mtrafficgeo.com^
@@ -6531,6 +6572,7 @@
 ||navigator.io^
 ||navrcholu.cz^
 ||nazarickol.com^
+||nbnbewlhy.com^
 ||nd.prosilyingles.cyou^
 ||ndha4sding6gf.com^
 ||ndparking.com^
@@ -6742,6 +6784,7 @@
 ||origunix.com^
 ||oriori.com^
 ||orlotalers.com^
+||ormatenqron.com^
 ||orqmimfug.in^
 ||orylhull.com^
 ||orywrjsf.com^
@@ -6947,6 +6990,7 @@
 ||precisioncounter.com^
 ||predictad.com^
 ||predictiondexchange.com^
+||prefecturesuggestions.com^
 ||preferencenail.com^
 ||prefleks.com^
 ||premium-offers.com^
@@ -7001,6 +7045,7 @@
 ||proximic.com^
 ||ps.bogymentracery.cyou^
 ||psaltauw.net^
+||pshdo.com^
 ||psoroumukr.com^
 ||psstt.com^
 ||ptakeemsaifegro.net^
@@ -7362,6 +7407,7 @@
 ||sezwho.com^
 ||sfiannzilgi.com^
 ||sg-open-set-api.shenshiads.com^
+||sg.enwovenspences.cyou^
 ||shaiwourtijogno.net^
 ||shakingtacklingunpeeled.com^
 ||shalomhousebnb.com^
@@ -7749,11 +7795,13 @@
 ||track.admitdftb.com^
 ||track.anchorfree.com^
 ||track.buybestday.com^
+||track.catrck.net^
 ||track.contently.com^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
 ||track.getmydeals.net^
 ||track.involvkgfr.com^
+||track.mddsp.info^
 ||trackalyzer.com^
 ||trackedlink.net^
 ||trackedweb.net^
@@ -8064,6 +8112,7 @@
 ||wellmadefrog.com^
 ||werbung.meteoxpress.com^
 ||wetrack.it^
+||wgkqywcf.com^
 ||wgtyvqbfkxg.com^
 ||whairtoa.com^
 ||whaleads.com^
