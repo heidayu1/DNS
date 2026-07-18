@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-17T17:30:09.823Z
+! Last modified: 2026-07-18T14:46:20.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -49,7 +49,6 @@
 ||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
@@ -233,6 +232,7 @@
 ||minerva.devices.a2z.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mshopbugsnag.irm.amazon.dev^
+||origin-sq-tungsten-ts-fe.amazon-adsystem.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
 ||paa-reporting-advertising.amazon^
 ||pri1-3ps.amazon-adsystem.com^
@@ -704,12 +704,8 @@
 ||pgteu5-excel-telemetry-vip.officeapps.live.com^
 ||pgteu5-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu5-word-telemetry-vip.officeapps.live.com^
-||pgtmx1-excel-telemetry-vip.officeapps.live.com^
 ||pgtmx1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtmx1-word-telemetry-vip.officeapps.live.com^
-||pgtsg1-excel-telemetry-vip.officeapps.live.com^
-||pgtsg1-powerpoint-telemetry-vip.officeapps.live.com^
-||pgtsg1-word-telemetry-vip.officeapps.live.com^
 ||pgtus1-excel-telemetry-vip.officeapps.live.com^
 ||pgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus1-word-telemetry-vip.officeapps.live.com^
@@ -884,6 +880,8 @@
 ||confiant.msn.com^
 ||flex.msn.com^
 ||g00.msn.com^
+||h1.msn.com^
+||h2.msn.com^
 ||h6.msn.com^
 ||mobileads.msn.com^
 ||mobileleads.msn.com^
@@ -1651,6 +1649,7 @@
 ||rtc-logger.tiktokv.us^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
+||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-va.tiktokv.com^
 ||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtlog.tiktokv.com^
