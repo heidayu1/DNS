@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-19T14:47:59.369Z
+! Last modified: 2026-07-20T14:48:22.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32398
+! Rules count: 32397
 !
+||snippet.affilimate.io^
 ||analytics.infraloods.nl^
 ||logws*.ati-host.net^
 ||mradx.net^
@@ -6967,7 +6968,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7910,6 +7910,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -18238,7 +18239,6 @@
 ||api.fluenti.com.br^
 ||api.fluxoreal.com.br^
 ||api.fornetto.store^
-||api.fpleme.com.br^
 ||api.fratini.com.br^
 ||api.fraytreinamentos.com.br^
 ||api.fueltech.com.br^
@@ -30872,6 +30872,7 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
+||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -30919,7 +30920,6 @@
 ||fpt.commerce.adobe.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
 ||analytics.pesktop.com^
-||api-analytics.pelikan.sk^
 ||analytics.streamingworld.xyz^
 ||analytics.azrhymes.com^
 ||analytics.luogu.me^
@@ -32140,7 +32140,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^

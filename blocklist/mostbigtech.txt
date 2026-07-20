@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-19T14:48:01.964Z
+! Last modified: 2026-07-20T14:48:25.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -474,6 +474,7 @@
 ||honorsearch-dra.hiboard.hihonorcloud.com^
 ||honorsearch-drcn.hiboard.hihonorcloud.com^
 ||honorsearch-dre.hiboard.hihonorcloud.com^
+||ads-dra.platform.hihonorcloud.com^
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-dre.platform.hihonorcloud.com^
 ||ads-drru.platform.hihonorcloud.com^
@@ -1455,6 +1456,7 @@
 ||xlog16-platform-useast5.us.tiktokv.com^
 ||ad.tiktokv.com^
 ||ad.tiktokv.us^
+||ad-format-sg.tiktokv.com^
 ||ad-instantpage.tiktokv.us^
 ||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
@@ -1649,7 +1651,6 @@
 ||rtc-logger.tiktokv.us^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
-||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-va.tiktokv.com^
 ||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtlog.tiktokv.com^
