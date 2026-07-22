@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-21T14:48:43.951Z
+! Last modified: 2026-07-22T14:49:53.700Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32407
+! Rules count: 32413
 !
 ||snippet.affilimate.io^
 ||analytics.infraloods.nl^
@@ -2304,7 +2304,6 @@
 ||sstats.mistergooddeal.com^
 ||sstats.myrussellstover.com^
 ||sstats.olivia.com^
-||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2344,7 +2343,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -4037,6 +4035,7 @@
 ||sites.cliente.nissan.com.mx^
 ||smetric.bajajgeneralinsurance.com^
 ||smetric.bimsplus24.pl^
+||smetric.chuys.com^
 ||smetric.franchisedarden.com^
 ||smetric.gconlineplus.at^
 ||smetric.gebrueder-goetz.at^
@@ -4134,6 +4133,7 @@
 ||smetrics.bankwest.com.au^
 ||smetrics.barberinilenses.com^
 ||smetrics.barkandwhiskers.com^
+||smetrics.barracuda.com^
 ||smetrics.bayer-agri.fr^
 ||smetrics.bayer.africa^
 ||smetrics.bayer.be^
@@ -6463,6 +6463,7 @@
 ||metrics.vodafone.com.eg^
 ||metrics.vodafone.com.gh^
 ||metrics.vodafone.ro^
+||metrics.vogue.com.au^
 ||metrics.vw.com^
 ||metrics.vwfs.com^
 ||metrics.vwfs.com.br^
@@ -7078,6 +7079,7 @@
 ||smetrics.comdata.com^
 ||smetrics.commonclaimsmistakesvideo.com^
 ||smetrics.contactsdirect.com^
+||smetrics.controlcenter.com^
 ||smetrics.converse.co.uk^
 ||smetrics.cookhouseandpub.co.uk^
 ||smetrics.coordinatedcarehealth.com^
@@ -7796,7 +7798,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -10712,8 +10713,11 @@
 ||elqtracking.privataaffarer.se^
 ||elqtracking.resume.se^
 ||elqtrk.stamford-avk.com^
+||email-amer.stage-us.jll.com^
 ||email-ap.jll.com.br^
+||email-apac.stage-in.jll.com^
 ||email-cm.jll.com.br^
+||email-emea.stage-uk.jll.com^
 ||eq-tracking.myricoh.jp^
 ||fpc.golubcapital.com^
 ||fpc.questoraclecommunity.org^
@@ -20752,6 +20756,7 @@
 ||gtm.helssyhair.com^
 ||gtm.heltoncavalcanti.com.br^
 ||gtm.herediacosmeticos.com.br^
+||gtm.heritagepartscentre.com^
 ||gtm.heydensupply.com^
 ||gtm.heyhanni.com^
 ||gtm.hideck.in^
@@ -31514,6 +31519,7 @@ prd.api.bleacherreport.com^
 ||events-api*.outfit7.com^
 ||events.jora.com^
 ||events.newsroom.bi^
+||events.niit-mts.com^
 ||events.reclamefolder.nl^
 ||events.release.narrativ.com^
 ||events.turbosquid.com^
