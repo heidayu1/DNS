@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-23T14:50:17.418Z
+! Last modified: 2026-07-24T14:50:34.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32412
+! Rules count: 32411
 !
 ||snippet.affilimate.io^
 ||analytics.infraloods.nl^
@@ -2344,6 +2344,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -2521,7 +2522,6 @@
 ||adobe-analytics-dc.fiod.nl^
 ||adobe-ep.cuidadodesalud.gov^
 ||adobe-ep.insurekidsnow.gov^
-||adobe-ep.medicaid.gov^
 ||adobe-metrics.bankexchangeservices.com^
 ||adobe-metrics.calbanktrust.com^
 ||adobe-metrics.nbarizona.com^
@@ -6973,6 +6973,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -12310,7 +12311,6 @@
 ||tracking.inexchange.se^
 ||tracking.lonnogpersonalabc.visma.no^
 ||tracking.marketing.frequentis.com^
-||tracking.nl.visma.com^
 ||tracking.visma.co.uk^
 ||tracking.visma.com^
 ||tracking.visma.dk^
@@ -25212,7 +25212,6 @@
 ||metrics.bluemarblegeo.com^
 ||metrics.boneo.se^
 ||metrics.buydelta8now.com^
-||metrics.catbirdnyc.com^
 ||metrics.celmaqmg.com.br^
 ||metrics.charmia.fi^
 ||metrics.cheechandchong.com^
