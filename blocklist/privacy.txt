@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-26T14:51:09.315Z
+! Last modified: 2026-07-27T14:51:26.576Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32412
+! Rules count: 32419
 !
 ||snippet.affilimate.io^
 ||analytics.infraloods.nl^
@@ -139,7 +139,6 @@
 ||matomo.clanto.cloud^
 ||analytics.spearly.com^
 ||events.baselime.io^
-||data.tm-awx.com^
 ||s2s.adjust.com^
 ||view.adjust.com^
 ||engagements.appsflyer.com^
@@ -248,6 +247,7 @@
 ||stat.onemob.mobi^
 ||track.unidata.ai^
 ||cyberanalytics.nl^
+||analytics.test.cheggnet.com^
 ||analytics-script.ad-shield.io^
 ||analytics.octaglobal.com^
 ||analytics.liveact.cri-mw.jp^
@@ -2718,6 +2718,7 @@
 ||axp.mystateline.com^
 ||axp.ourquadcities.com^
 ||axp.tristatehomepage.com^
+||axp.wgnradio.com^
 ||axp.wiproud.com^
 ||b2binsider.adobe.com^
 ||cane.intel.cn^
@@ -2757,6 +2758,7 @@
 ||data.a.europe.nflshop.com^
 ||data.a.evertondirect.evertonfc.com^
 ||data.a.f1store.formula1.com^
+||data.a.fansedge.com^
 ||data.a.kitbag.com^
 ||data.a.mitchellandness.com^
 ||data.a.mlbshopeurope.com^
@@ -4182,6 +4184,7 @@
 ||smetrics.baygap.bayer.com^
 ||smetrics.bbva.com^
 ||smetrics.bbva.com.uy^
+||smetrics.bbva.it^
 ||smetrics.bbvacib.com^
 ||smetrics.bbvaexperience.com^
 ||smetrics.bbvaleasing.mx^
@@ -5988,6 +5991,7 @@
 ||metrics.census.gov^
 ||metrics.centurylink.com^
 ||metrics.channelfutures.com^
+||metrics.chapters.indigo.ca^
 ||metrics.charter.com^
 ||metrics.chicagobusiness.com^
 ||metrics.christies.com^
@@ -6769,7 +6773,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -6973,7 +6976,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7917,6 +7919,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -9628,6 +9631,7 @@
 ||stats.kaerntnerjobs.at^
 ||stats.krauss-gmbh.com^
 ||stats.oberoejobs.at^
+||stats.pilz.com^
 ||stats.salzburgerjobs.at^
 ||stats.steirerjobs.at^
 ||stats.suedtirolerjobs.it^
@@ -12129,6 +12133,7 @@
 ||app.tsongascenter.com^
 ||app.uclabruins.com^
 ||app.utahutes.com^
+||elqapp.spectrum.com^
 ||hipaa.wellsense.org^
 ||tracking-qa.veritas.com^
 ||tracking-uat.veritas.com^
@@ -27493,6 +27498,7 @@
 ||server.seguralta.com.br^
 ||server.sejamaisodontologia.com.br^
 ||server.seldomfashion.com^
+||server.seletaeducacao.com.br^
 ||server.sellbaazar.shop^
 ||server.selltez.com^
 ||server.sendflow.com.br^
@@ -31701,6 +31707,7 @@ prd.api.bleacherreport.com^
 ||stats.harpercollins.com^
 ||stats.heyoya.com^
 ||stats.ibtimes.co.in^
+||stats.ibtimes.co.uk^
 ||stats.jpush.cn^
 ||stats.media.onet.pl^
 ||stats.mirror.co.uk^
