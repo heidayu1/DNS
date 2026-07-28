@@ -4,12 +4,14 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-27T14:51:26.576Z
+! Last modified: 2026-07-28T14:51:45.210Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32419
+! Rules count: 32423
 !
+||aladinia.app^
+||cloud.monolytics.app^
 ||snippet.affilimate.io^
 ||analytics.infraloods.nl^
 ||logws*.ati-host.net^
@@ -179,7 +181,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -5849,6 +5850,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6202,6 +6204,7 @@
 ||metrics.kayoutlet.com^
 ||metrics.keno.com.au^
 ||metrics.kenwood.com^
+||metrics.kidsnews.com.au^
 ||metrics.kpmg.com^
 ||metrics.kpmg.us^
 ||metrics.lacaixa.es^
@@ -6441,6 +6444,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -7239,7 +7243,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7841,7 +7844,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -30841,6 +30843,8 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||analytics.crewly.pl^
+||d3lw7s0briwuoi.cloudfront.net^
 ||t.mmganalytics.com^
 ||stat.ip.sb^
 ||analytics.pextra.cloud^
@@ -30891,7 +30895,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -31198,6 +31201,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31318,7 +31322,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -32075,6 +32078,7 @@ dlsdk.appsflyer.com^
 ||adx-in.ads.heytapmobile.com^
 ||trckr.contextualadv.com^
 ||logger.growstarry.com^
+||adash.man.aliyuncs.com^
 ||audid-api.taobao.com^
 ||wsmetrics.batch.com^
 ||rtlog.isnssdk.com^
@@ -32160,7 +32164,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
@@ -32337,6 +32340,7 @@ dlsdk.appsflyer.com^
 ||cdnral.com^
 ||chademocharge.com^
 ||chaosmonitor.com^
+||chipcardice.com^
 ||chipperisle.com^
 ||cicdserver.com^
 ||cloudhustles.com^
