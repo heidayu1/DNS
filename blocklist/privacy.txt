@@ -4,14 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-29T14:52:03.317Z
+! Last modified: 2026-07-30T14:52:21.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32427
+! Rules count: 32428
 !
 ||analytics.xxcontent.lol^
-||aladinia.app^
 ||snippet.affilimate.io^
 ||analytics.infraloods.nl^
 ||logws*.ati-host.net^
@@ -5678,6 +5677,7 @@
 ||analytics.nordea.com^
 ||analytics.nordea.fi^
 ||analytics.nordea.no^
+||analytics.nordea.se^
 ||analytics.popshelf.com^
 ||analytics.ratioform.ch^
 ||analytics.ratioform.it^
@@ -7808,6 +7808,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -8241,7 +8242,6 @@
 ||stats.bever.nl^
 ||stats.build.com^
 ||stats.campaignlive.co.uk^
-||stats.canadapost-postescanada.ca^
 ||stats.canadapost.ca^
 ||stats.celcom.com.my^
 ||stats.commonspirit.org^
@@ -8498,6 +8498,7 @@
 ||target.huskydip.com^
 ||target.mca-insight.com^
 ||target.integradordeseguros.com^
+||target.netapp.com^
 ||target.publicissapient.com^
 ||target.questrade.com^
 ||tmetrics.hdfcbank.com^
@@ -8565,6 +8566,7 @@
 ||tags.polygraph.info^
 ||tags.radiomarsho.com^
 ||tags.radiosawa.com^
+||tags.radiosvoboda.org^
 ||tags.radiotavisupleba.ge^
 ||tags.radiyoyacuvoa.com^
 ||tags.realestate.com.au^
@@ -11573,7 +11575,6 @@
 ||info.aranzadilaley.es^
 ||info.checkin.pwc.com^
 ||lp.smartbusiness.samsung.com^
-||sandboxdownload.dnv.com^
 ||stat.ciss.es^
 ||stat.wolterskluwer.es^
 ||stat.wolterskluwer.pt^
@@ -12294,7 +12295,6 @@
 ||visit.adelaide.edu.au^
 ||backuplanding.ubm-events.com^
 ||campaigns.amadeus.com^
-||download.dnv.com^
 ||go.ubm-events.com^
 ||insight.gbm.hsbc.com^
 ||join.informa-events.com^
@@ -16924,6 +16924,7 @@
 ||sgtm.idealmove.cz^
 ||sgtm.igieco.it^
 ||sgtm.ikh.fi^
+||sgtm.ikh.se^
 ||sgtm.ilrossetti.it^
 ||sgtm.impactcommerce.com^
 ||sgtm.improvcomedy.eu^
