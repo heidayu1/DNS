@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-07-30T14:52:24.037Z
+! Last modified: 2026-07-31T14:52:41.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -346,6 +346,7 @@
 ||vfw-us.amazon-adsystem.com^
 ||vfw.amazon-adsystem.com^
 ||vfwm-eu.amazon-adsystem.com^
+||vfwm-us-west.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
@@ -651,6 +652,7 @@
 ||exo.nel.measure.office.net.cardano.com^
 ||identity.nel.measure.office.net.cardano.com^
 ||m365cdn.nel.measure.office.net.cardano.com^
+||officehub.nel.measure.office.net.cardano.com^
 ||spo.nel.measure.office.net.cardano.com^
 ||teams.nel.measure.office.net.cardano.com^
 ||insights.cloud.microsoft^
@@ -1396,6 +1398,7 @@
 ||ads-api.tiktok.com^
 ||ads-frontier.tiktok.com^
 ||ads-ru.tiktok.com^
+||ads-service.tiktok.com^
 ||ads-sg.tiktok.com^
 ||analytics.tiktok.com^
 ||analytics-attribution.tiktok.com^
@@ -1741,7 +1744,6 @@
 ||xlog16-tmp-normal-useast1a.tiktokv.com^
 ||frontier.tiktokv-eu.com^
 ||log-snssdk.tiktokv-us.com^
-||mssdk16-normal-no1a.tiktokvapp.eu^
 ||ads-ie.tiktokw.eu^
 ||ads-ttp2.tiktokw.eu^
 ||ads16-normal-useastred.tiktokw.eu^
