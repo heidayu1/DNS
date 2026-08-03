@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-03T06:15:18.453Z
+! Last modified: 2026-08-03T10:07:53.994Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1658,9 +1658,8 @@
 ||marketgid.com^
 ||vercel-insights.com^
 ||appads.in^
-||api-apac.bidmachine.io^
-||api-eu.bidmachine.io^
-||api-us.bidmachine.io^
+||bidmachine.io^
+||api-eu-a.bidmachine.io.^
 ||deltadna.net^
 ||gmossp-sp.jp^
 ||relaido.jp^
@@ -2195,6 +2194,8 @@
 ||personaclick.com^
 ||attributionapp.com^
 ||everestop.io^
+||thecatmachine.com^
+||blueduckredapple.com^
 ||logs.insight.rapid7.com^
 ||admixer.co.kr^
 ||assemblyexchange.com^
@@ -2724,6 +2725,13 @@
 ||vidcrunch.com^
 ||trackhup.com^
 ||enticecreep.com^
+||consent.easybrain.com^
+||cross-promo-provider.easybrain.com^
+||ets.easybrain.com^
+||gamestats.easybrain.com^
+||s3-analytics-events.easybrain.com^
+||s3-ca-liveops.easybrain.com^
+||s3-playable-ads.easybrain.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -7249,6 +7257,7 @@
 ||refraintsarcoma.com^
 ||regnow.com^
 ||regulationprivilegescan.top^
+||reinscreendecompose.com^
 ||rel-s.com^
 ||relationshipcourseably.com^
 ||relmaxtop.com^
@@ -8228,8 +8237,6 @@
 ||wyhifdpatl.com^
 ||wynvalur.com^
 ||x-traceur.com^
-||x.blueduckredapple.com^
-||x.thecatmachine.com^
 ||x2sfa.javgg.eu^
 ||x7i0.com^
 ||x7r3mk6ldr.com^
@@ -8852,7 +8859,6 @@
 ||s.media-imdb.com^
 ||s.ntv.io^
 ||s.yjtag.jp^
-||s3-analytics-events.easybrain.com^
 ||safegraph.com^
 ||salecycle.com^
 ||salesiq.zoho.com^
