@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-02T14:53:07.172Z
+! Last modified: 2026-08-03T06:15:10.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -30758,6 +30758,7 @@
 ||adgrx.com.tech.akadns.net^
 ||cdncache1-a.akamaihd.net^
 ||middycdn-a.akamaihd.net^
+||ads.socialdisplay.com.akamaized.net^
 ||log.alets.ch^
 ||analytics.de.algolia.com^
 ||metrics.algorand.org^
@@ -30811,6 +30812,8 @@
 ||ads-banner.s3.ap-south-1.amazonaws.com^
 ||ads-control-hub.s3.ap-south-1.amazonaws.com^
 ||sas-ads-v3-load-balancer-1340544848.eu-west-1.elb.amazonaws.com^
+||nba2k25-telemetry-prod-elb-1504653255.us-east-1.elb.amazonaws.com^
+||tracking-external-lb-686080664.us-east-1.elb.amazonaws.com^
 ||c4-ads-creative-prod.s3.eu-west-1.amazonaws.com^
 ||static.tabmo.io.s3.amazonaws.com^
 ||ad-pdf.s3.amazonaws.com^
@@ -30819,6 +30822,7 @@
 ||sni-ads-creativeservices.s3.amazonaws.com^
 ||syncplusconfig.s3.amazonaws.com^
 ||wp-stat.s3.amazonaws.com^
+||wyze-o-metrics-service-s3.s3.us-west-2.amazonaws.com^
 ||ad.ambafrance.org^
 ||ad.pr.ameba.jp^
 ||stat.info.ameli.fr^
@@ -30944,6 +30948,7 @@
 ||ads-i3.xhscdn.com.a.bdydns.com^
 ||ads.be2hand.com^
 ||ad.beautyangel.jp^
+||cm-sentry.belka-games.com^
 ||data0.bell.ca^
 ||data1.bell.ca^
 ||multimedia.belointeractive.com^
@@ -31038,6 +31043,7 @@
 ||ad.cctv.com^
 ||error.c.cdn77.org^
 ||p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com^
+||ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com^
 ||adimg.ce.cn^
 ||track.cedsdigital.it^
 ||aff.celebritytrip.club^
@@ -31491,6 +31497,7 @@
 ||blog.didomi.io^
 ||www.diffusion-tracker.com^
 ||delivery.dighty.com^
+||mobile-sentry.digikala.com^
 ||k.digital2cloud.com^
 ||ads.digitalbee.al^
 ||ads.digitalmarketinghints.com^
@@ -31501,6 +31508,7 @@
 ||beacon.divi-layouts-pro.com^
 ||analytics.dkv.global^
 ||content.dl-rms.com^
+||ad-static.nxtsun.com.eo.dnse3.com^
 ||stats-cdn.polyspeak.ai.cdn.dnsv1.com^
 ||blog.dojomojo.ninja^
 ||ads.dollartree.com^
@@ -31547,6 +31555,7 @@
 ||faster-telemetry.ifood.com.br.edgekey.net^
 ||iadsdk.apple.com.edgekey.net^
 ||cdn-media.brightline.tv.edgekey.net^
+||telemetry.chase.co.uk.edgekey.net^
 ||smartadserver.com.edgesuite.net^
 ||content.yieldmanager.edgesuite.net^
 ||webstat.latrobe.edu.au^
@@ -31931,7 +31940,6 @@
 ||analytics.hvylya.net^
 ||www.hydramedia.com^
 ||wiki.hydrology.cc^
-||app.hyperliquid.xyz^
 ||analytics.hypernum.com^
 ||log.hyuki.com^
 ||stats.i-web.ch^
@@ -32793,6 +32801,7 @@
 ||92ab.playfabapi.com^
 ||ads.playground.xyz^
 ||adserver.plus.ag^
+||logs.recipe.pmang.cloud^
 ||ad.pochi-crane.com^
 ||analytics.podtrac.com^
 ||v.poki-cdn.com^
@@ -33032,6 +33041,9 @@
 ||cx.quadient.com^
 ||analytics.qualityunit.com^
 ||analytics.quantilope.com^
+||p2-ad.adukwai.com.queniuiy.com^
+||ali-ad.a.yximgs.com.queniukr.com^
+||ads3-normal.zijieapi.com.queniusz.com^
 ||app.quidd.co^
 ||pixel.quikly.com^
 ||retail-analytics.quora.com^
@@ -33141,6 +33153,7 @@
 ||onefootbalnurg.dataplane.rudderstack.com^
 ||ads.rumble.com^
 ||pixel-events-fqxpwg3smq-ue.a.run.app^
+||server-side-tagging-3b3npf7ata-uc.a.run.app^
 ||server-side-tagging-oqa72bcbbq-uc.a.run.app^
 ||pixel-580839345669.us-central1.run.app^
 ||adriver-sync.rutarget.ru^
@@ -34327,9 +34340,7 @@
 ||androidads.ir^
 ||androidupdate.download^
 ||andy-linkedin-receipts.com^
-||anfipaffil.cyou^
 ||angel-live.com^
-||angioripre.cyou^
 ||angulripet.cyou^
 ||aniapi.com^
 ||anlagstein-de.live^
@@ -34337,8 +34348,6 @@
 ||antares.trade^
 ||anthropicipo.net^
 ||antibotcloud.com^
-||antippacat.cyou^
-||antipstrav.cyou^
 ||apextraderai.net^
 ||aphrosestates.net^
 ||api-gogles.com^
@@ -34361,15 +34370,12 @@
 ||appclick.co^
 ||appdoze.com^
 ||appflood.com^
-||appicscodi.cyou^
 ||appie.com^
 ||appinstallcheck.com^
 ||applabztrack.com^
-||applapolin.cyou^
 ||apple-net.com^
 ||apple-online.shop^
 ||appleads-trk.com^
-||applicationsstereocanoe.com^
 ||applift.com^
 ||applovefrom.com^
 ||apply-for-sex.com^
@@ -34380,7 +34386,6 @@
 ||appnee.com^
 ||appnexus.net^
 ||apppleheaddd.jp^
-||apprearcha.cyou^
 ||apps-etherfi.xyz^
 ||apps-for-pc.com^
 ||appsee.com^
@@ -34389,7 +34394,6 @@
 ||apptap.com^
 ||apptrace.com^
 ||apptrader.com^
-||appurrazzo.cyou^
 ||appverification.net^
 ||apserver.net^
 ||apteka-sadivnyka.ua^
@@ -34414,8 +34418,6 @@
 ||asset-vorax32.com^
 ||assetsconfigcdn.org^
 ||assign-icloud.com^
-||assorciurl.cyou^
-||astripropy.cyou^
 ||astrologiaexistencial.com^
 ||aszhusho.org^
 ||ateam-ad.jp^
@@ -34431,8 +34433,6 @@
 ||aurisos-assetn154.live^
 ||auronix-pro.live^
 ||aurora-capital-ai.com^
-||authsuiviappro.fr^
-||autoipseud.cyou^
 ||auvon-trade.com^
 ||auvon-tradev28.com^
 ||auvrikensolmireth-app.com^
@@ -34451,7 +34451,6 @@
 ||axeovixai-app.com^
 ||axialys-fr.live^
 ||ay.live^
-||azaskoaodpadoaspr.site^
 ||badgerabbit.com^
 ||badurka5hippo73.top^
 ||baharitranslogistik.com^
@@ -34462,14 +34461,13 @@
 ||balzadicyema.com^
 ||bambiprete.cyou^
 ||bandageretaliateemail.com^
-||barbadisgh.cyou^
+||basepiip9911.icu^
 ||basicstat.com^
 ||bat-ads.com^
 ||baurkapitewe-app.com^
 ||baurkapitewesystem.com^
 ||baztrack.com^
 ||bbc-reporting-api.app^
-||bbselruntdiqq.site^
 ||bbvaglobalwealthadvisors.com^
 ||bc-game-philippines.com^
 ||bc48fa9adc.com^
@@ -34478,9 +34476,6 @@
 ||beaconstreetservices.com^
 ||bead-ad.com^
 ||beanstalkdata.com^
-||bedefaidiadksdiadksadis.site^
-||beggadimen.cyou^
-||begoldappo.cyou^
 ||belgium-capital-ai.com^
 ||belka-kapitura.net^
 ||belkakapitura.net^
@@ -34866,6 +34861,7 @@
 ||collabenad.cyou^
 ||collateralanalytics.com^
 ||collectcdn.com^
+||collecteddefrostthriving.com^
 ||colomberendif-fr.live^
 ||colomberendif-nl.live^
 ||colonistsmothercommunity.com^
@@ -35164,7 +35160,6 @@
 ||fiducenza-app.com^
 ||fiducenza-it.live^
 ||fiercapoeuvre-fr.live^
-||fifththirdohio.live^
 ||finanzbottrade.com^
 ||findreaders.com^
 ||fine-cloud.net^
@@ -35512,6 +35507,7 @@
 ||immediatesystem.com^
 ||immediatev4apppro.com^
 ||imnlewad.com^
+||impecdrapp.cyou^
 ||imptracking.com^
 ||impulseledgiumuk.live^
 ||imspixel.com^
@@ -35520,6 +35516,7 @@
 ||indexflarexhub.live^
 ||indexiplex200-fr.live^
 ||indiantrainstatus.com^
+||indradisse.cyou^
 ||influads.com^
 ||infoprodata.com^
 ||infradisac.cyou^
@@ -35703,6 +35700,7 @@
 ||kvsadman.com^
 ||kzalton-logic.live^
 ||kzalton-logic920.live^
+||labipt.com^
 ||lacombaphotography.com^
 ||lakeside-fishandchips.com^
 ||lala-trader.icu^
@@ -36925,7 +36923,6 @@
 ||torrecapitezzaai.digital^
 ||totaladblock.com^
 ||touchads.com^
-||tr-binancelogin.com^
 ||trace.events^
 ||trackboxx.com^
 ||trackbyfast.com^
