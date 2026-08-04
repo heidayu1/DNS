@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-03T12:04:57.919Z
+! Last modified: 2026-08-04T12:05:18.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32441
+! Rules count: 32435
 !
 ||analytics.xxcontent.lol^
 ||snippet.affilimate.io^
@@ -180,7 +180,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -5082,7 +5081,6 @@
 ||smetrics.samsung.com.cn^
 ||smetrics.saucony.com.au^
 ||smetrics.savewithsrpbiz.com^
-||smetrics.sazeracbarrelselect.com^
 ||smetrics.scarboroughtoyota.ca^
 ||smetrics.schindler-berufsbildung.ch^
 ||smetrics.schindler-cz.cz^
@@ -5853,6 +5851,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6446,6 +6445,7 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
+||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -6778,7 +6778,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -6986,7 +6985,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7250,7 +7248,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7814,7 +7811,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -13141,6 +13137,7 @@
 ||track.fastshare.cz^
 ||track.fitbee-deutschland.com^
 ||track.freefromfungus.net^
+||track.freesmartphonenow.co^
 ||track.gamestationqa.com^
 ||track.gamesuitekz.com^
 ||track.get-quotehealth.com^
@@ -29057,6 +29054,7 @@
 ||sgtm.tristanstyle.com^
 ||sgtm.trueeco.com.au^
 ||sgtm.trungsoncare.com^
+||sgtm.tryeden.com^
 ||sgtm.tryglucofix.com^
 ||sgtm.tryviralvault.com^
 ||sgtm.tuiss.co.jp^
@@ -30907,7 +30905,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -31088,7 +31085,6 @@ prd.api.bleacherreport.com^
 ||chocolatine.apexlegendsstatus.com^
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||tracker.grupanya.com^
-||sapi.tremendous.com^
 ||track.hydro.online^
 ||lptag.liveperson.net^
 ||analytics.valotool.com^
@@ -31217,6 +31213,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31337,7 +31334,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -31957,7 +31953,6 @@ dlsdk.appsflyer.com^
 ||client-events.gurushots.com^
 ||track-*.hungrypanda.co^
 ||collector-*.perimeterx.net^
-||events.backtrace.io^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||events-api.lyrebirdstudio.net^
 ||report.1-1.io^
@@ -32180,7 +32175,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
