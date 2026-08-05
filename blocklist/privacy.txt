@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-04T12:05:18.241Z
+! Last modified: 2026-08-05T12:05:36.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32435
+! Rules count: 32440
 !
 ||analytics.xxcontent.lol^
 ||snippet.affilimate.io^
@@ -276,6 +276,7 @@
 ||websdk.appsflyer.com^
 ||vought.removeads.workers.dev^
 ||log.intellimize.co^
+||cc-api-data.adobe.io^
 ||adg-data.kajicam.com^
 ||wsapi-global.master.live^
 ||vortex.data.msn.com^
@@ -3556,6 +3557,7 @@
 ||data.service.wizconnected.com^
 ||data.service.xoom.com^
 ||data.service1.cahoot.com^
+||data.service1.santander.co.uk^
 ||data.services.callme.dk^
 ||data.services.chowtaifook.com^
 ||data.services.commsec.com.au^
@@ -9539,6 +9541,7 @@
 ||assets1.gio.com.au^
 ||assets1.shannons.com.au^
 ||assets1.suncorp.co.nz^
+||assets1.suncorp.com.au^
 ||assets1.suncorpbank.com.au^
 ||assets1.terrischeer.com.au^
 ||assets1.vanz.vero.co.nz^
@@ -12727,6 +12730,7 @@
 ||stats.gravitaswins.com^
 ||stats.greatlakesdesign.co^
 ||stats.groupconsent.eu^
+||stats.gslc.utah.edu^
 ||stats.guersanguillaume.com^
 ||stats.guidingwallet.app^
 ||stats.gusmanson.nl^
@@ -30858,6 +30862,7 @@
 ||t.mmganalytics.com^
 ||stat.ip.sb^
 ||analytics.pextra.cloud^
+||amplitude.anytype.io^
 ||analytics.evolushost.com^
 ||sync.inmobi.com^
 ||stats.mapple.*^
@@ -31061,7 +31066,6 @@ prd.api.bleacherreport.com^
 ||beacons.digital.disneyadvertising.com^
 ||telegraph.prd.api.max.com^
 ||atom-qa.warnermedia.com^
-||tracking.leadspark.io^
 ||stats.amur.life^
 ||pixel.dev.smartnews.com^
 ||fail.adr.ec^
@@ -31372,6 +31376,7 @@ prd.api.bleacherreport.com^
 ||analytics.kemlu.go.id^
 ||log.dav.edu.vn^
 ||d90z5o386dhs7.cloudfront.net^
+||gtm.eduki.com^
 ||ab.blogs.es^
 ||ad.kinozal.website^
 ||adc.9news.com.au^
