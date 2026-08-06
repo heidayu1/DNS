@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-05T12:05:36.423Z
+! Last modified: 2026-08-06T12:05:55.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32440
+! Rules count: 32450
 !
 ||analytics.xxcontent.lol^
 ||snippet.affilimate.io^
@@ -2346,6 +2346,7 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -7250,6 +7251,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -7415,6 +7417,9 @@
 ||smetrics.lululemon.cn^
 ||smetrics.lululemon.co.jp^
 ||smetrics.lululemon.co.kr^
+||smetrics.lululemon.co.nz^
+||smetrics.lululemon.co.uk^
+||smetrics.lululemon.com.hk^
 ||smetrics.lululemon.fr^
 ||smetrics.lundbeck.com^
 ||smetrics.lusc.jp^
@@ -22921,6 +22926,7 @@
 ||load.dads.ullasportsbeachwear.com^
 ||load.data.21-5.com^
 ||load.data.21-5.se^
+||load.data.55places.com^
 ||load.data.acelinkarmor.com^
 ||load.data.americanrotary.com^
 ||load.data.artangels.net^
@@ -27434,6 +27440,7 @@
 ||server.revestedesign.com.br^
 ||server.revestimento.quero-quero.com.br^
 ||server.revisabuco.com.br^
+||server.revisaoensinojuridico.com.br^
 ||server.revisaotatica.com.br^
 ||server.revistatecnologiagrafica.com.br^
 ||server.revol.com.sg^
@@ -29470,6 +29477,7 @@
 ||sst.businessloansapprovedfast.com^
 ||sst.canadalegacy.ca^
 ||sst.channel-live.co.uk^
+||sst.chatmax.app^
 ||sst.cloud-hire.org^
 ||sst.cloudhire.ai^
 ||sst.coastalwindows.com^
@@ -30857,6 +30865,7 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||api.analytics.dobrosvyaz.com^
 ||analytics.crewly.pl^
 ||d3lw7s0briwuoi.cloudfront.net^
 ||t.mmganalytics.com^
@@ -31891,6 +31900,7 @@ directtrack.*.js
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
+||tfpodf.ars.appsflyersdk.com^
 ||inapps.appsflyersdk.com^
 ||skadsdk.appsflyersdk.com^
 ||attr.appsflyersdk.com^
@@ -31906,6 +31916,7 @@ dlsdk.appsflyersdk.com^
 ||*launches.appsflyersdk.com^
 ||*conversions.appsflyersdk.com^
 ||*register.appsflyersdk.com^
+||lklfwu-inapps.appsflyersdk.com^
 ||adrevenue.appsflyer.com^
 ||api.appsflyer.com^
 ||api2.appsflyer.com^
@@ -31954,7 +31965,6 @@ dlsdk.appsflyer.com^
 ||wslog-global-dual.cool*cloud.com^
 ||weblogger-wss.cool*cloud.com^
 ||mebed.dm-event.net^
-||lklfwu-inapps.appsflyersdk.com^
 ||client-events.gurushots.com^
 ||track-*.hungrypanda.co^
 ||collector-*.perimeterx.net^
