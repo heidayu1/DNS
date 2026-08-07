@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-06T12:05:58.069Z
+! Last modified: 2026-08-07T12:06:16.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -220,7 +220,6 @@
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-eu.amazon-adsystem.com^
-||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
@@ -278,6 +277,7 @@
 ||sponsored-ads-eu.amazon.se^
 ||sponsored-ads-fe.amazon-adsystem.com^
 ||sponsored-ads-na.amazon-adsystem.com^
+||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
 ||sponsored-ads.amazon.co.uk^
@@ -285,6 +285,7 @@
 ||sponsored-ads.amazon.com.br^
 ||sponsored-ads.amazon.com.mx^
 ||sponsored-ads.amazon.com^
+||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
 ||sponsored-ads.amazon.in.alphionsee.in^
