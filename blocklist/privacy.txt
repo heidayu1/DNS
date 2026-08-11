@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-10T12:07:04.927Z
+! Last modified: 2026-08-11T12:07:22.357Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32453
+! Rules count: 32471
 !
+||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
 ||snippet.affilimate.io^
 ||analytics.infraloods.nl^
@@ -128,6 +129,7 @@
 ||cdn.q0losid.com^
 ||stats2.indianpornempire.com^
 ||logs.adplay.ru^
+||stat.fly.codes^
 ||api.rvere.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||api.revenuads.com^
@@ -1926,6 +1928,7 @@
 ||smetrics.abound.net^
 ||smetrics.absorbcommunicationskit.com^
 ||smetrics.acehardware.com^
+||smetrics.active.com^
 ||smetrics.adultnutritionlearningcenter.com^
 ||smetrics.advil.com^
 ||smetrics.afvclub.ca^
@@ -4003,6 +4006,7 @@
 ||sanalytics.tnt-tv.ro^
 ||sanalytics.tnt.africa^
 ||sanalytics.tntsports.cl^
+||sanalytics.tntsports.com.ar^
 ||sanalytics.tntsports.com.mx^
 ||sanalytics.verizonenterprise.com^
 ||sanalytics.warnertv.fr^
@@ -4251,6 +4255,7 @@
 ||smetrics.biconnect.fr^
 ||smetrics.bigkidneybigproblem.com^
 ||smetrics.bilfinans.no^
+||smetrics.binge.com.au^
 ||smetrics.biocompare.com^
 ||smetrics.biografenvue.dk^
 ||smetrics.biomedtracker.com^
@@ -4319,6 +4324,7 @@
 ||smetrics.bvdzero.es^
 ||smetrics.bzees.com^
 ||smetrics.cadenadial.com^
+||smetrics.caleres.com^
 ||smetrics.calia.com^
 ||smetrics.callistavacations.com^
 ||smetrics.camzyos.com^
@@ -4588,6 +4594,7 @@
 ||smetrics.hicaps.com.au^
 ||smetrics.hikefoxter.com^
 ||smetrics.hitachi-hightech.com^
+||smetrics.holafly.com^
 ||smetrics.holcimbe.com^
 ||smetrics.holcimelevate.com^
 ||smetrics.homegoods.com^
@@ -6907,6 +6914,7 @@
 ||smetrics.absolutetotalcare.com^
 ||smetrics.actemrahcp.com^
 ||smetrics.activase.com^
+||smetrics.activecommunities.com^
 ||smetrics.activeendurance.com^
 ||smetrics.activenetwork.com^
 ||smetrics.addabilify.com^
@@ -7032,6 +7040,7 @@
 ||smetrics.bt.com.au^
 ||smetrics.buckeyehealthplan.com^
 ||smetrics.buffalotrace.com^
+||smetrics.buffalotracedistillery.com^
 ||smetrics.builddirect.com^
 ||smetrics.bulktransporter.com^
 ||smetrics.businessextra.com^
@@ -9430,6 +9439,7 @@
 ||tqtje.statelinetack.com^
 ||tsqfg.cliphair.com^
 ||tvfli.stripeandstare.com^
+||tvsji.adameve.com^
 ||tzafr.katespadeoutlet.com^
 ||tzqip.thevinessupply.co^
 ||uamhf.livesans.com^
@@ -18373,6 +18383,7 @@
 ||api.leadinvest.com.br^
 ||api.lealtex.com.br^
 ||api.leandrojesusbbf.com.br^
+||api.lego.com.br^
 ||api.legostore.com.br^
 ||api.lenitoautomoveis.com.br^
 ||api.leovalenciano.com^
@@ -29197,6 +29208,7 @@
 ||sm.headingprints.com^
 ||snhgtm.scienceandhumans.com^
 ||softdrinks.euvou.events^
+||sogtm.academy.org.il^
 ||sogtm.colman.ac.il^
 ||solutions.soydaatacademy.com^
 ||sonabuds-ss.checkoutera.com^
@@ -29269,6 +29281,7 @@
 ||ss.grupovk.com^
 ||ss.hameventos.com^
 ||ss.heylady.io^
+||ss.humanappeal.org.uk^
 ||ss.influencemedia.info^
 ||ss.irs-meta-app.org^
 ||ss.jimefitmom.vip^
@@ -30863,6 +30876,9 @@
 ||tk.illicado.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
+||console-telemetry.oci.oraclecloud.com^
+||stats.jerkmotion.com^
+||v.voltmail.io^
 ||api.analytics.dobrosvyaz.com^
 ||analytics.crewly.pl^
 ||d3lw7s0briwuoi.cloudfront.net^
@@ -30896,6 +30912,7 @@
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
 ||log.api-maps.yandex.
+||api.eye.sbdv.ru^
 ||stat.katitube.com^
 ||stat.aporntv.com^
 ||data-lake-api.internet.apps.samsung.com^
@@ -31067,7 +31084,6 @@ prd.api.bleacherreport.com^
 .prod.pr.analytics.console.aws.a2z.com
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||telemetry.insights.video.a2z.com^
-||co932.coloradopolitics.com^
 ||d485.capitalgazette.com^
 ||event.newsbreak.com^
 ||tracker.curama.jp^
@@ -31549,6 +31565,7 @@ prd.api.bleacherreport.com^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||events-api*.outfit7.com^
+||events.cardsmobile.ru^
 ||events.jora.com^
 ||events.newsroom.bi^
 ||events.niit-mts.com^
@@ -32446,6 +32463,7 @@ dlsdk.appsflyer.com^
 ||spareapp.com^
 ||squadtee.net^
 ||squidlogic.com^
+||stadiumzoo.net^
 ||stakeschips.com^
 ||statuesqueship.com^
 ||statusinside.com^
