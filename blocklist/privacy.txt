@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-12T12:07:39.888Z
+! Last modified: 2026-08-13T12:07:58.238Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32471
+! Rules count: 32472
 !
+||api.firwinds.site^
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
 ||snippet.affilimate.io^
@@ -60,6 +61,7 @@
 ||trackingmyadsas.com^
 ||d2g2u2795e3fzw.cloudfront.net^
 ||matomo-demo-*.amazonaws.com^
+||analysis.chatglm.cn^
 ||analytics.metriko.app^
 ||sdkapi-prod.dfinery.ai^
 ||analytics.cdnweb.info^
@@ -2652,6 +2654,7 @@
 ||analytics.pipelife.se^
 ||analytics.pipelife.sk^
 ||analytics.sleepoutfitters.com^
+||analytics.tatadigital.com^
 ||analytics.techem.com^
 ||analytics.toyotaforklift.com^
 ||analytics.truckingauthority.com^
@@ -2715,6 +2718,7 @@
 ||appleapp.macforum.se^
 ||appleapp.machines.com.my^
 ||appleapp.macstore.com.pa^
+||appleapp.macstoreonline.com.mx^
 ||appleapp.pe.tiendasishop.com^
 ||appleapp.rossellimac.es^
 ||axp.borderreport.com^
@@ -5049,7 +5053,6 @@
 ||smetrics.ralphlauren.com.my^
 ||smetrics.ralphlauren.com.sg^
 ||smetrics.ralphlauren.com.tw^
-||smetrics.ralphlauren.global^
 ||smetrics.ralphlauren.pl^
 ||smetrics.ralphlauren.se^
 ||smetrics.rbctrust.com^
@@ -6867,6 +6870,7 @@
 ||smetric.malaysiaairlines.com^
 ||smetric.medix-inc.co.jp^
 ||smetric.movement.com^
+||smetric.olivegarden.com^
 ||smetric.panpacific.com^
 ||smetric.parkroyalhotels.com^
 ||smetric.pastapass.com^
@@ -12470,7 +12474,6 @@
 ||statistieken.ns-epublisher.com^
 ||stats.arinet.com^
 ||stats.dealerspike.com^
-||stats.manz.at^
 ||stats.netdriven.com^
 ||tagadmin.aumago.com^
 ||webanalytics.helen.fi^
@@ -22313,6 +22316,7 @@
 ||gtm.vuggebaby.no^
 ||gtm.vulcanojoias.com.br^
 ||gtm.wakandaslots.com^
+||gtm.walterwrites.ai^
 ||gtm.watatutravel.com^
 ||gtm.watchstraps.com.au^
 ||gtm.waterbros.com.au^
@@ -30878,7 +30882,6 @@
 ||trackv-test.esearchvision.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||stats.jerkmotion.com^
-||v.voltmail.io^
 ||api.analytics.dobrosvyaz.com^
 ||analytics.crewly.pl^
 ||d3lw7s0briwuoi.cloudfront.net^
@@ -31081,6 +31084,7 @@ prd.api.bleacherreport.com^
 ||collector-*.px-client.net^
 ||collector-*.px-cdn.net^
 ||acr-*-prd.samsungcloud.tv^
+||event.wondershare.com^
 .prod.pr.analytics.console.aws.a2z.com
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||telemetry.insights.video.a2z.com^
@@ -31154,7 +31158,6 @@ prd.api.bleacherreport.com^
 ||tracking-v*.a.run.app^
 ||analytics.sonjj.com^
 ||px.adfulplatform.com^
-||plausible.omgapi.org^
 ||cdn.track.olx.com.br^
 ||analytics.junia.ai^
 ||collect.biomedcentral.com^
@@ -31182,7 +31185,6 @@ prd.api.bleacherreport.com^
 ||amplitude.chess.com^
 ||logging.h3z.jp^
 ||cv-tracker.stanby.com^
-||collector.xhofficial.com^
 ||track.ttsave.app^
 ||analytics.3c5.com^
 ||analytics.waifu2x.org^
@@ -31752,7 +31754,6 @@ prd.api.bleacherreport.com^
 ||stats.harpercollins.com^
 ||stats.heyoya.com^
 ||stats.ibtimes.co.in^
-||stats.ibtimes.co.uk^
 ||stats.jpush.cn^
 ||stats.media.onet.pl^
 ||stats.mirror.co.uk^
