@@ -4,13 +4,12 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-13T12:07:58.238Z
+! Last modified: 2026-08-14T12:08:15.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32472
+! Rules count: 32484
 !
-||api.firwinds.site^
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
 ||snippet.affilimate.io^
@@ -64,7 +63,6 @@
 ||analysis.chatglm.cn^
 ||analytics.metriko.app^
 ||sdkapi-prod.dfinery.ai^
-||analytics.cdnweb.info^
 ||pixel-img.com^
 ||pixel.prb-team.com^
 ||cdn.deviceinf.com^
@@ -184,7 +182,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -4362,6 +4359,7 @@
 ||smetrics.ccma.cat^
 ||smetrics.centralparknyc.org^
 ||smetrics.cepheid.com^
+||smetrics.ceratizit.com^
 ||smetrics.chadstone.com.au^
 ||smetrics.changingconditionscll.com^
 ||smetrics.channel.com^
@@ -4571,6 +4569,7 @@
 ||smetrics.goredseal.com^
 ||smetrics.grahamdirect.co.uk^
 ||smetrics.greenrow.com^
+||smetrics.gs1us.org^
 ||smetrics.h-scc.jp^
 ||smetrics.handelsbanken.co.uk^
 ||smetrics.handelsbanken.com^
@@ -4606,6 +4605,7 @@
 ||smetrics.hossintropia.com^
 ||smetrics.hossintropia.mx^
 ||smetrics.hotelbooker.com^
+||smetrics.hotsy.com^
 ||smetrics.howtogetridoffleas.co.uk^
 ||smetrics.hq.pwc.com^
 ||smetrics.hr.abbott^
@@ -5864,6 +5864,7 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6790,6 +6791,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7117,6 +7119,7 @@
 ||smetrics.cornertrader.ch^
 ||smetrics.cornertrader.com^
 ||smetrics.cortevents.com^
+||smetrics.corus.ca^
 ||smetrics.costumesupercenter.com^
 ||smetrics.cotellic.com^
 ||smetrics.cottages.com^
@@ -7133,12 +7136,15 @@
 ||smetrics.cupraofficial.com^
 ||smetrics.curel.com^
 ||smetrics.cytivalifesciences.co.kr^
+||smetrics.cytivalifesciences.com^
 ||smetrics.dalisalda.com^
 ||smetrics.dandh.ca^
 ||smetrics.dandh.com^
 ||smetrics.datacenterworld.com^
 ||smetrics.datatrue.com^
+||smetrics.deakin.edu.au^
 ||smetrics.delacon.com.au^
+||smetrics.deltacargo.com^
 ||smetrics.deltafarmpress.com^
 ||smetrics.devcommittee.org^
 ||smetrics.dhc.co.jp^
@@ -7154,12 +7160,15 @@
 ||smetrics.divosta.com^
 ||smetrics.dmfacility.org^
 ||smetrics.dnszone.jp^
+||smetrics.doingbusiness.org^
 ||smetrics.dounaru-dm.jp^
 ||smetrics.driveshare.com^
 ||smetrics.drugpricinglaw.com^
 ||smetrics.e-casio.co.jp^
 ||smetrics.eddiebauer.com^
+||smetrics.edge.ca^
 ||smetrics.edifice-watches.com^
+||smetrics.ee.co.uk^
 ||smetrics.eis-inc.com^
 ||smetrics.electricalmarketing.com^
 ||smetrics.electronicdesign.com^
@@ -7187,6 +7196,7 @@
 ||smetrics.examinebiosimilars.com^
 ||smetrics.expoeast.com^
 ||smetrics.expowest.com^
+||smetrics.express.com^
 ||smetrics.extranetperu.grupobbva.pe^
 ||smetrics.faceipf.com^
 ||smetrics.fancl.jp^
@@ -7203,6 +7213,7 @@
 ||smetrics.finance.audifs.com^
 ||smetrics.finance.vwcredit.com^
 ||smetrics.financing.vwfinance.ca^
+||smetrics.fingerhut.com^
 ||smetrics.finn.no^
 ||smetrics.fireballwhisky.com^
 ||smetrics.firstchoice.co.uk^
@@ -7260,6 +7271,7 @@
 ||smetrics.gshock.com^
 ||smetrics.gsretail.com^
 ||smetrics.gvb.ch^
+||smetrics.hagerty.co.uk^
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
@@ -7328,12 +7340,14 @@
 ||smetrics.iwakifc.com^
 ||smetrics.iwceexpo.com^
 ||smetrics.jboss.org^
+||smetrics.jcrew.com^
 ||smetrics.jeld-wen.com^
 ||smetrics.jergens.com^
 ||smetrics.jeugdbibliotheek.nl^
 ||smetrics.jewson-beta.co.uk^
 ||smetrics.jobs.ie^
 ||smetrics.joefresh.com^
+||smetrics.johnfrieda.com^
 ||smetrics.joulesusa.com^
 ||smetrics.jpmorgan.com^
 ||smetrics.juiceplus.com^
@@ -7349,6 +7363,7 @@
 ||smetrics.kanebo.com^
 ||smetrics.kansasfarmer.com^
 ||smetrics.kate-global.net^
+||smetrics.kayosports.com.au^
 ||smetrics.kayoutlet.com^
 ||smetrics.kenwood.com^
 ||smetrics.keysight.co.jp^
@@ -7407,6 +7422,7 @@
 ||smetrics.lalavla.com^
 ||smetrics.landg-life.com^
 ||smetrics.landg.com^
+||smetrics.landolakes.com^
 ||smetrics.landolakesfoodservice.com^
 ||smetrics.landolakesinc.com^
 ||smetrics.latitudefinancial.com.au^
@@ -7830,7 +7846,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -7868,7 +7883,6 @@
 ||smetrics.upc.ch^
 ||smetrics.urgentcomm.com^
 ||smetrics.us.fatface.com^
-||smetrics.usopen.org^
 ||smetrics.utech-polyurethane.com^
 ||smetrics.utilityanalyticsweek.com^
 ||smetrics.valumart.ca^
@@ -7946,6 +7960,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -29425,7 +29440,6 @@
 ||ssgtm.kiilto.ua^
 ||ssgtm.legalese.co.za^
 ||ssgtm.lifsonlinen.co.za^
-||ssgtm.lightingnewyork.com^
 ||ssgtm.livexlightinglights.com^
 ||ssgtm.magictissue.care^
 ||ssgtm.maximlightinglights.com^
@@ -30937,7 +30951,6 @@
 ||logsk.glomancloud.gr^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
-||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
 ||event-storage.netmonet.co^
@@ -30997,7 +31010,6 @@
 ||collector-pxdojv695v.protechts.net^
 ||adgbb.io.naver.com^
 ||data.client.openweb.bid^
-||d2zd0wa1vpt7j9.cloudfront.net^
 ||h5collector.miyoushe.com^
 ||public-data-api.miyoushe.com^
 ||h5log-api-dualstack.miyoushe.com^
@@ -31243,6 +31255,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31363,7 +31376,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
