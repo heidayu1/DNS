@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-14T12:08:15.968Z
+! Last modified: 2026-08-15T12:08:34.313Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32484
+! Rules count: 32485
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -3576,7 +3576,6 @@
 ||data.signup.healthanswers.pfizer.com^
 ||data.sk.golden1center.com^
 ||data.sk.kingsteamstore.com^
-||data.sk.sacramentokings.com^
 ||data.skistar1.test.cjmadobe.com^
 ||data.skybet.test.ajo.adobe.com^
 ||data.sm.princess.com^
@@ -3870,6 +3869,7 @@
 ||metrics.thegrocer.co.uk^
 ||metrics.therestaurantconference.co.uk^
 ||metrics.therestaurantshow.co.uk^
+||metrics.theworlds50best.com^
 ||metrics.tips.com.au^
 ||metrics.top50boutiquehotels.com^
 ||metrics.top50cocktailbars.com^
@@ -4334,6 +4334,7 @@
 ||smetrics.careaboutcushings.co.uk^
 ||smetrics.carmaxauctions.com^
 ||smetrics.carrieres.pwc.fr^
+||smetrics.cars.tatamotors.com^
 ||smetrics.cartoonnetwork.ca^
 ||smetrics.casino.at^
 ||smetrics.casino.ca^
@@ -6791,7 +6792,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7846,6 +7846,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thorn.se^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -10725,6 +10726,7 @@
 ||www.fodgfip.fr^
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
+||analytics.ferguson.com^
 ||analytics.globality.com^
 ||analytics.hello.axaxl.com^
 ||analytics.neworleanssaints.com^
@@ -28087,6 +28089,7 @@
 ||serverside.avantmotos.com.br^
 ||serverside.axia.africa^
 ||serverside.beautybooth.com.bd^
+||serverside.benavides.com.mx^
 ||serverside.capolivo.com.br^
 ||serverside.casadosaber.com.br^
 ||serverside.courses.under40ceos.com^
@@ -31837,7 +31840,6 @@ prd.api.bleacherreport.com^
 ||tracker.mattel.com^
 ||tracker.pinnaclesports.com^
 ||tracker.secretescapes.com^
-||tracker.softcube.com^
 ||tracker.stats.in.th^
 ||tracker.tubecj.com^
 ||trackers.adtarget.me^
@@ -32466,7 +32468,6 @@ dlsdk.appsflyer.com^
 ||scenicapparel.com^
 ||serenecascade.com^
 ||shadeship.com^
-||sidetrades.com^
 ||skylightdata.com^
 ||slickcontent.com^
 ||smoggystation.com^

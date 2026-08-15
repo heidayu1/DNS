@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-14T12:08:19.135Z
+! Last modified: 2026-08-15T12:08:36.787Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -284,6 +284,7 @@
 ||sponsored-ads.amazon.com.au^
 ||sponsored-ads.amazon.com.br^
 ||sponsored-ads.amazon.com.mx^
+||sponsored-ads.amazon.com.tr^
 ||sponsored-ads.amazon.com^
 ||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
@@ -659,6 +660,7 @@
 ||teams.nel.measure.office.net.cardano.com^
 ||insights.cloud.microsoft^
 ||measure.office.net.edgesuite.net^
+||westeurope-5.in.applicationinsights.azure.com.fiege.de^
 ||collector.azure.eaglex.ic.gov^
 ||auc-visio-telemetry.officeapps.live.com^
 ||brc-visio-telemetry.officeapps.live.com^
@@ -939,7 +941,6 @@
 ||irreverselookuptm.trafficmanager.net^
 ||ism-telemetry.trafficmanager.net^
 ||legacywatson.trafficmanager.net^
-||o365diagtelemetry.trafficmanager.net^
 ||office-events-data.trafficmanager.net^
 ||oms-analytics.trafficmanager.net^
 ||pixel-sync.trafficmanager.net^
@@ -1514,6 +1515,12 @@
 ||log.tiktokv.com^
 ||log.tiktokv.us^
 ||log-boot.tiktokv.com^
+||log-dr.tiktokv.com^
+||log-dr16-normal-no1a.tiktokv.eu^
+||log-dr16-normal-useast1a.tiktokv.com^
+||log-dr16-normal-useast5.tiktokv.us^
+||log-dr16-normal-useast8.tiktokv.us^
+||log-dr16-normal-useastred.tiktokv.eu^
 ||log-i18n.tiktokv.com^
 ||log-phx.tiktokv.com^
 ||log-ru.tiktokv.com^
@@ -1896,7 +1903,6 @@
 ||ip-info.ff.avast.sec.miui.com^
 ||streamback.ff.avast.sec.miui.com^
 ||cse.avlyun.sec.miui.com^
-||log-abroad.avlyun.sec.miui.com^
 ||logupdate.avlyun.sec.miui.com^
 ||update.avlyun.sec.miui.com^
 ||auth.be.sec.miui.com^
