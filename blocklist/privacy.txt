@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-15T12:08:34.313Z
+! Last modified: 2026-08-16T12:08:51.123Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32485
+! Rules count: 32509
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -182,6 +182,7 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2401,7 +2402,6 @@
 ||stats.lumension.com^
 ||stats.marshfieldresearch.org^
 ||stats.medicalscrubsmall.com^
-||stats.mint.ca^
 ||stats.myfidm.fidm.edu^
 ||stats.nana.com.lb^
 ||stats.nascar.com^
@@ -4006,6 +4006,7 @@
 ||sanalytics.tnt.africa^
 ||sanalytics.tntsports.cl^
 ||sanalytics.tntsports.com.ar^
+||sanalytics.tntsports.com.br^
 ||sanalytics.tntsports.com.mx^
 ||sanalytics.verizonenterprise.com^
 ||sanalytics.warnertv.fr^
@@ -5382,6 +5383,7 @@
 ||smetrics.zodiacshoes.com^
 ||smetrics2.brookdale.com^
 ||smetricsinstoreappra.carmax.com^
+||smetricsmaxoffer.carmax.com^
 ||smetricsmobile.carmax.com^
 ||smetricsqa.sierra.com^
 ||sms-cuc.e2eprod.repackage.test.ajo.adobe.com^
@@ -5865,7 +5867,6 @@
 ||metrics.adage.com^
 ||metrics.adiglobal.us^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.com^
@@ -6792,6 +6793,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -7961,7 +7963,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -15278,6 +15279,7 @@
 ||load.llss.lampisilumini.md^
 ||load.loader.auraherbals.pl^
 ||load.login.avitalx.ro^
+||load.logs.officedepot.fr^
 ||load.looker.duvet-koenig.ch^
 ||load.loqtwoho.cozaherbata.pl^
 ||load.loqtwoho.kawaherbatasklep.pl^
@@ -25622,6 +25624,7 @@
 ||securedata.aiper.store^
 ||securedata.merachfit.com^
 ||securedata.rihoas.com^
+||securedata.yesoulfitness.com^
 ||sellup.badana.cl^
 ||semlimites.a2baceleradora.com^
 ||sensseloshop-ss.checkoutera.com^
@@ -30928,6 +30931,7 @@
 ||data-api.fenbi.com^
 ||dlso-ap96.macgamingdb.app^
 ||stats.cinevibe.asia^
+||data.ssports.com^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -30972,6 +30976,7 @@
 ||unif-id.ssp.inmobi.com^
 ||telemetry.sdk.inmobi.com^
 ||android-tv-beacons.xumo.com^
+||ams-beacons.xumo.com^
 ||telemetry.microsoft.us^
 ||analytics.heistotron.uk^
 ||fluffy-analytics.vercel.app^
@@ -31258,7 +31263,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -31379,6 +31383,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -32222,6 +32227,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
@@ -32374,7 +32380,6 @@ dlsdk.appsflyer.com^
 @@||metrics.torproject.org^
 @@||track2.royalmail.com^
 @@||webtrack.dhlglobalmail.com^
-||abruptroad.com^
 ||absurdapple.com^
 ||adamantsnail.com^
 ||addictedattention.com^
@@ -32382,8 +32387,11 @@ dlsdk.appsflyer.com^
 ||admiralproxied.com^
 ||adorableanger.com^
 ||aheadgrow.com^
+||alertgraph.com^
+||alldatalabs.com^
 ||allthelogs.com^
 ||applocus.com^
+||atticassets.com^
 ||averageactivity.com^
 ||azuremystique.com^
 ||badgeboat.com^
@@ -32404,11 +32412,14 @@ dlsdk.appsflyer.com^
 ||cicdserver.com^
 ||cloudhustles.com^
 ||cloudjumbo.com^
+||cloudninefresh.com^
 ||colossalclouds.com^
+||contentwiki.com^
 ||crashpandas.com^
 ||createdip.com^
 ||curlycannon.com^
 ||datastoried.com^
+||deltadigs.com^
 ||dependenttrip.com^
 ||dyecloud.com^
 ||elusivecascade.com^
@@ -32419,32 +32430,37 @@ dlsdk.appsflyer.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
 ||flourishingpartnership.com^
+||gadgetboy.net^
 ||gleamingtrade.com^
 ||glowingmeadow.com^
-||gluedpixel.com^
 ||golfcartlaws.com^
 ||grayreceipt.com^
 ||gripcorn.com^
+||guestpixel.net^
 ||gulliblegrip.com^
+||hippocat.com^
 ||hippojump.com^
 ||idlecollect.com^
 ||incomehippo.com^
 ||irelandroad.com^
-||lackadaisicalkite.com^
 ||loaddisplay.com^
 ||logicalminds.net^
+||lowlatencydata.com^
 ||maddeningpowder.com^
 ||madebyintent.com^
 ||madlysuccessful.com^
 ||madnessbuzz.com^
 ||madoverrice.com^
+||mailtinker.com^
 ||marriedmailbox.com^
 ||mediatescarf.com^
 ||midnightmead.com^
 ||mutemailbox.com^
 ||niftygraphs.com^
+||noslipfall.com^
 ||nullradar.com^
 ||offshoreassets.com^
+||olivedaystee.com^
 ||operationnail.com^
 ||ourblogthing.com^
 ||owlreporter.com^
@@ -32462,8 +32478,9 @@ dlsdk.appsflyer.com^
 ||refundradar.com^
 ||regexmail.com^
 ||rhetoricalactivity.com^
+||roadsagain.com^
 ||sadloaf.com^
-||sadspacekitty.com^
+||saladbarrel.com^
 ||saladfuel.com^
 ||scenicapparel.com^
 ||serenecascade.com^
@@ -32471,6 +32488,7 @@ dlsdk.appsflyer.com^
 ||skylightdata.com^
 ||slickcontent.com^
 ||smoggystation.com^
+||snacksalive.com^
 ||snappyreport.com^
 ||soilcontent.com^
 ||sourcecodeapp.com^
@@ -32487,11 +32505,17 @@ dlsdk.appsflyer.com^
 ||surfacesmedia.com^
 ||telephoneapparatus.com^
 ||testadmiral.com^
+||thoseshades.com^
 ||toolcapital.com^
+||topsecretapp.net^
 ||traderbyte.com^
 ||treadbun.com^
+||triplelarge.com^
 ||tritebadge.com^
+||verbacademy.com^
+||voyagemonitoring.com^
 ||wellgroomedapparel.com^
 ||whimsygadget.com^
+||wikichronology.com^
 ||wordchip.com^
 ||zipperxray.com^
