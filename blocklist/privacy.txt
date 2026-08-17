@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-16T12:08:51.123Z
+! Last modified: 2026-08-17T12:09:08.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 32509
+! Rules count: 32508
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -2350,7 +2350,6 @@
 ||stat.outrigger.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aavacations.com^
 ||stats.adultswim.com^
@@ -6460,7 +6459,6 @@
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
-||metrics.tv2.dk^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
 ||metrics.ubi.com^
@@ -7003,7 +7001,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
+||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -7963,6 +7961,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.australia.cn^
 ||somni.cineplexdigitalmedia.com^
 ||somni.clinicalpainadvisor.com^
@@ -13185,6 +13184,7 @@
 ||track.hard-swimwear.com^
 ||track.healthierdayz.com^
 ||track.homie.com.au^
+||track.hukitchen.com^
 ||track.icowhide.com^
 ||track.injuryjusticealliance.com^
 ||track.kitup.net^
@@ -14074,7 +14074,6 @@
 ||gtm.carrerajeans.com^
 ||gtm.carretos.pt^
 ||gtm.cartuseria.ro^
-||gtm.castlefineart.com^
 ||gtm.certyfikaty-energetyczne.pl^
 ||gtm.chelseasupplies.com^
 ||gtm.chocante.pl^
@@ -24965,6 +24964,7 @@
 ||load.stape.styldesign.com.au^
 ||load.stape.surveysme.io^
 ||load.stape.tatoscredito.com.br^
+||load.stape.terapeutaderesultados.com.br^
 ||load.stape.thaismassa.com.br^
 ||load.stape.thebookbusiness.com.br^
 ||load.stape.tigomix.com^
@@ -28914,6 +28914,7 @@
 ||sgtm.purewelltoday.online^
 ||sgtm.purplecarrot.com^
 ||sgtm.qqenglish.com.br^
+||sgtm.quarkexpeditions.com^
 ||sgtm.quebelamoda.com.br^
 ||sgtm.r.design^
 ||sgtm.raamdecoratievantuiss.nl^
@@ -29331,7 +29332,6 @@
 ||ss.multiplyadvisors.com^
 ||ss.nukipet.pe^
 ||ss.nuriaecuador.com^
-||ss.ozhairandbeauty.com^
 ||ss.ozhairandbeauty.nz^
 ||ss.padelhq.co.uk^
 ||ss.padelmarket.com^
@@ -31390,7 +31390,6 @@ prd.api.bleacherreport.com^
 ||sdk.airbridge.io^
 ||core.airbridge.io^
 ||metrics.biletino.com^
-||analytics.kurocore.com^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||ab-log.datahou.se^
@@ -31991,7 +31990,7 @@ dlsdk.appsflyer.com^
 ||global-receiver-ta.thinkingdata.cn^
 ||mixpanel-proxy-ivbdkvonca-uc.a.run.app^
 -datareceiver.aki-game.net^
-||prod-ue1-metrics.hingeprod.net^
+||log.sweepycleanplus.com^
 ||logc-sg.tsd.xindong.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
