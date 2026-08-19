@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-18T12:09:28.892Z
+! Last modified: 2026-08-19T12:09:49.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42515
+! Rules count: 42523
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -2809,6 +2809,7 @@
 ||sstats.myrussellstover.com^
 ||sstats.o2videoteka.cz^
 ||sstats.olivia.com^
+||sstats.omahasteaks.com^
 ||sstats.onelambda.com^
 ||sstats.ooshop.com^
 ||sstats.optionsxpress.com^
@@ -2857,6 +2858,7 @@
 ||stat.pacificdentalservices.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aatbs.com^
 ||stats.aavacations.com^
@@ -6388,6 +6390,7 @@
 ||smetrics.pharmacysatisfaction.com^
 ||smetrics.pharmawebportal.com^
 ||smetrics.phesgo.com^
+||smetrics.phoenix.gov^
 ||smetrics.pictet.com^
 ||smetrics.pkdinfo.com^
 ||smetrics.placesforlondon.co.uk^
@@ -6862,7 +6865,6 @@
 ||smetrics.whatspossiblehealth.com^
 ||smetrics.whitbyoshawahonda.com^
 ||smetrics.wileyplus.com^
-||smetrics.williams-sonoma.ca^
 ||smetrics.williamscomfortair.com^
 ||smetrics.williamsf1.com^
 ||smetrics.williamsgptech.com^
@@ -7398,7 +7400,6 @@
 ||data.vinsolutions.com^
 ||data0.virginmobile.ca^
 ||data1.sparkasse.at^
-||data1.virginmobile.ca^
 ||dev.email-signify.cjm.adobe.com^
 ||dev.email.skistar.com^
 ||digistat.westjet.com^
@@ -8077,6 +8078,7 @@
 ||metrics.keno.com.au^
 ||metrics.kenwood.com^
 ||metrics.kidsnews.com.au^
+||metrics.kirklands.com^
 ||metrics.kpmg.com^
 ||metrics.kpmg.us^
 ||metrics.lacaixa.es^
@@ -9178,6 +9180,7 @@
 ||smetrics.ancestry.mx^
 ||smetrics.ancestryinstitution.com^
 ||smetrics.ancestrystage.com^
+||smetrics.angara.com^
 ||smetrics.ansible.com^
 ||smetrics.anwagolf.com^
 ||smetrics.apmexpo.com^
@@ -12543,7 +12546,6 @@
 ||stats.kaerntnerjobs.at^
 ||stats.krauss-gmbh.com^
 ||stats.oberoejobs.at^
-||stats.pilz.com^
 ||stats.salzburgerjobs.at^
 ||stats.steirerjobs.at^
 ||stats.suedtirolerjobs.it^
@@ -14819,7 +14821,6 @@
 ||tracking.alphacard.com^
 ||tracking.averydennison.com^
 ||tracking.barcodediscount.com^
-||tracking.barcodegiant.com^
 ||tracking.barcodeplanet.com^
 ||tracking.digitalid.co.uk^
 ||tracking.idcardgroup.com^
@@ -38552,6 +38553,7 @@
 ||signal.tryshdad.com^
 ||signals.instaread.co^
 ||simule.ademiconbr.com^
+||sio.dripdrop.com^
 ||sip.miraamall.com^
 ||site.lajeadoimoveis.com.br^
 ||site.proclient.com^
@@ -40904,6 +40906,8 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||beacon.errorception.com^
+||analytics.netronline.dev^
 ||analytics.streamvaultsrc.click^
 ||console-telemetry.oci.oraclecloud.com^
 ||stats.jerkmotion.com^
@@ -41059,6 +41063,7 @@ prd.api.bleacherreport.com^
 ||sgtm.joga.dk^
 ||sgtm.lovi.fi^
 ||sgtm.nordicbranch.com^
+||sgtm.depaul.edu^
 ||sgtm.hometogo.pt^
 ||sgtm.mon-maire.fr^
 ||sgtm.nisulaforest.com^
@@ -41278,6 +41283,7 @@ prd.api.bleacherreport.com^
 ||analytics.ifanrusercontent.com^
 ||tracking.shinycolors.enza.fun^
 ||log.bunjang.co.kr^
+||pixel.aws.pfnetwork.net^
 ||stats.macg.io^
 ||tracking.socketlabs.com^
 ||analytics.elegela.us^
@@ -41374,6 +41380,7 @@ prd.api.bleacherreport.com^
 ||pixel.ex.co^
 ||ad*.ettoday.net^
 ||client-analytics.mts.ru^
+||analytics-wcms.joins.net^
 ||analytics.mall.tv^
 ||log.etoday.co.kr^
 ||zgsdk.zhugeio.com^
@@ -41701,6 +41708,7 @@ prd.api.bleacherreport.com^
 ||pixel.carambo.la^
 ||pixel.cdnwidget.com^
 ||pixel.digitalspy.co.uk^
+||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
