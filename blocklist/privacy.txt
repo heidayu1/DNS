@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-20T12:10:09.006Z
+! Last modified: 2026-08-21T12:10:30.058Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42532
+! Rules count: 42536
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -30,7 +30,6 @@
 ||alpha-collector-statistics.nhn-commerce.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
-||snssdk.gatedata.org^
 ||log.ablyft.com^
 ||participants.evolv.ai^
 ||media.evolv.ai^
@@ -4075,6 +4074,7 @@
 ||data.fans.lukebrowningracing.co.uk^
 ||data.fans.realmadrid.com^
 ||data.fans.ussailgpteam.com^
+||data.fans.williamsf1.com^
 ||data.fastlane-email.paypal.com^
 ||data.fcbayern.dev.cjmadobe.com^
 ||data.fedex.dev.ajo.adobe.com^
@@ -4591,7 +4591,6 @@
 ||data.service.wizconnected.com^
 ||data.service.xoom.com^
 ||data.service1.cahoot.com^
-||data.service1.santander.co.uk^
 ||data.services.callme.dk^
 ||data.services.chowtaifook.com^
 ||data.services.commsec.com.au^
@@ -7372,6 +7371,7 @@
 ||collect.cap.ch^
 ||collect.elvia.ch^
 ||collect2.allianz.ch^
+||collection.saga.co.uk^
 ||cookies-adobe.kbc.be^
 ||cookies-adobe.kbc.com^
 ||cookies-adobe.kbclease.lu^
@@ -8971,6 +8971,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -9219,6 +9220,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -9560,6 +9562,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -11018,6 +11021,7 @@
 ||swebanalytics.proff.dk^
 ||swebanalytics.proff.no^
 ||swebanalytics.proff.se^
+||swebreports.nature.org^
 ||swebstats.abanet.org^
 ||tdor-smetrics.td.com^
 ||tenilstats.turner.com^
@@ -25078,7 +25082,6 @@
 ||data.colhogar.com.co^
 ||data.coliseumtheatre.com.au^
 ||data.colorievernici.com^
-||data.columbiasouthern.edu^
 ||data.commandlight.com^
 ||data.comonegociardividas.com.br^
 ||data.compliantlearningresources.com.au^
@@ -40913,6 +40916,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||analytics.sen.go.kr^
 ||scollect.17173.com^
 ||beacon.errorception.com^
 ||analytics.netronline.dev^
@@ -40946,6 +40950,7 @@
 ||go-usertrack-importer.pub.rtl-api.com^
 ||analytics.pingaja.com^
 ||data-api.fenbi.com^
+||mpecom-analyticevents-prod.boyner.com.tr^
 ||dlso-ap96.macgamingdb.app^
 ||stats.cinevibe.asia^
 ||data.ssports.com^
@@ -41258,7 +41263,6 @@ prd.api.bleacherreport.com^
 ||gtm.readytec.it^
 ||gtm.restplatzboerse.at^
 ||gtm.saumag.edu^
-||gtm.skrz.cz^
 ||gtm.vanmoof.com^
 ||gtm.docswell.com^
 ||collector.taoxh.life^
