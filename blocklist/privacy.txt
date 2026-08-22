@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-21T12:10:30.058Z
+! Last modified: 2026-08-22T12:10:50.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42536
+! Rules count: 42525
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -48,7 +48,6 @@
 ||track.trakkr.ai^
 ||tracker.zmaticoo.com^
 ||data.thoughtmetric.io^
-||assets.9gtb.com^
 ||beacon.coofis.com^
 ||aditude.prebid-server.com^
 ||cache.prebid-server.com^
@@ -84,7 +83,6 @@
 ||trk.analytics.wisetracker.co.kr^
 ||data.armexdef.uk^
 ||video-intel.pixels.ai^
-||analytics.pixels.ai^
 ||video.pixels.ai^
 ||t.adclr.jp^
 ||stat.adtec.ru^
@@ -96,7 +94,6 @@
 ||rsra-ph.cdn-fileserver.com^
 ||rsras-ph.cdn-fileserver.com^
 ||api.melonity.gg^
-||api.instant.one^
 ||analytics.pyksid.com^
 ||sr-client-cfg.amplitude.com^
 ||api.amplitude.com^
@@ -138,7 +135,6 @@
 ||polaris*-normal-*.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||view.zijieapi.com^
-||mato.clanto.cloud^
 ||matomo.clanto.cloud^
 ||analytics.spearly.com^
 ||events.baselime.io^
@@ -201,7 +197,6 @@
 ||t.adcell.com^
 ||odtrtadl.com^
 ||log.trackingio.com^
-||iad.anm.co.uk^
 ||cdn.wgchrrammzv.com^
 ||cdn.pranmcpkx.com^
 ||cookie.codemarketing.cloud^
@@ -3167,6 +3162,7 @@
 ||adcs.mackspw.com^
 ||adobe-analytics-dc.amlc.eu^
 ||adobe-analytics-dc.amlc.nl^
+||adobe-analytics-dc.belastingdienst.nl^
 ||adobe-analytics-dc.douane.nl^
 ||adobe-analytics-dc.fiod.nl^
 ||adobe-analytics.vionicshoes.com^
@@ -4213,7 +4209,6 @@
 ||data.m.mlsstore.com^
 ||data.m.mysticlake.com^
 ||data.m.mysticlakecenter.com^
-||data.m.philadelphiaeagles.com^
 ||data.m.shop.international.nhl.com^
 ||data.m.shop.wwe.com^
 ||data.m.store.nascar.com^
@@ -4305,7 +4300,6 @@
 ||data.marketing.riyadhair.com^
 ||data.marketing.riyadhair.io^
 ||data.marketing.shrm.org^
-||data.marketing.sling.com^
 ||data.marketing.smart.com^
 ||data.marketing.stark.dk^
 ||data.marketing.super99.com^
@@ -9289,7 +9283,6 @@
 ||smetrics.cahealthwellness.com^
 ||smetrics.calbaptist.edu^
 ||smetrics.caliastudio.com^
-||smetrics.calvinklein.ca^
 ||smetrics.calvinklein.cn^
 ||smetrics.calvinklein.com.br^
 ||smetrics.calvinklein.mx^
@@ -15355,7 +15348,6 @@
 ||tracking2.labcorp.com^
 ||app.marketing.richardsonrfpd.com^
 ||branch.verintsystemsinc.com^
-||content.verint.com^
 ||download.createyournextcustomer.com^
 ||events.newyorklifeinvestments.com^
 ||tracking.direxion.com^
@@ -22910,7 +22902,6 @@
 ||xczqyvmlpkrg.media4u.pl^
 ||xwldxfmn.capida.no^
 ||ywt.alphatentevent.nl^
-||zasdinbo.ems-urology.com^
 ||zovurtamo.adic.swiss^
 ||ztpq.luxador24.com^
 ||zydecipy.kajskjul8.se^
@@ -27787,7 +27778,6 @@
 ||gtm.helssyhair.com^
 ||gtm.heltoncavalcanti.com.br^
 ||gtm.herediacosmeticos.com.br^
-||gtm.heritagepartscentre.com^
 ||gtm.heydensupply.com^
 ||gtm.heyhanni.com^
 ||gtm.hhbldrs.com^
@@ -38126,7 +38116,6 @@
 ||sgtm.purplecarrot.com^
 ||sgtm.qmrfashion.com^
 ||sgtm.qqenglish.com.br^
-||sgtm.quarkexpeditions.com^
 ||sgtm.quebelamoda.com.br^
 ||sgtm.queensgrowthandbeyond.com^
 ||sgtm.r.design^
@@ -40916,6 +40905,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||analytics.sportera.fans^
 ||analytics.sen.go.kr^
 ||scollect.17173.com^
 ||beacon.errorception.com^
@@ -41013,6 +41003,7 @@
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
+||bizlog-gateway.myrealtrip.com^
 ||collector.moderntv.eu^
 ||ipm.adblockplus.dev^
 ||log1.wanmei.com^
@@ -41059,7 +41050,6 @@
 ||uxlog.next.koapp.com^
 ||stats.itc.ua^
 ||analytics-service.api.linkme.global^
-||cdn.instant.one^
 ||tracker-beam.aktuality.sk^
 ||tracker.ris.promo^
 ||stats.anime-go.cc^
@@ -41100,7 +41090,6 @@ prd.api.bleacherreport.com^
 ||track-events.membrana.media^
 ||client.rum.*.amazonaws.com^
 ||pixel.thoughtmetric.io^
-||tracking-sales-pop.carecart.io^
 ||logs.getfiddler.com^
 ||logs.viewstats.com^
 ||mystats.flixfiend.top^
@@ -41162,7 +41151,6 @@ prd.api.bleacherreport.com^
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||tracker.grupanya.com^
 ||track.hydro.online^
-||lptag.liveperson.net^
 ||analytics.valotool.com^
 ||stats.browsertrix.com^
 ||d.analyticsmania.com^
@@ -41230,6 +41218,7 @@ prd.api.bleacherreport.com^
 ||amplitude.chess.com^
 ||logging.h3z.jp^
 ||cv-tracker.stanby.com^
+||auth-srv.launchthatapps.com^
 ||track.ttsave.app^
 ||analytics.3c5.com^
 ||analytics.waifu2x.org^
@@ -41344,6 +41333,7 @@ prd.api.bleacherreport.com^
 ||pixel*.production-public.tubi.io^
 ||player.stats.live-video.net^
 ||medialog.smartmediarep.com^
+||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
 ||log1.wtlogin.qq.com^
@@ -41672,7 +41662,6 @@ prd.api.bleacherreport.com^
 ||logcol.kyobobook.co.kr^
 ||logcollect.totalcms.ncloud.or.kr^
 ||logger-*.dailymotion.com^
-||logger.applovefrom.com^
 ||logger.bzu.kr^
 ||logger.nerdwallet.com^
 ||logger.snackly.co^
