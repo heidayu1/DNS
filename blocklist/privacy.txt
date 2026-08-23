@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-22T12:10:50.988Z
+! Last modified: 2026-08-23T12:11:11.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42525
+! Rules count: 42523
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -178,6 +178,7 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -7562,7 +7563,6 @@
 ||metrics.adiglobal.us^
 ||metrics.admission.com^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.co.kr^
@@ -8499,7 +8499,6 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
-||metrics.tv2.dk^
 ||metrics.tylted.com^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
@@ -10040,6 +10039,7 @@
 ||smetrics.saxobank.com^
 ||smetrics.sazerac.com^
 ||smetrics.sazerachouse.com^
+||smetrics.sbisec.co.jp^
 ||smetrics.scandichotels.com^
 ||smetrics.scandichotels.dk^
 ||smetrics.scandichotels.fi^
@@ -10416,7 +10416,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cancertherapyadvisor.com^
@@ -12191,7 +12190,6 @@
 ||drjzh.loveinfaith.life^
 ||dzhhc.brandalley.co.uk^
 ||eedom.cliphair.co.uk^
-||egkdj.skinnydiplondon.com^
 ||eihtu.happiestbaby.com^
 ||evhpf.skinnydiplondon.com^
 ||fbskk.lavantcollective.com^
@@ -16340,7 +16338,6 @@
 ||ads.drviniciusandrade.com.br^
 ||adtrack.herbalia.rs^
 ||adtrack.ovotaris.com^
-||app.f2trk.com^
 ||att.track.keunehungary.hu^
 ||att.trk.rtrk.app^
 ||aztrack.digim.co.il^
@@ -35294,7 +35291,6 @@
 ||server.inglesem7dias.com.br^
 ||server.inglesemfamilia.com.br^
 ||server.inimigodosbancos.com.br^
-||server.inkanddrop.com^
 ||server.inkct.xyz^
 ||server.inkspiredbd.com^
 ||server.inmobiliariaversatil.com^
@@ -40934,6 +40930,7 @@
 ||data.deschouwwitgoed.nl^
 ||metrics.nautilus2.pl^
 ||tracking.vbr.ru^
+||stats.sailtheship.xyz^
 ||analytics.oeksound.com^
 ||statikk.modelviewer.lol^
 ||browser.pipe.aria.microsoft.com^
@@ -41003,7 +41000,6 @@
 ||web.analytics.metrobyt-mobile.com^
 ||analytics.adjust.io^
 ||bilog.lovense-api.com^
-||bizlog-gateway.myrealtrip.com^
 ||collector.moderntv.eu^
 ||ipm.adblockplus.dev^
 ||log1.wanmei.com^
@@ -41025,6 +41021,7 @@
 ||analytics.luogu.me^
 ||analytics.kode.co.kr^
 ||stats.pronouns.page^
+||ad-bls-tracking.lemino.docomo.ne.jp^
 ||logstash-*.radio-canada.ca^
 ||analytics.vgtimes.
 ||analytics.egdata.app^
@@ -41078,7 +41075,6 @@ prd.api.bleacherreport.com^
 ||sgtm.wimdu.
 ||data.festool.pl^
 ||tagging.rodimedia.nl^
-||log.kroffle.net^
 ||event.*.shoplive.cloud^
 ||backend-pixel.zotek.io^
 ||rudr-events.joybird.com^
@@ -41342,6 +41338,7 @@ prd.api.bleacherreport.com^
 ||storelog.kode.co.kr^
 ||telemetry*.transcend.io^
 ||stats.debatdirect.tweedekamer.nl
+||report.iciba.com^
 ||analytics.lunaweb.cloud^
 ||log-lb.skyperfectv.co.jp^
 -telemetry.officeapps.live.com^
@@ -41400,6 +41397,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
