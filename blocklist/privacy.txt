@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-23T12:11:11.791Z
+! Last modified: 2026-08-24T12:11:32.093Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42523
+! Rules count: 42524
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -10416,6 +10416,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cancertherapyadvisor.com^
@@ -21664,7 +21665,6 @@
 ||sgtm.hetwoldhuis.nl^
 ||sgtm.hillmanhunting.co.uk^
 ||sgtm.hipdekbedovertrek.nl^
-||sgtm.his.ua^
 ||sgtm.hjart-lungfonden.se^
 ||sgtm.hogeschoolrotterdam.nl^
 ||sgtm.hojskolerne.dk^
@@ -41272,7 +41272,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -42071,6 +42070,7 @@ dlsdk.appsflyer.com^
 ||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
 ||logservice.dbankcloud.cn
+||logs.nebulahoroscope.com^
 ||mssdk-boot.cpacutapi.com^
 ||collect.ureca-lab.com^
 ||api.abcsinsights.com^
@@ -42240,6 +42240,7 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
+||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
