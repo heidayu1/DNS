@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-24T12:11:34.699Z
+! Last modified: 2026-08-25T12:11:56.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1013,7 +1013,6 @@
 ||samsung.bimtrackapp.co^
 ||cn-api.mcsvc.samsung.com.cn^
 ||smetrics.samsung.com.cn^
-||push.samsungosp.com.cn^
 ||samsungott.sora.yoyi.com.cn^
 ||fast.samsungsingapore.demdex.net^
 ||samsung.demdex.net^
@@ -1120,6 +1119,7 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
+||acr-nz-prd.samsungcloud.tv^
 ||acr-us-prd.samsungcloud.tv^
 ||acr0.samsungcloudsolution.com^
 ||devicelog.samsungcloudsolution.net^

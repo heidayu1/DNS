@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-24T12:11:32.093Z
+! Last modified: 2026-08-25T12:11:53.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42524
+! Rules count: 42521
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -178,7 +178,6 @@
 ||analytics.fcgtalent.fi^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -7563,6 +7562,7 @@
 ||metrics.adiglobal.us^
 ||metrics.admission.com^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.co.kr^
@@ -8499,6 +8499,7 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tylted.com^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
@@ -8964,7 +8965,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -9554,7 +9554,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -11144,7 +11143,6 @@
 ||adtarget.barcainnovationhub.com^
 ||adtarget.fcbarcelona.cat^
 ||adtarget.fcbarcelona.co.it^
-||adtarget.fcbarcelona.es^
 ||adtarget.fcbarcelona.fr^
 ||adtarget.fcbarcelona.jp^
 ||adtarget.fcbarcelona.net^
@@ -40953,6 +40951,7 @@
 ||ja*.apppure.net^
 ||logs.tourister.ru^
 ||qa-track.ssg.com^
+||metrics-content.duckduckgo.com^
 ||analytics.morphe.software^
 ||api.jformatter.com^
 ||api.openpanel.dev^
@@ -41272,6 +41271,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -41396,7 +41396,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -41441,7 +41440,6 @@ prd.api.bleacherreport.com^
 ||adc.api.nine.com.au^
 ||adcounter*.uptolike.ru^
 ||ads-trk.vidible.tv^
-||adstat.4u.pl^
 ||adstax-cdn.adrtx.net^
 ||affiliate.gameladen.com^
 ||aktrack.pubmatic.com^
@@ -41749,7 +41747,6 @@ prd.api.bleacherreport.com^
 ||sp.wisconsinrapidstribune.com^
 ||spade.twitch.tv^
 ||spixel.socy.es^
-||stat.4u.pl^
 ||stat.5-tv.ru^
 ||stat.adultium.com^
 ||stat.alibaba.com^
@@ -41779,6 +41776,7 @@ prd.api.bleacherreport.com^
 ||stats.articlesbase.com^
 ||stats.avg.com^
 ||stats.aws.rubiconproject.com^
+||stats.bbc.co.uk^
 ||stats.cardschat.com^
 ||stats.dnaindia.com^
 ||stats.firedrive.com^
@@ -42240,7 +42238,6 @@ dlsdk.appsflyer.com^
 ||us04logfiles.zoom.us^
 ||adbutler.costco.com^
 ||analytics.seekxr.com^
-||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||tenant-content.apm.appfolio-analytics.com^
