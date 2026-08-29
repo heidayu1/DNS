@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-28T12:12:56.819Z
+! Last modified: 2026-08-29T12:13:17.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -5016,7 +5016,6 @@
 ||metrics.steinhafels.com^
 ||metrics.stockhead.com.au^
 ||metrics.thechronicle.com.au^
-||metrics.thecompanystore.com^
 ||metrics.thegrocer.co.uk^
 ||metrics.thegrocergoldawards.co.uk^
 ||metrics.thepubconference.co.uk^
@@ -5904,6 +5903,7 @@
 ||smetrics.glyxambi.in^
 ||smetrics.goinggoing.com^
 ||smetrics.goldcountryseed.com^
+||smetrics.golden1.com^
 ||smetrics.gollo.com^
 ||smetrics.goodsamrvinsurance.com^
 ||smetrics.goodyear.ca^
@@ -9035,7 +9035,6 @@
 ||smeasurement.agexpert.ca^
 ||smeasurement.fcc-fac.ca^
 ||smeasurement.infiniti.ca^
-||smeasurement.nissan.ca^
 ||smetric.401kaccess.com^
 ||smetric.ads.microsoft.com^
 ||smetric.atg.se^
@@ -10288,7 +10287,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thomassmoorebourbon.com^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -12197,7 +12195,6 @@
 ||dicsr.jadedldn.com^
 ||dnivu.omadays.com^
 ||dqfre.helloadorn.com^
-||drjzh.loveinfaith.life^
 ||dzhhc.brandalley.co.uk^
 ||eedom.cliphair.co.uk^
 ||eihtu.happiestbaby.com^
@@ -12546,6 +12543,7 @@
 ||metrics.zaun-star.com^
 ||monitoring.medizinbedarf.eu^
 ||statistics.hagnauer.org^
+||statistics.krohne.com^
 ||statistics.xpedite-dx.com^
 ||stats.hilscher.com^
 ||stats.kaerntnerjobs.at^
@@ -14783,6 +14781,7 @@
 ||phadia.thermo.com^
 ||tracking.att.com^
 ||tracking.cpa.qa.web.visa.com^
+||tracking.health.bjc.org^
 ||tracking.questdiagnostics.com^
 ||trk.admmontreal.com^
 ||trk.admtoronto.com^
@@ -15045,6 +15044,7 @@
 ||tracking.go.lorainccc.edu^
 ||tracking.hot.net.il^
 ||tracking.lorainccc.edu^
+||tracking.mail.ti.com^
 ||tracking.mail.ti.com.cn^
 ||tracking.mail.tij.co.jp^
 ||tracking.trinet.com^
@@ -17511,7 +17511,6 @@
 ||data.tradeaccountengine.co.uk^
 ||data.tradecounterdirect.com^
 ||data.tradeka.fi^
-||data.travelminit.ro^
 ||data.tricel.co.uk^
 ||data.tricel.fr^
 ||data.tricelcomposites.co.uk^
@@ -41225,7 +41224,6 @@ prd.api.bleacherreport.com^
 ||amplitude.chess.com^
 ||logging.h3z.jp^
 ||cv-tracker.stanby.com^
-||auth-srv.launchthatapps.com^
 ||track.ttsave.app^
 ||analytics.3c5.com^
 ||analytics.waifu2x.org^
@@ -42195,6 +42193,7 @@ dlsdk.appsflyer.com^
 ||track.extra.app^
 ||g.analytics.versa-ai.com^
 ||analytics.rayjump.com^
+||analytics-ios-tcp.rayjump.com^
 ||events.ifunny.co^
 ||telemetry.navigatorapp.net^
 ||pathfinder.analytics.komoot.net^
@@ -42442,6 +42441,7 @@ dlsdk.appsflyer.com^
 ||createdip.com^
 ||curlycannon.com^
 ||datastoried.com^
+||dazzlescript.com^
 ||deltadigs.com^
 ||dependenttrip.com^
 ||dyecloud.com^
