@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-08-31T05:31:29.724Z
+! Last modified: 2026-09-01T05:31:53.151Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42544
+! Rules count: 42537
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -10427,6 +10427,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cancertherapyadvisor.com^
@@ -17284,7 +17285,6 @@
 ||data.insurehelp.dk^
 ||data.integaone.dk^
 ||data.interimsearch.com^
-||data.internet-kabel.nl^
 ||data.iris-optic.ro^
 ||data.iverpan.hr^
 ||data.iviskin.dk^
@@ -26415,7 +26415,6 @@
 ||gtm.bartolobali.com^
 ||gtm.barxmen.com^
 ||gtm.bateranaigreja.com.br^
-||gtm.bathroomnation.co.uk^
 ||gtm.bbqsandbuffets.co.uk^
 ||gtm.bcwadvogados.com.br^
 ||gtm.bdagsparks.com^
@@ -40913,8 +40912,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
-||stats.reanime.to^
-||stats.flixcloud.cc^
+||pixel-frontend.avito.ru^
 ||analytics.watchott.org^
 ||analytics.sportera.fans^
 ||analytics.sen.go.kr^
@@ -41368,8 +41366,6 @@ prd.api.bleacherreport.com^
 ||d1zxg9iar5y3ur.cloudfront.net^
 ||analytics.aklamio.com^
 ||d17tqr44y57o31.cloudfront.net^
-||analytics-mkt.wemakeprice.com^
-||ad-log.wemakeprice.com^
 ||analytics.ubports.com^
 ||push.zhanzhang.baidu.com^
 ||tracker.citicsinfo.com^
@@ -41676,7 +41672,6 @@ prd.api.bleacherreport.com^
 ||logcol.kyobobook.co.kr^
 ||logcollect.totalcms.ncloud.or.kr^
 ||logger-*.dailymotion.com^
-||logger.bzu.kr^
 ||logger.nerdwallet.com^
 ||logger.snackly.co^
 ||logger.tv.telstra.com.au^
@@ -41788,7 +41783,6 @@ prd.api.bleacherreport.com^
 ||static.cloudflareinsights.com^
 ||static.parsely.com^
 ||statistics.11880.com^
-||statistics.crowdynews.com^
 ||statistics.mailerlite.com^
 ||statistics.news1.kr^
 ||stats-newyork1.bloxcms.com^
@@ -41906,7 +41900,6 @@ prd.api.bleacherreport.com^
 ||weblog.coupang.com^
 ||weblog.hankookilbo.com^
 ||weblog.zdnet.co.kr^
-||wlog.tmon.co.kr^
 ||wstat.ozon.ru^
 ||yield-manager.browsiprod.com^
 ||yieldmo-builds.s3.amazonaws.com^
@@ -41943,7 +41936,6 @@ directtrack.*.js
 ||r.msn.com^
 ||rel.msn.com^
 ||stat.sports.ru^
-||webmetrics.nintendo-europe.com^
 ||webstat.freaks4u.com^
 ||log.avlyun.sec.intl.miui.com^
 ||tracking.*.miui.com^
@@ -42503,6 +42495,7 @@ dlsdk.appsflyer.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
 ||pixelvariety.com^
+||procollecting.com^
 ||purposepipe.com^
 ||q20jqurls0y7gk8.info^
 ||radexports.com^
