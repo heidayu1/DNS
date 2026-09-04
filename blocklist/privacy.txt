@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-03T06:41:52.647Z
+! Last modified: 2026-09-04T06:42:13.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42537
+! Rules count: 42578
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -35,6 +35,7 @@
 ||participants.evolv.ai^
 ||media.evolv.ai^
 ||platform.datazoom.io^
+||1mythtracker.xyz^
 ||log.grm.gsretail.com^
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
@@ -113,11 +114,13 @@
 ||analytics.adjust.com^
 ||analytics.adjust.world^
 ||watchtower.graindata.com^
+||cdnlogs.org^
 ||onelinksmartscript.appsflyer.com^
 ||api-pixels.easyadsapp.com^
 ||install*.zonastat.com^
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
+||pavoboxapp.com^
 ||data4.ojto.pl^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
@@ -160,10 +163,12 @@
 ||collector*.ex.co^
 ||cdn.sov.stream^
 ||cdn.mircheigeshoa.com^
+||mediaownerscloud.com^
 ||cdn.ad-platform.jmty.jp^
 ||app.ardalio.com^
 ||events-ingestion.services.gorgias.com^
 ||cadmus.script.ac^
+||lz-pub-ads.com^
 ||log.dance^
 ||pixel.glimr.io^
 ||dev-analytics-cf.bigcrunch.com^
@@ -177,6 +182,7 @@
 ||t.arcade.show^
 ||stat.gn01.top^
 ||analytics.fcgtalent.fi^
+||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
 ||carrick-ui.advoncommerce.com^
@@ -197,6 +203,7 @@
 ||log.collectaction.com^
 ||t.adcell.com^
 ||odtrtadl.com^
+||dkotrack.com^
 ||log.trackingio.com^
 ||cdn.wgchrrammzv.com^
 ||cdn.pranmcpkx.com^
@@ -334,6 +341,7 @@
 ||logs.browser-intake-datadoghq.eu^
 ||logs.datadoghq.eu^
 ||tattle.api.osano.com^
+||mpianalytics.com^
 ||tracker.plerdy.com^
 ||pixel.s3xified.com^
 ||track.edu-info.jp^
@@ -2854,7 +2862,6 @@
 ||stat.pacificdentalservices.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aatbs.com^
 ||stats.aavacations.com^
@@ -6036,6 +6043,7 @@
 ||smetrics.lakewoodchev.com^
 ||smetrics.lalacall.jp^
 ||smetrics.lamborghinidirect.com^
+||smetrics.landa.com^
 ||smetrics.landrover.com^
 ||smetrics.landrover.com.au^
 ||smetrics.langthastliv.se^
@@ -6380,6 +6388,7 @@
 ||smetrics.paxlovid.com^
 ||smetrics.payment-estimator.vwcredit.com^
 ||smetrics.pbainfo.org^
+||smetrics.pbteen.ca^
 ||smetrics.peachjohn.co.jp^
 ||smetrics.pembridge.com^
 ||smetrics.penguin.co.uk^
@@ -6440,6 +6449,7 @@
 ||smetrics.prozinc.jp^
 ||smetrics.prozinc.us^
 ||smetrics.prrs.com^
+||smetrics.publicissapient.com^
 ||smetrics.publiclands.com^
 ||smetrics.pudahuel.cl^
 ||smetrics.pulmonaryfibrosis360.com^
@@ -6611,6 +6621,7 @@
 ||smetrics.schindler.sk^
 ||smetrics.schindler.uy^
 ||smetrics.schindler.vn^
+||smetrics.sciencemagazinedigital.org^
 ||smetrics.sciencenetlinks.com^
 ||smetrics.scispectives.com^
 ||smetrics.seasearcher.com^
@@ -9564,6 +9575,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -10038,7 +10050,9 @@
 ||smetrics.rozerem.com^
 ||smetrics.rozlytrek.com^
 ||smetrics.rubbernews.com^
+||smetrics.sainsburysbank.co.uk^
 ||smetrics.saks.com^
+||smetrics.saksoff5th.com^
 ||smetrics.salomon.com^
 ||smetrics.samsca.com^
 ||smetrics.samsunglife.com^
@@ -10098,6 +10112,8 @@
 ||smetrics.seriesplus.com^
 ||smetrics.servicemagic.com^
 ||smetrics.severntrent.com^
+||smetrics.sfr.fr^
+||smetrics.shangri-la.com^
 ||smetrics.shannons.com.au^
 ||smetrics.sharing-stories.us.trintellix.com^
 ||smetrics.sheen.jp^
@@ -13048,6 +13064,7 @@
 ||data-3f0062caa0.elektro.net^
 ||data-3f9c4f5eb9.automotive.at^
 ||data-3fb5262fad.unsersalzburg.at^
+||data-40b7721511.nachrichten.at^
 ||data-411f822017.fem.com^
 ||data-449cc4329e.90minuten.at^
 ||data-44a005f23c.bergfex.ch^
@@ -13124,6 +13141,7 @@
 ||data-8053aabdac.integrale-planung.net^
 ||data-81547504c8.fupa.net^
 ||data-83380557db.fupa.net^
+||data-8468e8ebc5.laola1.at^
 ||data-85dba8a916.fupa.net^
 ||data-86943486de.laendleauto.at^
 ||data-88ba07a559.motor1.com^
@@ -13715,6 +13733,7 @@
 ||t.dawsoncreekeventscentre.com^
 ||t.events.byui.edu^
 ||t.eventsinfo.semo.edu^
+||t.georgiadogs.com^
 ||t.gozips.com^
 ||t.iowaeventscenter.com^
 ||t.jaxstatesports.com^
@@ -17717,7 +17736,6 @@
 ||gtm.audocph.com^
 ||gtm.audocph.jp^
 ||gtm.autoroyal.no^
-||gtm.avenuedusol.com^
 ||gtm.avioza.al^
 ||gtm.avserramenti.it^
 ||gtm.aymericcanhi.fr^
@@ -17851,7 +17869,6 @@
 ||gtm.credivel.pt^
 ||gtm.crowdfundingfactory.fr^
 ||gtm.csencorsi.it^
-||gtm.csmegastore.com^
 ||gtm.csmegastore.dk^
 ||gtm.csmegastore.fi^
 ||gtm.csmegastore.no^
@@ -41267,6 +41284,7 @@ prd.api.bleacherreport.com^
 ||gtm.restplatzboerse.at^
 ||gtm.saumag.edu^
 ||gtm.vanmoof.com^
+||gtm.wonderbly.com^
 ||gtm.docswell.com^
 ||collector.taoxh.life^
 ||assets.datarize.ai^
@@ -42103,7 +42121,6 @@ dlsdk.appsflyer.com^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
 ||log.pullcenter.live^
-||log.pdfviewerscannerstore.live^
 ||mon-v*-boot.capcutapi.com^
 ||tnc-va*.capcutapi.com^
 ||mon-va*.capcutapi.com^
@@ -42294,6 +42311,7 @@ dlsdk.appsflyer.com^
 ||a.appbaqend.com^
 ||ue.flipboard.com^
 ||sdk.stats-locations.com^
+||elephantdata.net^
 ||sdks.stats-locations.com^
 ||imp.startappservice.com^
 ||analytics.any.do^
@@ -42415,16 +42433,19 @@ dlsdk.appsflyer.com^
 ||alldatalabs.com^
 ||allthelogs.com^
 ||applocus.com^
+||applyless.com^
 ||atticassets.com^
 ||averageactivity.com^
 ||azuremystique.com^
 ||badgeboat.com^
+||badgerabbit.com^
 ||badgevolcano.com^
 ||bikepaws.com^
 ||biologylog.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
 ||branchborder.com^
+||broadborder.com^
 ||broaddoor.com^
 ||buttonladybug.com^
 ||catalogcake.com^
@@ -42443,6 +42464,7 @@ dlsdk.appsflyer.com^
 ||crashpandas.com^
 ||createdip.com^
 ||curlycannon.com^
+||damagedadvice.com^
 ||datastoried.com^
 ||dazzlescript.com^
 ||deltadigs.com^
@@ -42452,10 +42474,13 @@ dlsdk.appsflyer.com^
 ||embellishedmeadow.com^
 ||etherealripple.com^
 ||eventsmall.com^
+||fancyactivity.com^
 ||fitnessmapper.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
 ||flourishingpartnership.com^
+||fourpawsahead.com^
+||fusedcontent.com^
 ||gadgetboy.net^
 ||gleamingtrade.com^
 ||glowingmeadow.com^
@@ -42464,11 +42489,13 @@ dlsdk.appsflyer.com^
 ||gripcorn.com^
 ||guestpixel.net^
 ||gulliblegrip.com^
+||headydegree.com^
 ||hippocat.com^
 ||hippojump.com^
 ||idlecollect.com^
 ||incomehippo.com^
 ||irelandroad.com^
+||livelumber.com^
 ||loaddisplay.com^
 ||logicalminds.net^
 ||lowlatencydata.com^
@@ -42482,6 +42509,7 @@ dlsdk.appsflyer.com^
 ||mediatescarf.com^
 ||midnightmead.com^
 ||mutemailbox.com^
+||neatshade.com^
 ||niftygraphs.com^
 ||noslipfall.com^
 ||nullradar.com^
@@ -42493,6 +42521,7 @@ dlsdk.appsflyer.com^
 ||owlreporter.com^
 ||pastoralroad.com^
 ||pawsnug.com^
+||piquantmeadow.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
 ||pixelvariety.com^
@@ -42508,11 +42537,15 @@ dlsdk.appsflyer.com^
 ||roaddynamics.com^
 ||roadsagain.com^
 ||sadloaf.com^
+||sagetrack.net^
 ||saladbarrel.com^
 ||saladfuel.com^
+||saltsacademy.com^
 ||scenicapparel.com^
 ||serenecascade.com^
 ||shadeship.com^
+||shallowblade.com^
+||shockingship.com^
 ||skylightdata.com^
 ||slickcontent.com^
 ||smoggystation.com^
@@ -42521,29 +42554,37 @@ dlsdk.appsflyer.com^
 ||soilcontent.com^
 ||sourcecodeapp.com^
 ||spareapp.com^
+||springolive.com^
 ||squadtee.net^
 ||squidlogic.com^
 ||stadiumzoo.net^
 ||stakeschips.com^
+||statshunt.com^
 ||statuesqueship.com^
 ||statusinside.com^
 ||stripedbat.com^
 ||substantialgrade.com^
 ||sunsetstatic.com^
 ||surfacesmedia.com^
+||swipechief.com^
+||tasselapp.com^
 ||telephoneapparatus.com^
 ||testadmiral.com^
 ||thoseshades.com^
 ||toolcapital.com^
 ||topsecretapp.net^
 ||traderbyte.com^
+||tradetooth.com^
 ||treadbun.com^
 ||triplelarge.com^
 ||tritebadge.com^
 ||verbacademy.com^
+||vividmeadow.com^
 ||voyagemonitoring.com^
 ||wellgroomedapparel.com^
 ||whimsygadget.com^
 ||wikichronology.com^
 ||wordchip.com^
+||yourlifedream.com^
+||zeppelinradio.com^
 ||zipperxray.com^
