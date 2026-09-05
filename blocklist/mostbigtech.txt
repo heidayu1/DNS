@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-04T06:42:15.969Z
+! Last modified: 2026-09-05T06:42:37.650Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -49,7 +49,6 @@
 ||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
@@ -118,7 +117,6 @@
 ||alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com^
 ||alt1-3ps.amazon-adsystem.com^
 ||api.eu-west-1.aiv-delivery.net^
-||api.metrics.eu-central-1.iris.apx.amazon.dev^
 ||api.metrics.us-west-2.iris.apx.amazon.dev^
 ||api.us-east-1.aiv-delivery.net^
 ||api.us-west-2.aiv-delivery.net^
@@ -229,6 +227,7 @@
 ||maws-aax-us-east-test4.amazon-adsystem.com^
 ||maws-aax-us-east.amazon-adsystem.com^
 ||maws-aax-us-pdx-rtb.amazon-adsystem.com^
+||metrics.eu-central-1.iris.apx.amazon.dev^
 ||metrics.eu-south-2.iris.apx.amazon.dev^
 ||metrics.eu-west-1.iris.apx.amazon.dev^
 ||metrics.media-amazon.com^
@@ -236,6 +235,7 @@
 ||minerva.devices.a2z.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mshopbugsnag.irm.amazon.dev^
+||origin-s.amazon-adsystem.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
 ||paa-reporting-advertising.amazon^
 ||pri1-3ps.amazon-adsystem.com^
@@ -382,7 +382,6 @@
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics1.data.dbankcloud.cn^
 ||datacollector-dra.dt.dbankcloud.cn^
-||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-dre.dt.dbankcloud.cn^
 ||hisearch-dra.dt.dbankcloud.com^
 ||hisearch-drcn.dt.dbankcloud.com^
@@ -995,7 +994,6 @@
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||ppm-licensingtelemetry.servicebus.windows.net^
-||prd-qlik-telemetry.servicebus.windows.net^
 ||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-eventhub-analytics.servicebus.windows.net^
 ||production-jobactivity-analytics.servicebus.windows.net^
@@ -1060,7 +1058,6 @@
 ||samsung.ecorebates.com^
 ||samsung.telemetry.eyeo.com^
 ||ehg-samsungusa.hitbox.com^
-||ureca.samsungapps.com.ad.mexnet.de^
 ||samsung.com.ssl.sc.omtrdc.net^
 ||samsungcard.sc.omtrdc.net^
 ||samsungnorthamerica.sc.omtrdc.net^
@@ -1134,7 +1131,6 @@
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
 ||report.gras.samsungdm.com^
-||us-report.gras.samsungdm.com^
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
 ||dev-apigw.samsungdmroute.com^
@@ -1507,6 +1503,7 @@
 ||frontier23-normal-useast1a.tiktokv.com^
 ||live-video-log16-normal-alisg.tiktokv.com^
 ||location.tiktokv.com^
+||location.tiktokv.eu^
 ||location-i18n.tiktokv.com^
 ||location-sg.tiktokv.com^
 ||location-ttp2.tiktokv.eu^
