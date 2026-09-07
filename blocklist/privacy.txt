@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-06T06:42:54.859Z
+! Last modified: 2026-09-07T06:43:16.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42581
+! Rules count: 42577
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -185,6 +185,7 @@
 ||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2863,6 +2864,7 @@
 ||stat.pacificdentalservices.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aatbs.com^
 ||stats.aavacations.com^
@@ -7586,7 +7588,6 @@
 ||metrics.adiglobal.us^
 ||metrics.admission.com^
 ||metrics.aem.playstation.com^
-||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.co.kr^
@@ -8522,7 +8523,6 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
-||metrics.tv2.dk^
 ||metrics.tylted.com^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
@@ -8988,6 +8988,7 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
+||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -9994,7 +9995,6 @@
 ||smetrics.qvc.jp^
 ||smetrics.radissonhotels.com^
 ||smetrics.ralphlauren.ch^
-||smetrics.ralphlauren.eu^
 ||smetrics.ralphlauren.fr^
 ||smetrics.ralphlauren.it^
 ||smetrics.rarediseasesignup.com^
@@ -10066,7 +10066,6 @@
 ||smetrics.saxobank.com^
 ||smetrics.sazerac.com^
 ||smetrics.sazerachouse.com^
-||smetrics.sbisec.co.jp^
 ||smetrics.scandichotels.com^
 ||smetrics.scandichotels.dk^
 ||smetrics.scandichotels.fi^
@@ -10446,7 +10445,6 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
-||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cancertherapyadvisor.com^
@@ -17287,7 +17285,6 @@
 ||data.hojmark.dk^
 ||data.horlogerieshop.nl^
 ||data.hotelbelvedere.pl^
-||data.hotely.cz^
 ||data.houseofgloam.com^
 ||data.houtjewarm.nl^
 ||data.huishoudhulp-offerte.be^
@@ -17410,7 +17407,6 @@
 ||data.netwerkkabel.nl^
 ||data.neuhauschocolates.com^
 ||data.nexovauk.com^
-||data.noclegi.pl^
 ||data.noibox.se^
 ||data.nomart.fi^
 ||data.nora-stockholm.se^
@@ -18200,7 +18196,6 @@
 ||gtm.medi-karriere.ch^
 ||gtm.medichem.es^
 ||gtm.mediconline.se^
-||gtm.meeting-hub.net^
 ||gtm.meinlaserzentrum.at^
 ||gtm.menzzo.be^
 ||gtm.menzzo.es^
@@ -41311,7 +41306,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -41434,6 +41428,7 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
+||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -42562,6 +42557,7 @@ dlsdk.appsflyer.com^
 ||squidlogic.com^
 ||stadiumzoo.net^
 ||stakeschips.com^
+||starwinmedia.com^
 ||statshunt.com^
 ||statuesqueship.com^
 ||statusinside.com^
