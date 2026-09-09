@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-08T06:43:37.086Z
+! Last modified: 2026-09-09T06:43:58.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42580
+! Rules count: 42567
 !
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -121,7 +121,6 @@
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
 ||pavoboxapp.com^
-||data4.ojto.pl^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -185,7 +184,6 @@
 ||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2864,7 +2862,6 @@
 ||stat.pacificdentalservices.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aatbs.com^
 ||stats.aavacations.com^
@@ -2924,7 +2921,6 @@
 ||stats.headlander.com^
 ||stats.hemptycoon.com^
 ||stats.hickoryfarms.com^
-||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.houseofdeadninjas.com^
@@ -3267,7 +3263,6 @@
 ||analytics.changiairport.com^
 ||analytics.cirroenergy.com^
 ||analytics.conad.it^
-||analytics.cpf.gov.sg^
 ||analytics.cyrillus.be^
 ||analytics.cyrillus.ch^
 ||analytics.cyrillus.com^
@@ -6232,7 +6227,6 @@
 ||smetrics.monaco.pwc.fr^
 ||smetrics.moncoeurmavie.ca^
 ||smetrics.money.ca^
-||smetrics.moneyhelper.org.uk^
 ||smetrics.monsoy.com.br^
 ||smetrics.moosejaw.com^
 ||smetrics.motioncanada.ca^
@@ -7391,7 +7385,6 @@
 ||collect.cap.ch^
 ||collect.elvia.ch^
 ||collect2.allianz.ch^
-||collection.saga.co.uk^
 ||cookies-adobe.kbc.be^
 ||cookies-adobe.kbc.com^
 ||cookies-adobe.kbclease.lu^
@@ -8524,6 +8517,7 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tylted.com^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
@@ -8989,7 +8983,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -9236,7 +9229,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -9578,7 +9570,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -9996,6 +9987,7 @@
 ||smetrics.qvc.jp^
 ||smetrics.radissonhotels.com^
 ||smetrics.ralphlauren.ch^
+||smetrics.ralphlauren.eu^
 ||smetrics.ralphlauren.fr^
 ||smetrics.ralphlauren.it^
 ||smetrics.rarediseasesignup.com^
@@ -10277,7 +10269,6 @@
 ||smetrics.tamiflu.com^
 ||smetrics.target.com^
 ||smetrics.targetoptical.com^
-||smetrics.tataaig.com^
 ||smetrics.taylormadegolf.com^
 ||smetrics.tdworld.com^
 ||smetrics.tecentriq-hcp.com^
@@ -14400,7 +14391,6 @@
 ||www.tdsip.com^
 ||www.us.roche-applied-science.com^
 ||zh-tw.siemensplmevents.com^
-||app.info.coopenae.fi.cr^
 ||app.updates.digicert.com^
 ||assets.spectrumhealthlakeland.org^
 ||automationhipaapod04-app-hs.eloquademos.com^
@@ -17288,6 +17278,7 @@
 ||data.hojmark.dk^
 ||data.horlogerieshop.nl^
 ||data.hotelbelvedere.pl^
+||data.hotely.cz^
 ||data.houseofgloam.com^
 ||data.houtjewarm.nl^
 ||data.huishoudhulp-offerte.be^
@@ -18199,7 +18190,6 @@
 ||gtm.medi-karriere.ch^
 ||gtm.medichem.es^
 ||gtm.mediconline.se^
-||gtm.meeting-hub.net^
 ||gtm.meinlaserzentrum.at^
 ||gtm.menzzo.be^
 ||gtm.menzzo.es^
@@ -22837,6 +22827,7 @@
 ||tracking.lenoro.fr^
 ||tracking.limitlesstravel.org^
 ||tracking.lucky.nl^
+||tracking.luckybag.fr^
 ||tracking.lumant.dk^
 ||tracking.luminalux.dk^
 ||tracking.mala-markets.com^
@@ -40932,8 +40923,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
-||sogu.tripster.ru^
-||tracker.bigl.ua^
+||stats.dulo.
 ||analytics.watchott.org^
 ||analytics.sportera.fans^
 ||analytics.sen.go.kr^
@@ -41309,6 +41299,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -41365,7 +41356,6 @@ prd.api.bleacherreport.com^
 ||pixel*.production-public.tubi.io^
 ||player.stats.live-video.net^
 ||medialog.smartmediarep.com^
-||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
 ||log1.wtlogin.qq.com^
@@ -41374,7 +41364,6 @@ prd.api.bleacherreport.com^
 ||storelog.kode.co.kr^
 ||telemetry*.transcend.io^
 ||stats.debatdirect.tweedekamer.nl
-||report.iciba.com^
 ||analytics.lunaweb.cloud^
 ||log-lb.skyperfectv.co.jp^
 -telemetry.officeapps.live.com^
@@ -41431,7 +41420,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -41470,7 +41458,6 @@ prd.api.bleacherreport.com^
 ||analytics.kemlu.go.id^
 ||log.dav.edu.vn^
 ||d90z5o386dhs7.cloudfront.net^
-||gtm.eduki.com^
 ||ab.blogs.es^
 ||ad.kinozal.website^
 ||adc.9news.com.au^
