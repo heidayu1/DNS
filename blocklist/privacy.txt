@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-11T06:44:40.273Z
+! Last modified: 2026-09-12T06:45:02.660Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42584
+! Rules count: 42583
 !
+||mydatascript.bubbleup.com^
 ||lndrsapi.com^
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -3500,7 +3501,6 @@
 ||data.a.europe.nflshop.com^
 ||data.a.evertondirect.evertonfc.com^
 ||data.a.f1store.formula1.com^
-||data.a.fansedge.com^
 ||data.a.fundacionuniversia.net^
 ||data.a.kitbag.com^
 ||data.a.mitchellandness.com^
@@ -10308,7 +10308,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thomassmoorebourbon.com^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -40976,6 +40975,7 @@
 ||mpecom-analyticevents-prod.boyner.com.tr^
 ||dlso-ap96.macgamingdb.app^
 ||stats.cinevibe.asia^
+||data.ssports.com^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -40989,7 +40989,6 @@
 ||logs.tourister.ru^
 ||qa-track.ssg.com^
 ||metrics-content.duckduckgo.com^
-||analytics.morphe.software^
 ||api.jformatter.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
@@ -42027,6 +42026,7 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||sngmta.qq.com^
 ||adj.st^
+||log.calomeal.com^
 ||w.inmobi.com^
 ||pbs.inmobi.com^
 ||cxlog.shinhansec.com^
@@ -42445,7 +42445,6 @@ dlsdk.appsflyer.com^
 ||badgevolcano.com^
 ||bikepaws.com^
 ||biologylog.com^
-||biotechnologysciences.com^
 ||boatcodeapp.com^
 ||boomboomcloud.com^
 ||branchborder.com^
