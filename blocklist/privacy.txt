@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-12T06:45:02.660Z
+! Last modified: 2026-09-13T06:45:23.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42583
+! Rules count: 42582
 !
 ||mydatascript.bubbleup.com^
 ||lndrsapi.com^
@@ -3501,6 +3501,7 @@
 ||data.a.europe.nflshop.com^
 ||data.a.evertondirect.evertonfc.com^
 ||data.a.f1store.formula1.com^
+||data.a.fansedge.com^
 ||data.a.fundacionuniversia.net^
 ||data.a.kitbag.com^
 ||data.a.mitchellandness.com^
@@ -3900,7 +3901,6 @@
 ||data.eldiariomontanes.es^
 ||data.elu.nespresso.com^
 ||data.em.goinggoing.com^
-||data.em.marks.com^
 ||data.em.publiclands.com^
 ||data.em.ringcentral.com^
 ||data.em.scotiabank.com^
@@ -3925,7 +3925,6 @@
 ||data.email-signify.cjm.adobe.com^
 ||data.email-staging.jet2.com^
 ||data.email-tsb.cjm.adobe.com^
-||data.email.ace.aaa.com^
 ||data.email.americafirst.com^
 ||data.email.animed.co.uk^
 ||data.email.aptivepestcontrol.com^
@@ -17206,7 +17205,6 @@
 ||data.dockx.be^
 ||data.dog-fit.com^
 ||data.drcacademy.com^
-||data.ds-color.com^
 ||data.dutchcrowdsecurity.nl^
 ||data.dvderotik.com^
 ||data.eagleextend.eu^
@@ -17409,6 +17407,7 @@
 ||data.netwerkkabel.nl^
 ||data.neuhauschocolates.com^
 ||data.nexovauk.com^
+||data.noclegi.pl^
 ||data.noibox.se^
 ||data.nomart.fi^
 ||data.nora-stockholm.se^
@@ -40989,6 +40988,7 @@
 ||logs.tourister.ru^
 ||qa-track.ssg.com^
 ||metrics-content.duckduckgo.com^
+||analytics.morphe.software^
 ||api.jformatter.com^
 ||api.openpanel.dev^
 -events-collector.spot.im^
@@ -41112,7 +41112,6 @@ prd.api.bleacherreport.com^
 ||data.festool.pl^
 ||tagging.rodimedia.nl^
 ||event.*.shoplive.cloud^
-||backend-pixel.zotek.io^
 ||rudr-events.joybird.com^
 ||monitor.ns1-s.rspcdn.net^
 ||d3aicbrzoy14kh.cloudfront.net^
