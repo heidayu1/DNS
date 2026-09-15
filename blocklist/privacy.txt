@@ -4,12 +4,15 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-14T06:45:44.895Z
+! Last modified: 2026-09-15T06:46:05.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42582
+! Rules count: 42585
 !
+||cs.ifedata.ru^
+||sync.adsp.io^
+||sync.gonet-ads.com^
 ||lndrsapi.com^
 ||assets.onedollarstats.com^
 ||analytics.xxcontent.lol^
@@ -122,7 +125,6 @@
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
 ||pavoboxapp.com^
-||data4.ojto.pl^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -10448,6 +10450,7 @@
 ||smetricsadobe.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
 ||smetricscpdirect.suncorp.com.au^
+||smetricstur.www.svenskaspel.se^
 ||somni.aussiespecialist.cn^
 ||somni.australia.cn^
 ||somni.cancertherapyadvisor.com^
@@ -17302,7 +17305,6 @@
 ||data.insurehelp.dk^
 ||data.integaone.dk^
 ||data.interimsearch.com^
-||data.internet-kabel.nl^
 ||data.iris-optic.ro^
 ||data.iverpan.hr^
 ||data.iviskin.dk^
@@ -17438,6 +17440,7 @@
 ||data.petbox.pl^
 ||data.petsecur.nl^
 ||data.pit-pit.com^
+||data.pkbypaskal.com^
 ||data.pkbypaskal.it^
 ||data.pl.kramucci.com^
 ||data.plansverige.org^
@@ -27992,7 +27995,6 @@
 ||gtm.isabelasalgadomakeup.com^
 ||gtm.isabeldigitall.pt^
 ||gtm.isaelbroker.com^
-||gtm.isalatuf.com.br^
 ||gtm.isalatufpowerjejum.com.br^
 ||gtm.isapowerjejum.com.br^
 ||gtm.iscgroupe.com^
@@ -40979,7 +40981,6 @@
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
 ||log.api-maps.yandex.
-||api.eye.sbdv.ru^
 ||stat.katitube.com^
 ||stat.aporntv.com^
 ||data-lake-api.internet.apps.samsung.com^
@@ -42477,6 +42478,7 @@ dlsdk.appsflyer.com^
 ||etherealripple.com^
 ||eventsmall.com^
 ||fancyactivity.com^
+||firmasset.com^
 ||fitnessmapper.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
@@ -42573,6 +42575,7 @@ dlsdk.appsflyer.com^
 ||tasselapp.com^
 ||telephoneapparatus.com^
 ||testadmiral.com^
+||thecodingpad.com^
 ||thoseshades.com^
 ||toolcapital.com^
 ||topsecretapp.net^
