@@ -4,14 +4,12 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-15T06:46:05.211Z
+! Last modified: 2026-09-16T06:46:25.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
 ! Rules count: 42585
 !
-||cs.ifedata.ru^
-||sync.adsp.io^
 ||sync.gonet-ads.com^
 ||lndrsapi.com^
 ||assets.onedollarstats.com^
@@ -125,6 +123,7 @@
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
 ||pavoboxapp.com^
+||data4.ojto.pl^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -188,7 +187,6 @@
 ||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -2867,7 +2865,6 @@
 ||stat.pacificdentalservices.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
-||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aatbs.com^
 ||stats.aavacations.com^
@@ -4372,7 +4369,6 @@
 ||data.mktg.theglen.com^
 ||data.mktg.universalhorrorunleashed.com^
 ||data.mktg.universalkidsresort.com^
-||data.mktg.universalorlando.com^
 ||data.mktg.universalstudioshollywood.com^
 ||data.mktg.venetianlasvegas.com^
 ||data.mktmail.danskebank.dk^
@@ -7591,6 +7587,7 @@
 ||metrics.adiglobal.us^
 ||metrics.admission.com^
 ||metrics.aem.playstation.com^
+||metrics.aetn.com^
 ||metrics.afcom.com^
 ||metrics.agentprovocateur.com^
 ||metrics.aia.co.kr^
@@ -8526,6 +8523,7 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tylted.com^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
@@ -8991,7 +8989,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -9580,7 +9577,6 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
-||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -10311,7 +10307,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thomassmoorebourbon.com^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -17210,6 +17205,7 @@
 ||data.dockx.be^
 ||data.dog-fit.com^
 ||data.drcacademy.com^
+||data.ds-color.com^
 ||data.dutchcrowdsecurity.nl^
 ||data.dvderotik.com^
 ||data.eagleextend.eu^
@@ -17289,6 +17285,7 @@
 ||data.hojmark.dk^
 ||data.horlogerieshop.nl^
 ||data.hotelbelvedere.pl^
+||data.hotely.cz^
 ||data.houseofgloam.com^
 ||data.houtjewarm.nl^
 ||data.huishoudhulp-offerte.be^
@@ -17305,6 +17302,7 @@
 ||data.insurehelp.dk^
 ||data.integaone.dk^
 ||data.interimsearch.com^
+||data.internet-kabel.nl^
 ||data.iris-optic.ro^
 ||data.iverpan.hr^
 ||data.iviskin.dk^
@@ -17410,6 +17408,7 @@
 ||data.netwerkkabel.nl^
 ||data.neuhauschocolates.com^
 ||data.nexovauk.com^
+||data.noclegi.pl^
 ||data.noibox.se^
 ||data.nomart.fi^
 ||data.nora-stockholm.se^
@@ -27995,6 +27994,7 @@
 ||gtm.isabelasalgadomakeup.com^
 ||gtm.isabeldigitall.pt^
 ||gtm.isaelbroker.com^
+||gtm.isalatuf.com.br^
 ||gtm.isalatufpowerjejum.com.br^
 ||gtm.isapowerjejum.com.br^
 ||gtm.iscgroupe.com^
@@ -30067,7 +30067,6 @@
 ||gtm.wakeoftheflood.org^
 ||gtm.waldos.com.mx^
 ||gtm.walser.leasexperience.com^
-||gtm.walterwrites.ai^
 ||gtm.waltonio.com^
 ||gtm.watatutravel.com^
 ||gtm.watchesofcupertino.com^
@@ -40934,6 +40933,7 @@
 ||tk.illicado.com^
 ||events.plutus.ninja^
 ||metrics.earlygame.com^
+||sogu.tripster.ru^
 ||tracker.bigl.ua^
 ||stats.dulo.
 ||analytics.watchott.org^
@@ -40981,6 +40981,7 @@
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
 ||log.api-maps.yandex.
+||api.eye.sbdv.ru^
 ||stat.katitube.com^
 ||stat.aporntv.com^
 ||data-lake-api.internet.apps.samsung.com^
@@ -41310,6 +41311,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -41432,7 +41434,6 @@ prd.api.bleacherreport.com^
 ||weblog.dema.mil.kr^
 ||stats.seotraff.team^
 ||analytics.ngs55.ru^
-||dgcollector.evidon.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||mtga.setapp.com^
@@ -41987,6 +41988,7 @@ directtrack.*.js
 dynamic-report-api.appsflyersdk.com^
 ||privacy-sandbox.appsflyersdk.com^
 -pia.appsflyersdk.com^
+.skadsdkless.appsflyersdk.com^
 -skadsdkless.appsflyersdk.com^
 -adrevenue.appsflyersdk.com^
 -attr.appsflyersdk.com^
@@ -42478,7 +42480,6 @@ dlsdk.appsflyer.com^
 ||etherealripple.com^
 ||eventsmall.com^
 ||fancyactivity.com^
-||firmasset.com^
 ||fitnessmapper.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
@@ -42575,7 +42576,6 @@ dlsdk.appsflyer.com^
 ||tasselapp.com^
 ||telephoneapparatus.com^
 ||testadmiral.com^
-||thecodingpad.com^
 ||thoseshades.com^
 ||toolcapital.com^
 ||topsecretapp.net^
