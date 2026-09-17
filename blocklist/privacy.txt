@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-16T06:46:25.366Z
+! Last modified: 2026-09-17T06:46:46.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42585
+! Rules count: 42586
 !
 ||sync.gonet-ads.com^
 ||lndrsapi.com^
@@ -4369,6 +4369,7 @@
 ||data.mktg.theglen.com^
 ||data.mktg.universalhorrorunleashed.com^
 ||data.mktg.universalkidsresort.com^
+||data.mktg.universalorlando.com^
 ||data.mktg.universalstudioshollywood.com^
 ||data.mktg.venetianlasvegas.com^
 ||data.mktmail.danskebank.dk^
@@ -9235,7 +9236,6 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -9577,6 +9577,7 @@
 ||smetrics.happyfamilyorganics.com^
 ||smetrics.hbonow.com^
 ||smetrics.hdcymru.co.uk^
+||smetrics.healthengine.com.au^
 ||smetrics.healthnetaccess.com^
 ||smetrics.healthnetadvantage.com^
 ||smetrics.healthnetoregon.com^
@@ -42042,7 +42043,6 @@ dlsdk.appsflyer.com^
 ||report.starshort.online^
 ||app.siteperformancetest.net^
 ||gbxreport-*.wf.com^
-||tracking.geo.*.amazonaws.com^
 ||logreport-global-dual.cool*cloud.com^
 ||wslog-global-dual.cool*cloud.com^
 ||weblogger-wss.cool*cloud.com^
@@ -42511,6 +42511,7 @@ dlsdk.appsflyer.com^
 ||madoverrice.com^
 ||mailtinker.com^
 ||marriedmailbox.com^
+||mediamaker.net^
 ||mediatescarf.com^
 ||midnightmead.com^
 ||mutemailbox.com^
