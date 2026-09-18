@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-17T06:46:46.453Z
+! Last modified: 2026-09-18T06:47:06.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42586
+! Rules count: 42587
 !
 ||sync.gonet-ads.com^
 ||lndrsapi.com^
@@ -341,7 +341,6 @@
 ||stats*.videonow.ru^
 ||tracker.durasite.net^
 ||logs.juspay.in
-||logs.browser-intake-datadoghq.eu^
 ||logs.datadoghq.eu^
 ||tattle.api.osano.com^
 ||mpianalytics.com^
@@ -9236,6 +9235,7 @@
 ||smetrics.bancobmg.com.br^
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
+||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
@@ -10308,6 +10308,7 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thomassmoorebourbon.com^
+||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -42480,6 +42481,7 @@ dlsdk.appsflyer.com^
 ||etherealripple.com^
 ||eventsmall.com^
 ||fancyactivity.com^
+||firmasset.com^
 ||fitnessmapper.com^
 ||flippedfunnel.com^
 ||floodedpixel.com^
@@ -42511,7 +42513,6 @@ dlsdk.appsflyer.com^
 ||madoverrice.com^
 ||mailtinker.com^
 ||marriedmailbox.com^
-||mediamaker.net^
 ||mediatescarf.com^
 ||midnightmead.com^
 ||mutemailbox.com^
