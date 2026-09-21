@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-20T06:47:50.137Z
+! Last modified: 2026-09-21T06:48:11.549Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -120,8 +120,6 @@
 ||r.msn.com^
 ||ads.bing.com^
 ||adserver.bing.com^
-||bat.bing.com^
-||c.bing.com^
 ||aan.amazon.com^
 ||mads.amazon.com^
 ||device-metrics-us-2.amazon.com^
@@ -1228,6 +1226,7 @@
 ||iad-04.braze.com^
 ||iad-05.braze.com^
 ||iad-06.braze.com^
+||iad-07.braze.com^
 ||iad-08.braze.com^
 ||fra-01.braze.eu^
 ||fra-02.braze.eu^
@@ -2439,7 +2438,19 @@
 ||upravel.com^
 ||aidata.io^
 ||arcspire.io^
-||tanx.com^
+||cdn.tanx.com^
+||click.tanx.com^
+||cms.tanx.com^
+||df.tanx.com^
+||ef-dongfeng.tanx.com^
+||et.tanx.com^
+||ifs.tanx.com^
+||kgb-ifs.tanx.com^
+||live-ifs.tanx.com^
+||opehs.tanx.com^
+||p.tanx.com^
+||rdstat.tanx.com^
+||sdk-config.tanx.com^
 ||mediav.com^
 ||yodimedia.com^
 ||ios-pclog.3u.com^
@@ -4024,6 +4035,7 @@
 ||ads.adadapted.com^
 ||ads.adfox.ru^
 ||ads.administrator.de^
+||ads.adspro.name^
 ||ads.adstream.com.ro^
 ||ads.adultfriendfinder.com^
 ||ads.advance.net^
@@ -4532,6 +4544,7 @@
 ||amunfezanttor.com^
 ||ancotvpaxoz.com^
 ||anewfeedliberty.com^
+||anlxwagwa.in^
 ||annihilativefaltermillion.com^
 ||annonser.dagbladet.no^
 ||anrdoezrs.net^
@@ -5486,6 +5499,7 @@
 ||dreamcatcherbnbcolorado.com^
 ||dreamlikefostergala.com^
 ||drenchedtidyarticle.com^
+||driverhugoverblown.com^
 ||drubpainch.com^
 ||drumcash.com^
 ||drydrum.com^
@@ -5581,6 +5595,7 @@
 ||emediate.dk^
 ||emerse.com^
 ||emxdigital.com^
+||en.dobytowsy.com^
 ||endlesshandbaglinked.com^
 ||endowmentoverhangutmost.com^
 ||endurosweekday.com^
@@ -5896,6 +5911,7 @@
 ||guppymedia.com^
 ||gv.habitanchowses.cyou^
 ||gwallet.com^
+||gxzkljfo.com^
 ||gy.anaheimnonfat.com^
 ||gylxwpwabgp.com^
 ||gzaqwebtipm.com^
@@ -6005,6 +6021,7 @@
 ||hxgqqxopf.com^
 ||hybrid.ai^
 ||hydramedia.com^
+||hyoswaxrtfvq.com^
 ||hypelab.com^
 ||hyperbanner.net^
 ||hypermusk.com^
@@ -6844,6 +6861,7 @@
 ||optmstr.com^
 ||opvanillishan.com^
 ||opzazcvitci.com^
+||oqhbgxvk.com^
 ||oranegfodnd.com^
 ||orangeads.fr^
 ||orb92.com^
@@ -7018,6 +7036,7 @@
 ||pltraffic8.com^
 ||plufdsb.com^
 ||plugrush.com^
+||plummypokefunbenefit.com^
 ||plusungratefulinstruction.com^
 ||pnhoppacwh.com^
 ||pnuhondppw.com^
@@ -7329,6 +7348,7 @@
 ||revmasters.com^
 ||revstats.com^
 ||reyeshehadtwobri.com^
+||rh.wallahrana.cfd^
 ||rhiowzaht.com^
 ||rhymezebra.com^
 ||rhythmnewmedia.com^
@@ -8145,6 +8165,7 @@
 ||vpn-explained.com^
 ||vpon.com^
 ||vr.ringentkenlore.com^
+||vr5ip6ntb529k.2uhxnrj7qreorju4xfq.cfd^
 ||vrs.cz^
 ||vs.tucows.com^
 ||vsgdodqfjpdws.space^
@@ -8432,6 +8453,7 @@
 ||zwnoeqzsuz.com^
 ||zxc.world^
 ||zxgkuhqwwtcvc.website^
+||zyuwjxerthht.com^
 ||2xclick.ru^
 ||3gl.net^
 ||a.apkpure.com^
@@ -8561,7 +8583,6 @@
 ||blueconic.net^
 ||blueoyster.click^
 ||business.yingliangads.com^
-||c.riskified.com^
 ||c2i-cdn.startappnetwork.com^
 ||cadmus.script.ac^
 ||cc.swiftype.com^
@@ -8907,7 +8928,6 @@
 ||rlog.9gag.com^
 ||rochesterdata.com^
 ||roistat.com^
-||rs6.net^
 ||rsrly.com^
 ||rt.rtoaster.jp^
 ||rta.dailymail.co.uk^
