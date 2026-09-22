@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-21T06:48:12.866Z
+! Last modified: 2026-09-22T06:48:34.584Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -542,6 +542,7 @@
 ||partiality.itunes-apple.com.akadns.net^
 ||searchads.lb-apple.com.akadns.net^
 ||iad-apple.com.akadns.net^
+||aios-otel-collector.g.apple.com^
 ||partiality.itunes.apple.com^
 ||msc-dct-prod.msc.apple.com^
 ||fbs.smoot.apple.com^
