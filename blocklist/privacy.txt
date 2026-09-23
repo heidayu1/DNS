@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-22T06:48:31.701Z
+! Last modified: 2026-09-23T06:48:52.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42589
+! Rules count: 42584
 !
 ||sync.gonet-ads.com^
 ||lndrsapi.com^
@@ -122,7 +122,6 @@
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
 ||pavoboxapp.com^
-||data4.ojto.pl^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -186,7 +185,6 @@
 ||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
 ||vibeaconstr.onezapp.com^
-||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||tracking.utlservice.com^
 ||analytics.jslib.win^
@@ -8523,6 +8521,7 @@
 ||metrics.truffaut.com^
 ||metrics.tryg.dk^
 ||metrics.ttiinc.com^
+||metrics.tv2.dk^
 ||metrics.tylted.com^
 ||metrics.tyson.com^
 ||metrics.tysonfoodservice.com^
@@ -8988,7 +8987,6 @@
 ||scrippscookingchannel.cookingchanneltv.com^
 ||scrippsfoodnetnew.foodnetwork.com^
 ||scrippshgtvnew.hgtv.com^
-||scsmetrics.vodafone.it^
 ||sdata.chelseafc.com^
 ||sdata.lifesize.com^
 ||sec-analytics.panasonic.co.uk^
@@ -10308,7 +10306,6 @@
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
 ||smetrics.thomassmoorebourbon.com^
-||smetrics.thrivent.com^
 ||smetrics.thriventfinancial.com^
 ||smetrics.tiaa-cref.org^
 ||smetrics.ticket.dk^
@@ -15265,7 +15262,6 @@
 ||app.goguecenter.auburn.edu^
 ||app.gorhody.com^
 ||app.niuhuskies.com^
-||app.olemisssports.com^
 ||app.owensborocenter.com^
 ||app.pepperdinewaves.com^
 ||app.ramblinwreck.com^
@@ -30070,7 +30066,6 @@
 ||gtm.wakeoftheflood.org^
 ||gtm.waldos.com.mx^
 ||gtm.walser.leasexperience.com^
-||gtm.walterwrites.ai^
 ||gtm.waltonio.com^
 ||gtm.watatutravel.com^
 ||gtm.watchesofcupertino.com^
@@ -40939,6 +40934,7 @@
 ||stats.stellar.rip^
 ||events.plutus.ninja^
 ||metrics.earlygame.com^
+||sogu.tripster.ru^
 ||tracker.bigl.ua^
 ||stats.dulo.
 ||analytics.watchott.org^
@@ -41316,6 +41312,7 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -41476,7 +41473,6 @@ prd.api.bleacherreport.com^
 ||analytics.kemlu.go.id^
 ||log.dav.edu.vn^
 ||d90z5o386dhs7.cloudfront.net^
-||gtm.eduki.com^
 ||ab.blogs.es^
 ||ad.kinozal.website^
 ||adc.9news.com.au^
@@ -42096,7 +42092,6 @@ dlsdk.appsflyer.com^
 ||log1.perfectworldgames.com^
 ||log2.perfectworldgames.com^
 ||apm-track.xiaohongshu.com^
-||rtc-logger.bytevcloud.com^
 ||logs-*.rebxgame.com^
 -client-report.honkaiimpact3.com^
 ||*-datareceiver.aki-game.net^
