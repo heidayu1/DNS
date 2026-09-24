@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-23T06:48:52.895Z
+! Last modified: 2026-09-24T06:49:13.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -122,6 +122,7 @@
 ||tags.pw.adn.cloud^
 ||metrics.nsureapi.com^
 ||pavoboxapp.com^
+||data4.ojto.pl^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -2675,7 +2676,6 @@
 ||smetrics.southwestwifi.com^
 ||smetrics.sovereign.com^
 ||smetrics.soyaparabebe.com.co^
-||smetrics.sportsmansguide.com^
 ||smetrics.staplesadvantage.co.nz^
 ||smetrics.staplesadvantage.com.au^
 ||smetrics.store.irobot.com^
@@ -4013,7 +4013,6 @@
 ||data.emails.tesco.ie^
 ||data.emails.tesco.sk^
 ||data.emails.thegibsonhotel.ie^
-||data.emails.xoom.com^
 ||data.emails1.cahoot.com^
 ||data.emailservice.vattenfall.nl^
 ||data.emdev.officedepot.com^
@@ -4367,6 +4366,7 @@
 ||data.mktg.theglen.com^
 ||data.mktg.universalhorrorunleashed.com^
 ||data.mktg.universalkidsresort.com^
+||data.mktg.universalorlando.com^
 ||data.mktg.universalstudioshollywood.com^
 ||data.mktg.venetianlasvegas.com^
 ||data.mktmail.danskebank.dk^
@@ -4602,7 +4602,6 @@
 ||data.services.heartsonfire.com^
 ||data.services.mittele.dk^
 ||data.services.telia.dk^
-||data.servicing.key.com^
 ||data.servicing.vetcollection.co.uk^
 ||data.servicing2.key.com^
 ||data.setcrafters.com^
@@ -12262,7 +12261,6 @@
 ||kjekb.chadwicks.com^
 ||klddt.fredasalvador.com^
 ||kpemv.lemonadedolls.com^
-||kppgz.grandinroad.com^
 ||kpxwz.justaddbuoy.com^
 ||kshtn.red-equipment.com.au^
 ||kslht.hatchcollection.com^
@@ -15262,6 +15260,7 @@
 ||app.goguecenter.auburn.edu^
 ||app.gorhody.com^
 ||app.niuhuskies.com^
+||app.olemisssports.com^
 ||app.owensborocenter.com^
 ||app.pepperdinewaves.com^
 ||app.ramblinwreck.com^
@@ -18197,7 +18196,6 @@
 ||gtm.medi-karriere.ch^
 ||gtm.medichem.es^
 ||gtm.mediconline.se^
-||gtm.meeting-hub.net^
 ||gtm.meinlaserzentrum.at^
 ||gtm.menzzo.be^
 ||gtm.menzzo.es^
@@ -40930,6 +40928,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||analytics.sportigio.com^
 ||analytics.laxamentum.tech^
 ||stats.stellar.rip^
 ||events.plutus.ninja^
@@ -41048,7 +41047,6 @@
 ||tad.tygem.com^
 ||data-track*.yingxiong.com^
 ||z.cdn.protect-ad.com^
-||xstat.gazeta.bo^
 ||analytics.monetha.io^
 ||clogger.nocutnews.co.kr^
 ||mon*.tiktokv.us^
@@ -41473,6 +41471,7 @@ prd.api.bleacherreport.com^
 ||analytics.kemlu.go.id^
 ||log.dav.edu.vn^
 ||d90z5o386dhs7.cloudfront.net^
+||gtm.eduki.com^
 ||ab.blogs.es^
 ||ad.kinozal.website^
 ||adc.9news.com.au^
@@ -41947,6 +41946,7 @@ directtrack.*.js
 .gatracking.js
 .histats.*.js
 .hit.stat24.
+||tracker.telegram.hr^
 ||aviasales.*-analytics.
 ||dygassets.dygdigital.com^
 ||analytics.chita.ru^
