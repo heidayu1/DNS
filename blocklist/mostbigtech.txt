@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-26T06:49:56.923Z
+! Last modified: 2026-09-26T21:42:18.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -634,7 +634,6 @@
 ||js0.tst.applicationinsights.io^
 ||js1.tst.applicationinsights.io^
 ||js2.tst.applicationinsights.io^
-||api.applicationinsights.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||dc.applicationinsights.azure.us^
 ||in.applicationinsights.azure.cn^
@@ -889,7 +888,6 @@
 ||arc1.msn.com^
 ||arc2.msn.com^
 ||arc3.msn.com^
-||arc5.msn.com^
 ||arc9.msn.com^
 ||confiant.msn.com^
 ||flex.msn.com^
@@ -1509,6 +1507,7 @@
 ||live-video-log16-normal-alisg.tiktokv.com^
 ||location.tiktokv.com^
 ||location.tiktokv.eu^
+||location.tiktokv.us^
 ||location-i18n.tiktokv.com^
 ||location-ru.tiktokv.com^
 ||location-sg.tiktokv.com^
