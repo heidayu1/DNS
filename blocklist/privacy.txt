@@ -4,13 +4,14 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-26T21:42:13.587Z
+! Last modified: 2026-09-27T21:42:38.838Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 42497
+! Rules count: 42499
 !
 ||sync.gonet-ads.com^
+||mydatascript.bubbleup.com^
 ||lndrsapi.com^
 ||assets.onedollarstats.com^
 ||cdn.seline.com^
@@ -39,6 +40,7 @@
 ||media.evolv.ai^
 ||platform.datazoom.io^
 ||1mythtracker.xyz^
+||log.grm.gsretail.com^
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
 ||cs.media.net^
@@ -114,6 +116,7 @@
 ||analytics.adjust.com^
 ||analytics.adjust.world^
 ||watchtower.graindata.com^
+||cdnlogs.org^
 ||onelinksmartscript.appsflyer.com^
 ||api-pixels.easyadsapp.com^
 ||install*.zonastat.com^
@@ -2492,6 +2495,7 @@
 ||smetrics.finishline.com^
 ||smetrics.flexshares.com^
 ||smetrics.flyingflowers.com^
+||smetrics.fnac.es^
 ||smetrics.forbestravelguide.com^
 ||smetrics.foundationmedicalstaffing.com^
 ||smetrics.freecreditscore.com^
@@ -2865,6 +2869,7 @@
 ||stat.pacificdentalservices.com^
 ||stat.tabelog.com^
 ||stat.vocus.com^
+||stats.4travel.jp^
 ||stats.aapt.com.au^
 ||stats.aatbs.com^
 ||stats.aavacations.com^
@@ -2924,6 +2929,7 @@
 ||stats.headlander.com^
 ||stats.hemptycoon.com^
 ||stats.hickoryfarms.com^
+||stats.his-j.com^
 ||stats.holcim.us^
 ||stats.honeywell.com^
 ||stats.houseofdeadninjas.com^
@@ -3221,11 +3227,13 @@
 ||adtd.douglas.es^
 ||adtd.douglas.hr^
 ||adtd.douglas.hu^
+||adtd.douglas.it^
 ||adtd.douglas.lt^
 ||adtd.douglas.pt^
 ||adtd.douglas.ro^
 ||adtd.douglas.si^
 ||adtd.douglas.sk^
+||adtd.nocibe.fr^
 ||adtd.parfumdreams.at^
 ||adtd.parfumdreams.be^
 ||adtd.parfumdreams.ch^
@@ -3417,7 +3425,6 @@
 ||appleapp.istyle.cz^
 ||appleapp.istyle.hr^
 ||appleapp.istyle.hu^
-||appleapp.istyle.iq^
 ||appleapp.istyle.mk^
 ||appleapp.istyle.om^
 ||appleapp.istyle.ro^
@@ -3451,7 +3458,6 @@
 ||cdn.titan26-ns.mse-raven.com^
 ||check.tep.test.ajo.adobe.com^
 ||cjmadobe.demo.cjmadobe.com^
-||clnmetrics.cisco.com^
 ||collect.allianz-immo.ch^
 ||collect.allianztravelinsurance.ca^
 ||collect.electrix.swiss^
@@ -3610,6 +3616,7 @@
 ||data.bnppoc.test.ajo.adobe.com^
 ||data.boletin.super99.com^
 ||data.brokers.ampbanking.com.au^
+||data.burgosconecta.es^
 ||data.business.nordea.dk^
 ||data.business.nordea.fi^
 ||data.business.nordea.no^
@@ -3652,6 +3659,7 @@
 ||data.cloud.email.ikea.qa^
 ||data.cloudflare.dev.cjmadobe.com^
 ||data.club.costacoffee.in^
+||data.club.costacoffee.pl^
 ||data.cm.pldthome.com^
 ||data.cname.test.cjmadobe.com^
 ||data.coecomms.dev.ajo.adobe.com^
@@ -3885,7 +3893,6 @@
 ||data.ejp.nespresso.com^
 ||data.ekr.nespresso.com^
 ||data.elbierzonoticias.com^
-||data.elcomercio.es^
 ||data.elcorreoclasificados.com^
 ||data.elu.nespresso.com^
 ||data.em.goinggoing.com^
@@ -4000,6 +4007,7 @@
 ||data.emails.subway.com^
 ||data.emails.tesco.hu^
 ||data.emails.tesco.ie^
+||data.emails.tesco.sk^
 ||data.emails.thegibsonhotel.ie^
 ||data.emails.xoom.com^
 ||data.emails1.cahoot.com^
@@ -4095,7 +4103,6 @@
 ||data.go.bartelldrugs.com^
 ||data.goldprice.chowtaifook.com^
 ||data.grandpalladium.palladiumhotelgroup.com^
-||data.guau.eus^
 ||data.guest.princess.com^
 ||data.gxv.test.ajo.adobe.com^
 ||data.hardrock.palladiumhotelgroup.com^
@@ -4186,6 +4193,7 @@
 ||data.l.eyeglassworld.com^
 ||data.lagacetadesalamanca.es^
 ||data.larioja.com^
+||data.lasprovincias.es^
 ||data.laverdad.es^
 ||data.lavozdeaviles.es^
 ||data.lavozdigital.es^
@@ -4352,7 +4360,6 @@
 ||data.mktg.theglen.com^
 ||data.mktg.universalhorrorunleashed.com^
 ||data.mktg.universalkidsresort.com^
-||data.mktg.universalorlando.com^
 ||data.mktg.universalstudioshollywood.com^
 ||data.mktg.venetianlasvegas.com^
 ||data.mktmail.danskebank.dk^
@@ -4587,6 +4594,7 @@
 ||data.services.heartsonfire.com^
 ||data.services.mittele.dk^
 ||data.services.telia.dk^
+||data.servicing.key.com^
 ||data.servicing.vetcollection.co.uk^
 ||data.servicing2.key.com^
 ||data.setcrafters.com^
@@ -4665,7 +4673,6 @@
 ||data.titancert.test.ajo.adobe.com^
 ||data.titancert1.test.ajo.adobe.com^
 ||data.tmail.northeast.aaa.com^
-||data.todoalicante.es^
 ||data.topcomparativas.com^
 ||data.training-page.worldvision.ca^
 ||data.trans.americasbest.com^
@@ -4735,7 +4742,6 @@
 ||data.yugioh-recommend.konami.net^
 ||data1.virginplus.ca^
 ||datacollect-dev.cisco.com^
-||dc.areacliente.repsolluzygas.com^
 ||dc.entradas.com^
 ||dc.realmadridnext.com^
 ||delivery.lululemon.com^
@@ -4998,7 +5004,6 @@
 ||metrics.refinitiv.com^
 ||metrics.restaurantonline.co.uk^
 ||metrics.retail-week.com^
-||metrics.sentido.com^
 ||metrics.shop.omya.com^
 ||metrics.skknbykim.com^
 ||metrics.sportsnutritionsummit-usa.com^
@@ -5135,7 +5140,6 @@
 ||sadbmetrics.surdeutsch.com^
 ||sadbmetrics.terraerural.com^
 ||sadbmetrics.tickelium.com^
-||sadbmetrics.todoalicante.es^
 ||sadbmetrics.turium.es^
 ||sadbmetrics.vocentoeventos.com^
 ||sadbmetrics.welife.es^
@@ -5334,7 +5338,6 @@
 ||smetrics.ambettermeridian.com^
 ||smetrics.ambetterofillinois.com^
 ||smetrics.amersportsproclub.com^
-||smetrics.amplifon.com^
 ||smetrics.amplifonfoundation.com^
 ||smetrics.anaplan.com^
 ||smetrics.animalhealthacademy.com.au^
@@ -5997,7 +6000,6 @@
 ||smetrics.kaobeautybrands.com^
 ||smetrics.karcher-futuretech.com^
 ||smetrics.karcher.cn^
-||smetrics.karcher.com^
 ||smetrics.karcher.com.br^
 ||smetrics.karcher.cz^
 ||smetrics.kebuena.com.mx^
@@ -6229,7 +6231,6 @@
 ||smetrics.msccruises.co.za^
 ||smetrics.msccruises.com^
 ||smetrics.msccruises.com.au^
-||smetrics.msccruises.dk^
 ||smetrics.msccruises.eu^
 ||smetrics.msccruises.fi^
 ||smetrics.msccruises.ie^
@@ -6610,6 +6611,7 @@
 ||smetrics.semintra.jp^
 ||smetrics.servicechampions.net^
 ||smetrics.servisnibalicky-online.cz^
+||smetrics.shawdirect.ca^
 ||smetrics.shell.co.uk^
 ||smetrics.sherwoodbuickgmc.com^
 ||smetrics.sherwoodmotorcars.com^
@@ -6715,7 +6717,6 @@
 ||smetrics.tours.tui.be^
 ||smetrics.toyotanorthwestedmonton.com^
 ||smetrics.toyotaonthepark.ca^
-||smetrics.toyotaqatar.com^
 ||smetrics.trajenta.in^
 ||smetrics.transact711.com^
 ||smetrics.transactfamilycard.com^
@@ -7013,6 +7014,7 @@
 ||sw88.disneyadvertising.es^
 ||sw88.disneyadvertising.nl^
 ||sw88.nationalgeographic.es^
+||sw88.nationalgeographic.fr^
 ||sw88.nationalgeographic.it^
 ||sw88.nationalgeographic.nl^
 ||sw88.nationalgeographicbrasil.com^
@@ -7276,8 +7278,6 @@
 ||analytics.mondotv.jp^
 ||analytics.myus.com^
 ||analytics.nordea.com^
-||analytics.nordea.fi^
-||analytics.nordea.se^
 ||analytics.popshelf.com^
 ||analytics.priorityclub.com^
 ||analytics.proactiv.com^
@@ -7944,6 +7944,7 @@
 ||metrics.golfgalaxy.com^
 ||metrics.gomastercard.com.au^
 ||metrics.gomedigap.com^
+||metrics.gq.com.au^
 ||metrics.grainger.com^
 ||metrics.greatsouthernbank.com.au^
 ||metrics.group.pictet^
@@ -8579,6 +8580,7 @@
 ||metricsadobe.hollandandbarrett.ie^
 ||metricsadobe.hollandandbarrett.nl^
 ||metricss.bibliotheek.nl^
+||metricssecure.empiretoday.com^
 ||metricssecure.luna.com^
 ||metricssecure.todaysales.com^
 ||metricstur.www.svenskaspel.se^
@@ -8719,6 +8721,7 @@
 ||sadbmetrics.b-venture.com^
 ||sadbmetrics.bbkayak.eus^
 ||sadbmetrics.blogasturias.com^
+||sadbmetrics.burgosconecta.es^
 ||sadbmetrics.caravantur.eus^
 ||sadbmetrics.carrera-empresas.com^
 ||sadbmetrics.carreraempresas.com^
@@ -8732,10 +8735,8 @@
 ||sadbmetrics.ecomov.es^
 ||sadbmetrics.elbalcondemateo.es^
 ||sadbmetrics.elbierzonoticias.com^
-||sadbmetrics.elcomercio.es^
 ||sadbmetrics.elcorreo.com^
 ||sadbmetrics.elcorreoclasificados.com^
-||sadbmetrics.eldiariomontanes.es^
 ||sadbmetrics.elnervion.com^
 ||sadbmetrics.elnortedecastilla.es^
 ||sadbmetrics.estiloydecoracion.es^
@@ -8754,7 +8755,6 @@
 ||sadbmetrics.innova-bilbao.com^
 ||sadbmetrics.lagacetadesalamanca.es^
 ||sadbmetrics.larioja.com^
-||sadbmetrics.lasprovincias.es^
 ||sadbmetrics.laverdad.es^
 ||sadbmetrics.lavozdegalicia.es^
 ||sadbmetrics.lavozdigital.es^
@@ -9197,7 +9197,6 @@
 ||smetrics.bandeodorant.com^
 ||smetrics.bankatfirst.com^
 ||smetrics.bankofmelbourne.com.au^
-||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
 ||smetrics.barcainnovationhub.com^
@@ -9346,7 +9345,6 @@
 ||smetrics.crimewatchdaily.com^
 ||smetrics.cru.org^
 ||smetrics.crystalski.ie^
-||smetrics.css.ch^
 ||smetrics.ctshirts.co.uk^
 ||smetrics.cupraofficial.com^
 ||smetrics.curel.com^
@@ -9473,6 +9471,7 @@
 ||smetrics.flyfar.ca^
 ||smetrics.flyfar.com.au^
 ||smetrics.fm96.com^
+||smetrics.fnac.be^
 ||smetrics.fnacpro.com^
 ||smetrics.fnfg.com^
 ||smetrics.folksam.se^
@@ -9542,6 +9541,7 @@
 ||smetrics.healthnetoregon.com^
 ||smetrics.heartgard.com^
 ||smetrics.heartgardclinic.com^
+||smetrics.helvetia.com^
 ||smetrics.henkivakuutuskuntoon.fi^
 ||smetrics.her2treatment.com^
 ||smetrics.herceptin.com^
@@ -9734,6 +9734,7 @@
 ||smetrics.loft.com^
 ||smetrics.louandgrey.com^
 ||smetrics.louisianahealthconnect.com^
+||smetrics.lowes.com^
 ||smetrics.ltdcommodities.com^
 ||smetrics.lucentis.com^
 ||smetrics.lundbeck.com^
@@ -9812,6 +9813,7 @@
 ||smetrics.msgsports.com^
 ||smetrics.msvoice.com^
 ||smetrics.mufso.com^
+||smetrics.multikino.pl^
 ||smetrics.murad.com^
 ||smetrics.mycareforward.com^
 ||smetrics.mycreditcard.cc^
@@ -9887,7 +9889,6 @@
 ||smetrics.panasonic.net^
 ||smetrics.pandora.com^
 ||smetrics.partnermastercard.com^
-||smetrics.payback.it^
 ||smetrics.payback.net^
 ||smetrics.pcid.ca^
 ||smetrics.pcoptimum.ca^
@@ -10626,6 +10627,7 @@
 ||sstats.backcountry.com^
 ||sstats.bbt.mobi^
 ||sstats.bever.nl^
+||sstats.bnpparibasfortis.be^
 ||sstats.bodyform.co.uk^
 ||sstats.bonappetit.com^
 ||sstats.bookhostels.com^
@@ -10717,7 +10719,6 @@
 ||sstats.panaray.com^
 ||sstats.pitchfork.com^
 ||sstats.raffles.com^
-||sstats.runnersneed.com^
 ||sstats.seat.ch^
 ||sstats.seat.es^
 ||sstats.seat.ie^
@@ -10753,6 +10754,7 @@
 ||sstats.webresint.com^
 ||sstats.williamoneil.com^
 ||sstats.wmagazine.com^
+||sstats.www.o2.cz^
 ||sstats.xactware.com^
 ||sstats.yourchi.org^
 ||sstats2.allure.com^
@@ -11230,7 +11232,6 @@
 ||events.pyszne.pl^
 ||events.takeaway.com^
 ||events.thuisbezorgd.nl^
-||omt.mojadm.sk^
 ||pixel.bi.serviceplan.com^
 ||pps.nabtrade.com.au^
 ||t.chainsawsdirect.com^
@@ -11267,7 +11268,6 @@
 ||collect.calvinklein.ee^
 ||collect.calvinklein.hr^
 ||collect.calvinklein.hu^
-||collect.calvinklein.ie^
 ||collect.calvinklein.lu^
 ||collect.calvinklein.lv^
 ||collect.calvinklein.nl^
@@ -11473,7 +11473,6 @@
 ||gzjroa.bradsdeals.com^
 ||hauzdj.quellogiusto.it^
 ||hcdnpe.iareduceri.ro^
-||hcjpbc.radaronline.com^
 ||hcjpbc.soapoperadigest.com^
 ||hcmhqb.radpowerbikes.ca^
 ||hfdlms.relogios.pt^
@@ -12271,6 +12270,7 @@
 ||sfcev.ragenationapparel.com^
 ||sfpdq.okcbroadway.com^
 ||sgqjj.bitsandpiecescanada.ca^
+||sknkp.appliednutrition.uk^
 ||spkyb.appleseeds.com^
 ||szhqg.filorga.com^
 ||szsvc.adinaeden.com^
@@ -12407,6 +12407,7 @@
 ||assets1.gio.com.au^
 ||assets1.shannons.com.au^
 ||assets1.suncorp.co.nz^
+||assets1.suncorp.com.au^
 ||assets1.suncorpbank.com.au^
 ||assets1.terrischeer.com.au^
 ||assets1.vanz.vero.co.nz^
@@ -13284,6 +13285,7 @@
 ||adat.bihon.ro^
 ||adat.borsonline.hu^
 ||adat.bravo.hu^
+||adat.delmagyar.hu^
 ||adat.dietaesfitnesz.hu^
 ||adat.duol.hu^
 ||adat.feol.hu^
@@ -14854,6 +14856,7 @@
 ||dialogue.mazda.lu^
 ||dialogue.mazda.nl^
 ||dialogue.mazda.no^
+||dialogue.mazda.pl^
 ||dialogue.mazda.pt^
 ||dialogue.mazda.ro^
 ||dialogue.mazda.rs^
@@ -16373,7 +16376,6 @@
 ||insight.eleventhc.com^
 ||insight.fmglobal.info^
 ||insight.ghallasgoth.com^
-||insight.husbrand.art^
 ||insight.kids-watches1.com^
 ||insight.licensedpeptides.com^
 ||insight.longevityhealthinsider.com^
@@ -16403,7 +16405,6 @@
 ||redtrack.biostile.si^
 ||redtrack.ecodrive.in.ua^
 ||redtrack.foyforyou.com^
-||redtrack.godlike.host^
 ||redtrack.klaragroulikova.cz^
 ||redtrack.leszartsdemarie.com^
 ||redtrack.manset.com.ua^
@@ -16639,9 +16640,11 @@
 ||analytics.hyckes.com^
 ||analytics.ikarao-shop.com^
 ||analytics.innatehealthcare.co.uk^
+||analytics.itabus.it^
 ||analytics.iust.ai^
 ||analytics.joegetaway.se^
 ||analytics.kbeauty.rs^
+||analytics.kemppi.com^
 ||analytics.kerbl.com^
 ||analytics.klimatizace-ciur.cz^
 ||analytics.klippkungen.se^
@@ -16782,7 +16785,6 @@
 ||app.energiedirect.at^
 ||app.falkensteinercamping.com^
 ||app.invictuslegio.at^
-||app.konzerthaus.at^
 ||app.leidenfrost.at^
 ||app.opernsommer.at^
 ||app.palais-coburg.com^
@@ -16896,7 +16898,6 @@
 ||cdn.pitaya.dk^
 ||cdn.providercheck.nl^
 ||cdn.residencemilano.org^
-||cdn.shoplondon.dk^
 ||cdn.studytexter.com^
 ||cdn.tdimetoden.dk^
 ||cdn.timetravel-vienna.at^
@@ -17016,6 +17017,7 @@
 ||collect.rum21.no^
 ||collect.rum21.se^
 ||collect.saeddonor.com^
+||collect.scleasing.dk^
 ||collect.skargards.com^
 ||collect.skodsborg.dk^
 ||collect.skoringen.dk^
@@ -17069,6 +17071,7 @@
 ||data.ajaccio-tourisme.com^
 ||data.algeteknik.dk^
 ||data.alizefans.com^
+||data.allergibutikken.dk^
 ||data.allesvoordieren.nl^
 ||data.alleys.dk^
 ||data.amagna.es^
@@ -17192,10 +17195,10 @@
 ||data.eilersen.com^
 ||data.ellunkanatjamunat.fi^
 ||data.elna-service.pl^
+||data.eltrox.pl^
 ||data.empiredrop.com^
 ||data.engori.com^
 ||data.epigenics.eu^
-||data.era.be^
 ||data.erecruiter.net^
 ||data.erkado.pl^
 ||data.esekai.agency^
@@ -17486,7 +17489,6 @@
 ||data.thealphamen.be^
 ||data.thealphamen.dk^
 ||data.thealphamen.es^
-||data.thealphamen.fr^
 ||data.thealphamen.it^
 ||data.thealphamen.pl^
 ||data.thealphamen.se^
@@ -17588,7 +17590,6 @@
 ||events.xletix.com^
 ||events.xletixkids.com^
 ||exch.adaptable.nl^
-||eylqdmtg.tallerdelcuadro.online^
 ||facebook.norskdun.no^
 ||faellesboserver.faellesbo.dk^
 ||fb.barkadrivingschool.co.uk^
@@ -17804,6 +17805,7 @@
 ||gtm.cartuseria.ro^
 ||gtm.cascaisroutes.pt^
 ||gtm.cash-mere.ch^
+||gtm.cb-group.info^
 ||gtm.centre-bodysano.fr^
 ||gtm.certyfikaty-energetyczne.pl^
 ||gtm.chantemur.fr^
@@ -18291,6 +18293,7 @@
 ||gtm.poolkungen.se^
 ||gtm.poptop.shop^
 ||gtm.poshliving.eu^
+||gtm.powerinsole.com^
 ||gtm.prana.business^
 ||gtm.pravna.pl^
 ||gtm.prazskacokolada.cz^
@@ -18818,6 +18821,7 @@
 ||load.collect.ronald.nu^
 ||load.collect.rum21.dk^
 ||load.collect.rum21.fi^
+||load.collector.etiketlageret.dk^
 ||load.condo.malletandplane.com^
 ||load.connect.dapsis.ro^
 ||load.connect.pianistable.com^
@@ -19312,6 +19316,7 @@
 ||load.gtm.topassicurazioni.it^
 ||load.gtm.topseguro.pt^
 ||load.gtm.totalezorgwinkel.nl^
+||load.gtm.trainsimple.dk^
 ||load.gtm.trfxacademy.com^
 ||load.gtm.tuk.dk^
 ||load.gtm.tvpriser.dk^
@@ -19823,7 +19828,6 @@
 ||load.sgtm.sammenomborsen.dk^
 ||load.sgtm.shopgreencomfort.se^
 ||load.sgtm.sileon.com^
-||load.sgtm.skydebaneforeningen.dk^
 ||load.sgtm.smartphoto.ie^
 ||load.sgtm.smileandpay.com^
 ||load.sgtm.soundstorexl.com^
@@ -20946,6 +20950,7 @@
 ||metrics.thespinery.com^
 ||metrics.thinksafe.it^
 ||metrics.titanic-zuerich.ch^
+||metrics.valco.fi^
 ||metrics.votresiegesocial.com^
 ||metrics.waldkantine.ch^
 ||metrics.welovefurs.com^
@@ -20962,6 +20967,7 @@
 ||mkcgi.divadlobravo.cz^
 ||mkt-server.weenect.com^
 ||mlnw.oorlogsmuseum.nl^
+||module.philips-eshop.bg^
 ||moredata.crona.se^
 ||moredata.gotaplatsensfoto.se^
 ||mt.labasad.com^
@@ -20971,6 +20977,7 @@
 ||mtgs.lolipop.cz^
 ||mtgs.performance-akademia.sk^
 ||mtrcsapi.parcoibiza.com^
+||mvgt.madeleine.com^
 ||n.adverso.io^
 ||ndqqq.guesty.com^
 ||neoss.cursosdesoldadurabarcelona.com^
@@ -21062,6 +21069,7 @@
 ||server.ami-renault.be^
 ||server.aquaspiritisup.com^
 ||server.assistansbutiken.se^
+||server.atelierbraam.com^
 ||server.athleteps.com^
 ||server.attelle-solution.fr^
 ||server.atvhuset.se^
@@ -21402,7 +21410,6 @@
 ||sgtm.campingzoo.it^
 ||sgtm.campusvejle.dk^
 ||sgtm.canacare.com^
-||sgtm.canacare.dk^
 ||sgtm.canacare.se^
 ||sgtm.caporiccio.it^
 ||sgtm.caps.nl^
@@ -21482,6 +21489,7 @@
 ||sgtm.dimsstudio.dk^
 ||sgtm.dm-line.be^
 ||sgtm.doktertamara.nl^
+||sgtm.dolomia.it^
 ||sgtm.domino.ua^
 ||sgtm.dpmanual.com^
 ||sgtm.drambroziak.com^
@@ -21514,7 +21522,6 @@
 ||sgtm.elektrowitgoedoutlet.nl^
 ||sgtm.elipse.eu^
 ||sgtm.elisabettafranchi.com^
-||sgtm.elk.at^
 ||sgtm.ellisdebona.it^
 ||sgtm.elmaxweb.it^
 ||sgtm.elysianlifestyle.it^
@@ -21535,7 +21542,6 @@
 ||sgtm.eu.juicymarbles.com^
 ||sgtm.eu.paragonmicrofibre.com^
 ||sgtm.euromilano.net^
-||sgtm.euronics.it^
 ||sgtm.evengreener.com^
 ||sgtm.evergreen.media^
 ||sgtm.evidensia.no^
@@ -21734,7 +21740,6 @@
 ||sgtm.lavie-paris.com^
 ||sgtm.leadtime.dk^
 ||sgtm.lecovita.bg^
-||sgtm.legohouse.com^
 ||sgtm.leuze.com^
 ||sgtm.licensel.com^
 ||sgtm.livaraaesthetics.co.uk^
@@ -22052,7 +22057,6 @@
 ||sgtm.stefanotraslochi.it^
 ||sgtm.stgis.at^
 ||sgtm.stjernegaard-rejser.dk^
-||sgtm.stoffkontor.eu^
 ||sgtm.strapforwatch.nl^
 ||sgtm.strasniclothing.it^
 ||sgtm.stroempekompagniet.dk^
@@ -22743,7 +22747,6 @@
 ||tracking.azimutyachts.com^
 ||tracking.bbambus.com^
 ||tracking.benettiyachts.com^
-||tracking.benu.be^
 ||tracking.bioma.bio^
 ||tracking.bobadrop.dk^
 ||tracking.bodengo.nl^
@@ -23035,6 +23038,7 @@
 ||analytics.float-in.pt^
 ||analytics.foodanddrinkstyling.com^
 ||analytics.gentselegance.com^
+||analytics.gorgeous-il.co.il^
 ||analytics.govyy.com^
 ||analytics.grabogarden.com^
 ||analytics.greentoe.com^
@@ -23683,6 +23687,7 @@
 ||api.lealtex.com.br^
 ||api.leandrojesusbbf.com.br^
 ||api.legacywealthbuilder.net^
+||api.lego.com.br^
 ||api.legostore.com.br^
 ||api.lenitoautomoveis.com.br^
 ||api.leovalenciano.com^
@@ -24537,7 +24542,6 @@
 ||capig.carrollochs.com^
 ||capig.channable.com^
 ||capig.clinicalguruji.com^
-||capig.cosibella.pl^
 ||capig.craigwear.com^
 ||capig.dacomag.ro^
 ||capig.dhis4u.com^
@@ -24980,7 +24984,6 @@
 ||data.ausmane.com^
 ||data.autovue.ai^
 ||data.azarlatino.com.py^
-||data.babybay.us^
 ||data.batodd.com^
 ||data.bazarplusbd.com^
 ||data.bbbeni.com^
@@ -28902,6 +28905,7 @@
 ||gtm.paretopeak.com^
 ||gtm.parfum-centrum.com^
 ||gtm.parfumpocket.com^
+||gtm.parfumsetmoi.fr^
 ||gtm.parizarteemdanca.com.br^
 ||gtm.parkingmadeeasy.com.au^
 ||gtm.parkland.co.nz^
@@ -31325,6 +31329,7 @@
 ||load.gtm.horze.ch^
 ||load.gtm.horze.co.uk^
 ||load.gtm.horze.com^
+||load.gtm.horze.dk^
 ||load.gtm.horze.es^
 ||load.gtm.horze.eu^
 ||load.gtm.horze.fi^
@@ -36245,6 +36250,7 @@
 ||server.santacarga.com.br^
 ||server.santident.com^
 ||server.santiplanosdesaude.com.br^
+||server.saolar.com^
 ||server.sarazbd.com^
 ||server.sareepollitangail.com^
 ||server.sarvoham.org^
@@ -37053,6 +37059,7 @@
 ||servertrack.danyalvarez.co^
 ||servertrack.missionhacker.com^
 ||servertracking.kabbik.com^
+||servertracking.mohamadalaya.com^
 ||servertt.ithika.com.au^
 ||servertype.selfiestore.uz^
 ||servervmidia.venturohub.com^
@@ -37092,8 +37099,6 @@
 ||set.bolderadventurepark.com^
 ||set.naipostore.com^
 ||sezadala.serjotattoo.com^
-||sfbcapi.laam.com.bd^
-||sfbcapi.laambd.shop^
 ||sfbcapi.naturalseba.com^
 ||sg.kapi.vc^
 ||sg.measuresummit.com^
@@ -37124,6 +37129,7 @@
 ||sgtm.abwab7.com^
 ||sgtm.acerstore.cl^
 ||sgtm.acespace.org^
+||sgtm.acquadellelba.com^
 ||sgtm.acquadisardegna.com^
 ||sgtm.acrobaticagroup.com^
 ||sgtm.actionbehavior.com^
@@ -37914,7 +37920,6 @@
 ||sgtm.nascency.com^
 ||sgtm.naturadika.fr^
 ||sgtm.natureseba.com^
-||sgtm.naturobd.com^
 ||sgtm.nautica.com.au^
 ||sgtm.navina.ai^
 ||sgtm.neongrid.co.uk^
@@ -38492,6 +38497,7 @@
 ||sgtmstape.scentworld.ae^
 ||sgtmt.sound-of-peace.org^
 ||sgtmt.weiterdenken.legal^
+||sgtmttmol.theteamakers.co.uk^
 ||sgtmus.casece.com^
 ||sgtmus.newhollandce.com.br^
 ||sgtmv1.analytixlabs.co.in^
@@ -39023,6 +39029,7 @@
 ||sst.redsentry.com^
 ||sst.repalogic.com^
 ||sst.retailtechnologyshow.com^
+||sst.retrade.eu^
 ||sst.ripplimpactgear.com^
 ||sst.rwad12d11.com^
 ||sst.satisfycloud.com^
@@ -40864,7 +40871,6 @@
 ||analytics.laxamentum.tech^
 ||stats.stellar.rip^
 ||events.plutus.ninja^
-||sogu.tripster.ru^
 ||stats.dulo.
 ||analytics.watchott.org^
 ||analytics.sportera.fans^
@@ -40892,6 +40898,7 @@
 ||mcs-normal-*.capcutapi.com^
 ||tracker-proxy.getmimo.com^
 ||analytics.learndirect.com^
+||data.deschouwwitgoed.nl^
 ||metrics.nautilus2.pl^
 ||tracking.vbr.ru^
 ||stats.sailtheship.xyz^
@@ -40904,7 +40911,6 @@
 ||mpecom-analyticevents-prod.boyner.com.tr^
 ||dlso-ap96.macgamingdb.app^
 ||stats.cinevibe.asia^
-||data.ssports.com^
 ||android-beacons.xumo.com^
 ||roku-beacons.xumo.com^
 ||samsung-beacons.xumo.com^
@@ -40999,7 +41005,6 @@
 ||h5log-api-dualstack.miyoushe.com^
 ||analytics.cosmopolitanmag.com.tr^
 ||clck.edadeal.ru^
-||analytics-cdn.levante-emv.com^
 ||beehiiv-adnetwork-production.s*.amazonaws.com^
 ||logapi.sooplive.com^
 ||log-api.sooplive.com^
@@ -41135,7 +41140,6 @@ prd.api.bleacherreport.com^
 ||analytics-logger.service.junctiontv.net^
 ||analytics.saikosoft.jp^
 ||analytics-v2.wetransfer.com^
-||beacon.radiko.jp^
 ||static.runconverge.com^
 ||akn.analytics.autodesk.com^
 ||beacon.necotracks.jp^
@@ -41197,18 +41201,15 @@ prd.api.bleacherreport.com^
 ||gtm.asiakastieto.fi^
 ||gtm.careercontessa.com^
 ||gtm.clutter.com^
-||gtm.ellos.se^
 ||gtm.guitarzoom.com^
 ||gtm.humann.com^
 ||gtm.jerseyfinance.je^
-||gtm.jotex.se^
 ||gtm.kglteater.dk^
 ||gtm.kiwitaxi.com^
 ||gtm.moneybird.nl^
 ||gtm.perfectlybasics.nl^
 ||gtm.proff.se^
 ||gtm.readytec.it^
-||gtm.restplatzboerse.at^
 ||gtm.saumag.edu^
 ||gtm.vanmoof.com^
 ||gtm.wonderbly.com^
@@ -41235,7 +41236,6 @@ prd.api.bleacherreport.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
 ||hlogger.heraldcorp.com^
-||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -41294,13 +41294,13 @@ prd.api.bleacherreport.com^
 ||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
+||log1.wtlogin.qq.com^
 ||tp.content-score.com^
 ||analytics.grape.media^
 ||storelog.kode.co.kr^
 ||telemetry*.transcend.io^
 ||stats.debatdirect.tweedekamer.nl
 ||report.iciba.com^
-||analytics.lunaweb.cloud^
 ||log-lb.skyperfectv.co.jp^
 -telemetry.officeapps.live.com^
 -telemetry.officeapps.live.com.mcas.ms^
@@ -41308,7 +41308,6 @@ prd.api.bleacherreport.com^
 ||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
 ||pixel-*.rubiconproject.com^
-||stat.arzamas.academy^
 ||d1zxg9iar5y3ur.cloudfront.net^
 ||analytics.aklamio.com^
 ||d17tqr44y57o31.cloudfront.net^
@@ -41372,6 +41371,7 @@ prd.api.bleacherreport.com^
 ||tr.www.cloudflare.com^
 ||analytics.vpplayer.tech^
 ||metrics.roblox.com^
+||pixel.dmdi.pl^
 ||stats.rustica.fr^
 ||analytics.e1.ru^
 ||ipcc.vnpt.com.vn^
@@ -41481,6 +41481,7 @@ prd.api.bleacherreport.com^
 ||ca.video-cdn.net^
 ||cdn.contalyze.com^
 ||cdn.odoscope.cloud^
+||cdn-eu.usefathom.com^
 ||cdnstats-a.akamaihd.net^
 ||ce-global-track-*.amazonaws.com^
 ||check.tadapi.info^
@@ -41668,6 +41669,7 @@ prd.api.bleacherreport.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
 ||pixel.quantserve.com^
+||pixel.reddit.com^
 ||pixel.staging.tree.com^
 ||pixel.trackverify.com^
 ||pixel.wp.pl^$important
@@ -41866,6 +41868,7 @@ directtrack.*.js
 .gatracking.js
 .histats.*.js
 .hit.stat24.
+||tracker.telegram.hr^
 ||aviasales.*-analytics.
 ||dygassets.dygdigital.com^
 ||analytics.chita.ru^
@@ -41974,7 +41977,6 @@ dlsdk.appsflyer.com^
 ||logdata.hatspotlight.asia^
 ||datarangers-event.myrightone.com^
 ||stats.*.ronghub.com^
-||log.stickflow.xyz^
 ||hlog.hiido.com^
 ||stats.*.rongnav.com^
 ||log.wigoliv.work^
