@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-09-27T21:42:41.936Z
+! Last modified: 2026-09-28T21:43:04.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -49,6 +49,7 @@
 ||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
+||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
@@ -191,7 +192,7 @@
 ||fls-na.amazon.com.mx^
 ||fls-na.amazon.com^
 ||forester.a2z.com^
-||h4g3z1-native.amazon.web.app^
+||h4g3z1-native-amazon.web.app^
 ||identity.browserapps.amazon.de^
 ||imdb.amazon-adsystem.com^
 ||insights.video.a2z.com^
@@ -513,7 +514,7 @@
 ||nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru^
 ||logserver.nzxcloud.cn^
 ||logservice.vmall.com^
-||h4g3z1-native.huawei.web.app^
+||h4g3z1-native-huawei.web.app^
 ||cstat.g.aaplimg.com^
 ||diagassets.g.aaplimg.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
@@ -534,7 +535,6 @@
 ||ab.apple.com.akadns.net^
 ||diagassets-lb.apple.com.akadns.net^
 ||diagnostics.apple.com.akadns.net^
-||iadcontent-lb.apple.com.akadns.net^
 ||iadsdk.apple.com.akadns.net^
 ||idiagnostics.apple.com.akadns.net^
 ||iphonesubmissions.apple.com.akadns.net^
@@ -620,7 +620,7 @@
 ||metrics.mzstatic.com^
 ||marketing.services.apple^
 ||beacon.shazam.com^
-||h4g3z1-native.apple.web.app^
+||h4g3z1-native-apple.web.app^
 ||applemediaservices.com^
 ||qwapi.com^
 ||c-bingapis-com.dual-a-0034.a-msedge.net^
@@ -746,7 +746,6 @@
 ||sgtus1-excel-telemetry-vip.officeapps.live.com^
 ||sgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||sgtus1-word-telemetry-vip.officeapps.live.com^
-||telemetry.officeapps.live.com^
 ||tgtus1-excel-telemetry-vip.officeapps.live.com^
 ||tgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||tgtus1-word-telemetry-vip.officeapps.live.com^
@@ -963,7 +962,7 @@
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
 ||wttwebsiteprodapi-liveevents.trafficmanager.net^
 ||dc.services.visualstudio.com^
-||h4g3z1-native.winoffice.web.app^
+||h4g3z1-native-winoffice.web.app^
 ||ceuswatcab01.blob.core.windows.net^
 ||ceuswatcab02.blob.core.windows.net^
 ||eaus2watcab01.blob.core.windows.net^
@@ -994,7 +993,6 @@
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||ppm-licensingtelemetry.servicebus.windows.net^
-||prd-qlik-telemetry.servicebus.windows.net^
 ||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-eventhub-analytics.servicebus.windows.net^
 ||production-jobactivity-analytics.servicebus.windows.net^
@@ -1199,7 +1197,7 @@
 ||samsunguk.api.useinsider.com^
 ||samsungusa.api.useinsider.com^
 ||samsungvn.api.useinsider.com^
-||h4g3z1-native.samsung.web.app^
+||h4g3z1-native-samsung.web.app^
 ||moai-dev-samsung.com^
 ||qmds-dev-samsung.com^
 ||samsungacr.com^
@@ -1822,7 +1820,7 @@
 ||mcs-ie.tiktokw.eu.ttdns3.com^
 ||mcs-ie2.tiktokw.eu.ttdns3.com^
 ||ad-instantpage.tiktokv.us.ttdns4.com^
-||h4g3z1-native.tiktok.extended.web.app^
+||h4g3z1-native-tiktok-extended.web.app^
 ||traffic-media.co.uk^
 ||mistat.india.xiaomi.com.edgesuite.net^
 ||ad.intl.xiaomi.com.edgesuite.net^
@@ -1966,7 +1964,7 @@
 ||stat.miui.com^
 ||testit.miui.com^
 ||tracking.miui.com^
-||h4g3z1-native.xiaomi.web.app^
+||h4g3z1-native-xiaomi.web.app^
 ||api.ads.xiaomi.com^
 ||tracker.ai.xiaomi.com^
 ||tracker-preview.ai.xiaomi.com^
