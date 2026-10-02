@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-01T21:44:08.581Z
+! Last modified: 2026-10-02T06:06:34.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1257,6 +1257,7 @@
 ||xlog-o.byteoversea.com^
 ||xlog-va.byteoversea.com^
 ||xlog-va-useast2a.byteoversea.com^
+||frontier.us.capcut.com^
 ||log-boot.capcutapi.com^
 ||log-sg.capcutapi.com^
 ||log-v2-boot.capcutapi.com^
@@ -1298,7 +1299,9 @@
 ||tnc-va.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc16-normal-us-ttp.capcutapi.us^
+||tnc16-normal-us-ttp2.capcutapi.us^
 ||frontier.capcutw.us^
+||frontier-us-ttp2.capcutw.us^
 ||mon-i18n.tiktokv.com.dvaitas.lt^
 ||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
 ||mon16-normal-useastred.tiktokv.eu.dvaitas.lt^

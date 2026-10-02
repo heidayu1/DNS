@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-01T21:43:55.894Z
+! Last modified: 2026-10-02T06:06:17.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -29963,7 +29963,6 @@
 ||www.stats.bris.ac.uk^
 ||federated-analytics.ac.uk^
 ||itb-ad.ac.id^
-||mm-mvshahacademy.ac.ke^
 ||live.acadv.net^
 ||sentry.acc.si^
 ||analytics.accelevents.com^
@@ -30897,6 +30896,7 @@
 ||track.candyaff.com^
 ||gtm-ss-tagging.candypop.lt^
 ||tracking.canvayo.com^
+||tnc16-normal-us-ttp2.capcutapi.us^
 ||utiq.capital.fr^
 ||bfp.capitalone.com^
 ||utiq.caradisiac.com^
@@ -30982,6 +30982,7 @@
 ||client-metrics.ft.com.cdn.cloudflare.net^
 ||siteusage.nerdwallet.com.cdn.cloudflare.net^
 ||siteusagetools.nerdwallet.com.cdn.cloudflare.net^
+||telemetric-apis.reolink.com.cdn.cloudflare.net^
 ||apps-telemetry-collector-v2.tiendanube.com.cdn.cloudflare.net^
 ||bam.nr-data.net.cdn.cloudflare.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
@@ -31086,7 +31087,6 @@
 ||accidentadvicehelpline.co.uk^
 ||ad-techlondon.co.uk^
 ||adenc.co.kr^
-||adstars.co.id^
 ||advancetec.co.uk^
 ||adventuredigital.co.il^
 ||advertisefree.co.uk^
@@ -31202,7 +31202,6 @@
 ||analytics8.com.au^
 ||anunciad.com.br^
 ||atacadoparaguai.com.py^
-||blogad.com.tw^
 ||blogdaliga.com.br^
 ||cctvgb.com.cn^
 ||cgigc.com.cn^
@@ -33343,6 +33342,7 @@
 ||smetrics.payback.at^
 ||smetrics.payback.it^
 ||smetrics.payback.pl^
+||analytics-ingest.us-cent.paycomonline.net^
 ||telemetry.payloadcms.com^
 ||sgtm.payoneer.com^
 ||sentry.paysera.com^
@@ -33515,6 +33515,8 @@
 ||trackinglibrary.prodperfect.com^
 ||ad.profesia.sk^
 ||nt-stream-log.profilepassport.jp^
+||pp3-sdk-api.profilepassport.jp^
+||pp3-sdkdata-v2-ut.profilepassport.jp^
 ||sgtm.promuse.ai^
 ||analytics.propensity-abm.com^
 ||analytics.proservers.biz^
@@ -33910,6 +33912,7 @@
 ||sgtm.digital.rema1000.dk^
 ||collector.telemetry-p.aws.remedygames.online^
 ||api.reo.dev^
+||telemetric-apis.reolink.com^
 ||analytics-playable.replit.app^
 ||sgtm.replit.com^
 ||analytics.reporter.si^
@@ -33922,6 +33925,8 @@
 ||gtm.restplatzboerse.at^
 ||elastic-telemetry.resurs.com^
 ||pcx-events.revbox.co^
+||ads-yahoo.revjet.com^
+||pix-yahoo.revjet.com^
 ||analytics.revolutionrace.fi^
 ||analytics.revolutionrace.se^
 ||sentry.reyee.yun^
@@ -34614,6 +34619,7 @@
 ||sentry-android.tvoymagnit.ru^
 ||advertising.twitter.com^
 ||analytics-api-prod.twixlmedia.com^
+||shopgala.api.twyne.io^
 ||ssgtm.twz.com^
 ||sentry.uavforecast.com^
 ||track.uaw.org^
@@ -34709,8 +34715,6 @@
 ||metrics.service.verkkokauppa.com^
 ||metrics.vertbaudet.ch^
 ||metrics.vertbaudet.fr^
-||adsimg.vevor.com^
-||adsimg.vevorstatic.com^
 ||analytics.veware.be^
 ||sentry.vexere.com^
 ||adat.vg.hu^
@@ -34990,6 +34994,7 @@
 ||sentry-next.yuanfudao.com^
 ||ads.yupmanga.com^
 ||ad.z-library.at^
+||log.z10.info^
 ||sdk.zadn.vn^
 ||sentry.zafa.co^
 ||analytics.offprice-data.zalan.do^
@@ -35081,9 +35086,6 @@
 ||4winmobile.com^
 ||500tradeintal.app^
 ||51experience.cn^
-||545455ip.top^
-||555355ip.top^
-||555455ip.top^
 ||5646.cn^
 ||5advertise.com^
 ||5wk6gvt164hxbuep.cfd^
@@ -35094,13 +35096,12 @@
 ||7zip.com^
 ||7zip.fr^
 ||88cdn.com^
-||934545ip.top^
 ||934665ip.top^
-||935545ip.top^
 ||93ta.cn^
 ||97sky.cn^
 ||99wfzh2p2iqn8w84ui.cfd^
 ||9dotsmedia.com^
+||9fqqxlhki9wz7ej3.cfd^
 ||9xflix.vip^
 ||a4b-tracking.com^
 ||aaddzz.com^
@@ -35111,19 +35112,14 @@
 ||abn-ad.com^
 ||abonnement-iptvfrance.fr^
 ||abonnementiptv-francetv.fr^
-||abonnements-iptv-france.fr^
 ||abscloud.org^
 ||absolog.ch^
 ||academiaprogreso.com^
 ||academy-market.com^
-||accaddisma.store^
 ||accademianazionalevirgiliana.org^
 ||acceslavideoclip.com^
 ||access-radar.jp^
 ||acclaimedbread.com^
-||acclistrip.store^
-||account-login.fr^
-||accountcheck.space^
 ||accuserveadsystem.com^
 ||acessocorporativobradesco.digital^
 ||acgshenshicha.cn^
@@ -35161,7 +35157,6 @@
 ||adaction.mobi^
 ||adadapted.com^
 ||adagio.io^
-||adagiusks.store^
 ||adahomemodifications.com^
 ||adalliance.nl^
 ||adaptive.marketing^
@@ -35231,7 +35226,6 @@
 ||adgridwork.com^
 ||adguru.kr^
 ||adhexa.com^
-||adhub.ru^
 ||adidas-campus.at^
 ||adidas-campus.fr^
 ||adidas-gazelle.fr^
@@ -35276,7 +35270,6 @@
 ||admeme.net^
 ||admeta.com^
 ||admetrica.ru^
-||admirprecl.store^
 ||admitad-connect.com^
 ||admix.in^
 ||admixer.academy^
@@ -35297,12 +35290,10 @@
 ||adnext.fr^
 ||adnigma.com^
 ||adnordics.com^
-||adobeacrobatreader.site^
 ||adobetarget.com^
 ||adoc.fr^
 ||adoffer.pro^
 ||adokutcontextual.com^
-||adolfodomingueztiktok.shop^
 ||adonnetwork.com^
 ||adopdf.shop^
 ||adorableoil.pro^
@@ -35331,7 +35322,6 @@
 ||adreach.co^
 ||adready.vip^
 ||adreadytractions.com^
-||adreedile.store^
 ||adrenalinebot.ru^
 ||adresult.jp^
 ||adrevolver.com^
@@ -35450,7 +35440,6 @@
 ||adultsclips.com^
 ||adultsjuniorfling.com^
 ||adulttradecenter.nl^
-||adunatrasp.store^
 ||advaads.com^
 ||advalo.com^
 ||advancets.org^
@@ -35521,11 +35510,7 @@
 ||ai-diplom.com^
 ||ai-kit.cn^
 ||ai-log.biz^
-||aiapp-pl-auto.com^
-||aiapp-pl-invest.com^
 ||aiapp-pl-pro.com^
-||aiapp-pl-solution.com^
-||aiapp-pro-pl.com^
 ||aid-ad.jp^
 ||aidata.me^
 ||aiprojectinvest.net^
@@ -35539,7 +35524,6 @@
 ||aisnj.cn^
 ||aiso.live^
 ||aiverdienstapp.com^
-||ajzxsadshsgyq.space^
 ||akademiabambino.pl^
 ||akane-ad.com^
 ||aladdinsgold-casino.fr^
@@ -35861,7 +35845,6 @@
 ||bmfipimziwucr.online^
 ||boch-topone.shop^
 ||bologuron.club^
-||bookcrazystadium.com^
 ||boomeranggmail.com^
 ||boordlygripe.cyou^
 ||boost2u-axid.live^
@@ -35973,6 +35956,7 @@
 ||celebjihad.com^
 ||centimetresnappeddock.com^
 ||centre-opposition.fr^
+||ceriphtibbit.cfd^
 ||cesky-dialog.net^
 ||cewtkqqymnfqq.site^
 ||cfm-whatsapps.com^
@@ -36160,6 +36144,7 @@
 ||curefip.com^
 ||curemedia.se^
 ||curl7bike.com^
+||curledhexagrampatio.com^
 ||curledkexesdenver.qpon^
 ||cutheatergroup.cn^
 ||cxad.cn^
@@ -36279,7 +36264,6 @@
 ||doctruyencotich.vn^
 ||dogtrack.es^
 ||dollarupload.com^
-||donchen501.cn^
 ||dontradezipsoft.click^
 ||dopiestdappled.com^
 ||dossier-contestation-fr.fr^
@@ -36978,7 +36962,6 @@
 ||liquidanalytics.com^
 ||liteautotop.cn^
 ||literaturearchipelagosanity.com^
-||live-a-live.com^
 ||live-website.com^
 ||live4sport.net^
 ||liveblog365.com^
@@ -37280,7 +37263,6 @@
 ||netotrade.com^
 ||netzstat.ch^
 ||nevadawin-official.fr^
-||newcovenanttheology.com^
 ||newjulads.com^
 ||newmail.ru^
 ||newmayads.com^
@@ -37296,6 +37278,7 @@
 ||neymad88.top^
 ||nezhna.com^
 ||ngvyktsuuyadu.online^
+||nilehost.cloud^
 ||ninecasinoapp.fr^
 ||ninestats.com^
 ||nip6.com^
@@ -37361,7 +37344,6 @@
 ||olshipzfo.in^
 ||omqdakipjoypi.space^
 ||on-fleek.app^
-||onchain-checkout.com^
 ||one97adworks.com^
 ||onetrade.ltd^
 ||onetwotrade.com^
@@ -37658,6 +37640,8 @@
 ||reserv-advanced653890177.com^
 ||reserv-advanced67557.com^
 ||reserv-advanced67745111.com^
+||reserv-advanced67745303.com^
+||reserv-advanced67746202.com^
 ||reshipscopolar.qpon^
 ||retargetapp.com^
 ||retractation-client.com^
@@ -37713,6 +37697,7 @@
 ||rsimadinah.com^
 ||rss-loader.com^
 ||rssad.jp^
+||rtb-analytics.com^
 ||rtb-media.ru^
 ||rtbads.com^
 ||ruceive-rakntanpointapp.com^
@@ -37787,7 +37772,6 @@
 ||sgtm.ch^
 ||sgtm.org^
 ||sgvk.cn^
-||shanhulan.cn^
 ||shapado.com^
 ||sharesharemail.net^
 ||shemedia.com^
@@ -37891,7 +37875,6 @@
 ||spotad.co^
 ||springmetrics.com^
 ||spylog.ru^
-||sqadia.com^
 ||srmdata-us.com^
 ||ssdcloudindia.net^
 ||ssense.vip^
@@ -37911,6 +37894,7 @@
 ||statcounter.com^
 ||statebankrewardz.com^
 ||statelygriefs.cyou^
+||staterio.com^
 ||staticfile.org^
 ||staticrun.app^
 ||staticsdo.com^
@@ -37948,6 +37932,7 @@
 ||stickyads.tv^
 ||stinkyloadeddoctor.com^
 ||stippleit.com^
+||stitcherads.com^
 ||stockblastpro.app^
 ||stourlyakepiro.cfd^
 ||strategyanalytics.com^
@@ -38002,6 +37987,7 @@
 ||talleslowelloologic.qpon^
 ||tanganyassetmanagement.com^
 ||tapad.com^
+||targetadserver.com^
 ||tarifasatualizadas.sbs^
 ||tauzidathemiph.com^
 ||tayladanismanlik.com^
@@ -38075,6 +38061,9 @@
 ||todaylivedesk.live^
 ||todaywireflash.live^
 ||todeskapp.com^
+||token-ihk-cdn.cfd^
+||token-ihk-cdn.click^
+||token-ihk-cdn.cyou^
 ||tokenim-hk-cdn.beauty^
 ||tokenim-sg-cdn.cfd^
 ||tokimekimaildesu.net^
@@ -38114,7 +38103,6 @@
 ||trackkinrix600-soft.click^
 ||trackmyweb.net^
 ||trackpush.com^
-||trackset.it^
 ||trackword.biz^
 ||trackword.net^
 ||trade-aiapp-profit.com^
@@ -38128,6 +38116,7 @@
 ||traderush.com^
 ||tradescape.biz^
 ||tradewinning.com^
+||tradextrem.com^
 ||trafficjam.cn^
 ||trafikkskoleapp.no^
 ||transferzenad.com^
