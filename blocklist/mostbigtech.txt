@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-03T06:06:56.447Z
+! Last modified: 2026-10-04T06:07:17.505Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -49,7 +49,6 @@
 ||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
@@ -136,8 +135,6 @@
 ||assoc-msdk-cn.amazon-adsystem.com^
 ||assoc-msdk-eu.amazon-adsystem.com^
 ||assoc-msdk-us.amazon-adsystem.com^
-||at-beta.amazon-adsystem.com^
-||at-gamma-us-east.amazon-adsystem.com^
 ||at-us-east.amazon-adsystem.com^
 ||atfe.amazon-adsystem.com^
 ||atue.amazon-adsystem.com^
@@ -235,7 +232,6 @@
 ||metrics.us-east-1.iris.apx.amazon.dev^
 ||minerva.devices.a2z.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
-||mshopbugsnag.irm.amazon.dev^
 ||origin-s.amazon-adsystem.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
 ||paa-reporting-advertising.amazon^
@@ -532,8 +528,6 @@
 ||smoot-feedback.v.aaplimg.com^
 ||supportmetrics.v.aaplimg.com^
 ||xp.v.aaplimg.com^
-||ab.apple.com.akadns.net^
-||diagassets-lb.apple.com.akadns.net^
 ||diagnostics.apple.com.akadns.net^
 ||iadsdk.apple.com.akadns.net^
 ||idiagnostics.apple.com.akadns.net^
@@ -667,7 +661,6 @@
 ||officehub.nel.measure.office.net.cardano.com^
 ||spo.nel.measure.office.net.cardano.com^
 ||teams.nel.measure.office.net.cardano.com^
-||insights.cloud.microsoft^
 ||measure.office.net.edgesuite.net^
 ||westeurope-5.in.applicationinsights.azure.com.fiege.de^
 ||collector.azure.eaglex.ic.gov^
@@ -993,6 +986,7 @@
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||ppm-licensingtelemetry.servicebus.windows.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-eventhub-analytics.servicebus.windows.net^
 ||production-jobactivity-analytics.servicebus.windows.net^
@@ -1687,6 +1681,7 @@
 ||rtc-logger.tiktokv.us^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
+||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-va.tiktokv.com^
 ||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtlog.tiktokv.com^
