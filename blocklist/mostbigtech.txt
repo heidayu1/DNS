@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-09T16:23:26.796Z
+! Last modified: 2026-10-10T16:23:55.147Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -940,6 +940,7 @@
 ||legacywatson.trafficmanager.net^
 ||office-events-data.trafficmanager.net^
 ||oms-analytics.trafficmanager.net^
+||partnerfraudevents.trafficmanager.net^
 ||pixel-sync.trafficmanager.net^
 ||self-events-data.trafficmanager.net^
 ||ssp-prod-eastus-nonmutt.trafficmanager.net^
@@ -984,6 +985,7 @@
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||ppm-licensingtelemetry.servicebus.windows.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-eventhub-analytics.servicebus.windows.net^
 ||production-jobactivity-analytics.servicebus.windows.net^
@@ -1294,11 +1296,6 @@
 ||tnc16-normal-us-ttp2.capcutapi.us^
 ||frontier.capcutw.us^
 ||frontier-us-ttp2.capcutw.us^
-||mon-i18n.tiktokv.com.dvaitas.lt^
-||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
-||mon16-normal-useastred.tiktokv.eu.dvaitas.lt^
-||mcs-ie2.tiktokw.eu.dvaitas.lt^
-||mcs16-normal-no1a.tiktokw.eu.dvaitas.lt^
 ||analytics.tiktok.com.edgekey.net^
 ||analytics-attribution-va.tiktok.com.edgekey.net^
 ||analytics-exp-i18n.tiktok.com.edgekey.net^
@@ -1363,7 +1360,6 @@
 ||analytics16-normal-useast5.tiktokw.us.edgesuite.net^
 ||analytics16-normal-useast8.tiktokw.us.edgesuite.net^
 ||mcs.tiktokw.us.edgesuite.net^
-||mon16-normal-no1a.tiktokv.eu.numericable.fr^
 ||abtest-ch.snssdk.com^
 ||analytics.snssdk.com^
 ||applog.snssdk.com^
