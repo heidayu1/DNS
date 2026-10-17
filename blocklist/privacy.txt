@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-16T18:37:48.388Z
+! Last modified: 2026-10-17T18:38:15.521Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 43046
+! Rules count: 43032
 !
+||g.rtbrain.app^
 ||sync.adsp.io^
 ||sync.gonet-ads.com^
 ||lndrsapi.com^
@@ -3260,7 +3261,6 @@
 ||adtd.parfumdreams.at^
 ||adtd.parfumdreams.be^
 ||adtd.parfumdreams.ch^
-||adtd.parfumdreams.co.uk^
 ||adtd.parfumdreams.cz^
 ||adtd.parfumdreams.dk^
 ||adtd.parfumdreams.es^
@@ -4521,7 +4521,6 @@
 ||data.order.nespresso.com^
 ||data.order.warriors.com^
 ||data.orders.costco.ca^
-||data.outbound.luxair.lu^
 ||data.page.worldvision.ca^
 ||data.pal-dev.test.ajo.adobe.com^
 ||data.palladiumhotelgroup.dev.cjmadobe.com^
@@ -5064,7 +5063,6 @@
 ||metrics.pfzw.nl^
 ||metrics.phesgo.com^
 ||metrics.philosophy.com^
-||metrics.playitas.net^
 ||metrics.probiotaamericas.com^
 ||metrics.probiotaevent.com^
 ||metrics.probiotic-conference.net^
@@ -9632,7 +9630,6 @@
 ||smetrics.justcarinsurance.com.au^
 ||smetrics.jwpepper.com^
 ||smetrics.kadcyla.com^
-||smetrics.kalevavakuutus.fi^
 ||smetrics.kanebo-cosmetics.co.jp^
 ||smetrics.kanebo-cosmetics.jp^
 ||smetrics.kanebo-forum.net^
@@ -12296,7 +12293,6 @@
 ||wtyhd.watikiwaterpark.com^
 ||xgysy.aureumcollective.com^
 ||xhnln.radandhappy.com^
-||xnpwt.bibado.co.uk^
 ||xqqtr.joecoffeecompany.com^
 ||xqvdz.loganhollowell.com^
 ||yhjtc.aabcollection.com^
@@ -17386,7 +17382,6 @@
 ||data.nefa.dk^
 ||data.netvaerkskabel24.dk^
 ||data.netwerkkabel.nl^
-||data.neuhauschocolates.com^
 ||data.nexovauk.com^
 ||data.noibox.se^
 ||data.nomart.fi^
@@ -18122,7 +18117,6 @@
 ||gtm.les-destinations.nl^
 ||gtm.levthn.com^
 ||gtm.leyesdeljuego.es^
-||gtm.lgrworld.com^
 ||gtm.liberatigioielli.com^
 ||gtm.libici.com^
 ||gtm.lifetree.gr^
@@ -21165,7 +21159,6 @@
 ||sd.ipwsystems.dk^
 ||sdata.arevolta.pt^
 ||sdata.autossf.ro^
-||sdata.bydauto.at^
 ||sdata.dmliving.ro^
 ||sdata.oleya.ro^
 ||sdata.synergytherm.com^
@@ -21395,7 +21388,6 @@
 ||serverside.voleroshoppingonline.it^
 ||serverside.zampavet.it^
 ||serversidegtm.muffo.pl^
-||serversidetracking.adforce.ch^
 ||serversidetracking.peti-sko.dk^
 ||serverstape.labivancavalcanti.com^
 ||servertracking.oroineurosardegna.it^
@@ -21831,7 +21823,6 @@
 ||sgtm.klimadynon.se^
 ||sgtm.klimaklean.it^
 ||sgtm.knindustrie.it^
-||sgtm.kokubu.eu^
 ||sgtm.kolsasakupunkturklinikk.com^
 ||sgtm.kongernesjelling.dk^
 ||sgtm.krakowdirect.com^
@@ -24849,7 +24840,6 @@
 ||cdn.ootness.com.mx^
 ||cdn.oxalis.cz^
 ||cdn.oxo-reporting.ae^
-||cdn.pablosky.com^
 ||cdn.piazzasquareitaliano.com^
 ||cdn.planktonenergy.com^
 ||cdn.saltstone.shop^
@@ -34717,7 +34707,6 @@
 ||server.bayuthelabel.com^
 ||server.bazarhistorias.co^
 ||server.bazarhistorias.mx^
-||server.bazarhistorias.pe^
 ||server.bbsgallery.com^
 ||server.bchomedecor.com.br^
 ||server.bdallpro.com^
@@ -41805,7 +41794,6 @@ prd.api.bleacherreport.com^
 ||analytics.fap.bar^
 ||analytics-batch.blitz.gg^
 ||analytics.msk1.ru^
-||metrics.viqeo.tv^
 ||analytics-dataplane.invideo.io^
 ||analytics-api.invideo.io^
 ||analytics-v*.eip.telegraph.co.uk^
@@ -41848,7 +41836,6 @@ prd.api.bleacherreport.com^
 ||track.17goforward.com^
 ||analytics.starlink.com^
 ||d3-umami.up.railway.app^
-||metrics.svc.conholdate.cloud^
 ||mywedding-beacon.team-rec.jp^
 ||metrics.onewegg.com^
 ||a*.smlog.co.kr^
@@ -41921,7 +41908,6 @@ prd.api.bleacherreport.com^
 ||cryo.socialblade.com^
 ||event.csdn.net^
 ||olaplog.smartmediarep.com^
-||gateway.cloud.sbs.co.kr^
 ||adtracking.smartmediarep.com^
 ||log.hypebeast.com^
 ||log.bandi.so^
