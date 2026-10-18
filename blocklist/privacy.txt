@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-17T18:38:15.521Z
+! Last modified: 2026-10-18T18:38:36.173Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 43032
+! Rules count: 43012
 !
 ||g.rtbrain.app^
 ||sync.adsp.io^
@@ -26,7 +26,6 @@
 ||clickhouse-collector.*.prod.plat.agency^
 ||metrics-web.help^
 ||welovedata.go2cloud.org^
-||monitoragc.xyz^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||delivery.dighty.com^
 ||bapi-*.moengage.com^
@@ -3701,7 +3700,6 @@
 ||data.comptes.3cat.cat^
 ||data.comunicacion.bankinter.com^
 ||data.comunicacion.bankinterconsumerfinance.com^
-||data.comunicaciones.bancoentrerios.net^
 ||data.comunicaciones.bancosanjuan.net^
 ||data.comunicaciones.bancosantacruz.net^
 ||data.comunicaciones.bancosantafe.net^
@@ -5880,7 +5878,6 @@
 ||smetrics.fleetcardapplication.com^
 ||smetrics.fleetcor.com^
 ||smetrics.flex.cafe^
-||smetrics.fmdos.cl^
 ||smetrics.folksamlopension.se^
 ||smetrics.fondation.pwc.fr^
 ||smetrics.fontanelle.com^
@@ -6468,7 +6465,6 @@
 ||smetrics.prrs.com^
 ||smetrics.publicissapient.com^
 ||smetrics.publiclands.com^
-||smetrics.pudahuel.cl^
 ||smetrics.pulmonaryfibrosis360.com^
 ||smetrics.purolatornow.com^
 ||smetrics.pwc-tls.it^
@@ -10580,7 +10576,6 @@
 ||ssl.o.univadis.com^
 ||ssl.o.univadis.es^
 ||ssl.o.univadis.fr^
-||ssl.o.univadis.it^
 ||sslanalytics.sixt.at^
 ||sslanalytics.sixt.be^
 ||sslanalytics.sixt.ch^
@@ -13331,7 +13326,6 @@
 ||tr.clienti.younited-credit.it^
 ||tr.clients-mediametrie.fr^
 ||tr.clients.base-plus.fr^
-||tr.clients.boursorama.info^
 ||tr.clients.compagnie-hyperactive.com^
 ||tr.clients.europrogres.fr^
 ||tr.clients.gemy.fr^
@@ -13594,7 +13588,6 @@
 ||elqtracking.bonniernewsevents.se^
 ||elqtracking.byggindustrin.se^
 ||elqtracking.dagensmedia.se^
-||elqtracking.dagensmedicin.se^
 ||elqtracking.dagenssamhalle.se^
 ||elqtracking.dagligvarunytt.se^
 ||elqtracking.estatenyheter.no^
@@ -16501,7 +16494,6 @@
 ||track.truesource.com.br^
 ||track.tusztusz.pl^
 ||track.valca.com.ar^
-||track.victorybet.ro^
 ||track.vilanovapark.com^
 ||track.vitalitynowyp.com^
 ||track.voveron.com^
@@ -16524,7 +16516,6 @@
 ||trackrt.restovantausa.com^
 ||tsstracking.teachsundayschool.com^
 ||visit.ccbiz-track.com^
-||visit.ccnews-track.com^
 ||track.glukobestpro.net^
 |load.gtm.
 |load.sgtm.
@@ -17339,7 +17330,6 @@
 ||data.medpets.es^
 ||data.medpets.fr^
 ||data.medpets.it^
-||data.medpets.nl^
 ||data.meerminnendam.be^
 ||data.megafish.ro^
 ||data.megazap.fr^
@@ -17777,7 +17767,6 @@
 ||gtm.bricoflor.pl^
 ||gtm.bricoflor.se^
 ||gtm.briconeo.es^
-||gtm.briconeo.pt^
 ||gtm.brightmill.dk^
 ||gtm.brightmill.eu^
 ||gtm.brightmill.se^
@@ -21012,7 +21001,6 @@
 ||metrics.maag-moments.ch^
 ||metrics.mamma-mia-musical.ch^
 ||metrics.manoritualai.lt^
-||metrics.marilyn-immersive.ch^
 ||metrics.maximaitalia.com^
 ||metrics.mediplius.lt^
 ||metrics.microlease.dk^
@@ -22568,7 +22556,6 @@
 ||sst.jesusmjurado.com^
 ||sst.jurislogic.fr^
 ||sst.kaderspecialist.be^
-||sst.knipex-shop.com^
 ||sst.landaumedia.ch^
 ||sst.lead-academy.org^
 ||sst.leadpoint.fi^
@@ -24992,7 +24979,6 @@
 ||connect.darkladdy.com.br^
 ||connect.ipogenie.ai^
 ||connect.jkphillipsdigital.com^
-||connect.naturadika.es^
 ||connect.naturadika.it^
 ||connect.starelaiastrology.com^
 ||consumerpilot.nomadocare.com^
@@ -29401,7 +29387,6 @@
 ||gtm.promocentroestetico.com^
 ||gtm.promomrfib.com^
 ||gtm.prontosocorroonline.com.br^
-||gtm.proofademic.ai^
 ||gtm.proplancurso.com^
 ||gtm.propod.au^
 ||gtm.prosalab.com^
@@ -30338,7 +30323,6 @@
 ||gtm.wplugin.com.br^
 ||gtm.wpvendasonline.com.br^
 ||gtm.wsarmentoadvocacia.com^
-||gtm.wtsoftware.com.br^
 ||gtm.www.blackressignifique.com.br^
 ||gtm.www.causaemocionalraiz.com.br^
 ||gtm.www.lepetsante.com.br^
@@ -30552,7 +30536,6 @@
 ||gtmserver.lepreofficial.com.br^
 ||gtmserver.liluilu.ee^
 ||gtmserver.lineart.com.br^
-||gtmserver.lojaisaleblanc.com.br^
 ||gtmserver.lojakolorido.com.br^
 ||gtmserver.lorensgiron.com^
 ||gtmserver.lp.bernadetecardoso.com.br^
@@ -31662,7 +31645,6 @@
 ||load.gtm.itiles.ro^
 ||load.gtm.ivanorivolapavimenti.it^
 ||load.gtm.ivorywhite.id^
-||load.gtm.iwaspoisoned.com^
 ||load.gtm.jabburr.com^
 ||load.gtm.jamgolf.com^
 ||load.gtm.jarviscars.com.au^
@@ -32619,7 +32601,6 @@
 ||load.ss.beyondrestcollingwood.com.au^
 ||load.ss.beyondresthawthorn.com.au^
 ||load.ss.beyondrestmooneeponds.com.au^
-||load.ss.binnifood.com^
 ||load.ss.boardwalkcleaning.com^
 ||load.ss.boesensnowlaw.com^
 ||load.ss.bombergwatches.com^
@@ -36471,7 +36452,6 @@
 ||server.pnde.com.br^
 ||server.poch.com.br^
 ||server.polariumbroker.com^
-||server.polekemarket.com^
 ||server.polliorganicsbd.com^
 ||server.pomerania.com.br^
 ||server.ponnokunjoo.com^
