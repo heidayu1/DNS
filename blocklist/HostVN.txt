@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-23T18:40:47.210Z
+! Last modified: 2026-10-24T18:41:09.424Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -550,11 +550,7 @@
 ||adspruce.com^
 ||nr-data.net^
 ||taplytics.com^
-||api.amplitude.com^
-||api.eu.amplitude.com^
-||api.lab.amplitude.com^
-||api2.amplitude.com^
-||cdn.amplitude.com^
+||amplitude.com^
 ||voicefive.com^
 ||aerserv.com^
 ||b.logly.co.jp^
@@ -660,6 +656,10 @@
 ||appadhoc.com^
 ||batmobi.net^
 ||360in.com^
+||applog.camera360.com^
+||collect.camera360.com^
+||dispatcher.camera360.com^
+||pushmsg.camera360.com^
 ||reklamstore.com^
 ||static.addtoany.com^
 ||stats.addtoany.com^
@@ -1130,13 +1130,19 @@
 ||h-adashx.ut.taobao.com^
 ||h-adashx4ae.ut.taobao.com^
 ||abtest.alibaba.com^
+||aplus.alibaba.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
 ||fourier.alibaba.com^
 ||hydra.alibaba.com^
 ||stat.alibaba.com^
+||tdum.alibaba.com^
+||umlazada.alibaba.com^
 ||adashx.ut.alibaba.com^
 ||h-adashx.ut.alibaba.com^
+||acs-mum.alibabachengdun.com^
+||mum.alibabachengdun.com^
+||mum.alibabachengdun.net^
 ||adservice.aliexpress.com^
 ||fourier.aliexpress.com^
 ||moduleanalysis.aliexpress.com^
@@ -2774,6 +2780,18 @@
 ||file-hw-ads-o.api.leiniao.com^
 ||ssai-ads.api.leiniao.com^
 ||ssai2-ads.api.leiniao.com^
+||zhangyuyidong.cn^
+||beizi.biz^
+||apmplus.ap-southeast-1.volces.com^
+||apmplus.volces.com^
+||gator.volces.com^
+||mssdk.volces.com^
+||tab.volces.com^
+||pangolin-dsp-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
+||pglstatp-toutiao.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -4636,6 +4654,7 @@
 ||appular.com^
 ||aps.hearstnp.com^
 ||apture.com^
+||apzptquixoyr.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqauikfd.com^
 ||aquaticowl.com^
@@ -4707,6 +4726,7 @@
 ||aweprt.com^
 ||awhilediplomagloss.com^
 ||awjojjrimaf.in^
+||awqmgvpbarmhyw.com^
 ||awzbijw.com^
 ||axdsz.pro^
 ||axillovely.com^
@@ -6119,6 +6139,7 @@
 ||ij.cobolgammed.com^
 ||ik.hatcheskoeri.shop^
 ||ikahnruntx.com^
+||il.coiffesreal.qpon^
 ||ilead.itrack.it^
 ||ileeckut.com^
 ||illustriousoatmeal.com^
@@ -6358,6 +6379,7 @@
 ||late-bloomingwalluphospital.com^
 ||laughcloth.com^
 ||launchbit.com^
+||lavnkios.in^
 ||laxativestuckunclog.com^
 ||layer-ad.de^
 ||layer-ads.de^
@@ -6480,6 +6502,7 @@
 ||manage.com^
 ||mandateowl.com^
 ||manpowerspiritualunrented.com^
+||maobtqwrqrzxm.com^
 ||mapbasin.com^
 ||marasgumpus.com^
 ||marazma.com^
@@ -6504,6 +6527,7 @@
 ||matomy.com^
 ||matrimonyfeudboss.com^
 ||mattockpackall.com^
+||mauve-pinkgetawhifftime.com^
 ||mawlaybob.com^
 ||mawptuaz.com^
 ||max.i12.de^
@@ -7394,6 +7418,7 @@
 ||reluctancefleck.com^
 ||remotepwn.com^
 ||remox.com^
+||renamereptiliantrance.com^
 ||renderstreamshuttleanalytics.net^
 ||repeatsweater.com^
 ||reporo.net^
@@ -8048,6 +8073,7 @@
 ||trustlearningclearly.com^
 ||tsiwqtng8huauw30n.com^
 ||ttgmjfgldgv9ed10.com^
+||tu.bawrelcuttail.com^
 ||tubecorp.com^
 ||tubecup.net^
 ||tubemogul.com^
@@ -8131,6 +8157,7 @@
 ||urgerrebasis.com^
 ||urimnugocfr.com^
 ||urlcash.net^
+||urrfkabrkhxjat.com^
 ||us.claroadsxml.com^
 ||uselnk.com^
 ||usemax.de^
@@ -8630,9 +8657,6 @@
 ||apolloprogram.io^
 ||app-analytics-services-att.com^
 ||app-analytics-services.com^
-||applog.camera360.com^
-||appres.camera360.com^
-||arc.io^
 ||asadcdn.com^
 ||asdkd.tutuapp.com^
 ||astat.nikkei.com^
@@ -9159,6 +9183,7 @@
 ||track.wattpad.com^
 ||trackcmp.net^
 ||tracker.affirm.com^
+||tracker.arc.io^
 ||tracker.metricool.com^
 ||tracker.personizely.net^
 ||tracker.stats.in.th^
