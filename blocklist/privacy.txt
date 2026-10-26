@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-25T18:41:29.515Z
+! Last modified: 2026-10-26T18:41:54.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 44477
+! Rules count: 44443
 !
+||search-monitor.11st.co.kr^
 ||a.cdn-lab.shop^
 ||atag.adgile.media^
 ||qqcyhtl.buzz^
@@ -262,7 +263,6 @@
 ||analytics.superstructure.ai^
 ||cdn.raekdata.com^
 ||telemetrics.klaviyo.com^
-||sensors.ibreader.com^
 ||sgtm.sefamerve.com^
 ||ga-bq-py-1.appspot.com^
 ||cdn.adt567.net^
@@ -5537,7 +5537,6 @@
 ||smetrics.bankwest.com.au^
 ||smetrics.barberinilenses.com^
 ||smetrics.barkandwhiskers.com^
-||smetrics.barracuda.com^
 ||smetrics.bayer-agri.fr^
 ||smetrics.bayer.africa^
 ||smetrics.bayer.be^
@@ -6767,7 +6766,6 @@
 ||smetrics.semintra.jp^
 ||smetrics.servicechampions.net^
 ||smetrics.servisnibalicky-online.cz^
-||smetrics.shell.co.uk^
 ||smetrics.sherwoodbuickgmc.com^
 ||smetrics.sherwoodmotorcars.com^
 ||smetrics.sherwoodparkchev.com^
@@ -7499,7 +7497,6 @@
 ||collect.allianzdriveincinema.ch^
 ||collect.allianzglobalinvestors-service.ch^
 ||collect2.allianz.ch^
-||collection.saga.co.uk^
 ||cookies-adobe.kbc.be^
 ||cookies-adobe.kbc.com^
 ||cookies-adobe.kbclease.lu^
@@ -11464,7 +11461,6 @@
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||a1.api.bbc.co.uk^
 ||avocado.laprovence.com^
-||data.lelivrescolaire.fr^
 ||pa.skipass-grand-massif.com^
 ||pa.skipass-laplagne.com^
 ||pa.skipass-lesmenuires.com^
@@ -11630,7 +11626,6 @@
 ||cpazhw.kitapkoala.com^
 ||cploms.hipicon.com^
 ||cqaipi.cristaiscadoro.com^
-||cqpmvc.capital.fr^
 ||cqubdd.dailymailint.co.uk^
 ||criteo.topchaleur.com^
 ||ctydel.samsungctc.com^
@@ -12518,7 +12513,6 @@
 ||mcqby.calistatools.com^
 ||mipfl.lagos.com^
 ||mnjvh.tipperarycrystal.ie^
-||mxtzl.lemmelive.com^
 ||nhddn.cloudninehair.com^
 ||njenz.allivet.com^
 ||njpmt.hatchetheadwear.com^
@@ -16656,7 +16650,6 @@
 ||track.avatarhype.ai^
 ||track.avidlabs.ca^
 ||track.axolara.com^
-||track.bekhtir.com^
 ||track.bestseedsonline.com^
 ||track.bitcasino.io^
 ||track.burgogemme.shop^
@@ -16892,7 +16885,6 @@
 ||analytics.omnivent.com^
 ||analytics.oximo.be^
 ||analytics.papi.nl^
-||analytics.pineca.at^
 ||analytics.pineca.ie^
 ||analytics.pineca.it^
 ||analytics.pineca.nl^
@@ -20015,7 +20007,6 @@
 ||load.s.amisol.no^
 ||load.s.autoaz.at^
 ||load.s.borggalea.com^
-||load.s.bortarsasag.hu^
 ||load.s.brixon.ai^
 ||load.s.broadway.hu^
 ||load.s.cleardrive.dk^
@@ -22923,7 +22914,6 @@
 ||ssgtm.searchcompany.co.uk^
 ||ssgtm.skoncosmetics.com^
 ||ssgtm.sportfactory.hu^
-||ssgtm.swederm.pl^
 ||ssgtm.top-alati.hr^
 ||ssgtm.topodesigns.eu^
 ||ssgtm.torokbalazs.com^
@@ -23560,7 +23550,6 @@
 ||analytics.capcitypatios.com^
 ||analytics.castelliinaria.info^
 ||analytics.catstevens.com^
-||analytics.centrolilac.it^
 ||analytics.chimar.com^
 ||analytics.clac.io^
 ||analytics.cleantech.training^
@@ -24541,7 +24530,6 @@
 ||api.semijoiaszarah.com.br^
 ||api.sempararcondominio.com.br^
 ||api.servesempreloja.com^
-||api.sgp777-ads.vip^
 ||api.shadowguarddynamics.com^
 ||api.sharkbrasilstore.com.br^
 ||api.shein.litrox.com^
@@ -26436,7 +26424,6 @@
 ||drga.dubairealestate.net^
 ||drhsder4m.marinapinhasdermatologia.com.br^
 ||drupalcms-sgtm-staging.1800gotjunk.com^
-||drupalcms-sgtm.1800gotjunk.com^
 ||ds.adultshop.com.au^
 ||dsa.fxcapital3.com^
 ||dsa.olbiosmarketstechnologies.com^
@@ -27885,7 +27872,6 @@
 ||gtm.denisegerassi.com.br^
 ||gtm.denisvazios.com.br^
 ||gtm.dentalaccess.com.br^
-||gtm.denticien.nl^
 ||gtm.dentidrittizerodolore.com^
 ||gtm.dentsbrasil.com.br^
 ||gtm.denystips.com^
@@ -35024,7 +35010,6 @@
 ||newsgtm.mammamiatheparty.co.uk^
 ||next.clickvipbrasil.com^
 ||nextjscms-sgtm-staging.1800gotjunk.com^
-||nextjscms-sgtm.1800gotjunk.com^
 ||nfs.checkmycost.ca^
 ||nis.euvou.events^
 ||nkdata.noiseandkisses.com^
@@ -35179,7 +35164,6 @@
 ||realestate.palmline.ae^
 ||realestate.urbantown.ae^
 ||reduxcms-sgtm-staging.1800gotjunk.com^
-||reduxcms-sgtm.1800gotjunk.com^
 ||relay.cryptofundtrader.com^
 ||relay.radiantheatingandcooling.com.au^
 ||req.mediabuyeracademy.com^
@@ -35694,7 +35678,6 @@
 ||server.biofarmmanipulacao.com.br^
 ||server.bionera.ch^
 ||server.bioshifabd.com^
-||server.biostevi.com.br^
 ||server.biotekoha.com.br^
 ||server.biotekorganics.com^
 ||server.biozellin.com^
@@ -36770,7 +36753,6 @@
 ||server.karnivalkingdom.com^
 ||server.karolinatairovitch.com.br^
 ||server.kasaripara.com^
-||server.kashmira.com.bd^
 ||server.katchkw.com^
 ||server.katerinjoyas.es^
 ||server.kathbiraly.com^
@@ -38579,7 +38561,6 @@
 ||sgtm-staging.vitalsvault.com^
 ||sgtm-temp.qualcarreira.com^
 ||sgtm-test.padelmarket.com^
-||sgtm.1800gotjunk.com.au^
 ||sgtm.1926les-bains.com^
 ||sgtm.220-volti.ro^
 ||sgtm.24peptides.com^
@@ -38896,7 +38877,6 @@
 ||sgtm.db-parket.be^
 ||sgtm.dbvis.com^
 ||sgtm.deepfakedetector.ai^
-||sgtm.deepnote.com^
 ||sgtm.defiantdigital.com.au^
 ||sgtm.degmeda.eu^
 ||sgtm.dekayedclothing.store^
@@ -39718,7 +39698,6 @@
 ||sgtm.shipmate.jp^
 ||sgtm.shipontime.com^
 ||sgtm.shobol.com^
-||sgtm.shoebacca.com^
 ||sgtm.shomerhtz.org.il^
 ||sgtm.shop-reef.com.au^
 ||sgtm.shop.bausch.it^
@@ -39778,7 +39757,6 @@
 ||sgtm.sprouties.ae^
 ||sgtm.ssrpinstitute.org^
 ||sgtm.stadsrevisionen.dk^
-||sgtm.stampaestampe.it^
 ||sgtm.stanbarry.fr^
 ||sgtm.stanbarry.nl^
 ||sgtm.starbucks.com.cy^
@@ -40761,7 +40739,6 @@
 ||stape-gtm.beautycos.fi^
 ||stape-gtm.beautycos.no^
 ||stape-gtm.beautycos.se^
-||stape-gtm.fuyoh.my^
 ||stape-gtm.granter.biz^
 ||stape-gtm.vitalhealer.com^
 ||stape-server.becomeanecompro.com^
@@ -40885,7 +40862,6 @@
 ||stape.cotripal.com.br^
 ||stape.cristianeandradepsicologa.com.br^
 ||stape.cristiano-oliveira.com^
-||stape.cromadorpro.com^
 ||stape.cssaude.app.br^
 ||stape.cuidadoresamar.com.br^
 ||stape.cuidadospet.shop^
@@ -41071,7 +41047,6 @@
 ||stape.monitorcontabil.com.br^
 ||stape.moradademinas.com.br^
 ||stape.moradadogs.com.br^
-||stape.mosaicheadspa.hu^
 ||stape.mostradanca.com^
 ||stape.mundodadoula.com.br^
 ||stape.nailmastersacademy.com^
@@ -41475,7 +41450,6 @@
 ||tr.academiadegohighlevel.com^
 ||tr.amrsaadb.com^
 ||tr.cadcamteacher.site^
-||tr.calofay.app^
 ||tr.theamazonoperators.com^
 ||track-abroad.ostad.app^
 ||track.3natives.com^
@@ -42940,7 +42914,6 @@
 ||tips.delt.io^
 ||servt.ergadx.com^
 ||data-www-weaver.wanted.co.kr^
-||eventlog.setka.ru^
 ||stats.dulo.
 ||analytics.sportera.fans^
 ||analytics.sen.go.kr^
@@ -43221,7 +43194,6 @@ prd.api.bleacherreport.com^
 ||supportmetrics.apple.com^
 ||eldoradottfha.dataplane.rudderstack.com^
 ||analytics.castel.jp^
-||gtm.actic.se^
 ||gtm.careercontessa.com^
 ||gtm.clutter.com^
 ||gtm.guitarzoom.com^
@@ -43305,7 +43277,6 @@ prd.api.bleacherreport.com^
 ||pixel*.production-public.tubi.io^
 ||player.stats.live-video.net^
 ||medialog.smartmediarep.com^
-||analytics.bauermedia.sk^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
 ||tp.content-score.com^
@@ -43536,7 +43507,6 @@ prd.api.bleacherreport.com^
 ||deliver.oztam.com.au^
 ||delog.sooplive.com^
 ||device-metrics-us*.amazon.com^
-||discovery-script.newspic.kr^
 ||dp1fzft1fdb84.cloudfront.net^
 ||dtxtngytz5im1.cloudfront.net^
 ||e-stat.huya.com^
@@ -43657,7 +43627,6 @@ prd.api.bleacherreport.com^
 ||pixel.inforsea.com^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
-||pixel.propublica.org^
 ||pixel.quantserve.com^
 ||pixel.staging.tree.com^
 ||pixel.trackverify.com^
@@ -44137,12 +44106,10 @@ dlsdk.appsflyer.com^
 ||trackersdk.bdash-cloud.com^
 ||mapi-log.qoo*.jp^
 ||logend.cookpad.com^
-||viva.api.xiaoying.co^
 ||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||msg.umengcloud.com^
 ||ulogs.umengcloud.com^
-||analytics.liveact-vault.com^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||log.pvpgang.com^
@@ -44418,7 +44385,6 @@ dlsdk.appsflyer.com^
 ||owlreporter.com^
 ||pastoralroad.com^
 ||pawsnug.com^
-||pipsgain.com^
 ||piquantmeadow.com^
 ||pixeledhub.com^
 ||pixeltrouble.com^
