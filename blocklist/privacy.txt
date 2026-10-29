@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-10-28T18:42:39.993Z
+! Last modified: 2026-10-29T18:43:01.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 46549
+! Rules count: 46520
 !
+||apmginternational.matomo.cloud^
 ||collect.pravdastat.com^
 ||search-monitor.11st.co.kr^
 ||a.cdn-lab.shop^
@@ -997,7 +998,6 @@
 ||licensinginsights.ascap.com^
 ||life.fmservice.com^
 ||links.prax.oregonstate.edu^
-||logistics.osmworldwide.com^
 ||look-ahead.nurturemarketing.com^
 ||lp.vaultlogix.com^
 ||m.smartmatch.email^
@@ -3611,7 +3611,6 @@
 ||appleapp.istyle.mk^
 ||appleapp.istyle.om^
 ||appleapp.istyle.si^
-||appleapp.istyle.sk^
 ||appleapp.jumpplus.com^
 ||appleapp.lab9.be^
 ||appleapp.lineheart.lu^
@@ -3993,7 +3992,6 @@
 ||data.discover.humana.com^
 ||data.discover.ringcentral.com^
 ||data.dm.casio.com^
-||data.dm.casio.info^
 ||data.dnb.dev.cjmadobe.com^
 ||data.donostimasterscup.com^
 ||data.dttp-test.msccruises.com^
@@ -4626,7 +4624,6 @@
 ||data.msg.stgeorge.com.au^
 ||data.msg.wegmans.com^
 ||data.msg.westpac.com.au^
-||data.msgs.bankofmelbourne.com.au^
 ||data.msgs.banksa.com.au^
 ||data.msgs.stgeorge.com.au^
 ||data.msgs.westpac.com.au^
@@ -5680,7 +5677,6 @@
 ||smetrics.autoaccessoriesgarage.com^
 ||smetrics.baby.prevnar20.com^
 ||smetrics.bakerbrothersplumbing.com^
-||smetrics.bancoppel.com^
 ||smetrics.bank-daiwa.co.jp^
 ||smetrics.bankwest.com.au^
 ||smetrics.barberinilenses.com^
@@ -6599,12 +6595,10 @@
 ||smetrics.ngenla.com^
 ||smetrics.nhb.gov.sg^
 ||smetrics.nisbets.be^
-||smetrics.nisbets.co.nz^
 ||smetrics.nisbets.com.au^
 ||smetrics.nisbets.fr^
 ||smetrics.nisbets.ie^
 ||smetrics.nisbets.nl^
-||smetrics.nissan.be^
 ||smetrics.nissaninfinitiremarketing.com^
 ||smetrics.njoy.com^
 ||smetrics.noblehome.co.jp^
@@ -7493,7 +7487,6 @@
 ||ajo.cnxbikes.com^
 ||ajo1gdc.ajo1gdc.adobevlab.com^
 ||al-metrics.vizio.com^
-||al-smetrics.vizio.com^
 ||ametrics.finn.no^
 ||an.avast.ru^
 ||analytic.americanfunds.com^
@@ -8557,7 +8550,6 @@
 ||metrics.maxizoo.pl^
 ||metrics.mazuri.com^
 ||metrics.mbsdirect.net^
-||metrics.mcafee.com^
 ||metrics.medichanzo.com^
 ||metrics.mei.co.jp^
 ||metrics.mercola.com^
@@ -8748,7 +8740,6 @@
 ||metrics.publicstorage.com^
 ||metrics.pudahuel.cl^
 ||metrics.pulmozyme.com^
-||metrics.puma.com^
 ||metrics.purchasingpower.com^
 ||metrics.purinamills.com^
 ||metrics.q107.com^
@@ -8913,7 +8904,6 @@
 ||metrics.sony.com.pa^
 ||metrics.sony.com.ph^
 ||metrics.sony.com.sg^
-||metrics.sony.com.tr^
 ||metrics.sony.com.tw^
 ||metrics.sony.com.vn^
 ||metrics.sony.eu^
@@ -9041,7 +9031,6 @@
 ||metrics.trellix.com^
 ||metrics.trendmicro.co.jp^
 ||metrics.trendmicro.com^
-||metrics.trendyol.com^
 ||metrics.trucker.com^
 ||metrics.truffaut.com^
 ||metrics.truthinitiative.org^
@@ -9512,7 +9501,6 @@
 ||scanalytics.wral.com^
 ||scmetrics.vodafone.it^
 ||scookies-adobe.kbc.com^
-||scookies-adobe.kbcbrussels.be^
 ||scookies-adobe.kbclease.lu^
 ||scookies-adobe.kching.be^
 ||scrippscookingchannel.cookingchanneltv.com^
@@ -10353,7 +10341,6 @@
 ||smetrics.modusfinans.no^
 ||smetrics.modusfinans.se^
 ||smetrics.mojemedicina.cz^
-||smetrics.moneta.cz^
 ||smetrics.monetaauto.cz^
 ||smetrics.monetaleasing.cz^
 ||smetrics.moony.com^
@@ -10693,7 +10680,6 @@
 ||smetrics.sony.com.ph^
 ||smetrics.sony.com.sg^
 ||smetrics.sony.com.sv^
-||smetrics.sony.com.tr^
 ||smetrics.sony.com.tw^
 ||smetrics.sony.com.vn^
 ||smetrics.sony.cz^
@@ -10824,7 +10810,6 @@
 ||smetrics.trailer-bodybuilders.com^
 ||smetrics.trainsfares.co.uk^
 ||smetrics.travelchannel.com^
-||smetrics.trendyol.com^
 ||smetrics.trilliumadvantage.com^
 ||smetrics.trilliumohp.com^
 ||smetrics.trintellixhcp.com^
@@ -12012,7 +11997,6 @@
 ||gzjroa.bradsdeals.com^
 ||hauzdj.quellogiusto.it^
 ||hcdnpe.iareduceri.ro^
-||hcjpbc.radaronline.com^
 ||hcjpbc.soapoperadigest.com^
 ||hcmhqb.radpowerbikes.ca^
 ||heqomw.reporteryoung.pl^
@@ -17433,7 +17417,6 @@
 ||capi.trendiva.es^
 ||capi.tricklevents.es^
 ||capi.tucama.com^
-||capi.voyaro.co^
 ||capi.www.rigotex.swiss^
 ||capi.zadbajokredyt.pl^
 ||capi2304.el-te.com^
@@ -18345,7 +18328,6 @@
 ||graphql.rottne.com^
 ||gtg.memorized.app^
 ||gtm-scuola.edulia.it^
-||gtm-ss.jobfunders.com^
 ||gtm-ss.nordesthetics.com^
 ||gtm-stape.designbunker.eu^
 ||gtm-stape.dorsia.es^
@@ -20583,6 +20565,7 @@
 ||load.print.printaway.se^
 ||load.protecza.se^
 ||load.protein.imbypetfood.com^
+||load.pulse.bengglas.nl^
 ||load.pulse.dairyking.farm^
 ||load.pulse.duquezzi.com^
 ||load.pulse.edco.nl^
@@ -22195,7 +22178,6 @@
 ||metrics.regnodellegno.com^
 ||metrics.sanna.no^
 ||metrics.sape.hr^
-||metrics.seagale.fr^
 ||metrics.seo-audit.se^
 ||metrics.sharkreklame.dk^
 ||metrics.shoestring.nl^
@@ -22429,7 +22411,6 @@
 ||server.franveiculosbb.com.br^
 ||server.fusionarena.ch^
 ||server.get-licensed.co.uk^
-||server.glor-design.com^
 ||server.gomutuo.it^
 ||server.goodwinsmithoutlet.com^
 ||server.hagastrand.se^
@@ -22639,7 +22620,6 @@
 ||sgtm.autoalpina.it^
 ||sgtm.avidalia.com^
 ||sgtm.avon.uk.com^
-||sgtm.avorodesign.com^
 ||sgtm.awakenings.com^
 ||sgtm.babyoutlet.ee^
 ||sgtm.badstugutta.no^
@@ -23416,7 +23396,6 @@
 ||sgtm.titancontainers.ro^
 ||sgtm.titancontainers.sk^
 ||sgtm.tocoswim.com^
-||sgtm.top-car-hire.com^
 ||sgtm.topfarmacia.it^
 ||sgtm.tophemp.pl^
 ||sgtm.topserw.pl^
@@ -24256,7 +24235,6 @@
 ||ads.goodvibres.com^
 ||ads.guiadoexcel.com.br^
 ||ads.intellidoctor.ai^
-||ads.liggavc.com.br^
 ||ads.naga33capi.com^
 ||ads.net77capi.com^
 ||ads.propozzito.com^
@@ -24460,7 +24438,6 @@
 ||analytics.phonezonestore.com^
 ||analytics.pictureperfectkitchendesigns.com^
 ||analytics.pilaragueci.com^
-||analytics.plasticsurgery.org^
 ||analytics.plasticsurgerythemeeting.com^
 ||analytics.platocreative.co.nz^
 ||analytics.playplayground.com^
@@ -25426,7 +25403,6 @@
 ||api.veshvistos.com^
 ||api.vetcaresaopedro.com.br^
 ||api.viabrasilconsultoria.com.br^
-||api.viaplus.com.br^
 ||api.vidaplancorretora.com.br^
 ||api.viladamonica.com.br^
 ||api.vilaelo.com^
@@ -26243,7 +26219,6 @@
 ||collect.liorsharf.co.il^
 ||collect.livvewell.com^
 ||collect.mapp-psychology.com^
-||collect.mdlfonds.nl^
 ||collect.minimaljeweler.com^
 ||collect.mounthermon.org^
 ||collect.mounthermonadventures.com^
@@ -42069,7 +42044,6 @@
 ||sgtm.ziegel-koenig.com^
 ||sgtm.zitbranik.cz^
 ||sgtm.zlatykopecek.cz^
-||sgtm.zone-air.com^
 ||sgtm.zooexpert.it^
 ||sgtm.zuluacademy.digital^
 ||sgtm.zybe.in^
@@ -42324,7 +42298,6 @@
 ||ss.renegadebattery.com^
 ||ss.renewmeadowlake.com^
 ||ss.ripit.co^
-||ss.ripleys.com^
 ||ss.roboapply.co^
 ||ss.roboapply.jobs^
 ||ss.roogrips.com.au^
@@ -42591,7 +42564,6 @@
 ||sst.gamecheck1.com^
 ||sst.gatlinburgadventurerentals.com^
 ||sst.gereedschappro.nl^
-||sst.getadayroom.com^
 ||sst.getambassador.com^
 ||sst.getfitx.app^
 ||sst.getfurlife.com^
@@ -43908,7 +43880,6 @@
 ||tracking.antiquewellness.com^
 ||tracking.axio.marketing^
 ||tracking.b2x.bet.br^
-||tracking.backdropsource.com^
 ||tracking.bagpacxi.com^
 ||tracking.battlebornbatteries.com^
 ||tracking.beauthemusical.com^
@@ -45005,7 +44976,6 @@
 ||umami-orpin-kappa.vercel.app^
 ||umami-pink-phi.vercel.app^
 ||umami-production-2072c.up.railway.app^
-||umami-production-2ce1.up.railway.app^
 ||umami.apixen-agency.com^
 ||umami.botipedia.org^
 ||umami.cloudportal.space^
@@ -46420,6 +46390,7 @@ dlsdk.appsflyer.com^
 ||broadborder.com^
 ||broaddoor.com^
 ||buttonladybug.com^
+||cageylogic.com^
 ||catalogcake.com^
 ||cdnral.com^
 ||chademocharge.com^
@@ -46431,6 +46402,7 @@ dlsdk.appsflyer.com^
 ||cloudjumbo.com^
 ||cloudninefresh.com^
 ||colossalclouds.com^
+||crashbamboo.com^
 ||crashpandas.com^
 ||createdip.com^
 ||curlycannon.com^
@@ -46457,7 +46429,6 @@ dlsdk.appsflyer.com^
 ||golfcartlaws.com^
 ||grayreceipt.com^
 ||gripcorn.com^
-||groglog.com^
 ||guestpixel.net^
 ||gulliblegrip.com^
 ||headydegree.com^
