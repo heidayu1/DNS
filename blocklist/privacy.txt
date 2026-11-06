@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-05T18:33:24.185Z
+! Last modified: 2026-11-06T18:33:47.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 48363
+! Rules count: 48375
 !
 ||ubbrobccheck20.cc^
 ||radar.snitcher.com^
@@ -170,7 +170,6 @@
 ||events-ingestion.services.gorgias.com^
 ||cadmus.script.ac^
 ||lz-pub-ads.com^
-||log.dance^
 ||pixel.glimr.io^
 ||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
@@ -14838,6 +14837,7 @@
 ||digital.adt.com.ar^
 ||digital.adt.com.uy^
 ||eloqua-tracking.unity.com^
+||eloqua-tracking.unity3d.com^
 ||eloqua.certiport.com^
 ||eloqua.radware.com^
 ||elq-ic01.allthingsinsights.com^
@@ -15548,7 +15548,6 @@
 ||happyholidays.coniferhealth.com^
 ||healthcare.mcgladrey.com^
 ||hptechnology.arrow.com^
-||i-ready.curriculumassociates.com^
 ||ibmtechnology.arrow.com^
 ||info.arclogics.com^
 ||info.iowaeventscenter.com^
@@ -16125,7 +16124,6 @@
 ||dialogue.fr.mazda.ch^
 ||dialogue.mazda.at^
 ||dialogue.mazda.bg^
-||dialogue.mazda.ch^
 ||dialogue.mazda.co.uk^
 ||dialogue.mazda.cz^
 ||dialogue.mazda.dk^
@@ -21851,6 +21849,7 @@
 ||load.sgtm.shopgreencomfort.se^
 ||load.sgtm.signity.sk^
 ||load.sgtm.sileon.com^
+||load.sgtm.skydebaneforeningen.dk^
 ||load.sgtm.smaafilm.dk^
 ||load.sgtm.smartphoto.co.uk^
 ||load.sgtm.smartphoto.eu^
@@ -24403,6 +24402,7 @@
 ||sgtm.shop.lattebusche.com^
 ||sgtm.shop.ludusmagnusstudio.com^
 ||sgtm.shopmore24.com^
+||sgtm.shure.com^
 ||sgtm.simonevaccari.it^
 ||sgtm.sistemiconnessi.it^
 ||sgtm.sixxpaxx.com^
@@ -46738,7 +46738,6 @@
 ||stats.george1.dev^
 ||stats.getfurio.com^
 ||stats.getleadq.ru^
-||stats.golv4.com^
 ||stats.herdyfitness.com^
 ||stats.herejkova.cz^
 ||stats.himtec.es^
@@ -46846,6 +46845,7 @@
 ||config.trackingplan.com^
 ||eu-tracks.trackingplan.com^
 ||tracks.trackingplan.com^
+||metrics.elcomercio.es^
 ||ad-manager.matsukiyococokara-online.com^
 ||stat.s.ee^
 ||track.esteban.fr^
@@ -46922,8 +46922,10 @@
 ||fluffy-analytics.vercel.app^
 ||stats.renet.io^
 ||d2qxmykuaro8s3.cloudfront.net^
+||fls-na.amazon.com^
 ||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||events.gfe.nvidia.com^
+||advancedanalytics-websocket-pri-001.hexaglobe.net^
 ||htm*.hepsiburada.com^
 ||valencia-beacons.xumo.com^
 ||web.analytics.metrobyt-mobile.com^
@@ -46977,6 +46979,7 @@
 prd.api.bleacherreport.com^
 ||ingestion.webanalytics.italia.it^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
+||customerevents.dradis.netflix.com^
 ||customerevents.us-east-*.internal.dradis.netflix.com^
 ||sgtm.aziendechesifinanzianodasole.com^
 ||sgtm.comprend.com^
@@ -46989,6 +46992,7 @@ prd.api.bleacherreport.com^
 ||sgtm.tripping.com^
 ||sgtm.walbrook.ac.uk^
 ||sgtm.wimdu.
+||data.festool.pl^
 ||tagging.rodimedia.nl^
 ||event.*.shoplive.cloud^
 ||rudr-events.joybird.com^
@@ -47012,6 +47016,7 @@ prd.api.bleacherreport.com^
 ||stlog*-local.kakao.com^
 ||sofire.terabox.app^
 ||mssdk*.capcutapi.com^
+||events.attentivemobile.com^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mcs-*.lemon8-app.com^
@@ -47218,6 +47223,7 @@ prd.api.bleacherreport.com^
 ||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
 ||pixel-*.rubiconproject.com^
+||pixel.rubiconproject.com^
 ||d1zxg9iar5y3ur.cloudfront.net^
 ||d17tqr44y57o31.cloudfront.net^
 ||push.zhanzhang.baidu.com^
@@ -47269,6 +47275,7 @@ prd.api.bleacherreport.com^
 ||ab-log.datahou.se^
 ||cdn.sgmntfy.com^
 ||analytics.helpukrainewinwidget.org^
+||analytics.newscred.com^
 ||statsapi.tiendeo.com.tr^
 ||tr.www.cloudflare.com^
 ||analytics.vpplayer.tech^
@@ -47312,14 +47319,17 @@ prd.api.bleacherreport.com^
 ||analytics.bloomberg.com^
 ||analytics.carambo.la^
 ||analytics.cinematoday.jp^
+||analytics.cn.ru^
 ||analytics.codigo.se^
 ||analytics.developer.riotgames.com^
+||analytics.dpd.com^
 ||analytics.edgekey.net^
 ||analytics.electro-com.ru^
 ||analytics.faceitanalytics.com^
 ||analytics.fontanka.ru^
 ||analytics.gorillanation.com^
 ||analytics.hashnode.com^
+||analytics.histmag.org^
 ||analytics.ifood.tv^
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
@@ -47389,10 +47399,12 @@ prd.api.bleacherreport.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cnt.logoslovo.ru^
+||cnt.rambler.ru^
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect.igodigital.com^
 ||collect.usefathom.com^
+||collector-hpn.ghostery.net^
 ||collector.bunchbox.co^
 ||collector.hamsterix.
 ||collector.leaddyno.com^
@@ -47777,7 +47789,6 @@ directtrack.*.js
 ||metrics.ainews.kz^
 ||track.bazonline.ch^
 ||cm.g.doubleclick.net^
-||metrics.aviasales.ru^
 ||metrics.uol.com.br^
 ||r.msn.com^
 ||rel.msn.com^
@@ -47848,6 +47859,7 @@ dlsdk.appsflyer.com^
 ||track.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
+||sngmta.qq.com^
 ||adj.st^
 ||w.inmobi.com^
 ||pbs.inmobi.com^
