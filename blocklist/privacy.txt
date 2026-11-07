@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-06T18:33:47.535Z
+! Last modified: 2026-11-07T16:55:01.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 48375
+! Rules count: 48348
 !
 ||ubbrobccheck20.cc^
 ||radar.snitcher.com^
@@ -40,7 +40,6 @@
 ||delivery.dighty.com^
 ||bapi-*.moengage.com^
 ||cdn-*.gravityfield.ai^
-||log.ablyft.com^
 ||participants.evolv.ai^
 ||media.evolv.ai^
 ||platform.datazoom.io^
@@ -48,14 +47,12 @@
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
 ||cs.media.net^
-||gw-usa-tracker.zmaticoo.com^
 ||data.deep-content.io^
 ||protected-api.branch.io^
 ||client-sdk.hackle.io^
 ||collector-*.pxchk.net^
 ||cdn.trakkr.ai^
 ||track.trakkr.ai^
-||tracker.zmaticoo.com^
 ||data.thoughtmetric.io^
 ||beacon.coofis.com^
 ||aditude.prebid-server.com^
@@ -68,7 +65,6 @@
 ||d2g2u2795e3fzw.cloudfront.net^
 ||matomo-demo-*.amazonaws.com^
 ||analytics.metriko.app^
-||sdkapi-prod.dfinery.ai^
 ||pixel.prb-team.com^
 ||cdn.deviceinf.com^
 ||cdn.debugbear.com^
@@ -89,7 +85,6 @@
 ||sdk-log.airbridge.io^
 ||data.armexdef.uk^
 ||video-intel.pixels.ai^
-||analytics.pixels.ai^
 ||video.pixels.ai^
 ||t.adclr.jp^
 ||stat.adtec.ru^
@@ -102,12 +97,7 @@
 ||rsras-ph.cdn-fileserver.com^
 ||api.melonity.gg^
 ||analytics.pyksid.com^
-||sr-client-cfg.amplitude.com^
-||api.amplitude.com^
-||regionconfig.amplitude.com^
-||profile-api.amplitude.com^
 ||t.tnafpt.com^
-||beacon.geniee.jp^
 ||ade.googlesyndication.com^
 ||imp.datafyhq.com^
 ||analizador.dphuesca.es^
@@ -115,7 +105,6 @@
 ||adat.ingatlanbazar.hu^
 ||adat.she.life.hu^
 ||adat.metropol.hu^
-||cdn-v3.conductrics.net^
 ||analytics.adjust.com^
 ||analytics.adjust.world^
 ||watchtower.graindata.com^
@@ -128,6 +117,7 @@
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
 ||api.taboola.sve.cc^
+||identitypxl.app^
 ||events.statsigapi.net^
 ||api.taggrs.io^
 ||cdn.q0losid.com^
@@ -170,6 +160,8 @@
 ||events-ingestion.services.gorgias.com^
 ||cadmus.script.ac^
 ||lz-pub-ads.com^
+||hscollectedforms.net^
+||log.dance^
 ||pixel.glimr.io^
 ||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
@@ -206,7 +198,6 @@
 ||odtrtadl.com^
 ||dkotrack.com^
 ||log.trackingio.com^
-||iad.anm.co.uk^
 ||cdn.wgchrrammzv.com^
 ||cdn.pranmcpkx.com^
 ||cookie.codemarketing.cloud^
@@ -244,7 +235,6 @@
 ||j.mrpdata.net^
 ||cdn.rlets.com^
 ||tracker-rec.smart-bdash.com^
-||tapestry.tapad.com^
 ||events-jp.splash-screen.net^
 ||beacon.vertebrae-axis.com^
 ||analytics-coletor-site.ojc.com.br^
@@ -291,23 +281,19 @@
 ||t.adlpo.com^
 ||goo-access-analytics.appspot.com^
 ||collector-*.tvsquared.com^
-||collectorj.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||uz-analysis.akamaized.net^
 ||log.gobankingrates.com^
 ||collect.mxapis.com^
-||events.tremorhub.com^
 ||static.user-red.com^
 ||scripttags.jst.ai^
 ||s.adroll.com^
 ||script-ad.mobadme.jp^
 ||prisma-tr.prismamedia.com^
-||pandg.tapad.com^
 ||analytics.fs-bdash.com^
 ||ana.mediable.info^
 ||bc.ad.daum.net^
 ||monitor.azure.com^
-||ad-log.dable.io^
 ||tracker.digitalcamp.co.kr^
 ||tracker.adbinead.com^
 ||ac.ecai-report.com^
@@ -319,7 +305,6 @@
 ||analytic-client.playful-fairies.com^
 ||event.webcollage.net^
 ||tracker.cauly.co.kr^
-||jtracking.lulusoft.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||log002.commutil.kr^
@@ -336,7 +321,6 @@
 ||tracker.durasite.net^
 ||logs.juspay.in
 ||logs.datadoghq.eu^
-||analytics.webads.eu^
 ||tattle.api.osano.com^
 ||mpianalytics.com^
 ||tracker.plerdy.com^
@@ -374,8 +358,6 @@
 ||c2.taboola.com^
 .ay.delivery^
 ||taskapi.net^
-||rlog.popin.cc^
-||log.popin.cc^
 ||accounts-meta-events.outsideonline.com^
 ||aiqx.madameweb.movie^
 ||events-meta-events.outsideonline.com^
@@ -546,7 +528,6 @@
 ||a8clk.www.clip-studio.com^
 ||a8clk.www.solarmonitorlp.energy-itsol.com^
 ||a8clk.www.street-academy.com^
-||a8clk.xserver.ne.jp^
 ||a8clk.y-station.net^
 ||a8clkapply.mycredit.nexuscard.co.jp^
 ||a8clkcv.lognavi.com^
@@ -16140,6 +16121,7 @@
 ||dialogue.mazda.no^
 ||dialogue.mazda.pt^
 ||dialogue.mazda.ro^
+||dialogue.mazda.rs^
 ||dialogue.mazda.se^
 ||dialogue.mazda.si^
 ||dialogue.mazda.sk^
@@ -16196,6 +16178,7 @@
 ||stat.taxlive.nl^
 ||stat.taxvisions.nl^
 ||stat.vzornepravo.cz^
+||stat.wolterskluwer.com^
 ||stat.wolterskluwer.pl^
 ||tracking.epredia.com^
 ||tracking.mandg.co.uk^
@@ -16667,7 +16650,6 @@
 ||subscriptions.axa-im.com^
 ||tracking-capitalbank-jo-877029.p06.elqsandbox.com^
 ||tracking.bnpparibas.fr^
-||tracking.bnppre.fr^
 ||tracking.lesarcs-peiseyvallandry.com^
 ||tracking.ouik-serrechevalier.ski^
 ||tracking.puustelli.com^
@@ -16974,7 +16956,6 @@
 ||analytics.hr.nl^
 ||analytics.hro.nl^
 ||analytics.kuka.com^
-||analytics.webanalytics.op.europa.eu^
 ||epiphany.masterworks.digital^
 ||intranetstats.tennet.eu^
 ||logfiles.storck.com^
@@ -17475,6 +17456,7 @@
 ||webstats.bijenpatel.com^
 ||yolo.philipbjorge.com^
 ||stats.citizenos.com^
+||datafast.io^
 ||1.tracktrack.org^
 ||2.tracktrack.org^
 ||4.tracktrack.org^
@@ -20672,6 +20654,7 @@
 ||load.data.anialichos.pl^
 ||load.data.autobattery.cz^
 ||load.data.autoreset.nl^
+||load.data.barry-callebaut.com^
 ||load.data.berryswap.shop^
 ||load.data.bestofwines.com^
 ||load.data.boards-and-more.com^
@@ -21709,6 +21692,7 @@
 ||load.sgtm.alletiders-foredrag.dk^
 ||load.sgtm.arcticstore.com^
 ||load.sgtm.aroma-essences.com^
+||load.sgtm.atlas-der-gesundheit.com^
 ||load.sgtm.auroracucine.it^
 ||load.sgtm.bbi.us^
 ||load.sgtm.bedst-billigst.dk^
@@ -21743,6 +21727,8 @@
 ||load.sgtm.deutsches-gesundheits-journal.com^
 ||load.sgtm.doorless.nl^
 ||load.sgtm.dubraybooks.ie^
+||load.sgtm.earlygame.com^
+||load.sgtm.easons.com^
 ||load.sgtm.easyrental.gr^
 ||load.sgtm.echoneutra.com^
 ||load.sgtm.eibenstock.co.uk^
@@ -21918,6 +21904,7 @@
 ||load.sgtm.titancontainers.se^
 ||load.sgtm.titancontainers.si^
 ||load.sgtm.titancontainers.us^
+||load.sgtm.toolden.co.uk^
 ||load.sgtm.toppaketi.si^
 ||load.sgtm.tuneind.com^
 ||load.sgtm.tuscanydriver.net^
@@ -36192,6 +36179,7 @@
 ||load.sgtm.cphgrooming.com^
 ||load.sgtm.crealty.com.au^
 ||load.sgtm.cs.deals^
+||load.sgtm.cuddleandkind.com^
 ||load.sgtm.dailyfreshbd.com^
 ||load.sgtm.dearceo.net^
 ||load.sgtm.deepidealab.com^
@@ -46738,6 +46726,7 @@
 ||stats.george1.dev^
 ||stats.getfurio.com^
 ||stats.getleadq.ru^
+||stats.golv4.com^
 ||stats.herdyfitness.com^
 ||stats.herejkova.cz^
 ||stats.himtec.es^
@@ -46897,7 +46886,6 @@
 ||lgecokr.api.useinsider.com^
 ||pixel.udpauto.ru^
 ||datadog-log.clovergames.io
-||events1.avantisvideo.com^
 ||log-v*-boot.capcutapi.com^
 ||analytics.itbox.ua^
 ||stats.sirdata.eu^
@@ -47082,9 +47070,7 @@ prd.api.bleacherreport.com^
 ||pks-analytics.raenonx.cc^
 ||nst.trex.media^
 ||pixel.kodixauto.ru^
-||metrics.api.drift.com^
 ||targeting.api.drift.com^
-||event.api.drift.com^
 ||api.ad-platform.jmty.jp^
 ||events.tryamped.com^
 ||track.sendlane.com^
@@ -47297,6 +47283,7 @@ prd.api.bleacherreport.com^
 ||stats.coursepad.com^
 ||analytic-client.cuntempire.com^
 ||analytics.portal.gov.bd^
+||stats.tehila.gov.il^
 ||analytics.kemlu.go.id^
 ||d90z5o386dhs7.cloudfront.net^
 ||ab.blogs.es^
@@ -47320,7 +47307,6 @@ prd.api.bleacherreport.com^
 ||analytics.carambo.la^
 ||analytics.cinematoday.jp^
 ||analytics.cn.ru^
-||analytics.codigo.se^
 ||analytics.developer.riotgames.com^
 ||analytics.dpd.com^
 ||analytics.edgekey.net^
@@ -47342,7 +47328,6 @@ prd.api.bleacherreport.com^
 ||analytics.sanoma.fi^
 ||analytics.send.cm^
 ||analytics.sgnapps.com^
-||analytics.shareaholic.com^
 ||analytics.shop.hisense.com^
 ||analytics.similarweb.com^
 ||analytics.teespring.com^
@@ -47352,7 +47337,6 @@ prd.api.bleacherreport.com^
 ||analytics.tout.com^
 ||analytics.tripoto.com^
 ||analytics.us.archive.org^
-||analytics.webgains.io^
 ||analytics*.carambo.la^
 ||analytics2.tvreport.co.kr^
 ||app-analytics-*.snapchat.com^
@@ -47438,7 +47422,6 @@ prd.api.bleacherreport.com^
 ||d3s7ggfq1s6jlj.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||daq0d0aotgq0f.cloudfront.net^
-||data.mob.com^
 ||datacollect*.abtasty.com^
 ||deliver.oztam.com.au^
 ||delog.sooplive.com^
@@ -47661,7 +47644,6 @@ prd.api.bleacherreport.com^
 ||tag.datariver.ru^
 ||tcheck.outbrainimg.com^
 ||telegraf.detmir-stats.ru^
-||telemetry.jivosite.com^
 ||tl.tradetracker.net^
 ||tm.tradetracker.net^
 ||tr.datanyze.com^
@@ -47714,7 +47696,6 @@ prd.api.bleacherreport.com^
 ||tracking.chacha.com^
 ||tracking.conduit.com^
 ||tracking.eurosport.com^
-||tracking.hurlmedia.design^
 ||tracking.live.oe24.at^
 ||tracking.netdoktor.at^
 ||tracking.olx.
@@ -47789,6 +47770,7 @@ directtrack.*.js
 ||metrics.ainews.kz^
 ||track.bazonline.ch^
 ||cm.g.doubleclick.net^
+||logger.rm.uol.com.br^
 ||metrics.uol.com.br^
 ||r.msn.com^
 ||rel.msn.com^
@@ -47861,6 +47843,8 @@ dlsdk.appsflyer.com^
 ||wa.appsflyer.com^
 ||sngmta.qq.com^
 ||adj.st^
+||collector.snowplow.supercell.com^
+||metrics.li^
 ||w.inmobi.com^
 ||pbs.inmobi.com^
 ||cxlog.shinhansec.com^
@@ -47886,7 +47870,6 @@ dlsdk.appsflyer.com^
 ||report.1-1.io^
 ||logdata.hatspotlight.asia^
 ||stats.*.ronghub.com^
-||hlog.hiido.com^
 ||stats.*.rongnav.com^
 ||log.suddenclean.com^
 ||lw-c-log.lastwarapp.com^
@@ -47987,14 +47970,10 @@ dlsdk.appsflyer.com^
 ||metrics.macys.com^
 ||track.ktplay.com^
 ||collector.scopely.io^
-||payload.adadapted.com^
-||ec.adadapted.com^
 ||tracking.viewlift.com^
 ||log.bloodsugars.live^
 ||track-resource.bidease.com^
-||track-us.bidease.com^
 ||log-music-data.line-apps.com^
-||collect.analytics.unity3d.com^
 ||adx-in.ads.heytapmobile.com^
 ||trckr.contextualadv.com^
 ||logger.growstarry.com^
@@ -48002,7 +47981,6 @@ dlsdk.appsflyer.com^
 ||audid-api.taobao.com^
 ||wsmetrics.batch.com^
 ||rtlog.isnssdk.com^
-||event.togothermany.com^
 ||oldevent.togothermany.com^
 ||logs.ironsrc.mobi^
 ||events.mz.unity3d.com^
@@ -48025,8 +48003,6 @@ dlsdk.appsflyer.com^
 ||config.jpush.cn^
 ||track.extra.app^
 ||g.analytics.versa-ai.com^
-||analytics.rayjump.com^
-||analytics-ios-tcp.rayjump.com^
 ||pathfinder.analytics.komoot.net^
 ||log.geetest.com^
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
@@ -48104,8 +48080,6 @@ dlsdk.appsflyer.com^
 ||cafe-log.myshoplus.com^
 ||log.tpns.tencent.com^
 ||stats-a.maxthon.com^
-||tracking.aatkit.com^
-||reporting.aatkit.com^
 ||batsavcdn.ksmobile.net^
 ||tracking.i2w.io^
 ||a.appbaqend.com^
@@ -48149,7 +48123,6 @@ dlsdk.appsflyer.com^
 ||adserver.snapads.com^
 ||alog.umengcloud.com^
 ||analytics.ad.daum.net^
-||analytics.liftoff.io^
 ||api.analytics.omgpop.com^
 ||api.apptentive.com^
 ||api.branch.io^
@@ -48168,12 +48141,12 @@ dlsdk.appsflyer.com^
 ||metrics.adflake.com^
 ||metrics.sdkbox.com^
 ||mobileanalytics.*.amazonaws.com^
-||mobilelog.upqzfile.com^
 ||stat.duokanbox.com^
 ||taurus.iad.appboy.com^
 ||track.pingstart.com^
 ||tracking.lenzmx.com^
 ||tunein.adswizz.com^
+||ymtracking.com^
 -logsdk.kwai-pro.com^
 -ulog-*.kwai-pro.com^
 -ulog-*.kwaipros.com^
