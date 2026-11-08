@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-07T16:55:03.910Z
+! Last modified: 2026-11-08T16:55:27.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -2787,11 +2787,28 @@
 ||gator.volces.com^
 ||mssdk.volces.com^
 ||tab.volces.com^
+||pangleglobal.com^
 ||pangolin-dsp-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao1.com^
 ||pglstatp-toutiao.com^
+||analytics.brave.com^
+||collector.bsg.brave.com^
+||static.ads.brave.com^
+||stats.brave.com^
+||collector.bsg.bravesoftware.com^
+||static.ads.bravesoftware.com^
+||stats.bravesoftware.com^
+||stats.bsg.bravesoftware.com^
+||client-logs.gaijin.net^
+||client-stats.gaijin.net^
+||adx-track.bluexad.ai^
+||track.bluexad.ai^
+||bid.novvy.ai^
+||tracking.novvy.ai^
+||fraud.adjoe.zone^
+||prod.adjoe.zone^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2929,6 +2946,7 @@
 ||240.zaloapp.ads.zdn.vn^
 ||480.zaloapp.ads.zdn.vn^
 ||adtima-static.aka.zdn.vn^
+||dev-adtima-static.zdn.vn^
 ||stc-support-app-brand.zdn.vn^
 ||zaloads-480.zdn.vn^
 ||zplayer-trk.zdn.vn^
@@ -3210,6 +3228,7 @@
 ||vdacdn1.viettel.vn^
 ||vdacdn2.viettel.vn^
 ||vda.viettel.vn^
+||abc3-log.tv360.vn^
 ||log.tv360.vn^
 ||pubads-wiinvent.tv360.vn^
 ||log-collector.shopee.vn^
@@ -3221,6 +3240,8 @@
 ||global-sis.engagelab.com^
 ||webpushstat-sgp.engagelab.com^
 ||smartads.tech^
+||metrics.meta.vn^
+||tracking.meta.vn^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -3375,6 +3396,7 @@
 ||offerwall.headlines.pw^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
+||pub.skyads.com.vn^
 ||qc.5giay.vn^
 ||qc.designervn.net^
 ||qc.japo.vn^
@@ -3446,7 +3468,9 @@
 ||analytics.explus.vn^
 ||analytics.fsoft.com.vn^
 ||analytics.hebela.vn^
+||analytics.hemeratech.vn^
 ||analytics.hub-js.com^
+||analytics.hvn.works^
 ||analytics.jamstackvietnam.com^
 ||analytics.mobiedu.vn^
 ||analytics.moneycat.vn^
@@ -3528,6 +3552,8 @@
 ||log.baovanhoa.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
+||log.cand.vn^
+||log.congluan.vn^
 ||log.daibieunhandan.vn^
 ||log.daidoanket.vn^
 ||log.dav.edu.vn^
@@ -3547,6 +3573,7 @@
 ||log.nhipcaudautu.vn^
 ||log.oto.com.vn^
 ||log.plo.vn^
+||log.rada.vn^
 ||log.saigondautu.com.vn^
 ||log.sggp.org.vn^
 ||log.smoney.vn^
@@ -3665,7 +3692,6 @@
 ||tracking.fado.vn^
 ||tracking.gapone.vn^
 ||tracking.lsvn.vn^
-||tracking.meta.vn^
 ||tracking.saostar.vn^
 ||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
@@ -3674,6 +3700,7 @@
 ||tracking.vegaid.vn^
 ||tracking.vietbao.vn^
 ||tracking.viez.vn^
+||tracking.vneconomy.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^
 ||traffic.nvcms.net^
@@ -4152,6 +4179,7 @@
 ||ads.forbes.net^
 ||ads.fortunecity.com^
 ||ads.fotosidan.se^
+||ads.funmora.com^
 ||ads.gamespyid.com^
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
@@ -4989,6 +5017,7 @@
 ||brutishlylifevoicing.com^
 ||brygella.com^
 ||brynh-lei.com^
+||bspyoibtwrrc.com^
 ||bt.teparytympan.qpon^
 ||btbeacdhrdt.com^
 ||btguqecoelukltw.com^
@@ -5301,6 +5330,7 @@
 ||counter.snackly.co^
 ||counting.kmindex.ru^
 ||coupling-media.de^
+||coverdistilltile.com^
 ||coveredbetting.com^
 ||coxiesthubble.com^
 ||cpaconvtrk.net^
@@ -6471,6 +6501,7 @@
 ||lwxoothcoq.com^
 ||lyssapebble.com^
 ||lytics.io^
+||lziawdwi.in^
 ||lzjl.com^
 ||lzoazzruvkze.com^
 ||m.hue11.com^
@@ -6671,6 +6702,7 @@
 ||movve.com^
 ||mpio.io^
 ||mpstat.us^
+||mq.unthrobkeelfat.cfd^
 ||mr-rank.de^
 ||mrskincash.com^
 ||mrycibqutoz.com^
@@ -6819,6 +6851,7 @@
 ||novem.pl^
 ||novemberassimilate.com^
 ||novemberseatsuccession.com^
+||nrnanbwkwd.com^
 ||nrs6ffl9w.com^
 ||nsfwadds.com^
 ||nsfwinkuhzeo.com^
@@ -6864,6 +6897,7 @@
 ||obscenesidewalk.com^
 ||obsessfalse.com^
 ||obsoletepaddlevehicular.com^
+||obzdiqozp.in^
 ||oceanicdreamcove.com^
 ||oclasrv.com^
 ||od.stimefloccus.shop^
@@ -7015,7 +7049,6 @@
 ||paleleaf.com^
 ||pallet.fm^
 ||panclndhgcpktf.com^
-||pangle.pangleglobal.com^
 ||papaneecorche.com^
 ||papayamobile.com^
 ||papmeatidigbo.com^
@@ -7075,6 +7108,7 @@
 ||performancetrustednetwork.com^
 ||performancing.com^
 ||perigshfnon.com^
+||periodpennavigation.com^
 ||permutive.app^
 ||perryvolleyball.com^
 ||personagraph.com^
@@ -7420,6 +7454,7 @@
 ||remox.com^
 ||renamereptiliantrance.com^
 ||renderstreamshuttleanalytics.net^
+||rendingdecreasehere.com^
 ||repeatsweater.com^
 ||reporo.net^
 ||republika.onet.pl^
@@ -8112,6 +8147,7 @@
 ||udmserve.net^
 ||udzpel.com^
 ||ueikno.com^
+||ueuee.com^
 ||ufaexpert.com^
 ||ufpcdn.com^
 ||ugroocuw.net^
@@ -8178,6 +8214,7 @@
 ||uyunad.com^
 ||uz.louchefunnel.shop^
 ||v6rxv5coo5.com^
+||vabpfbbtzs.com^
 ||vacationmonday.com^
 ||vaitoasaut.net^
 ||validclick.com^
@@ -8459,6 +8496,7 @@
 ||xymhdmqrjxwl.com^
 ||y.ibsys.com^
 ||yads.c.yimg.jp^
+||yb.hoodoescopses.com^
 ||yb26b.com^
 ||ybrantdigital.com^
 ||ybs2ffs7v.com^
@@ -8593,8 +8631,10 @@
 ||analytics.avcdn.net^
 ||analytics.bitrix.info^
 ||analytics.cdn.live^
+||analytics.cherry-ai.com^
 ||analytics.clickdimensions.com^
 ||analytics.cloudron.io^
+||analytics.consolewebgear.fr^
 ||analytics.convertlanguage.com^
 ||analytics.data.visenze.com^
 ||analytics.digitaldudes.nl^
@@ -8705,6 +8745,7 @@
 ||cnzz.com^
 ||cognitivlabs.com^
 ||collect.analyse.lnearn.com^
+||collect.netshort.net^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
 ||collector.leaddyno.com^
@@ -8901,7 +8942,9 @@
 ||logger.unsplash.com^
 ||logriancesenius.com^
 ||logs.amap.com^
+||logs.dohaxe.com^
 ||logs.ironsrc.mobi^
+||logs.mosevura.com^
 ||logs.netflix.com^
 ||logs.spilgames.com^
 ||logs.supersonic.com^
@@ -9160,7 +9203,6 @@
 ||to.getnitropack.com^
 ||track-aws.notsy.io^
 ||track.56txs4.com^
-||track.bluexad.ai^
 ||track.cbdatatracker.com^
 ||track.cordial.io^
 ||track.easeus.com^
