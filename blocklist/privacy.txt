@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-08T16:55:26.634Z
+! Last modified: 2026-11-09T16:55:51.838Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 48371
+! Rules count: 48370
 !
 ||ubbrobccheck20.cc^
 ||radar.snitcher.com^
@@ -71,7 +71,6 @@
 ||sdkapi-prod.dfinery.ai^
 ||pixel.prb-team.com^
 ||cdn.deviceinf.com^
-||cdn.debugbear.com^
 ||featuregates.org^
 ||fptls3.com^
 ||stat.khanate.pro^
@@ -48107,7 +48106,6 @@ dlsdk.appsflyer.com^
 ||a.appbaqend.com^
 ||ue.flipboard.com^
 ||sdk.stats-locations.com^
-||elephantdata.net^
 ||sdks.stats-locations.com^
 ||imp.startappservice.com^
 ||analytics.any.do^
@@ -48322,6 +48320,7 @@ dlsdk.appsflyer.com^
 ||radexports.com^
 ||radiantcanopy.com^
 ||radiosfax.com^
+||rankaddict.com^
 ||readysetcard.com^
 ||refundradar.com^
 ||regexmail.com^
