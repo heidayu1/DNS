@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-19T16:59:57.969Z
+! Last modified: 2026-11-20T17:00:28.094Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-! Rules count: 48905
+! Rules count: 48907
 !
 ||stats.raiansar.com^
 ||actone.app^
@@ -55,6 +55,7 @@
 ||trackhorizon.nnmtools.com^
 ||js.pulseinsights.com^
 ||cs.media.net^
+||event-ingestion.yazio-analytics.com^
 ||gw-usa-tracker.zmaticoo.com^
 ||data.deep-content.io^
 ||protected-api.branch.io^
@@ -3500,6 +3501,7 @@
 ||adtd.parfumdreams.se^
 ||aem-analytics.nortonrosefulbright.com^
 ||aep-data.travelguard.com^
+||aep.analytics.bpi.com.ph^
 ||aialp.aia.test.ajo.adobe.com^
 ||ainu.intel.vn^
 ||ajo-data.levtech-direct.jp^
@@ -46493,7 +46495,6 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
-||stats.proxypurity.com^
 ||20251117mix.zgstongji.vip^
 ||a.bigdipperhub.com^
 ||a.biodiccionario.app^
@@ -47168,6 +47169,7 @@
 ||analytics.webfocus.fr^
 ||analytics.whatzon.today^
 ||analytics.wondara.org^
+||analytics.xwm.app^
 ||analytics.ynu.edu.cn^
 ||api.abcdn.icu^
 ||api.apm.cn^
