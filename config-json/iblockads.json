@@ -10,9 +10,7 @@
       "source": "https://iblockads.net/src/host.txt",
       "type": "hosts",
       "transformations": [
-
-        "Compress",
-        "Validate"
+        "Compress"
       ],
       "exclusions": ["localhost"]
     }

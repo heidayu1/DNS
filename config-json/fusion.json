@@ -13,8 +13,7 @@
       "exclusions": [".de^"],
       "transformations": [
         "RemoveComments",
-        "Compress",
-        "Validate"
+        "Compress"
       ]
     },
     {
@@ -25,8 +24,7 @@
       "exclusions": [".de^"],
       "transformations": [
         "RemoveComments",
-        "Compress",
-        "Validate"
+        "Compress"
       ]
     }
   ],
