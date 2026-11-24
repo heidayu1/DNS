@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-23T18:24:21.105Z
+! Last modified: 2026-11-24T18:24:58.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
-! Rules count: 49669
+! Rules count: 49667
 !
 ||api.rudderstack.com^
 ||stats.raiansar.com^
@@ -26,7 +26,6 @@
 ||search-monitor.11st.co.kr^
 ||a.cdn-lab.shop^
 ||stats.curd.io^
-||ptrack.xyz^
 ||atag.adgile.media^
 ||qqcyhtl.buzz^
 ||shidazuqiuappwangzhan.com^
@@ -86,6 +85,7 @@
 ||stat.khanate.pro^
 ||ssp.api.tappx.com^
 ||monitor-api.blackcrow.ai^
+||assets.publicgood.com^
 ||openstats.co^
 ||collect.adplogger.no^
 ||track.tel1mekar.com^
@@ -8234,6 +8234,7 @@
 ||hol7.ma1.techvaladobe.com^
 ||hqmetrics.sony.com^
 ||hubmetric.samsclub.com^
+||img.bwin.be.cdn.cloudflare.net^
 ||infosysutility.infosysjo.adobesandbox.com^
 ||landing.madridista-free.realmadrid.com^
 ||landingpage.emaillpb.adobe.com^
@@ -12415,6 +12416,7 @@
 ||collect.meilleurtaux.com^
 ||dadi.gandi.net^
 ||data.lelivrescolaire.fr^
+||pa.centrefrance.com.cdn.cloudflare.net^
 ||pa.skipass-grand-massif.com^
 ||pa.skipass-laplagne.com^
 ||pa.skipass-lesmenuires.com^
@@ -12568,6 +12570,7 @@
 ||bbybqq.levi.co.id^
 ||bdzcck.stadiumgoods.com^
 ||benytv.nomadeshop.com^
+||beyolp.pebmed.com.br.cdn.cloudflare.net^
 ||bfvlgp.appstory.co.kr^
 ||bhxemw.charleskeith.com^
 ||bilmnu.trouver-un-logement-neuf.com^
@@ -14076,6 +14079,7 @@
 ||analytics.law.sanipueblo.org^
 ||analytics.law.tmchippewa.com^
 ||analytics.leespace.co^
+||analytics.open.law^
 ||analytics.openlawlib.org^
 ||analytics.popov.link^
 ||analytics.regs.maryland.gov^
@@ -26069,6 +26073,7 @@
 ||analytics.palazzinacreativa.it^
 ||analytics.pasquato.com^
 ||analytics.patriot-defender.com^
+||analytics.paulsmith.com^
 ||analytics.performanse.com^
 ||analytics.perfumehouse.sa^
 ||analytics.perfumestime.sa^
@@ -47137,6 +47142,8 @@
 ||utiq.lechorepublicain.fr.cdn.cloudflare.net^
 ||utiq.lejdc.fr.cdn.cloudflare.net^
 ||utiq.lepopulaire.fr.cdn.cloudflare.net^
+||utiq.leveil.fr.cdn.cloudflare.net^
+||utiq.lyonne.fr.cdn.cloudflare.net^
 ||utiq.madmoizelle.com^
 ||utiq.mappyrecette.com^
 ||utiq.mejorconectados.com^
@@ -47438,7 +47445,6 @@
 ||events.nemahealth.com^
 ||events.stocks.help^
 ||fourlytics.foureyes.financial^
-||gtm.guidde.com^
 ||hedge.jymbro.app^
 ||hit.stats.futurio.us^
 ||i.go-gnocchi.app^
@@ -47778,7 +47784,6 @@
 ||ncc.avast.com^
 ||ipm-provider.ff.avast.com^
 ||api-node.corvexa.cloud^
-||stats.spidersense.xyz^
 ||analytics.dulo.
 ||bigdata.downza.com^
 ||zenstats.yzhy19.cn^
@@ -47797,7 +47802,6 @@
 ||analytics.rockai.top^
 ||analytics.scprimeimoveis.com.br^
 ||analytics.start-fds.jp^
-||analytics.write.as^
 ||b.tryknowmad.com^
 ||data.sozo24.co.uk^
 ||g.racingday.app^
@@ -47809,7 +47813,6 @@
 ||metrics.kiba.tools^
 ||proxy.adiktaty.sk^
 ||sgtm.sheahomes.com^
-||stats.admk.com^
 ||stats.berkay.tools^
 ||stats.bravecreativestud.io^
 ||stats.deadliftgame.com^
@@ -48045,7 +48048,6 @@
 ||stats.jeffyclassify.com^
 ||stats.kandalore.pl^
 ||stats.kemperiautojokodeksas.lt^
-||stats.kwvprfcr.xyz^
 ||stats.leybeckham.eu^
 ||stats.louiegayao.ph^
 ||stats.luckx.dev^
@@ -48150,13 +48152,11 @@
 ||tips.delt.io^
 ||servt.ergadx.com^
 ||data-www-weaver.wanted.co.kr^
-||stats.stellar.rip^
 ||analytics.watchott.org^
 ||analytics.sportera.fans^
 ||analytics.sen.go.kr^
 ||beacon.errorception.com^
 ||analytics.netronline.dev^
-||analytics.streamvaultsrc.click^
 ||console-telemetry.oci.oraclecloud.com^
 ||stats.jerkmotion.com^
 ||api.analytics.dobrosvyaz.com^
@@ -48526,7 +48526,6 @@ prd.api.bleacherreport.com^
 ||collect.rtl.lu^
 ||tracker.hdtvcloud.com^
 ||analytics.slidesai.io^
-||idat.production.ippen.space^
 ||pixel.archive.
 ||events.webdock.io^
 ||zc.adswizz.com^
@@ -49184,7 +49183,6 @@ dlsdk.appsflyer.com^
 ||jdlog.uu.cc^
 ||dlog-config.uu.cc^
 ||ms-report.uu.cc^
-||log.hiapkdownload.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||prebid-server-canary.ifunny.co^
 ||log.oceanzz.xyz^
@@ -49646,7 +49644,6 @@ dlsdk.appsflyer.com^
 ||squidlogic.com^
 ||stadiumzoo.net^
 ||stakeschips.com^
-||staradmiral.com^
 ||starwinmedia.com^
 ||statshunt.com^
 ||statuesqueship.com^
@@ -49671,6 +49668,7 @@ dlsdk.appsflyer.com^
 ||verbacademy.com^
 ||vividmeadow.com^
 ||voyagemonitoring.com^
+||watchbighead.com^
 ||wellgroomedapparel.com^
 ||whimsygadget.com^
 ||wikichronology.com^
