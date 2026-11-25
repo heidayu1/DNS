@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-24T18:24:58.792Z
+! Last modified: 2026-11-25T13:32:15.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
-! Rules count: 49667
+! Rules count: 49668
 !
 ||api.rudderstack.com^
 ||stats.raiansar.com^
@@ -25,11 +25,12 @@
 ||collect.pravdastat.com^
 ||search-monitor.11st.co.kr^
 ||a.cdn-lab.shop^
-||stats.curd.io^
 ||atag.adgile.media^
 ||qqcyhtl.buzz^
 ||shidazuqiuappwangzhan.com^
 ||g.rtbrain.app^
+||track.did.kr^
+||analytics.did.kr^
 ||sync.adsp.io^
 ||sync.gonet-ads.com^
 ||lndrsapi.com^
@@ -48242,7 +48243,6 @@
 ||mon*.tiktokv.us^
 ||fpt.commerce.adobe.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
-||analytics.pesktop.com^
 ||analytics.streamingworld.xyz^
 ||stats.bouyguestelecom.fr^
 ||analytics.azrhymes.com^
@@ -49644,6 +49644,7 @@ dlsdk.appsflyer.com^
 ||squidlogic.com^
 ||stadiumzoo.net^
 ||stakeschips.com^
+||staradmiral.com^
 ||starwinmedia.com^
 ||statshunt.com^
 ||statuesqueship.com^
@@ -49653,6 +49654,7 @@ dlsdk.appsflyer.com^
 ||sunsetstatic.com^
 ||surfacesmedia.com^
 ||swipechief.com^
+||tableheads.com^
 ||tasselapp.com^
 ||telephoneapparatus.com^
 ||testadmiral.com^
@@ -49668,7 +49670,6 @@ dlsdk.appsflyer.com^
 ||verbacademy.com^
 ||vividmeadow.com^
 ||voyagemonitoring.com^
-||watchbighead.com^
 ||wellgroomedapparel.com^
 ||whimsygadget.com^
 ||wikichronology.com^
