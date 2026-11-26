@@ -4,12 +4,13 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-25T13:32:15.933Z
+! Last modified: 2026-11-26T13:32:53.719Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
-! Rules count: 49668
+! Rules count: 49682
 !
+||download.gameanalytics.com^
 ||api.rudderstack.com^
 ||stats.raiansar.com^
 ||actone.app^
@@ -25,6 +26,8 @@
 ||collect.pravdastat.com^
 ||search-monitor.11st.co.kr^
 ||a.cdn-lab.shop^
+||stats.curd.io^
+||ptrack.xyz^
 ||atag.adgile.media^
 ||qqcyhtl.buzz^
 ||shidazuqiuappwangzhan.com^
@@ -47257,6 +47260,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||telemetry.*.oci.oraclecloud.com^
 ||20251117mix.zgstongji.vip^
 ||a.bigdipperhub.com^
 ||a.biodiccionario.app^
@@ -47288,6 +47292,7 @@
 ||analytics.clivemeindl.com^
 ||analytics.codealpha.io^
 ||analytics.coolsite.cc^
+||analytics.cowsandbytes.com^
 ||analytics.crayoncubby.com^
 ||analytics.cronon.net^
 ||analytics.crosslinedigital.com^
@@ -47785,6 +47790,7 @@
 ||ncc.avast.com^
 ||ipm-provider.ff.avast.com^
 ||api-node.corvexa.cloud^
+||stats.spidersense.xyz^
 ||analytics.dulo.
 ||bigdata.downza.com^
 ||zenstats.yzhy19.cn^
@@ -47803,6 +47809,7 @@
 ||analytics.rockai.top^
 ||analytics.scprimeimoveis.com.br^
 ||analytics.start-fds.jp^
+||analytics.write.as^
 ||b.tryknowmad.com^
 ||data.sozo24.co.uk^
 ||g.racingday.app^
@@ -47814,6 +47821,7 @@
 ||metrics.kiba.tools^
 ||proxy.adiktaty.sk^
 ||sgtm.sheahomes.com^
+||stats.admk.com^
 ||stats.berkay.tools^
 ||stats.bravecreativestud.io^
 ||stats.deadliftgame.com^
@@ -48049,6 +48057,7 @@
 ||stats.jeffyclassify.com^
 ||stats.kandalore.pl^
 ||stats.kemperiautojokodeksas.lt^
+||stats.kwvprfcr.xyz^
 ||stats.leybeckham.eu^
 ||stats.louiegayao.ph^
 ||stats.luckx.dev^
@@ -48153,6 +48162,7 @@
 ||tips.delt.io^
 ||servt.ergadx.com^
 ||data-www-weaver.wanted.co.kr^
+||stats.stellar.rip^
 ||analytics.watchott.org^
 ||analytics.sportera.fans^
 ||analytics.sen.go.kr^
@@ -48243,6 +48253,7 @@
 ||mon*.tiktokv.us^
 ||fpt.commerce.adobe.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
+||analytics.pesktop.com^
 ||analytics.streamingworld.xyz^
 ||stats.bouyguestelecom.fr^
 ||analytics.azrhymes.com^
@@ -48457,6 +48468,7 @@ prd.api.bleacherreport.com^
 ||analytics.netkeiba.com^
 ||stats.totalav.com^
 ||analytics.gamesdrive.net^
+||stat.ntv.ru^
 ||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||c.statcounter.com^
@@ -48526,6 +48538,7 @@ prd.api.bleacherreport.com^
 ||collect.rtl.lu^
 ||tracker.hdtvcloud.com^
 ||analytics.slidesai.io^
+||idat.production.ippen.space^
 ||pixel.archive.
 ||events.webdock.io^
 ||zc.adswizz.com^
@@ -49183,6 +49196,7 @@ dlsdk.appsflyer.com^
 ||jdlog.uu.cc^
 ||dlog-config.uu.cc^
 ||ms-report.uu.cc^
+||log.hiapkdownload.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||prebid-server-canary.ifunny.co^
 ||log.oceanzz.xyz^
