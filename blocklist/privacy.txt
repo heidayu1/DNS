@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-26T13:32:53.719Z
+! Last modified: 2026-11-27T13:33:22.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
-! Rules count: 49682
+! Rules count: 49683
 !
 ||download.gameanalytics.com^
 ||api.rudderstack.com^
@@ -182,7 +182,6 @@
 ||app.ardalio.com^
 ||events-ingestion.services.gorgias.com^
 ||cadmus.script.ac^
-||lz-pub-ads.com^
 ||pixel.glimr.io^
 ||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
@@ -47260,6 +47259,7 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||ap-prd-edge-clientlog.nexon.com^
 ||telemetry.*.oci.oraclecloud.com^
 ||20251117mix.zgstongji.vip^
 ||a.bigdipperhub.com^
@@ -47859,7 +47859,6 @@
 ||analytics.aaiserv.com^
 ||analytics.aksalsoftware.pl^
 ||analytics.alexandrednzcorretor.com.br^
-||analytics.alvinchang.dev^
 ||analytics.arestaclimb.com^
 ||analytics.ashur-notary.com^
 ||analytics.atavus.cz^
@@ -48168,6 +48167,7 @@
 ||analytics.sen.go.kr^
 ||beacon.errorception.com^
 ||analytics.netronline.dev^
+||analytics.streamvaultsrc.click^
 ||console-telemetry.oci.oraclecloud.com^
 ||stats.jerkmotion.com^
 ||api.analytics.dobrosvyaz.com^
@@ -49684,6 +49684,7 @@ dlsdk.appsflyer.com^
 ||verbacademy.com^
 ||vividmeadow.com^
 ||voyagemonitoring.com^
+||watchbighead.com^
 ||wellgroomedapparel.com^
 ||whimsygadget.com^
 ||wikichronology.com^
