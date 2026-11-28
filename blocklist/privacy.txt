@@ -4,11 +4,11 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-27T13:33:22.257Z
+! Last modified: 2026-11-28T13:33:50.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
-! Rules count: 49683
+! Rules count: 49686
 !
 ||download.gameanalytics.com^
 ||api.rudderstack.com^
@@ -182,6 +182,7 @@
 ||app.ardalio.com^
 ||events-ingestion.services.gorgias.com^
 ||cadmus.script.ac^
+||lz-pub-ads.com^
 ||pixel.glimr.io^
 ||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
@@ -47259,6 +47260,9 @@
 ||tk.assurlandpro.com^
 ||tk.boutique.capital.fr^
 ||tk.illicado.com^
+||telemetry.*.oraclecloud.com^
+||events.*.oci.oraclecloud.com^
+||logging.*.oci.oraclecloud.com^
 ||ap-prd-edge-clientlog.nexon.com^
 ||telemetry.*.oci.oraclecloud.com^
 ||20251117mix.zgstongji.vip^
@@ -48604,7 +48608,6 @@ prd.api.bleacherreport.com^
 ||stats.coursepad.com^
 ||analytic-client.cuntempire.com^
 ||analytics.portal.gov.bd^
-||stats.tehila.gov.il^
 ||analytics.kemlu.go.id^
 ||d90z5o386dhs7.cloudfront.net^
 ||ab.blogs.es^

@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/heidayu1/DNS
 ! License: GPLv3
-! Last modified: 2026-11-27T13:33:25.163Z
+! Last modified: 2026-11-28T13:33:53.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -156,6 +156,7 @@
 ||sponsored-ads-eu.amazon.pl^
 ||sponsored-ads-eu.amazon.sa^
 ||sponsored-ads-eu.amazon.se^
+||sponsored-ads-eu.jobs.amazon.co.za^
 ||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
@@ -348,7 +349,6 @@
 ||nsp-logservice-weardevice-p42-drcn.obs.cn-north-2.myhuaweicloud.com^
 ||nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com^
 ||nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru^
-||logserver.nzxcloud.cn^
 ||hihonor.api.useinsider.com^
 ||logservice.vmall.com^
 ||h4g3z1-native-huawei.web.app^
@@ -363,7 +363,6 @@
 ||prod-event-relay-sports-api.v.aaplimg.com^
 ||prod-event-relay-stocks-api.v.aaplimg.com^
 ||prod-event-relay-weather-api.v.aaplimg.com^
-||prod-event-relay-web-api.v.aaplimg.com^
 ||prod-iwork-events.v.aaplimg.com^
 ||prod-news-notification-events.v.aaplimg.com^
 ||securemetrics.v.aaplimg.com^
@@ -431,12 +430,7 @@
 ||xp.apple.com^
 ||xp-cdn.apple.com^
 ||feedbackws.fe.apple-dns.cn^
-||feedbackws.fe.apple-dns.net^
 ||feedbackws.fe2.apple-dns.net^
-||books-analytics-events.news.apple-dns.net^
-||notes-analytics-events.news.apple-dns.net^
-||stocks-analytics-events.news.apple-dns.net^
-||weather-analytics-events.news.apple-dns.net^
 ||me.apple-dns.net^
 ||cstat.cdn-apple.com^
 ||securemetrics.apple.com.cn^
@@ -494,7 +488,21 @@
 ||g.bing.com^
 ||raka.bing.com^
 ||c.bingapis.com^
+||ecs.nel.measure.office.net.grt.edf.fr^
+||ecs.nel.measure.office.net.edf.fr^
 ||measure.office.net.edgesuite.net^
+||js.monitor.azure.com.homeonair.net^
+||c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net^
+||config.fp.measure.office.com.homeonair.net^
+||upload.fp.measure.office.com.homeonair.net^
+||upload2.fp.measure.office.com.homeonair.net^
+||ecs.nel.measure.office.net.homeonair.net^
+||excelonline.nel.measure.office.net.homeonair.net^
+||exo.nel.measure.office.net.homeonair.net^
+||m365cdn.nel.measure.office.net.homeonair.net^
+||onenoteonline.nel.measure.office.net.homeonair.net^
+||spo.nel.measure.office.net.homeonair.net^
+||teams.nel.measure.office.net.homeonair.net^
 ||auc-visio-telemetry.officeapps.live.com^
 ||brc-visio-telemetry.officeapps.live.com^
 ||cac-visio-telemetry.officeapps.live.com^
@@ -519,7 +527,8 @@
 ||noc-visio-telemetry.officeapps.live.com^
 ||pgtbr1-excel-telemetry-vip.officeapps.live.com^
 ||pgtbr2-excel-telemetry-vip.officeapps.live.com^
-||pgtca1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtbr2-word-telemetry-vip.officeapps.live.com^
+||pgtca1-excel-telemetry-vip.officeapps.live.com^
 ||pgteu1-excel-telemetry-vip.officeapps.live.com^
 ||pgteu1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu1-word-telemetry-vip.officeapps.live.com^
@@ -533,8 +542,9 @@
 ||pgteu4-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu4-word-telemetry-vip.officeapps.live.com^
 ||pgteu5-excel-telemetry-vip.officeapps.live.com^
+||pgteu5-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu5-word-telemetry-vip.officeapps.live.com^
-||pgtmx1-excel-telemetry-vip.officeapps.live.com^
+||pgtsg1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus1-excel-telemetry-vip.officeapps.live.com^
 ||pgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus1-word-telemetry-vip.officeapps.live.com^
@@ -680,7 +690,6 @@
 ||c.cl.msn.com^
 ||events.data.msn.cn^
 ||events.data.msn.com^
-||events-sandbox.data.msn.cn^
 ||events-sandbox.data.msn.com^
 ||c.de.msn.com^
 ||c.dk.msn.com^
@@ -752,6 +761,7 @@
 ||toolbar.msn.com^
 ||udc.msn.com^
 ||zmetrics.msn.com^
+||adsyndication.msn.com.nsatc.net^
 ||diagnostics.office.com^
 ||diagnostics-eudb.office.com^
 ||measure.office.com^
@@ -790,7 +800,6 @@
 ||ir-tracking.trafficmanager.net^
 ||irreverselookuptm.trafficmanager.net^
 ||ism-telemetry.trafficmanager.net^
-||keyniusprod-events.trafficmanager.net^
 ||legacywatson.trafficmanager.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||office-events-data.trafficmanager.net^
@@ -804,6 +813,7 @@
 ||telemetry-lcp.trafficmanager.net^
 ||tm-analytics-pr.trafficmanager.net^
 ||tm-enrollment-telemetry-datacore.trafficmanager.net^
+||us-mesh-events-data-leafs.trafficmanager.net^
 ||vstelemetry.trafficmanager.net^
 ||watsoncab.trafficmanager.net^
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
@@ -833,12 +843,12 @@
 ||citrixtelemetryeh-alias.servicebus.windows.net^
 ||citrixtelemetryeheu.servicebus.windows.net^
 ||citrixtelemetryeheu-alias.servicebus.windows.net^
+||hme-live-loganalytics-namespace.servicebus.windows.net^
 ||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||kg-legacy-analytics.servicebus.windows.net^
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^
 ||prd-qlik-telemetry.servicebus.windows.net^
-||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-eventhub-analytics.servicebus.windows.net^
 ||production-jobactivity-analytics.servicebus.windows.net^
 ||rawtelemetry-east.servicebus.windows.net^
@@ -1047,7 +1057,6 @@
 ||moai-dev-samsung.com^
 ||qmds-dev-samsung.com^
 ||samsungacr.com^
-||samsungadhub.com^
 ||samsungads.com^
 ||samsungallstore.com^
 ||samsungr.com^
@@ -1330,6 +1339,7 @@
 ||log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com^
 ||log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com^
 ||tiktok-perf.mncdn.com^
+||rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de^
 ||abtest-ch.snssdk.com^
 ||analytics.snssdk.com^
 ||applog.snssdk.com^
@@ -1366,6 +1376,7 @@
 ||vas-hl-x.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||xlog.snssdk.com^
+||mon16-normal-alisg.tiktokv.com.www.sterenwifi.com^
 ||ads.in.tiktok.com^
 ||ads.us.tiktok.com^
 ||ads-ttp2.us.tiktok.com^
@@ -1402,6 +1413,7 @@
 ||analytics16-normal-alisg.tiktok.com^
 ||business-api.tiktok.com^
 ||location.tiktok.com^
+||location-i18n.tiktok.com^
 ||mcs-i18n.tiktok.com^
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktok.com^
@@ -2089,6 +2101,7 @@
 ||mistat.intl.xiaomi.com.ksyna.net^
 ||mistat.rus.xiaomi.com.ksyna.net^
 ||ad.intl.xiaomi.com.mgslb.com^
+||ad.xiaomi.com.mgslb.com^
 ||mistat.xiaomi.com.mgslb.com^
 ||video.kts.g.mi.com^
 ||d.g.mi.com^
